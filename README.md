@@ -8,6 +8,7 @@ Creating new datasets for table-to-text task from Wikipedia pages.
 - Configurable data collection parameters
 
 ## Comming Soon
+- Do not forget to set up the Airflow correctly!
 - more tests of the code
 - saving config file for each run
 - setting own category counts
@@ -24,5 +25,6 @@ Install dependencies:
 Then just don't forget to set up the `config.yaml`, at least your email.
 And Airflow if you run the DAG...
 
-## Poster at Machine Learning Prague 2025
-![Poster](MLPrague.png)
+## Poster %% at Machine Learning Prague 2025 %%
+- in the publications folder
+- do not look there if this should be anonymized for you
