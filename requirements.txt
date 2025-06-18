@@ -1,0 +1,6 @@
+pandas
+pyyaml
+apache-airflow
+pytest
+pytest-cov
+bs4
