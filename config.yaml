@@ -2,7 +2,7 @@ bot_email: "your-email@example.com"  # Email for header of bot - querying wikida
 
 # Input/Output paths
 output_dir: "data/test"  # Name of the output files folder.
-load_data: ture
+load_data: true
 random_seed: 42  # Random seed for reproducibility.
 
 # logical operations that will be assigned to the tables
@@ -43,7 +43,9 @@ min_timeframe_years: 10
 # Processing options
 quick_mode: 3  # Does not retrieve everything, cuts the long-tail categories with not many entities
 no_people: false  # Will not retrieve people&lists as getting creation date for each page takes forever.
-num_pages: 10  # Chooses only a given number of pages (one table from each) with diversity in mind.
+num_pages: 0  # Chooses only a given number of pages (one table from each) with diversity in mind.
+custom_distribution: {"culture": 11, "mix": 13, "politics": 3, "sport": 73}  # Custom distribution of categories.
+# this is same as LoTNLG 100 tables distribution
 
 # List of CSV IDs to exclude - if needed
 excluded_csv_ids:

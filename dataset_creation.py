@@ -491,20 +491,21 @@ def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests
     Creates a new dataset by querying for new entities in each category,
     getting their Wikipedia page and good enough tables from it.
 
-    config: Configuration dictionary
+    cnfg: Configuration dictionary
     data: Optional existing dataset to update
     Returns: Tuple of (new dataset dictionary, category counter)
     """
 
     new_tables, top_cats = data or {}, {}
     index = int(max([str(key) for key in new_tables.keys()])) if new_tables else 0
-    all_quids_found = {value['QID'] for value in new_tables.values()}
+    all_quids_found = {table['QID'] for table in new_tables.values() if 'QID' in table} 
     end_date = datetime.now().date()
 
     if cnfg['load_data']:
-        top_cats = [value['category'].split(' | ')[0] for value in new_tables.values()]
-        people_cat = any([True for value in new_tables.values() if 'people' in value['category']])
-        subcategories = Counter(value['category'] for value in data.values())
+        top_cats = [table['category'].split(' | ')[0] for table in new_tables.values() if 'category' in table]
+        people_cat = any([True for table in new_tables.values() 
+                          if 'category' in table and 'people' in table['category']])
+        subcategories = Counter(table['category'] for table in data.values() if 'category' in table)
     else:
         subcategories, people_cat = {}, False
 
@@ -543,7 +544,7 @@ def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests
         new_tables.update(wikilist_tables)
         logger.info(f'Updated to {len(wikilist_tables)} tables for category mix | wikilists.')
 
-    if not cnfg['load_dat'] or (cnfg['load_data'] and not people_cat):
+    if not cnfg['load_data'] or (cnfg['load_data'] and not people_cat):
         people_tables, index = get_no_start_entities(cnfg, cnfg['people_limit'], index, 'people')  # Q5
         save_json(people_tables, f'{cnfg["output_dir"]}/people.json')
         new_tables.update(people_tables)
@@ -610,7 +611,7 @@ def filter_tables(dataset: dict, cnfg) -> [dict, Counter]:
 
     # Add labels to the tables
     logger.info(f'Selected {len(chosen_tables)} tables after filtering.')
-    subcategories = Counter([value['category'] for value in chosen_tables.values()])
+    subcategories = Counter([table['category'] for table in chosen_tables.values() if 'category' in table])
 
     return chosen_tables, subcategories
 
@@ -621,18 +622,21 @@ def filter_categories(cnfg, tables: dict, categories: dict) -> dict:
 
     tables: Dictionary of tables with their metadata
     categories: Counter object with category counts
-    config: Configuration dictionary containing settings
+    cnfg: Configuration dictionary containing settings
     Returns: Dictionary of filtered tables
     """
     categories = {k: v for k, v in categories.items() if v > 0}
     # get target distribution
-    distributions = get_distribution_recursively(cnfg['num_pages'], categories)
+    distributions = get_distribution_recursively(cnfg, cnfg['num_pages'], categories)
 
     # Select tables based on distribution
     new_tables_id = []
     for ctgr, num in distributions.items():
-        tables_in_subcat = [k for k, v in tables.items() if v['category'] == ctgr
-                            and v['csv_id'] not in cnfg['excluded_csv_ids']]
+        if cnfg['excluded_csv_ids']:
+            tables_in_subcat = [k for k, v in tables.items() if 'category' in v and v['category'] == ctgr
+                                and v['csv_id'] not in cnfg['excluded_csv_ids']]
+        else:
+            tables_in_subcat = [k for k, v in tables.items() if 'category' in v and v['category'] == ctgr]
         random.shuffle(tables_in_subcat)
         new_tables_id.append(tables_in_subcat[:num])
 
@@ -647,19 +651,25 @@ def filter_categories(cnfg, tables: dict, categories: dict) -> dict:
     return new_tables
 
 
-def get_distribution_recursively(target_pages: int, categories: dict, level: int = 0) -> dict:
+def get_distribution_recursively(cnfg: dict, target_number: int, categories: dict, level: int = 0) -> dict:
     """
     Recursively distribute target count across category hierarchy.
 
-    target_count: Number of items to distribute
+    cnfg: Configuration dictionary containing settings
     categories: Dictionary of category counts
     level: Current recursive level
     Returns: Dictionary of category distributions
     """
+    print(level, target_number)
     level_cats = {" | ".join(part.split(' | ')[:level + 1]).strip() for part in categories}
     level_cat_dict = {c: sum(v for k, v in categories.items() if k.startswith(c)) for c in level_cats}
     # get current level distribution
-    real_vals_in_cat = get_category_distribution(target_pages, level_cat_dict)
+    if cnfg['custom_distribution'] and level == 0:
+        # use custom distribution if provided
+        real_vals_in_cat = {cat: cnfg['custom_distribution'].get(cat, 0) for cat in level_cat_dict}
+    else:
+        real_vals_in_cat = get_category_distribution(target_number, level_cat_dict)
+    print(real_vals_in_cat)
 
     # subcategories recursively
     final_distribution = {}
@@ -670,7 +680,7 @@ def get_distribution_recursively(target_pages: int, categories: dict, level: int
         elif (len(filtered_cats) == 1) or (level + 2 == max(len(part.split(" | ")) for part in filtered_cats)):
             final_distribution.update(get_category_distribution(num, filtered_cats))
         else:
-            final_distribution.update(get_distribution_recursively(num, filtered_cats, level + 1))
+            final_distribution.update(get_distribution_recursively(cnfg, num, filtered_cats, level + 1))
 
     return final_distribution
 
@@ -740,7 +750,7 @@ def main():
     # add logical operations to the tables
     tables_with_labels = add_labels_to_tables(filtered_tables, config)  # TODO choose them with LLM ?
     save_json(tables_with_labels, config['output_dir'] + '/filtered_tables.json')
-    if config["num_pages"]:
+    if config["num_pages"] or config["custom_distribution"]:
         # we need to know what categories we have for distributing amongst them
         final_tables = filter_categories(config, filtered_tables, subcategories)  # return is just for tests
 

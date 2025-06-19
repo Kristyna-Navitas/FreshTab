@@ -76,7 +76,7 @@ def query_wikidata(query: str, email: str) -> dict or None:
         return None
 
 
-def wiki_mod_date(args, url: str) -> str:
+def wiki_mod_date(cnfg, url: str) -> str:
     # gets the first modification of an entity (creation)
     title = urllib.parse.unquote(url.split("wikipedia.org/wiki/")[-1])
     params = {
@@ -87,7 +87,7 @@ def wiki_mod_date(args, url: str) -> str:
         "rvdir": "newer",
         "format": "json"
     }
-    response = requests.get(f"https://{args.lang}.wikipedia.org/w/api.php", params=params)
+    response = requests.get(f"https://{cnfg['lang']}.wikipedia.org/w/api.php", params=params)
     data = response.json()
     page = next(iter(data['query']['pages'].values()))
     if "revisions" in page:

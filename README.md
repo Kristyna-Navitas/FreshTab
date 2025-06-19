@@ -3,7 +3,7 @@ Creating new datasets for table-to-text task from Wikipedia pages.
 
 ## Features
 - Automated Wikipedia table extraction, each month a new version
-- Multi-category support (sports, culture, politics)
+- Multi-category support (sports, culture, politics) with configurable counts
 - Logical labels from LogicNLG and LoTNLG
 - Configurable data collection parameters
 
@@ -11,7 +11,6 @@ Creating new datasets for table-to-text task from Wikipedia pages.
 - Do not forget to set up the Airflow correctly!
 - more tests of the code
 - saving config file for each run
-- setting own category counts
 - collecting data in more languages for parallel dataset
 - LLM calls with Ollama
 - choosing logical labels with LLM
