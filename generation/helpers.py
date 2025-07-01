@@ -18,7 +18,7 @@ def dump_to_logicnlg_output(in_csv, out_json, prettify=True):
     if dataframe.iloc[0, 0] == "csv_ids":
         dataframe.columns = dataframe.iloc[0]
     else:
-        dataframe.columns = ["csv_ids", "preprocess", "label", "idea", "query", "result", "prediction"]
+        dataframe.columns = ["csv_ids", "domain", "label",  "prediction"]
     for _, row in dataframe.iterrows():
         prediction = row["prediction"]
         if isinstance(prediction, str):
@@ -113,7 +113,7 @@ def dump_to_LogicNLG_output(in_csv, out_json, prettify=True):
     if dataframe.iloc[0, 0] == "csv_ids":
         dataframe.columns = dataframe.iloc[0]
     else:
-        dataframe.columns = ["csv_ids", "preprocess", "label", "idea", "query", "result", "prediction"]
+        dataframe.columns = ["csv_ids", "domain", "label", "prediction"]
     for _, row in dataframe.iterrows():
         prediction = row["prediction"]
         if isinstance(prediction, str):
@@ -148,7 +148,7 @@ def dataframe_table_from_dataset(data: dict) -> pd.DataFrame:
         try:
             df[column] = df[column].astype(int)
         except Exception as e:
-            logger.debug(f"Column {column} could not be converted to int: {e}")
+            # logger.debug(f"Column {column} could not be converted to int: {e}")
             # If it fails, we keep it as string
             df[column] = df[column].astype(str)
 

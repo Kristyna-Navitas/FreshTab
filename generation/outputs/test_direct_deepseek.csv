@@ -1,0 +1,50 @@
+Q134998169_342.csv,mix ,simple,"The male protagonist, Wu Yulun, is an emerging fashion company founder."
+Q134998169_342.csv,mix ,unique,There are two characters in 'Revenge on Gold Diggers' without assigned actors.
+Q134998169_342.csv,mix ,aggregation,The 'Revenge on Gold Diggers' features a total of 10 distinct characters.
+Q134998169_342.csv,mix ,negation,Luo Ji and Uncle Da did not get any specific actor in the 'Revenge on Gold Diggers' show.
+Q134998169_342.csv,mix ,superlative,Chen Xinxin has the most varied roles among all characters in 'Revenge on Gold Diggers'.
+Q132801799_341.csv,mix ,ordinal,GTA V was the first game to win both Best Game and British Game at the British Academy Video Games Awards in 2014.
+Q132801799_341.csv,mix ,aggregation,Grand Theft Auto V has been nominated for a total of 108 awards.
+Q132801799_341.csv,mix ,superlative,Grand Theft Auto V has won the most awards among games in its category.
+Q132801799_341.csv,mix ,unique,Grand Theft Auto V has been awarded a total of five different Steam Awards over the years.
+Q132801799_341.csv,mix ,simple,Grand Theft Auto V has been widely recognized with multiple awards and nominations across various categories and years.
+Q134542307_6.csv,culture ,unique,There are three unique original release dates for the ONE: High School Heroes series.
+Q134542307_6.csv,culture ,all,All episodes of the ONE: High School Heroes season were released in 2025.
+Q134542307_6.csv,culture ,count,There are 8 episodes in the 'ONE: High School Heroes' season.
+Q134542307_6.csv,culture ,superlative,"The earliest episode of 'ONE: High School Heroes' was released on May 30, 2025."
+Q134542307_6.csv,culture ,negation,"Not all episodes of 'ONE: High School Heroes' were released on May 30, 2025."
+Q130250737_4.csv,culture ,comparative,Liz Garbus directed more episodes of 'Good American Family' than any other director.
+Q130250737_4.csv,culture ,all,"All episodes of 'Good American Family' were released starting from March 19, 2025, with the last one on April 30, 2025."
+Q130250737_4.csv,culture ,negation,"No episode of 'Good American Family' was released before March 19, 2025."
+Q130250737_4.csv,culture ,aggregation,The total number of episodes released in March 2025 is two.
+Q130250737_4.csv,culture ,simple,All episodes of 'Good American Family' were originally released in 2025.
+Q134300818_25.csv,politics ,superlative,"Kamla Persad-Bissessar has the longest tenure in office, having served since 1995."
+Q134300818_25.csv,politics ,unique,There is only one instance where a member has been serving since 1995.
+Q134300818_25.csv,politics ,all,All members of the 13th Republican Parliament of Trinidad and Tobago are currently in office.
+Q134300818_25.csv,politics ,simple,All Members of Parliament in the 13th National Assembly were first elected no earlier than 2015.
+Q134300818_25.csv,politics ,aggregation,The average tenure of members in the 14th National Assembly is approximately X years.
+Q131398188_48.csv,politics ,negation,PRO Romania did not receive any endorsements in the second round.
+Q131398188_48.csv,politics ,unique,There is only one party endorsing both Victor Ponta and George Simion.
+Q131398188_48.csv,politics ,aggregation,All political parties in the table have at least one endorsement from either Victor Ponta or George Simion.
+Q131398188_48.csv,politics ,all,The Romanian Socialist Party has more endorsements than the Romanian Ecologist Party.
+Q131398188_48.csv,politics ,surface,DUMMY
+Q106609492_28.csv,politics ,count,There are five political parties that secured more than one seat in the 2025 Western Australian state election.
+Q106609492_28.csv,politics ,unique,Labor was the only party to win 16 seats in the 2025 Western Australian state election.
+Q106609492_28.csv,politics ,superlative,Labor achieved the highest percentage of votes with 40.89% in the 2025 Western Australian state election.
+Q106609492_28.csv,politics ,simple,"Labor received 635,537 votes in the 2025 Western Australian state election."
+Q106609492_28.csv,politics ,negation,None of the parties in the 2025 Western Australian state election received more than 40% of the vote.
+Q135038526_207.csv,sport ,unique,There are 15 different owners in the 2025 Epsom Derby.
+Q135038526_207.csv,sport ,ordinal,Al Wasl Storm (IRE) was the first horse entered into the 2025 Epsom Derby.
+Q135038526_207.csv,sport ,negation,None of the horses in the 2025 Epsom Derby have achieved a rank higher than first place.
+Q135038526_207.csv,sport ,comparative,"The Lion In Winter, trained by Aidan O'Brien, is owned by Tabor / Smith / Magnier, whereas Pride of Arras, trained by Ralph Beckett, shares the same ownership."
+Q135038526_207.csv,sport ,simple,"In the 2025 Epsom Derby, there are 19 horses competing."
+Q133270219_142.csv,sport ,comparative,Ali Askar has a higher score than You.
+Q133270219_142.csv,sport ,simple,Hektor Kapustík did not start in the event.
+Q133270219_142.csv,sport ,superlative,"Zlatan Ibrahimović achieves the highest score with 37 goals and leads in assists with 14, being the top performer in the dataset."
+Q133270219_142.csv,sport ,count,There are 48 participants in total.
+Q133270219_142.csv,sport ,all,All participants have their nationalities recorded.
+Q127500786_156.csv,sport ,ordinal,Sweden has the top-ranked player at the 2025 IIHF World U18 Championships.
+Q127500786_156.csv,sport ,comparative,Sweden's players have accumulated more total points (55) than any other country's team at the 2025 IIHF World U18 Championships.
+Q127500786_156.csv,sport ,count,There are 5 players from Sweden in the top 10 of the 2025 IIHF World U18 Championships.
+Q127500786_156.csv,sport ,simple,Filip Ekberg scored 10 goals and earned 8 assists during the 2025 IIHF World U18 Championships.
+Q127500786_156.csv,sport ,all,All players from Sweden scored more than 10 points.

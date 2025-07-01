@@ -1,0 +1,50 @@
+Q134998169_342.csv,mix ,ordinal,Chen Xinxin is the first character to be introduced in the story.
+Q134998169_342.csv,mix ,count,"Three characters are introduced in Chapter 1: Chen Xinxin, Lin Fang, and Luo Ji."
+Q134998169_342.csv,mix ,unique,There are no two different characters with the exact same role descriptions in the table.
+Q134998169_342.csv,mix ,comparative,"Pan Mengna has a more formal introduction later in the story compared to Chen Xinxin, who appears earlier but is introduced formally much later."
+Q134998169_342.csv,mix ,superlative,He Yueying holds the most prestigious role among the Cinderelle members as the honorary chairman of a commerce association.
+Q132801799_341.csv,mix ,count,Grand Theft Auto V has won a total of 14 awards.
+Q132801799_341.csv,mix ,superlative,"Grand Theft Auto Online – The Diamond Casino & Resort is the only expansion to win an award, specifically the Best Game Expansion in 2019."
+Q132801799_341.csv,mix ,ordinal,The first time Grand Theft Auto V won an award was at The Game Awards in 2014 for Best Remaster.
+Q132801799_341.csv,mix ,none,Grand Theft Auto Online was nominated for the Still Playing Award three times.
+Q132801799_341.csv,mix ,comparative,Grand Theft Auto V has won more awards than Grand Theft Auto Online expansions combined.
+Q134542307_6.csv,culture ,none,"The episode titled 'Walkman' was released on May 30, 2025."
+Q134542307_6.csv,culture ,count,"There are four episodes released on May 30, 2025."
+Q134542307_6.csv,culture ,comparative,"More episodes were released on May 30, 2025 than on June 13, 2025."
+Q134542307_6.csv,culture ,ordinal,The episode titled 'Heroes' is the eighth episode in the series.
+Q134542307_6.csv,culture ,superlative,"The latest release date for an episode is June 13, 2025"
+Q130250737_4.csv,culture ,unique,There are 6 different directors in the 'Good American Family' series.
+Q130250737_4.csv,culture ,count,Katie Robbins has written 3 episodes of the 'Good American Family' series.
+Q130250737_4.csv,culture ,comparative,Iain B. MacDonald directed more episodes than Stacie Passon.
+Q130250737_4.csv,culture ,ordinal,"The second episode released on March 19, 2025 is 'Jump the Jitters Out'."
+Q130250737_4.csv,culture ,none,'Blood on Her Hands' was directed by Iain B. MacDonald and written by Katie Robbins & Sarah Sutherland.
+Q134300818_25.csv,politics ,superlative,"Colm Imbert has served the longest tenure as a Member of Parliament, with 32 consecutive years in office."
+Q134300818_25.csv,politics ,unique,The Tobago East and Tobago West constituencies are the only ones represented by members from the TPP party.
+Q134300818_25.csv,politics ,count,"There are 17 constituencies represented by Members of Parliament who have been in office since 2025, making up a significant portion of the current parliament."
+Q134300818_25.csv,politics ,comparative,More Members of Parliament from the UNC party have been in office since 2020 compared to those from the PNM party.
+Q134300818_25.csv,politics ,none,David Thomas represents Tobago East and has been a Member of Parliament since 2025.
+Q131398188_48.csv,politics ,unique,"Sebastian Popescu is uniquely endorsed by only one party, New Romania Party."
+Q131398188_48.csv,politics ,superlative,PRO Romania endorses the highest number of candidates with 2.
+Q131398188_48.csv,politics ,ordinal,"The Romanian National Conservative Party is second in terms of the number of endorsed candidates, with a total of 1."
+Q131398188_48.csv,politics ,aggregation,There are 52 candidates endorsed by various parties.
+Q131398188_48.csv,politics ,count,There are 7 parties that endorse only one candidate each.
+Q106609492_28.csv,politics ,superlative,"Labor obtained the highest number of votes, totaling 635,537."
+Q106609492_28.csv,politics ,comparative,The Greens party gained more seats than the Liberal party.
+Q106609492_28.csv,politics ,count,There are a total of 12 different political parties or groups represented in the election results.
+Q106609492_28.csv,politics ,ordinal,The Animal Justice Party is the fifth smallest group in terms of votes received.
+Q106609492_28.csv,politics ,none,"The Liberal party received 422,655 votes."
+Q135038526_207.csv,sport ,count,There are 5 horses trained by Aidan O'Brien (IRE).
+Q135038526_207.csv,sport ,comparative,Charlie Johnston has more horses in the race than Owen Burrows.
+Q135038526_207.csv,sport ,superlative,"The first horse in the list, Al Wasl Storm (IRE), is trained by Owen Burrows."
+Q135038526_207.csv,sport ,unique,"There are three different nations represented among the horses: Ireland, Germany, and France."
+Q135038526_207.csv,sport ,none,Damysus is ridden by James Doyle
+Q133270219_142.csv,sport ,superlative,Ali Askar from Kazakhstan has the highest time of 41:14.4.
+Q133270219_142.csv,sport ,aggregation,The average starting number for all participants is 26.0.
+Q133270219_142.csv,sport ,negation,Hektor Kapustík from Slovakia did not start the event.
+Q133270219_142.csv,sport ,comparative,Andrzej Waliczek has a higher time than Oleksandr Shovkoplias by 4 minutes and 52 seconds.
+Q133270219_142.csv,sport ,unique,There are 9 different nations represented in the tournament.
+Q127500786_156.csv,sport ,superlative,Filip Ekberg is the leading scorer with 18 points.
+Q127500786_156.csv,sport ,comparative,Braeden Cootes has a higher plus/minus rating than Milton Gästrin.
+Q127500786_156.csv,sport ,aggregation,The average number of goals scored by Swedish players is 5.67.
+Q127500786_156.csv,sport ,count,There are three Canadian players in the top ten rankings.
+Q127500786_156.csv,sport ,ordinal,"Brady Martin is ranked fifth among all players, tied with Will Moore and Brady Martin."

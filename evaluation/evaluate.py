@@ -21,7 +21,8 @@ from utils import save_json
 def process_dataset(dataset, tokenizer, length):
     # from https://github.com/yale-nlp/LLM-T2T/blob/main/src/open_src_model_T2T_generation.py
     def process_example(example):
-        table_df = pd.read_csv(StringIO(example['table_csv'])).astype(str)
+        table_df = pd.read_csv(StringIO(example['table_csv'].replace('\\n', '\n').strip()), sep='#').astype(str)
+        print(len(tokenizer.tokenize(' '.join(table_df.values.flatten()))))
         inp = tokenizer(
             table_df,
             example['prediction'].rstrip('. '),  # for compatibility with tabfact
@@ -63,7 +64,7 @@ def load_predictions(preds):
             row = [value if value else 'nan' for value in row]
             csv_ids_dict[count] = row[0]
             if row[1]:
-                predictions_dict[count] = row[6]
+                predictions_dict[count] = row[3]
             else:
                 predictions_dict[count] = 'wrong'
             count += 1
@@ -118,7 +119,7 @@ def evaluate(args):
     results['TAPAS'] = predictions_tapas
 
     name_stem = str(Path(args.preds).stem)
-    output_path = f"outputs/{name_stem}_evaluated.csv"
+    output_path = f"generation/outputs/{name_stem}_evaluated.csv"
     results.to_csv(output_path, index=True)
     logger.info(f'Predictions saved to {output_path}.')
 
@@ -180,8 +181,8 @@ def get_detailed_stats(results: pd.DataFrame, filename: str) -> None:
     # combined domain and label
     for label in labels:
         for domain in domains:
-            all_results = results[results.domain == domain & results.label == label]
-            clean_results = results_cleaned[results_cleaned.domain == domain & results.label == label]
+            all_results = results[(results.domain == domain) & (results.label == label)]
+            clean_results = results_cleaned[(results_cleaned.domain == domain) & (results_cleaned.label == label)]
             calculated = analysis_for_group(filename, domain+' '+label, all_results, clean_results)
             results_dict.update(calculated)
 

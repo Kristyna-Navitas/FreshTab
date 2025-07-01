@@ -1,0 +1,50 @@
+Q134998169_342.csv,mix ,superlative,Wu Yulun is the male protagonist of the emerging fashion company.
+Q134998169_342.csv,mix ,negation,Pan Mengna did not appear before Chapter 3.
+Q134998169_342.csv,mix ,count,There are three members in Cinderelle.
+Q134998169_342.csv,mix ,ordinal,Chen Xinxin is the first Cinderelle member to appear in the series.
+Q134998169_342.csv,mix ,unique,Luo Ji has a unique combination of being a hacker and a bankrupt rich second generation among the anti-gold digger team members.
+Q132801799_341.csv,mix ,count,Grand Theft Auto V has won the Labor of Love award four times at the Steam Awards.
+Q132801799_341.csv,mix ,unique,"There are multiple categories in which Grand Theft Auto V has been recognized, showcasing its versatility and lasting appeal."
+Q132801799_341.csv,mix ,ordinal,Grand Theft Auto V was the first game to receive the Labor of Love award from the Steam Awards.
+Q132801799_341.csv,mix ,comparative,Grand Theft Auto V has received more awards and nominations than any other Rockstar Games title listed in this table.
+Q132801799_341.csv,mix ,count,There are 26 different award entries for Grand Theft Auto V and its expansions across various categories.
+Q134542307_6.csv,culture ,count,There are 8 episodes in total in the 'ONE: High School Heroes' series.
+Q134542307_6.csv,culture ,unique,"All episodes were released on either May 30, 2025, June 6, 2025, or June 13, 2025."
+Q134542307_6.csv,culture ,all,Every episode was released in the month of May or June 2025.
+Q134542307_6.csv,culture ,ordinal,"The first episode titled 'Walkman' was released on May 30, 2025."
+Q134542307_6.csv,culture ,aggregation,The average number of episodes released per week is approximately 1.67 episodes.
+Q130250737_4.csv,culture ,aggregation,"The table aggregates eight episodes released between March 19 and April 30, 2025."
+Q130250737_4.csv,culture ,negation,Stacie Passon did not direct any episode beyond 'Good American Family'.
+Q130250737_4.csv,culture ,superlative,"Katie Robbins wrote the most episodes, contributing to four out of eight."
+Q130250737_4.csv,culture ,count,There are exactly two episodes directed by Iain B. MacDonald.
+Q130250737_4.csv,culture ,comparative,Liz Garbus directed twice as many episodes as Stacie Passon.
+Q134300818_25.csv,politics ,aggregation,The average year when members of parliament started their current term is 2020.
+Q134300818_25.csv,politics ,count,There are 30 members from the UNC party in the 13th Republican Parliament of Trinidad and Tobago.
+Q134300818_25.csv,politics ,superlative,"Kamla Persad-Bissessar has served the longest with her term starting in 1995, making her the member with the longest tenure."
+Q134300818_25.csv,politics ,ordinal,"Pennelope Beckles-Robinson is the first member to have non-consecutive terms, having served since 2020 and earlier periods."
+Q134300818_25.csv,politics ,negation,No members from the PNM party have started their term after 2025 in this parliament session.
+Q131398188_48.csv,politics ,superlative,The Romanian National Conservative Party has the longest abbreviation among all listed parties.
+Q131398188_48.csv,politics ,count,There are 5 different political parties associated with Silviu Predoiu in the table.
+Q131398188_48.csv,politics ,comparative,The National Peasant Alliance has a more conservative stance compared to the Republican Party.
+Q131398188_48.csv,politics ,unique,There are no two political parties with the same abbreviation in the table.
+Q131398188_48.csv,politics ,ordinal,The Truth Democracy Education Reconstruction Party is listed as the fourth party under Victor Ponta's leadership.
+Q106609492_28.csv,politics ,aggregation,"The total valid votes in the 2025 Western Australian state election were 1,554,107."
+Q106609492_28.csv,politics ,negation,Independents did not win any seats in the 2025 Western Australian state election.
+Q106609492_28.csv,politics ,superlative,Labor received the highest percentage of votes (40.89%) in the 2025 Western Australian state election.
+Q106609492_28.csv,politics ,comparative,"Labor won more seats than Liberal, with 16 compared to Liberal's 10."
+Q106609492_28.csv,politics ,count,Four minor parties received less than 5% of the vote but still secured seats in the election.
+Q135038526_207.csv,sport ,count,Tabor / Smith / Magnier owns three horses in the 2025 Epsom Derby.
+Q135038526_207.csv,sport ,aggregation,Aidan O'Brien (IRE) is the most represented trainer with four entries in the derby.
+Q135038526_207.csv,sport ,unique,"There are three different countries represented among the horse origins: IRE, GER, and FRA."
+Q135038526_207.csv,sport ,negation,Wathnan Racing does not have more than one entry in the derby.
+Q135038526_207.csv,sport ,all,All entries from 1 to 19 are listed without any missing numbers.
+Q133270219_142.csv,sport ,count,There are 9 different nations represented in the competition.
+Q133270219_142.csv,sport ,negation,Hektor Kapustík from Slovakia did not start in the event.
+Q133270219_142.csv,sport ,comparative,Chingiz Rakparov has a higher score than Ali Askar.
+Q133270219_142.csv,sport ,ordinal,Hektor Kapustík is ranked 46th among all participants.
+Q133270219_142.csv,sport ,unique,There are no two different players from Kazakhstan in the top 10 rankings.
+Q127500786_156.csv,sport ,count,There are 3 Swedish players among the top 5 positions.
+Q127500786_156.csv,sport ,superlative,Filip Ekberg achieved the highest points total of 18 in the tournament.
+Q127500786_156.csv,sport ,comparative,Lev Katzin has a higher plus-minus (+13) than Milton Gästrin (+-1).
+Q127500786_156.csv,sport ,negation,Milton Gästrin did not achieve the highest plus-minus rating among Swedish players.
+Q127500786_156.csv,sport ,comparative,Brady Martin from Canada has more assists (8) than Will Moore from the United States (8).

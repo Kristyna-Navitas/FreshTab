@@ -777,7 +777,8 @@ def main():
         create_directory('datasets/' + config['output_dir'] + '/all_csv')
         for table in final_tables.values():
             write_table = table['table_text'].replace("#", '').replace(" | ", "#").replace("<br>", "\n")
-            save_json(write_table, f'datasets/{config["output_dir"]}/all_csv/{table["csv_id"]}.json')
+            with open(f'datasets/{config["output_dir"]}/all_csv/{table["csv_id"]}', "w", encoding="utf-8") as f:
+                f.write(write_table)
 
     logger.info("Dataset processing complete.")
     # Tsave the config yaml as well just to be sure you do not forget the settings

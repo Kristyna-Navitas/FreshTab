@@ -1,0 +1,51 @@
+,csv_ids,domain,label,prediction,TAPEX,TAPAS
+0,Q134998169_342.csv,mix ,none,"Wu Yulun is the emerging fashion company founder, male protagonist.",1,1
+1,Q134998169_342.csv,mix ,unique,There is only one character with the description of a bankrupt rich second generation hacker.,1,1
+2,Q134998169_342.csv,mix ,aggregation,There are a total of six members in the Cinderelle team.,1,1
+3,Q134998169_342.csv,mix ,negation,There are 3 characters who do not have a listed actor.,1,1
+4,Q134998169_342.csv,mix ,superlative,Chen Xinxin was the earliest character to appear in the story.,1,1
+5,Q132801799_341.csv,mix ,ordinal,'Grand Theft Auto V' won its first major award at the Spike Video Game Awards in December 2013 for 'Game of the Year'.,0,1
+6,Q132801799_341.csv,mix ,aggregation,'Grand Theft Auto V' has won a total of 30 awards.,1,1
+7,Q132801799_341.csv,mix ,superlative,"'Grand Theft Auto V' has won the highest number of awards among all games listed, including multiple wins at prestigious events like The Game Awards and The Steam Awards.",1,0
+8,Q132801799_341.csv,mix ,unique,Grand Theft Auto Online – The Diamond Casino & Resort is the unique game expansion to win a Best Game Expansion award.,0,1
+9,Q132801799_341.csv,mix ,none,Grand Theft Auto V won the award for 'Best Remaster' at The Game Awards on 5 December 2014.,1,1
+10,Q134542307_6.csv,culture ,unique,There are 3 unique release dates for the 'ONE: High School Heroes' season.,0,1
+11,Q134542307_6.csv,culture ,all,None of the episodes were released on the same day.,0,0
+12,Q134542307_6.csv,culture ,count,There are four episodes from 'ONE: High School Heroes' released on May 30th.,0,1
+13,Q134542307_6.csv,culture ,superlative,"""Heroes"" was released the latest in the series ONE: High School Heroes.",1,1
+14,Q134542307_6.csv,culture ,negation,"Episodes 'Dream' and 'Heroes' did not get released on May 30, 2025.",1,0
+15,Q130250737_4.csv,culture ,comparative,"Liz Garbus and Katie Robbins have each directed and written more episodes than any other director or writer, respectively.",1,1
+16,Q130250737_4.csv,culture ,all,All episodes of 'Good American Family' were released in 2025.,1,1
+17,Q130250737_4.csv,culture ,negation,Katie Robbins did not write the episode 'Ghosts Everywhere'.,0,0
+18,Q130250737_4.csv,culture ,aggregation,"There were two episodes released on March 19, 2025.",1,1
+19,Q130250737_4.csv,culture ,none,Seith Mann directed 'Ghosts Everywhere',1,1
+20,Q134300818_25.csv,politics ,superlative,"Colm Imbert has been serving continuously since 1991, making him the longest-serving member of parliament.",1,1
+21,Q134300818_25.csv,politics ,unique,"There are three different political parties represented in the 14th Republican Parliament of Trinidad and Tobago: United National Congress (UNC), People's National Movement (PNM) and Tobago People Party (TPP).",1,1
+22,Q134300818_25.csv,politics ,all,"All members of parliament who began their terms in 2025 are from the UNC or PNM parties, except for two members from TPP.",1,1
+23,Q134300818_25.csv,politics ,none,Colm Imbert has been serving since 1991.,0,1
+24,Q134300818_25.csv,politics ,aggregation,The total years of service in the 13th Parliament is 596.,1,1
+25,Q131398188_48.csv,politics ,negation,"Several parties, including 'Romanian National Conservative Party', 'New Romania Party', 'National Action League Party', 'The Right Alternative', 'National Peasant Alliance', and 'BSR', did not receive any endorsement in the first round.",1,1
+26,Q131398188_48.csv,politics ,unique,There is a single party named 'Romanian Village Party' that endorses Victor Ponta in both rounds.,1,1
+27,Q131398188_48.csv,politics ,aggregation,The majority of parties endorsed either George Simion or Victor Ponta in the second round.,1,1
+28,Q131398188_48.csv,politics ,all,All parties endorsed by George Simion in the second round are either far-right or communist.,1,1
+29,Q131398188_48.csv,politics ,comparative,"In the first round, George Simion received more endorsements from parties than Victor Ponta.",1,0
+30,Q106609492_28.csv,politics ,count,There are 12 political parties from the 2025 Western Australian state election received at least one seat.,1,1
+31,Q106609492_28.csv,politics ,unique,"There are no two different parties named 'Stop Pedophiles! Protect kiddies!' and 'Shooters, Fishers and Farmers' with exactly the same name in this election.",1,0
+32,Q106609492_28.csv,politics ,superlative,Labor achieved the highest percentage of votes (40.89%) and secured the most seats (16) in the 2025 Western Australian state election.,1,1
+33,Q106609492_28.csv,politics ,none,"The Labor party received 635,537 votes.",1,1
+34,Q106609492_28.csv,politics ,negation,The Libertarian Party did not obtain any seats in the 2025 Western Australian state election.,1,1
+35,Q135038526_207.csv,sport ,unique,there are 12 different trainers in the 2025 Epsom Derby.,1,1
+36,Q135038526_207.csv,sport ,ordinal,The first horse to compete in the 2025 Epsom Derby is Al Wasl Storm (IRE).,1,1
+37,Q135038526_207.csv,sport ,negation,No horse in the 2025 Epsom Derby has ever been trained by a trainer other than those listed.,1,1
+38,Q135038526_207.csv,sport ,comparative,Aidan O'Brien (IRE) has more horses in the 2025 Epsom Derby than any other trainer.,1,1
+39,Q135038526_207.csv,sport ,none,The horse Al Wasl Storm (IRE) is owned by Green Team Racing.,1,1
+40,Q133270219_142.csv,sport ,comparative,"Ali Askar took significantly longer than any other participant, with a time of +16:16.9.",0,0
+41,Q133270219_142.csv,sport ,none,Oleksandr Shovkoplias is from Ukraine.,1,1
+42,Q133270219_142.csv,sport ,superlative,Chingiz Rakparov has the second worst time at 12:24.9,0,0
+43,Q133270219_142.csv,sport ,count,There are 4 participants from Italy in the game.,0,1
+44,Q133270219_142.csv,sport ,all,All competitors completed their runs.,1,0
+45,Q127500786_156.csv,sport ,ordinal,The first place player by points at the 2025 IIHF World U18 Championships was Filip Ekberg from Sweden with 18 points.,1,1
+46,Q127500786_156.csv,sport ,comparative,Filip Ekberg has scored more goals than Sascha Boumedienne.,1,1
+47,Q127500786_156.csv,sport ,count,There are 3 players from Sweden in the game.,1,1
+48,Q127500786_156.csv,sport ,none,Filip Ekberg is from Sweden.,1,1
+49,Q127500786_156.csv,sport ,all,All but one player had a positive plus-minus rating in the 2025 IIHF World U18 Championships.,0,0

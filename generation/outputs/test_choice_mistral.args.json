@@ -1,0 +1,12 @@
+{
+  "exp": "choice",
+  "input": "datasets/test/diverse.json",
+  "output": "test_choice_mistral",
+  "host": "dll-8gpu1",
+  "port": 9998,
+  "model": "mistral-small:24b-instruct-2501-q8_0",
+  "num_insights": 5,
+  "log_level": "INFO",
+  "min_p": 0.02,
+  "seed": 42
+}

@@ -7,12 +7,12 @@ from typing import List
 from logzero import logger
 from pydantic import BaseModel, Field, ValidationError
 
-from generation.helpers import csv_writer, dump_to_LogicNLG_output, OllamaClientStructuredOutput, \
+from .helpers import csv_writer, dump_to_LogicNLG_output, OllamaClientStructuredOutput, \
     dataframe_table_from_dataset, format_dataframe
-from generation.prompts import SYSTEM_MSG, PROMPT_CHOICE, PROMPT_WITH_LABEL, explanation
+from .prompts import SYSTEM_MSG, PROMPT_CHOICE, PROMPT_WITH_LABEL, explanation
 from utils import read_json
 
-EXPECTED_LABELS = ['superlative', 'aggregation', 'negation', 'comparative', 'unique', 'all', 'count', 'ordinal', 'none']
+EXPECTED_LABELS = ['superlative', 'aggregation', 'negation', 'comparative', 'unique', 'all', 'count', 'ordinal', 'simple']
 
 
 class Experiment:
@@ -26,19 +26,37 @@ class Experiment:
     def __call__(self, example):
         """Generate claims for a given example."""
         datatable = dataframe_table_from_dataset(example['table'])
+        domain = example.get('category', 'none')
+        if domain != 'none':
+            domain = domain.split('|')[0]
         logger.info(f"{example['csv_id']=} {example['title']=}")
+        labels = example.get('logical_labels', 'simple')
+        labels = [l if l != 'none' else 'simple' for l in labels]  # the thinking model is overthinking
 
-        final_claims, labels, idea_error, _idea_prompt = generate_structured_claims(
-            self.args, self.llm, example['title'], datatable, logical_label=example.get('logical_labels', 'none'))
-        logger.debug(f"{len(final_claims)=} {idea_error=}")
+        if self.args.exp == 'choice':
+            final_claims, labels, errors, _prompt = generate_structured_claims(
+                self.args, self.llm, example['title'], datatable, logical_label=labels)
+        elif self.args.exp == 'direct_cot':
+            final_claims, errors = [], []
+            for label in labels:
+                claim, lbl, error, _prompt = generate_structured_claims(
+                    self.args, self.llm, example['title'], datatable, logical_label=label)
+                if claim:
+                    if lbl[0] == label:
+                        final_claims.append(claim[0])
+                    else:
+                        final_claims.append('DUMMY')
+                        errors.append('label does not match')
+                errors.append(error)
+        logger.debug(f"{len(final_claims)=} {errors=}")
 
         claims = []
         for label, claim in zip(labels, final_claims):
             # generate sentence from the goal and retrieved data; not whole table text, just header
-            claims.append([label, "DUMMY", "DUMMY", "DUMMY", claim])
+            claims.append([domain, label, claim])
         for i in range(5 - len(claims)):  # to have 5 claims in the output always
             DUMMY_LABEL = "surface"  # existing / valid label which we will use for dummy section
-            claims.append([DUMMY_LABEL] + (["DUMMY"] * 4))
+            claims.append([domain] + [DUMMY_LABEL] + ["DUMMY"])
         return claims
 
     def final(self):
@@ -53,8 +71,8 @@ def generate_structured_claims(args, llm, title, table, logical_label):
             title=title,
             table_columns=table.columns.tolist(),
             table=format_dataframe(table),
-            logical_label=logical_label,
-            logical_label_explanation=explanation[logical_label],
+            logical_operation=logical_label,
+            logical_operation_explanation=explanation[logical_label],
         )
     elif args.exp == "choice":
         prompt = PROMPT_CHOICE.format(
@@ -84,17 +102,17 @@ def generate_structured_claims(args, llm, title, table, logical_label):
 
 
 class InsightAndLabel(BaseModel):
-    label: str = Field(description=f"Category of the insight. Must be exactly one of: {EXPECTED_LABELS}.")
+    operation: str = Field(description=f"Logical operation applied. Must be exactly one of: {EXPECTED_LABELS}.")
     insight: str = Field(description="Your data insight idea.")
 
 
 class InsightsLabelsCoT(BaseModel):
     thoughts: str = Field(description="Your step-by-step thoughts which data insights ideas are worth generating.")
-    insight_label_pairs: List[InsightAndLabel]
+    insight_label_pairs: List[InsightAndLabel] = Field(description="The final answer.")
 
     @property
     def labels(self):
-        return [t.label for t in self.insight_label_pairs]
+        return [t.operation for t in self.insight_label_pairs]
 
     @property
     def insights(self):
@@ -105,25 +123,25 @@ def process(args):
     generate_table_claims = Experiment(args)
 
     dataset = read_json(args.input)
-    output_claims_path = Path(args.output)
+    output_claims_path = Path('generation/outputs/' + args.output)
     logger.info(f"{output_claims_path=}")
 
     # generate claims
-    with csv_writer(output_claims_path) as out_writer:
+    with csv_writer(str(output_claims_path) + '.csv') as out_writer:
         for idx, (csv_id, example) in enumerate(dataset.items()):
             logger.debug(f'Generating claims for {idx}-th table {csv_id}')
             claims = generate_table_claims(example)
             for claim in claims:
-                print([example['csv_id'], None] + claim)
-                out_writer.writerow([example['csv_id'], None] + claim)
+                print([example['csv_id']] + claim)
+                out_writer.writerow([example['csv_id']] + claim)
 
             logger.info(f'Generated claims for {idx+1} table {csv_id}. {output_claims_path=}')
 
     generate_table_claims.final()
-    dump_to_LogicNLG_output(output_claims_path, str(output_claims_path) + ".json")
+    dump_to_LogicNLG_output(str(output_claims_path) + '.csv', str(output_claims_path) + ".json")
 
     # save pretty printed arguments to json file
-    with open(Path(args.output) / f"{args.output}.args.json", "wt") as f:
+    with open(Path('generation/outputs') / f"{args.output}.args.json", "wt") as f:
         json.dump(vars(args), f, indent=2)
 
     logger.info('All done.')
