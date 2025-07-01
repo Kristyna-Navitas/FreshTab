@@ -4,3 +4,10 @@ apache-airflow
 pytest
 pytest-cov
 bs4
+ollama
+logzero
+tqdm
+torch
+transformers
+datasets
+lxml

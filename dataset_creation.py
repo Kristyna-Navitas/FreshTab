@@ -9,12 +9,16 @@ from datetime import datetime, date, timedelta
 from io import StringIO
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 import yaml
 from bs4 import BeautifulSoup
 
 from utils import read_json, create_directory, save_json, table_from_data_entry, query_wikidata, wiki_mod_date, \
     download_page
+
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Load configuration
 CONFIG_PATH = Path(__file__).parent / "config.yaml"
@@ -104,7 +108,7 @@ def category_query(cnfg: dict, end_date: date, instance_of: str, subcat: str) ->
 
     if result:
         found_entities = {item['item']['value'].replace('http://www.wikidata.org/entity/', ''):
-                          (item['wikipediaUrl']['value'], subcat, item.get('type', {}).get('value', ''))
+                              (item['wikipediaUrl']['value'], subcat, item.get('type', {}).get('value', ''))
                           for item in result["results"]["bindings"]}
         return found_entities, False
     else:
@@ -140,7 +144,7 @@ def divide_to_subcats(cnfg, category: str, label: str) -> dict or None:
         # we can get a category we already have and get nasty cycles
         parent_labels = set(label.split(' | '))
         found_qids = {item['item']['value'].replace('http://www.wikidata.org/entity/', ''):
-                      item['itemLabel']['value'] for item in result["results"]["bindings"]
+                          item['itemLabel']['value'] for item in result["results"]["bindings"]
                       if item['itemLabel']['value'] not in parent_labels}
         return found_qids
 
@@ -184,13 +188,21 @@ def query_label(cnfg: dict, qid: str, url: str, category) -> dict:
     dates_result = query_wikidata(dates_query, cnfg['bot_email'])
     if dates_result:
         from_date = datetime.fromisoformat(cnfg['date'].replace("Z", "+00:00"))
-        dates = [datetime.fromisoformat(item['date']['value'].replace("Z", "+00:00"))
-                 for item in dates_result['results']['bindings'] if item.get('date', {}).get('value')]
+        dates = []
+        for item in dates_result['results']['bindings']:
+            if item.get('date', {}).get('value'):
+                try:
+                    dates.append(datetime.fromisoformat(item['date']['value'].replace("Z", "+00:00")))
+                except ValueError:
+                    pass
+
         if dates:
             details["all_dates_after"] = all(dt > from_date for dt in dates)
-            return {}  # some of the dates are before the specified date, we do not want them
         else:
             details["all_dates_after"] = True  # No dates found, assume valid
+        if not details["all_dates_after"]:
+            logger.warning(f"Some dates are early for entity {qid}")
+            return {}
         details["date"] = wiki_mod_date(config, url)
 
     if category == "people":  # choosing if people are sport, culture or politics
@@ -290,7 +302,9 @@ def retrieve_tables(cnfg, url: str) -> (list, str):
             table_df.columns = [remove_refs(col) for col in table_df.columns]
             for col in table_df.columns:
                 for index, value in table_df[col].items():
-                    table_df.loc[index, col] = remove_refs(value)
+                    if value == 'nan':
+                        value = np.nan
+                    table_df.at[index, col] = remove_refs(remove_refs(value))
 
             # cleaning up NaNs
             table_df = table_df.replace(cnfg['nan_values'], pd.NA)
@@ -308,11 +322,10 @@ def retrieve_tables(cnfg, url: str) -> (list, str):
             table_df = table_df.drop(columns=columns_to_drop)
 
             # cleaning weird text rows from table
-            table_df = table_df.applymap(clean_text)
+            table_df = table_df.map(clean_text)
 
             # and remove unreasonably long (more than tweet :D) strings that are often some maps and pictures
-            table_df = table_df.applymap(lambda x:
-                                         None if isinstance(x, str) and len(x) > cnfg['max_text_length'] else x)
+            table_df = table_df.map(lambda x: None if isinstance(x, str) and len(x) > cnfg['max_text_length'] else x)
 
             if not table_df.shape[1]:
                 continue
@@ -328,7 +341,8 @@ def retrieve_tables(cnfg, url: str) -> (list, str):
                 table_df = table_df[:cnfg['max_rows']]
 
             # filter out terrible tables
-            if (len(table_df) >= cnfg['min_rows'] and cnfg['min_columns'] <= len(table_df.columns) <= cnfg['max_columns']
+            if (len(table_df) >= cnfg['min_rows'] and cnfg['min_columns'] <= len(table_df.columns) <= cnfg[
+                'max_columns']
                     and score >= cnfg['min_entries'] and nan_ratio < 0.25):
                 formatted_tables.append((format_table(table_df)))
 
@@ -338,7 +352,7 @@ def retrieve_tables(cnfg, url: str) -> (list, str):
     return formatted_tables
 
 
-def process_entities(cnfg: dict, entities: dict, all_quids_found: set, subcategories: dict, cat_name: str, index: int)\
+def process_entities(cnfg: dict, entities: dict, all_quids_found: set, subcategories: dict, cat_name: str, index: int) \
         -> (dict, int):
     """Process entities and extract tables."""
     random.shuffle(list(entities.keys()))  # to not take just the first ones
@@ -367,8 +381,8 @@ def process_entities(cnfg: dict, entities: dict, all_quids_found: set, subcatego
             except TypeError:
                 print('wrong dump')
                 pass
-        else:
-            print('no details')
+        #else:
+        #    print(ent, 'no details')
     logger.info(
         f'Updated to {len(extracted_tables)} tables for category {cat_name} from {len(entities)} wikipages.')
 
@@ -423,10 +437,11 @@ def query_no_start_date_recursively(cnfg, limit: int, category: str, start_date:
     if result or limit < 10:
         found_entities = {
             item['item']['value'].replace('http://www.wikidata.org/entity/', ''):
-                item['wikipediaUrl']['value'] for item in result["results"]["bindings"]}
+                item['wikipediaUrl']['value'] for item in result["results"]["bindings"] if
+            result["results"]["bindings"]}
         return found_entities
     else:
-        query_no_start_date_recursively(cnfg, limit//10, category)  # the limit is the wikilist / people limit
+        query_no_start_date_recursively(cnfg, limit // 10, category)  # the limit is the wikilist / people limit
         if category == 'people':
             start_date = datetime.fromisoformat(cnfg['earliest_date'].replace('Z', '+00:00')).date()
             end_date = datetime.fromisoformat(cnfg['date'].replace('Z', '+00:00')).date()
@@ -486,7 +501,7 @@ def get_no_start_entities(cnfg, limit: int, index: int, category: str) -> (dict,
     return new_pages, index
 
 
-def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests for dataset creation
+def get_new_dataset(cnfg: dict, data: dict) -> (dict, dict):  # TODO make tests for dataset creation
     """
     Creates a new dataset by querying for new entities in each category,
     getting their Wikipedia page and good enough tables from it.
@@ -498,12 +513,12 @@ def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests
 
     new_tables, top_cats = data or {}, {}
     index = int(max([str(key) for key in new_tables.keys()])) if new_tables else 0
-    all_quids_found = {table['QID'] for table in new_tables.values() if 'QID' in table} 
+    all_quids_found = {table['QID'] for table in new_tables.values() if 'QID' in table}
     end_date = datetime.now().date()
 
     if cnfg['load_data']:
         top_cats = [table['category'].split(' | ')[0] for table in new_tables.values() if 'category' in table]
-        people_cat = any([True for table in new_tables.values() 
+        people_cat = any([True for table in new_tables.values()
                           if 'category' in table and 'people' in table['category']])
         subcategories = Counter(table['category'] for table in data.values() if 'category' in table)
     else:
@@ -529,7 +544,7 @@ def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests
             tables_for_category.update(extracted_tables)
 
         # saves them, each category its json
-        save_json(tables_for_category, f'{cnfg["output_dir"]}/{cat_name}.json')
+        save_json(tables_for_category, f'datasets/{cnfg["output_dir"]}/{cat_name}.json')
         new_tables.update(tables_for_category)
 
     # queries for stuff without date property
@@ -540,13 +555,13 @@ def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests
     if not cnfg['load_data'] or (cnfg['load_data'] and 'mix | wikilists' not in top_cats):
         wikilist_tables, index = get_no_start_entities(cnfg, cnfg['wikilist_limit'], index, 'mix | wikilists')
         subcategories['mix | wikilists'] = len(wikilist_tables)
-        save_json(wikilist_tables, f'{cnfg["output_dir"]}/wikilists.json')
+        save_json(wikilist_tables, f'datasets/{cnfg["output_dir"]}/wikilists.json')
         new_tables.update(wikilist_tables)
         logger.info(f'Updated to {len(wikilist_tables)} tables for category mix | wikilists.')
 
     if not cnfg['load_data'] or (cnfg['load_data'] and not people_cat):
         people_tables, index = get_no_start_entities(cnfg, cnfg['people_limit'], index, 'people')  # Q5
-        save_json(people_tables, f'{cnfg["output_dir"]}/people.json')
+        save_json(people_tables, f'datasets/{cnfg["output_dir"]}/people.json')
         new_tables.update(people_tables)
         logger.info(f'Updated to {len(people_tables)} tables for category people.')
 
@@ -556,7 +571,7 @@ def get_new_dataset(cnfg, data: dict = None) -> (dict, dict):  # TODO make tests
 def add_labels_to_tables(tables: dict, cnfg) -> dict:
     """Adds five random logical operations to each table."""
     for key, table in tables.items():
-        table["labels"] = random.sample(cnfg['expected_labels'], 5)
+        table["logical_labels"] = random.sample(cnfg['expected_labels'], 5)
     return tables
 
 
@@ -727,7 +742,12 @@ def main():
     then filters tables so each page has only one table and saves all of it together,
     and if we want a specific number of tables, it diversely chooses them across categories and saves those."""
 
-    input_path = Path(config["output_dir"])
+    input_path = Path('datasets') / Path(config["output_dir"])
+    # save the current config to the output directory to be sure about what we did
+    if not input_path.exists():
+        create_directory(str(input_path))
+        save_json(config, str(input_path) + '/config.json')
+
     # TODO more languages together!
 
     if config['load_data'] and input_path.exists():
@@ -740,9 +760,8 @@ def main():
         logger.info("Processing new tables...")
         new_dataset, subcategories = get_new_dataset(config, new_dataset)
     else:
-        create_directory(str(input_path))
         logger.info("Processing new tables...")
-        new_dataset, subcategories = get_new_dataset({})
+        new_dataset, subcategories = get_new_dataset(config, {})
 
     # saves all reasonable tables (we are looking at them anyway) and chooses afterward
     logger.info("Filtering tables and saving dataset...")
@@ -759,7 +778,7 @@ def main():
         create_directory(config['output_dir'] + '/all_csv')
         for table in final_tables.values():
             write_table = table['table_text'].replace("#", '').replace(" | ", "#").replace("<br>", "\n")
-            save_json(write_table, f'{config["output_dir"]}/all_csv/{table["csv_id"]}.json')
+            save_json(write_table, f'datasets/{config["output_dir"]}/all_csv/{table["csv_id"]}.json')
 
     logger.info("Dataset processing complete.")
     # TODO save the config yaml as well just to be sure you do not forget the settings

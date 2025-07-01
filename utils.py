@@ -45,7 +45,11 @@ def get_delay(date: datetime) -> int:
     try:
         timeout = int((date - datetime.now()).total_seconds())
     except ValueError:
-        timeout = int(str(date))
+        try:
+            timeout = int(str(date))
+        except TypeError:
+            print('Date "', date, '" is a string.')
+            timeout = 1  # because whatever
     return timeout
 
 

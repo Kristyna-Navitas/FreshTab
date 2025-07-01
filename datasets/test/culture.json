@@ -1,0 +1,462 @@
+{
+    "0": {
+        "title": "Celtics City",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Celtics_City",
+        "date": "2025-03-12T19:28:29Z",
+        "csv_id": "Q133465078_0.csv",
+        "QID": "Q133465078",
+        "table": [
+            [
+                "no.",
+                "title",
+                "original_release_date"
+            ],
+            [
+                "1",
+                "\"Chapter I: Founding Fathers\"",
+                "March 3, 2025"
+            ],
+            [
+                "2",
+                "\"Chapter II: No Final Victories\"",
+                "March 10, 2025"
+            ],
+            [
+                "3",
+                "\"Chapter III: All Swept Up\"",
+                "March 17, 2025"
+            ],
+            [
+                "4",
+                "\"Chapter IV: Great Hope, Period\"",
+                "March 24, 2025"
+            ],
+            [
+                "5",
+                "\"Chapter V: F**k The Celtics\"",
+                "March 31, 2025"
+            ],
+            [
+                "6",
+                "\"Chapter VI: Untenable Toll\"",
+                "April 7, 2025"
+            ],
+            [
+                "7",
+                "\"Chapter VII: Not Again\"",
+                "April 14, 2025"
+            ],
+            [
+                "8",
+                "\"Chapter VIII: Ubuntu\"",
+                "April 21, 2025"
+            ],
+            [
+                "9",
+                "\"Chapter IX: We’re The Celtics\"",
+                "April 28, 2025"
+            ]
+        ],
+        "table_text": "no. | title | original_release_date<br>1 | \"Chapter I: Founding Fathers\" | March 3, 2025<br>2 | \"Chapter II: No Final Victories\" | March 10, 2025<br>3 | \"Chapter III: All Swept Up\" | March 17, 2025<br>4 | \"Chapter IV: Great Hope, Period\" | March 24, 2025<br>5 | \"Chapter V: F**k The Celtics\" | March 31, 2025<br>6 | \"Chapter VI: Untenable Toll\" | April 7, 2025<br>7 | \"Chapter VII: Not Again\" | April 14, 2025<br>8 | \"Chapter VIII: Ubuntu\" | April 21, 2025<br>9 | \"Chapter IX: We’re The Celtics\" | April 28, 2025"
+    },
+    "1": {
+        "title": "Star Wars: Tales of the Underworld",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars:_Tales_of_the_Underworld",
+        "date": "2025-04-20T08:29:57Z",
+        "csv_id": "Q133810179_1.csv",
+        "QID": "Q133810179",
+        "table": [
+            [
+                "no._overall",
+                "no._in_series",
+                "title",
+                "directed_by",
+                "written_by"
+            ],
+            [
+                "1",
+                "1",
+                "\"Life and Death\"",
+                "Nathaniel Villanueva",
+                "Dave Filoni"
+            ],
+            [
+                "2",
+                "2",
+                "\"Justice\"",
+                "Saul Ruiz",
+                "Dave Filoni"
+            ],
+            [
+                "3",
+                "3",
+                "\"Choices\"",
+                "Charles Murray",
+                "Charles Murray and Élan Murray"
+            ],
+            [
+                "4",
+                "4",
+                "\"The Sith Lord\"",
+                "Saul Ruiz",
+                "Dave Filoni"
+            ],
+            [
+                "5",
+                "5",
+                "\"Practice Makes Perfect\"",
+                "Saul Ruiz",
+                "Dave Filoni"
+            ],
+            [
+                "6",
+                "6",
+                "\"Resolve\"",
+                "Saul Ruiz",
+                "Dave Filoni"
+            ]
+        ],
+        "table_text": "no._overall | no._in_series | title | directed_by | written_by<br>1 | 1 | \"Life and Death\" | Nathaniel Villanueva | Dave Filoni<br>2 | 2 | \"Justice\" | Saul Ruiz | Dave Filoni<br>3 | 3 | \"Choices\" | Charles Murray | Charles Murray and Élan Murray<br>4 | 4 | \"The Sith Lord\" | Saul Ruiz | Dave Filoni<br>5 | 5 | \"Practice Makes Perfect\" | Saul Ruiz | Dave Filoni<br>6 | 6 | \"Resolve\" | Saul Ruiz | Dave Filoni"
+    },
+    "2": {
+        "title": "Star Wars: Tales of the Underworld",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars:_Tales_of_the_Underworld",
+        "date": "2025-04-20T08:29:57Z",
+        "csv_id": "Q133810179_2.csv",
+        "QID": "Q133810179",
+        "table": [
+            [
+                "no._overall",
+                "no._in_series",
+                "title",
+                "directed_by",
+                "written_by"
+            ],
+            [
+                "7",
+                "1",
+                "\"The Path of Fear\"",
+                "Nathaniel Villanueva",
+                "Story by : Dave Filoni Written by : Amanda Rose Muñoz"
+            ],
+            [
+                "8",
+                "2",
+                "\"The Path of Anger\"",
+                "Steward Lee",
+                "Story by : Dave Filoni Written by : Amanda Rose Muñoz"
+            ],
+            [
+                "9",
+                "3",
+                "\"The Path of Hate\"",
+                "Nathaniel Villanueva",
+                "Story by : Dave Filoni Written by : Amanda Rose Muñoz"
+            ],
+            [
+                "10",
+                "4",
+                "\"Devoted\"",
+                "Saul Ruiz",
+                "Story by : Dave Filoni Written by : Nicolas Anasatassiou"
+            ],
+            [
+                "11",
+                "5",
+                "\"Realization\"",
+                "Steward Lee",
+                "Story by : Dave Filoni Written by : Matt Michnovetz"
+            ],
+            [
+                "12",
+                "6",
+                "\"The Way Out\"",
+                "Nathaniel Villanueva",
+                "Story by : Dave Filoni Written by : Matt Michnovetz"
+            ]
+        ],
+        "table_text": "no._overall | no._in_series | title | directed_by | written_by<br>7 | 1 | \"The Path of Fear\" | Nathaniel Villanueva | Story by : Dave Filoni Written by : Amanda Rose Muñoz<br>8 | 2 | \"The Path of Anger\" | Steward Lee | Story by : Dave Filoni Written by : Amanda Rose Muñoz<br>9 | 3 | \"The Path of Hate\" | Nathaniel Villanueva | Story by : Dave Filoni Written by : Amanda Rose Muñoz<br>10 | 4 | \"Devoted\" | Saul Ruiz | Story by : Dave Filoni Written by : Nicolas Anasatassiou<br>11 | 5 | \"Realization\" | Steward Lee | Story by : Dave Filoni Written by : Matt Michnovetz<br>12 | 6 | \"The Way Out\" | Nathaniel Villanueva | Story by : Dave Filoni Written by : Matt Michnovetz"
+    },
+    "3": {
+        "title": "Star Wars: Tales of the Underworld",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars:_Tales_of_the_Underworld",
+        "date": "2025-04-20T08:29:57Z",
+        "csv_id": "Q133810179_3.csv",
+        "QID": "Q133810179",
+        "table": [
+            [
+                "no._overall",
+                "no._in_series",
+                "title",
+                "directed_by"
+            ],
+            [
+                "13",
+                "1",
+                "\"A Way Forward\"",
+                "Saul Ruiz"
+            ],
+            [
+                "14",
+                "2",
+                "\"Friends\"",
+                "Steward Lee"
+            ],
+            [
+                "15",
+                "3",
+                "\"One Warrior to Another\"",
+                "Nathaniel Villanueva"
+            ],
+            [
+                "16",
+                "4",
+                "\"The Good Life\"",
+                "Saul Ruiz"
+            ],
+            [
+                "17",
+                "5",
+                "\"A Good Turn\"",
+                "Steward Lee"
+            ],
+            [
+                "18",
+                "6",
+                "\"One Good Deed\"",
+                "Nathaniel Villanueva"
+            ]
+        ],
+        "table_text": "no._overall | no._in_series | title | directed_by<br>13 | 1 | \"A Way Forward\" | Saul Ruiz<br>14 | 2 | \"Friends\" | Steward Lee<br>15 | 3 | \"One Warrior to Another\" | Nathaniel Villanueva<br>16 | 4 | \"The Good Life\" | Saul Ruiz<br>17 | 5 | \"A Good Turn\" | Steward Lee<br>18 | 6 | \"One Good Deed\" | Nathaniel Villanueva"
+    },
+    "4": {
+        "title": "Good American Family",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Good_American_Family",
+        "date": "2024-03-20T21:08:03Z",
+        "csv_id": "Q130250737_4.csv",
+        "QID": "Q130250737",
+        "table": [
+            [
+                "no.",
+                "title",
+                "directed_by",
+                "written_by",
+                "original_release_date"
+            ],
+            [
+                "1",
+                "\"Almost Like a Prayer\"",
+                "Liz Garbus",
+                "Katie Robbins",
+                "March 19, 2025"
+            ],
+            [
+                "2",
+                "\"Jump the Jitters Out\"",
+                "Stacie Passon",
+                "Katie Robbins",
+                "March 19, 2025"
+            ],
+            [
+                "3",
+                "\"Ghosts Everywhere\"",
+                "Seith Mann",
+                "Sarah Sutherland",
+                "March 26, 2025"
+            ],
+            [
+                "4",
+                "\"Right There in Black and White\"",
+                "Eva Vives",
+                "Eoghan O'Donnell",
+                "April 2, 2025"
+            ],
+            [
+                "5",
+                "\"Too Hurty Without It\"",
+                "Liz Garbus",
+                "Katie Robbins",
+                "April 9, 2025"
+            ],
+            [
+                "6",
+                "\"Not Today Satan\"",
+                "Hannah Fidell",
+                "Jaquen Tee Castellanos",
+                "April 16, 2025"
+            ],
+            [
+                "7",
+                "\"If You Tell a Story Well Enough\"",
+                "Iain B. MacDonald",
+                "Samantha Levenshus",
+                "April 23, 2025"
+            ],
+            [
+                "8",
+                "\"Blood on Her Hands\"",
+                "Iain B. MacDonald",
+                "Katie Robbins & Sarah Sutherland",
+                "April 30, 2025"
+            ]
+        ],
+        "table_text": "no. | title | directed_by | written_by | original_release_date<br>1 | \"Almost Like a Prayer\" | Liz Garbus | Katie Robbins | March 19, 2025<br>2 | \"Jump the Jitters Out\" | Stacie Passon | Katie Robbins | March 19, 2025<br>3 | \"Ghosts Everywhere\" | Seith Mann | Sarah Sutherland | March 26, 2025<br>4 | \"Right There in Black and White\" | Eva Vives | Eoghan O'Donnell | April 2, 2025<br>5 | \"Too Hurty Without It\" | Liz Garbus | Katie Robbins | April 9, 2025<br>6 | \"Not Today Satan\" | Hannah Fidell | Jaquen Tee Castellanos | April 16, 2025<br>7 | \"If You Tell a Story Well Enough\" | Iain B. MacDonald | Samantha Levenshus | April 23, 2025<br>8 | \"Blood on Her Hands\" | Iain B. MacDonald | Katie Robbins & Sarah Sutherland | April 30, 2025"
+    },
+    "5": {
+        "title": "Adolescence",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Adolescence_(TV_series)",
+        "date": "2024-03-14T20:50:22Z",
+        "csv_id": "Q127774333_5.csv",
+        "QID": "Q127774333",
+        "table": [
+            [
+                "award",
+                "category",
+                "recipient(s)",
+                "result"
+            ],
+            [
+                "Gotham TV Awards",
+                "Breakthrough Limited Series",
+                "Adolescence",
+                "Won"
+            ],
+            [
+                "Gotham TV Awards",
+                "Outstanding Lead Performance in a Limited Series",
+                "Stephen Graham",
+                "Won"
+            ],
+            [
+                "Gotham TV Awards",
+                "Outstanding Supporting Performance in a Limited Series",
+                "Owen Cooper",
+                "Won"
+            ],
+            [
+                "Gotham TV Awards",
+                "Outstanding Supporting Performance in a Limited Series",
+                "Erin Doherty",
+                "Nominated"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Limited Series",
+                "Adolescence",
+                "Won"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Cast Ensemble in a Limited Series or TV Movie",
+                "Adolescence",
+                "Nominated"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Directing in a Limited Series or TV Movie",
+                "\"Episode 3\" – Philip Barantini",
+                "Won"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Writing in a Limited Series or TV Movie",
+                "\"Episode 3\" – Jack Thorne and Stephen Graham",
+                "Won"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Actor in a Limited Series or TV Movie",
+                "Stephen Graham",
+                "Nominated"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Supporting Actor in a Limited Series or TV Movie",
+                "Owen Cooper",
+                "Won"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Supporting Actor in a Limited Series or TV Movie",
+                "Ashley Walters",
+                "Nominated"
+            ],
+            [
+                "Astra TV Awards",
+                "Best Supporting Actress in a Limited Series or Streaming Movie",
+                "Erin Doherty",
+                "Nominated"
+            ]
+        ],
+        "table_text": "award | category | recipient(s) | result<br>Gotham TV Awards | Breakthrough Limited Series | Adolescence | Won<br>Gotham TV Awards | Outstanding Lead Performance in a Limited Series | Stephen Graham | Won<br>Gotham TV Awards | Outstanding Supporting Performance in a Limited Series | Owen Cooper | Won<br>Gotham TV Awards | Outstanding Supporting Performance in a Limited Series | Erin Doherty | Nominated<br>Astra TV Awards | Best Limited Series | Adolescence | Won<br>Astra TV Awards | Best Cast Ensemble in a Limited Series or TV Movie | Adolescence | Nominated<br>Astra TV Awards | Best Directing in a Limited Series or TV Movie | \"Episode 3\" – Philip Barantini | Won<br>Astra TV Awards | Best Writing in a Limited Series or TV Movie | \"Episode 3\" – Jack Thorne and Stephen Graham | Won<br>Astra TV Awards | Best Actor in a Limited Series or TV Movie | Stephen Graham | Nominated<br>Astra TV Awards | Best Supporting Actor in a Limited Series or TV Movie | Owen Cooper | Won<br>Astra TV Awards | Best Supporting Actor in a Limited Series or TV Movie | Ashley Walters | Nominated<br>Astra TV Awards | Best Supporting Actress in a Limited Series or Streaming Movie | Erin Doherty | Nominated"
+    },
+    "6": {
+        "title": "ONE: High School Heroes",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/One:_High_School_Heroes",
+        "date": "2025-05-01T03:07:47Z",
+        "csv_id": "Q134542307_6.csv",
+        "QID": "Q134542307",
+        "table": [
+            [
+                "no.",
+                "episode_title",
+                "original_release_date"
+            ],
+            [
+                "1",
+                "\"Walkman\"",
+                "May 30, 2025"
+            ],
+            [
+                "2",
+                "\"Emergency Room\"",
+                "May 30, 2025"
+            ],
+            [
+                "3",
+                "\"Privileges\"",
+                "May 30, 2025"
+            ],
+            [
+                "4",
+                "\"Hero Mask\"",
+                "May 30, 2025"
+            ],
+            [
+                "5",
+                "\"High School Superheroes\"",
+                "June 6, 2025"
+            ],
+            [
+                "6",
+                "\"Bad Guy\"",
+                "June 6, 2025"
+            ],
+            [
+                "7",
+                "\"Dream\"",
+                "June 13, 2025"
+            ],
+            [
+                "8",
+                "\"Heroes\"",
+                "June 13, 2025"
+            ]
+        ],
+        "table_text": "no. | episode_title | original_release_date<br>1 | \"Walkman\" | May 30, 2025<br>2 | \"Emergency Room\" | May 30, 2025<br>3 | \"Privileges\" | May 30, 2025<br>4 | \"Hero Mask\" | May 30, 2025<br>5 | \"High School Superheroes\" | June 6, 2025<br>6 | \"Bad Guy\" | June 6, 2025<br>7 | \"Dream\" | June 13, 2025<br>8 | \"Heroes\" | June 13, 2025"
+    }
+}
