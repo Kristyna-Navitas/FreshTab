@@ -1,0 +1,2318 @@
+{
+    "342": {
+        "title": "Revenge on Gold Diggers",
+        "category": "mix | video games",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Revenge_on_Gold_Diggers",
+        "date": "2025-06-24T09:31:26Z",
+        "csv_id": "Q134998169_342.csv",
+        "QID": "Q134998169",
+        "table": [
+            [
+                "character",
+                "actor",
+                "character_description"
+            ],
+            [
+                "Wu Yulun",
+                "Xu Yue",
+                "Emerging fashion company founder, male protagonist"
+            ],
+            [
+                "Pan Mengna",
+                "Xu Wei",
+                "Founder of Cinderelle, entrepreneur, introduced in Chapter 3, appears formally in Chapter 6"
+            ],
+            [
+                "Chen Xinxin",
+                "Liu Mengru",
+                "Cinderelle member, new anchor, model, event organizer, first appears in Chapter 1"
+            ],
+            [
+                "Tang Xiaotian",
+                "Li Keyi",
+                "Famous MCN agent signed internet celebrity, first appears in Chapter 2"
+            ],
+            [
+                "Song Shiqi",
+                "Yang Yi",
+                "Cinderelle member, famous gender blogger, first appears in Chapter 3"
+            ],
+            [
+                "He Yueying",
+                "Zhao Lei",
+                "Cinderelle member, honorary chairman of a commerce association, first appears in Chapter 4"
+            ],
+            [
+                "Lin Fang",
+                "Chen Huiyan",
+                "Anti-gold digger team member, former gold digger, first appears in Chapter 1"
+            ],
+            [
+                "Luo Ji",
+                "<NA>",
+                "Anti-gold digger team member, bankrupt rich second generation, hacker, first appears in Chapter 1"
+            ],
+            [
+                "Uncle Da",
+                "<NA>",
+                "Anti-gold digger team member, lawyer, sanda coach, first appears in Chapter 1"
+            ],
+            [
+                "Xiao Liu",
+                "<NA>",
+                "Employee of emerging fashion brand, former \"lick dog (舔狗, A derogatory term for men overly submissive to women)\", first appears in Chapter 1"
+            ]
+        ],
+        "table_text": "character | actor | character_description<br>Wu Yulun | Xu Yue | Emerging fashion company founder, male protagonist<br>Pan Mengna | Xu Wei | Founder of Cinderelle, entrepreneur, introduced in Chapter 3, appears formally in Chapter 6<br>Chen Xinxin | Liu Mengru | Cinderelle member, new anchor, model, event organizer, first appears in Chapter 1<br>Tang Xiaotian | Li Keyi | Famous MCN agent signed internet celebrity, first appears in Chapter 2<br>Song Shiqi | Yang Yi | Cinderelle member, famous gender blogger, first appears in Chapter 3<br>He Yueying | Zhao Lei | Cinderelle member, honorary chairman of a commerce association, first appears in Chapter 4<br>Lin Fang | Chen Huiyan | Anti-gold digger team member, former gold digger, first appears in Chapter 1<br>Luo Ji | <NA> | Anti-gold digger team member, bankrupt rich second generation, hacker, first appears in Chapter 1<br>Uncle Da | <NA> | Anti-gold digger team member, lawyer, sanda coach, first appears in Chapter 1<br>Xiao Liu | <NA> | Employee of emerging fashion brand, former \"lick dog (舔狗, A derogatory term for men overly submissive to women)\", first appears in Chapter 1",
+        "logical_labels": [
+            "none",
+            "unique",
+            "aggregation",
+            "negation",
+            "superlative"
+        ]
+    },
+    "341": {
+        "title": "Grand Theft Auto V Enhanced",
+        "category": "mix | video games",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V_Enhanced",
+        "date": "2025-02-27T21:05:10Z",
+        "csv_id": "Q132801799_341.csv",
+        "QID": "Q132801799",
+        "table": [
+            [
+                "date",
+                "award",
+                "category",
+                "recipient(s)_and_nominee(s)",
+                "result"
+            ],
+            [
+                "7 December 2012",
+                "Spike Video Game Awards",
+                "Most Anticipated Game",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "25 October 2013",
+                "Golden Joystick Awards",
+                "Game of the Year",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "2 December 2013",
+                "Satellite Awards",
+                "Outstanding Action / Adventure Video Game",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Game of the Year",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best Soundtrack",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Studio of the Year",
+                "Rockstar North",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best Action Adventure Game",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best Xbox Game",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best PlayStation Game",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best Voice Actor",
+                "Steven Ogg as Trevor Philips",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best Song in a Game",
+                "\"A.D.H.D\" by Kendrick Lamar",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Best Song in a Game",
+                "\"Sleepwalking\" by The Chain Gang of 1974",
+                "Nominated"
+            ],
+            [
+                "7 December 2013",
+                "Spike VGX",
+                "Character of the Year",
+                "Trevor Philips",
+                "Nominated"
+            ],
+            [
+                "9 January 2014",
+                "Game Developers Choice Awards",
+                "Game of the Year",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "9 January 2014",
+                "Game Developers Choice Awards",
+                "Best Technology",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "9 January 2014",
+                "Game Developers Choice Awards",
+                "Best Audio",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "9 January 2014",
+                "Game Developers Choice Awards",
+                "Best Design",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Game of the Year",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Outstanding Achievement in Game Direction",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Outstanding Achievement in Gameplay Engineering",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Outstanding Achievement in Visual Engineering",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Outstanding Achievement in Sound Design",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Outstanding Innovation in Gaming",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "6 February 2014",
+                "D.I.C.E. Awards",
+                "Outstanding Character Performance",
+                "Trevor Philips",
+                "Nominated"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Best Game",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Action & Adventure",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Audio Achievement",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "British Game",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Game Design",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Game Innovation",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Multiplayer",
+                "Grand Theft Auto Online",
+                "Won"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Performer",
+                "Steven Ogg as Trevor Philips",
+                "Nominated"
+            ],
+            [
+                "13 March 2014",
+                "British Academy Video Games Awards",
+                "Story",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "5 December 2014",
+                "The Game Awards",
+                "Best Remaster",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "31 December 2016",
+                "The Steam Awards",
+                "\"Whoooaaaaaaa, dude!\"",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "31 December 2016",
+                "The Steam Awards",
+                "\"Game Within a Game\"",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "8 February 2019",
+                "The Steam Awards",
+                "Labor of Love",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "31 December 2019",
+                "The Steam Awards",
+                "Labor of Love",
+                "Grand Theft Auto V",
+                "Won"
+            ],
+            [
+                "15 November 2019",
+                "Golden Joystick Awards",
+                "Best Game Expansion",
+                "Grand Theft Auto Online – The Diamond Casino & Resort",
+                "Won"
+            ],
+            [
+                "24 November 2020",
+                "Golden Joystick Awards",
+                "Still Playing",
+                "Grand Theft Auto Online",
+                "Nominated"
+            ],
+            [
+                "23 November 2021",
+                "Golden Joystick Awards",
+                "Still Playing Award",
+                "Grand Theft Auto Online",
+                "Nominated"
+            ],
+            [
+                "14 March 2022",
+                "The Streamer Awards",
+                "Stream Game of the Year",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "10 November 2023",
+                "Golden Joystick Awards",
+                "Still Playing Award",
+                "Grand Theft Auto Online",
+                "Nominated"
+            ],
+            [
+                "17 February 2024",
+                "The Streamer Awards",
+                "Stream Game of the Year",
+                "Grand Theft Auto V",
+                "Nominated"
+            ],
+            [
+                "21 November 2024",
+                "Golden Joystick Awards",
+                "Still Playing Award – PC and Console",
+                "Grand Theft Auto Online",
+                "Nominated"
+            ]
+        ],
+        "table_text": "date | award | category | recipient(s)_and_nominee(s) | result<br>7 December 2012 | Spike Video Game Awards | Most Anticipated Game | Grand Theft Auto V | Won<br>25 October 2013 | Golden Joystick Awards | Game of the Year | Grand Theft Auto V | Won<br>2 December 2013 | Satellite Awards | Outstanding Action / Adventure Video Game | Grand Theft Auto V | Nominated<br>7 December 2013 | Spike VGX | Game of the Year | Grand Theft Auto V | Won<br>7 December 2013 | Spike VGX | Best Soundtrack | Grand Theft Auto V | Won<br>7 December 2013 | Spike VGX | Studio of the Year | Rockstar North | Nominated<br>7 December 2013 | Spike VGX | Best Action Adventure Game | Grand Theft Auto V | Nominated<br>7 December 2013 | Spike VGX | Best Xbox Game | Grand Theft Auto V | Nominated<br>7 December 2013 | Spike VGX | Best PlayStation Game | Grand Theft Auto V | Nominated<br>7 December 2013 | Spike VGX | Best Voice Actor | Steven Ogg as Trevor Philips | Nominated<br>7 December 2013 | Spike VGX | Best Song in a Game | \"A.D.H.D\" by Kendrick Lamar | Nominated<br>7 December 2013 | Spike VGX | Best Song in a Game | \"Sleepwalking\" by The Chain Gang of 1974 | Nominated<br>7 December 2013 | Spike VGX | Character of the Year | Trevor Philips | Nominated<br>9 January 2014 | Game Developers Choice Awards | Game of the Year | Grand Theft Auto V | Nominated<br>9 January 2014 | Game Developers Choice Awards | Best Technology | Grand Theft Auto V | Won<br>9 January 2014 | Game Developers Choice Awards | Best Audio | Grand Theft Auto V | Nominated<br>9 January 2014 | Game Developers Choice Awards | Best Design | Grand Theft Auto V | Nominated<br>6 February 2014 | D.I.C.E. Awards | Game of the Year | Grand Theft Auto V | Nominated<br>6 February 2014 | D.I.C.E. Awards | Outstanding Achievement in Game Direction | Grand Theft Auto V | Nominated<br>6 February 2014 | D.I.C.E. Awards | Outstanding Achievement in Gameplay Engineering | Grand Theft Auto V | Won<br>6 February 2014 | D.I.C.E. Awards | Outstanding Achievement in Visual Engineering | Grand Theft Auto V | Nominated<br>6 February 2014 | D.I.C.E. Awards | Outstanding Achievement in Sound Design | Grand Theft Auto V | Nominated<br>6 February 2014 | D.I.C.E. Awards | Outstanding Innovation in Gaming | Grand Theft Auto V | Nominated<br>6 February 2014 | D.I.C.E. Awards | Outstanding Character Performance | Trevor Philips | Nominated<br>13 March 2014 | British Academy Video Games Awards | Best Game | Grand Theft Auto V | Nominated<br>13 March 2014 | British Academy Video Games Awards | Action & Adventure | Grand Theft Auto V | Nominated<br>13 March 2014 | British Academy Video Games Awards | Audio Achievement | Grand Theft Auto V | Nominated<br>13 March 2014 | British Academy Video Games Awards | British Game | Grand Theft Auto V | Won<br>13 March 2014 | British Academy Video Games Awards | Game Design | Grand Theft Auto V | Won<br>13 March 2014 | British Academy Video Games Awards | Game Innovation | Grand Theft Auto V | Nominated<br>13 March 2014 | British Academy Video Games Awards | Multiplayer | Grand Theft Auto Online | Won<br>13 March 2014 | British Academy Video Games Awards | Performer | Steven Ogg as Trevor Philips | Nominated<br>13 March 2014 | British Academy Video Games Awards | Story | Grand Theft Auto V | Nominated<br>5 December 2014 | The Game Awards | Best Remaster | Grand Theft Auto V | Won<br>31 December 2016 | The Steam Awards | \"Whoooaaaaaaa, dude!\" | Grand Theft Auto V | Won<br>31 December 2016 | The Steam Awards | \"Game Within a Game\" | Grand Theft Auto V | Won<br>8 February 2019 | The Steam Awards | Labor of Love | Grand Theft Auto V | Won<br>31 December 2019 | The Steam Awards | Labor of Love | Grand Theft Auto V | Won<br>15 November 2019 | Golden Joystick Awards | Best Game Expansion | Grand Theft Auto Online – The Diamond Casino & Resort | Won<br>24 November 2020 | Golden Joystick Awards | Still Playing | Grand Theft Auto Online | Nominated<br>23 November 2021 | Golden Joystick Awards | Still Playing Award | Grand Theft Auto Online | Nominated<br>14 March 2022 | The Streamer Awards | Stream Game of the Year | Grand Theft Auto V | Nominated<br>10 November 2023 | Golden Joystick Awards | Still Playing Award | Grand Theft Auto Online | Nominated<br>17 February 2024 | The Streamer Awards | Stream Game of the Year | Grand Theft Auto V | Nominated<br>21 November 2024 | Golden Joystick Awards | Still Playing Award – PC and Console | Grand Theft Auto Online | Nominated",
+        "logical_labels": [
+            "ordinal",
+            "aggregation",
+            "superlative",
+            "unique",
+            "none"
+        ]
+    },
+    "6": {
+        "title": "ONE: High School Heroes",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/One:_High_School_Heroes",
+        "date": "2025-05-01T03:07:47Z",
+        "csv_id": "Q134542307_6.csv",
+        "QID": "Q134542307",
+        "table": [
+            [
+                "no.",
+                "episode_title",
+                "original_release_date"
+            ],
+            [
+                "1",
+                "\"Walkman\"",
+                "May 30, 2025"
+            ],
+            [
+                "2",
+                "\"Emergency Room\"",
+                "May 30, 2025"
+            ],
+            [
+                "3",
+                "\"Privileges\"",
+                "May 30, 2025"
+            ],
+            [
+                "4",
+                "\"Hero Mask\"",
+                "May 30, 2025"
+            ],
+            [
+                "5",
+                "\"High School Superheroes\"",
+                "June 6, 2025"
+            ],
+            [
+                "6",
+                "\"Bad Guy\"",
+                "June 6, 2025"
+            ],
+            [
+                "7",
+                "\"Dream\"",
+                "June 13, 2025"
+            ],
+            [
+                "8",
+                "\"Heroes\"",
+                "June 13, 2025"
+            ]
+        ],
+        "table_text": "no. | episode_title | original_release_date<br>1 | \"Walkman\" | May 30, 2025<br>2 | \"Emergency Room\" | May 30, 2025<br>3 | \"Privileges\" | May 30, 2025<br>4 | \"Hero Mask\" | May 30, 2025<br>5 | \"High School Superheroes\" | June 6, 2025<br>6 | \"Bad Guy\" | June 6, 2025<br>7 | \"Dream\" | June 13, 2025<br>8 | \"Heroes\" | June 13, 2025",
+        "logical_labels": [
+            "unique",
+            "all",
+            "count",
+            "superlative",
+            "negation"
+        ]
+    },
+    "4": {
+        "title": "Good American Family",
+        "category": "culture | narrative",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Good_American_Family",
+        "date": "2024-03-20T21:08:03Z",
+        "csv_id": "Q130250737_4.csv",
+        "QID": "Q130250737",
+        "table": [
+            [
+                "no.",
+                "title",
+                "directed_by",
+                "written_by",
+                "original_release_date"
+            ],
+            [
+                "1",
+                "\"Almost Like a Prayer\"",
+                "Liz Garbus",
+                "Katie Robbins",
+                "March 19, 2025"
+            ],
+            [
+                "2",
+                "\"Jump the Jitters Out\"",
+                "Stacie Passon",
+                "Katie Robbins",
+                "March 19, 2025"
+            ],
+            [
+                "3",
+                "\"Ghosts Everywhere\"",
+                "Seith Mann",
+                "Sarah Sutherland",
+                "March 26, 2025"
+            ],
+            [
+                "4",
+                "\"Right There in Black and White\"",
+                "Eva Vives",
+                "Eoghan O'Donnell",
+                "April 2, 2025"
+            ],
+            [
+                "5",
+                "\"Too Hurty Without It\"",
+                "Liz Garbus",
+                "Katie Robbins",
+                "April 9, 2025"
+            ],
+            [
+                "6",
+                "\"Not Today Satan\"",
+                "Hannah Fidell",
+                "Jaquen Tee Castellanos",
+                "April 16, 2025"
+            ],
+            [
+                "7",
+                "\"If You Tell a Story Well Enough\"",
+                "Iain B. MacDonald",
+                "Samantha Levenshus",
+                "April 23, 2025"
+            ],
+            [
+                "8",
+                "\"Blood on Her Hands\"",
+                "Iain B. MacDonald",
+                "Katie Robbins & Sarah Sutherland",
+                "April 30, 2025"
+            ]
+        ],
+        "table_text": "no. | title | directed_by | written_by | original_release_date<br>1 | \"Almost Like a Prayer\" | Liz Garbus | Katie Robbins | March 19, 2025<br>2 | \"Jump the Jitters Out\" | Stacie Passon | Katie Robbins | March 19, 2025<br>3 | \"Ghosts Everywhere\" | Seith Mann | Sarah Sutherland | March 26, 2025<br>4 | \"Right There in Black and White\" | Eva Vives | Eoghan O'Donnell | April 2, 2025<br>5 | \"Too Hurty Without It\" | Liz Garbus | Katie Robbins | April 9, 2025<br>6 | \"Not Today Satan\" | Hannah Fidell | Jaquen Tee Castellanos | April 16, 2025<br>7 | \"If You Tell a Story Well Enough\" | Iain B. MacDonald | Samantha Levenshus | April 23, 2025<br>8 | \"Blood on Her Hands\" | Iain B. MacDonald | Katie Robbins & Sarah Sutherland | April 30, 2025",
+        "logical_labels": [
+            "comparative",
+            "all",
+            "negation",
+            "aggregation",
+            "none"
+        ]
+    },
+    "25": {
+        "title": "13th Republican Parliament of Trinidad and Tobago",
+        "category": "politics | legislative term",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/13th_Republican_Parliament_of_Trinidad_and_Tobago",
+        "date": "2025-04-16T19:42:50Z",
+        "csv_id": "Q134300818_25.csv",
+        "QID": "Q134300818",
+        "table": [
+            [
+                "constituency",
+                "party.1",
+                "member_of_parliament",
+                "years_in_office"
+            ],
+            [
+                "Aranguez/St Joseph",
+                "UNC",
+                "Devesh Maharaj",
+                "2025–present"
+            ],
+            [
+                "Arima",
+                "PNM",
+                "Pennelope Beckles-Robinson",
+                "2000–2010, 2020–present"
+            ],
+            [
+                "Arouca/Lopinot",
+                "PNM",
+                "Marvin Gonzales",
+                "2020–present"
+            ],
+            [
+                "Barataria/San Juan",
+                "UNC",
+                "Saddam Hosein",
+                "2020–present"
+            ],
+            [
+                "Caroni Central",
+                "UNC",
+                "David Lee",
+                "2015–present"
+            ],
+            [
+                "Caroni East",
+                "UNC",
+                "Rishad Seecheran",
+                "2020–present"
+            ],
+            [
+                "Chaguanas East",
+                "UNC",
+                "Vandana Mohit",
+                "2020–present"
+            ],
+            [
+                "Chaguanas West",
+                "UNC",
+                "Colin Neil Gosine",
+                "2025–present"
+            ],
+            [
+                "Claxton Bay",
+                "UNC",
+                "Hansen Narinesingh",
+                "2025–present"
+            ],
+            [
+                "Couva North",
+                "UNC",
+                "Jearlean John",
+                "2025–present"
+            ],
+            [
+                "Couva South",
+                "UNC",
+                "Barry Padarath",
+                "2015–present"
+            ],
+            [
+                "Cumuto/Manzanilla",
+                "UNC",
+                "Shivanna Sam",
+                "2025–present"
+            ],
+            [
+                "Diego Martin Central",
+                "PNM",
+                "Symon de Nobriga",
+                "2020–present"
+            ],
+            [
+                "Diego Martin North/East",
+                "PNM",
+                "Colm Imbert",
+                "1991–present"
+            ],
+            [
+                "Diego Martin West",
+                "PNM",
+                "Hans des Vignes",
+                "2025–present"
+            ],
+            [
+                "Fyzabad",
+                "UNC",
+                "Davendranath Tancoo",
+                "2020–present"
+            ],
+            [
+                "La Brea",
+                "UNC",
+                "Clyde Elder",
+                "2025–present"
+            ],
+            [
+                "La Horquetta/Talparo",
+                "UNC",
+                "Phillip Watts",
+                "2025–present"
+            ],
+            [
+                "Laventille East/Morvant",
+                "PNM",
+                "Christian Birchwood",
+                "2025–present"
+            ],
+            [
+                "Laventille West",
+                "PNM",
+                "Kareem Marcelle",
+                "2025–present"
+            ],
+            [
+                "Malabar/Mausica",
+                "PNM",
+                "Dominic Romain",
+                "2025–present"
+            ],
+            [
+                "Mayaro",
+                "UNC",
+                "Nicholas Morris",
+                "2025–present"
+            ],
+            [
+                "Moruga/Tableland",
+                "UNC",
+                "Michelle Benjamin",
+                "2020–present"
+            ],
+            [
+                "Naparima",
+                "UNC",
+                "Narindra Roopnarine",
+                "2025–present"
+            ],
+            [
+                "Oropouche East",
+                "UNC",
+                "Roodal Moonilal",
+                "2002–2007, 2010–present"
+            ],
+            [
+                "Oropouche West",
+                "UNC",
+                "Lackram Bodoe",
+                "2015–present"
+            ],
+            [
+                "Point Fortin",
+                "UNC",
+                "Ernesto Kesar",
+                "2025–present"
+            ],
+            [
+                "Port of Spain North/St. Ann's West",
+                "PNM",
+                "Stuart Young",
+                "2015–present"
+            ],
+            [
+                "Port of Spain South",
+                "PNM",
+                "Keith Scotland",
+                "2020–present"
+            ],
+            [
+                "Princes Town",
+                "UNC",
+                "Aiyna Ali",
+                "2025–present"
+            ],
+            [
+                "San Fernando East",
+                "PNM",
+                "Brian Manning",
+                "2020–present"
+            ],
+            [
+                "San Fernando West",
+                "UNC",
+                "Michael Dowlath",
+                "2025–present"
+            ],
+            [
+                "Siparia",
+                "UNC",
+                "Kamla Persad-Bissessar",
+                "1995–present"
+            ],
+            [
+                "St. Ann's East",
+                "PNM",
+                "Nyan Gadsby-Dolly",
+                "2015–present"
+            ],
+            [
+                "St. Augustine",
+                "UNC",
+                "Khadijah Ameen",
+                "2020–present"
+            ],
+            [
+                "Tabaquite",
+                "UNC",
+                "Sean Sobers",
+                "2025–present"
+            ],
+            [
+                "Tobago East",
+                "TPP",
+                "David Thomas",
+                "2025–present"
+            ],
+            [
+                "Tobago West",
+                "TPP",
+                "Joel Sampson",
+                "2025–present"
+            ],
+            [
+                "Toco/Sangre Grande",
+                "UNC",
+                "Wayne Sturge",
+                "2025–present"
+            ],
+            [
+                "Trincity/Maloney",
+                "PNM",
+                "Camille Robinson-Regis",
+                "2015–present"
+            ],
+            [
+                "Tunapuna",
+                "UNC",
+                "Roger Alexander",
+                "2025–present"
+            ]
+        ],
+        "table_text": "constituency | party.1 | member_of_parliament | years_in_office<br>Aranguez/St Joseph | UNC | Devesh Maharaj | 2025–present<br>Arima | PNM | Pennelope Beckles-Robinson | 2000–2010, 2020–present<br>Arouca/Lopinot | PNM | Marvin Gonzales | 2020–present<br>Barataria/San Juan | UNC | Saddam Hosein | 2020–present<br>Caroni Central | UNC | David Lee | 2015–present<br>Caroni East | UNC | Rishad Seecheran | 2020–present<br>Chaguanas East | UNC | Vandana Mohit | 2020–present<br>Chaguanas West | UNC | Colin Neil Gosine | 2025–present<br>Claxton Bay | UNC | Hansen Narinesingh | 2025–present<br>Couva North | UNC | Jearlean John | 2025–present<br>Couva South | UNC | Barry Padarath | 2015–present<br>Cumuto/Manzanilla | UNC | Shivanna Sam | 2025–present<br>Diego Martin Central | PNM | Symon de Nobriga | 2020–present<br>Diego Martin North/East | PNM | Colm Imbert | 1991–present<br>Diego Martin West | PNM | Hans des Vignes | 2025–present<br>Fyzabad | UNC | Davendranath Tancoo | 2020–present<br>La Brea | UNC | Clyde Elder | 2025–present<br>La Horquetta/Talparo | UNC | Phillip Watts | 2025–present<br>Laventille East/Morvant | PNM | Christian Birchwood | 2025–present<br>Laventille West | PNM | Kareem Marcelle | 2025–present<br>Malabar/Mausica | PNM | Dominic Romain | 2025–present<br>Mayaro | UNC | Nicholas Morris | 2025–present<br>Moruga/Tableland | UNC | Michelle Benjamin | 2020–present<br>Naparima | UNC | Narindra Roopnarine | 2025–present<br>Oropouche East | UNC | Roodal Moonilal | 2002–2007, 2010–present<br>Oropouche West | UNC | Lackram Bodoe | 2015–present<br>Point Fortin | UNC | Ernesto Kesar | 2025–present<br>Port of Spain North/St. Ann's West | PNM | Stuart Young | 2015–present<br>Port of Spain South | PNM | Keith Scotland | 2020–present<br>Princes Town | UNC | Aiyna Ali | 2025–present<br>San Fernando East | PNM | Brian Manning | 2020–present<br>San Fernando West | UNC | Michael Dowlath | 2025–present<br>Siparia | UNC | Kamla Persad-Bissessar | 1995–present<br>St. Ann's East | PNM | Nyan Gadsby-Dolly | 2015–present<br>St. Augustine | UNC | Khadijah Ameen | 2020–present<br>Tabaquite | UNC | Sean Sobers | 2025–present<br>Tobago East | TPP | David Thomas | 2025–present<br>Tobago West | TPP | Joel Sampson | 2025–present<br>Toco/Sangre Grande | UNC | Wayne Sturge | 2025–present<br>Trincity/Maloney | PNM | Camille Robinson-Regis | 2015–present<br>Tunapuna | UNC | Roger Alexander | 2025–present",
+        "logical_labels": [
+            "superlative",
+            "unique",
+            "all",
+            "none",
+            "aggregation"
+        ]
+    },
+    "48": {
+        "title": "2025 Romanian presidential election",
+        "category": "politics | public election",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Romanian_presidential_election",
+        "date": "2024-12-06T18:26:55Z",
+        "csv_id": "Q131398188_48.csv",
+        "QID": "Q131398188",
+        "table": [
+            [
+                "extraparliamentary_parties.1",
+                "extraparliamentary_parties.2",
+                "extraparliamentary_parties.3",
+                "ideology",
+                "first_round",
+                "second_round"
+            ],
+            [
+                "Health Education Nature Sustainability Party",
+                "Health Education Nature Sustainability Party",
+                "Health Education Nature Sustainability Party",
+                "Progressivism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Force of the Right",
+                "Force of the Right",
+                "Force of the Right",
+                "Liberal conservatism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "United Social Democratic Party",
+                "United Social Democratic Party",
+                "United Social Democratic Party",
+                "Christian left",
+                "Victor Ponta",
+                "Nicușor Dan"
+            ],
+            [
+                "Renewing Romania's European Project",
+                "Renewing Romania's European Project",
+                "Renewing Romania's European Project",
+                "Liberalism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Justice and Respect in Europe for All Party",
+                "Justice and Respect in Europe for All Party",
+                "Justice and Respect in Europe for All Party",
+                "Anti-corruption",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "People's Movement Party",
+                "People's Movement Party",
+                "People's Movement Party",
+                "National conservatism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "National Peasants' Party Maniu-Mihalache",
+                "National Peasants' Party Maniu-Mihalache",
+                "National Peasants' Party Maniu-Mihalache",
+                "Agrarianism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Courage",
+                "Courage",
+                "Courage",
+                "Liberalism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "United Diaspora Party",
+                "United Diaspora Party",
+                "United Diaspora Party",
+                "Pro-Europeanism",
+                "Nicusor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Union for State Reform",
+                "Union for State Reform",
+                "Union for State Reform",
+                "Reformism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Nature, People, and Animals",
+                "Nature, People, and Animals",
+                "Nature, People, and Animals",
+                "Animal rights",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Green Party",
+                "Green Party",
+                "Green Party",
+                "Green politics",
+                "For a European Romania",
+                "Nicușor Dan"
+            ],
+            [
+                "Volt Romania",
+                "Volt Romania",
+                "Volt Romania",
+                "European federalism",
+                "No endorsement",
+                "Nicușor Dan"
+            ],
+            [
+                "Democracy and Solidarity Party",
+                "Democracy and Solidarity Party",
+                "Democracy and Solidarity Party",
+                "Democratic socialism",
+                "Against far-right",
+                "Nicușor Dan"
+            ],
+            [
+                "We, Ploieșteni Movement",
+                "We, Ploieșteni Movement",
+                "We, Ploieșteni Movement",
+                "Regionalism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "Székelyudvarhelyért Party",
+                "Székelyudvarhelyért Party",
+                "Székelyudvarhelyért Party",
+                "Localism",
+                "Nicușor Dan",
+                "Nicușor Dan"
+            ],
+            [
+                "PACT for Galați",
+                "PACT for Galați",
+                "PACT for Galați",
+                "Regionalism",
+                "No endorsement",
+                "Nicușor Dan"
+            ],
+            [
+                "Future of Țara Făgărașului Local Party",
+                "Future of Țara Făgărașului Local Party",
+                "Future of Țara Făgărașului Local Party",
+                "Regionalism",
+                "No endorsement",
+                "Nicușor Dan"
+            ],
+            [
+                "We Help Romania Together",
+                "We Help Romania Together",
+                "We Help Romania Together",
+                "Regionalism",
+                "No endorsement",
+                "Nicușor Dan"
+            ],
+            [
+                "Berceni Local Action Group",
+                "Berceni Local Action Group",
+                "Berceni Local Action Group",
+                "Localism",
+                "For a European Romania",
+                "No endorsement"
+            ],
+            [
+                "Nation People Together",
+                "Nation People Together",
+                "Nation People Together",
+                "Social democracy",
+                "No endorsement",
+                "For a European Romania"
+            ],
+            [
+                "Party of Free People",
+                "Party of Free People",
+                "Party of Free People",
+                "Localism",
+                "No endorsement",
+                "Against Simion"
+            ],
+            [
+                "Christian Democratic National Peasants' Party",
+                "Christian Democratic National Peasants' Party",
+                "Christian Democratic National Peasants' Party",
+                "Christian democracy",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "Geto-Dacian Union Party",
+                "Geto-Dacian Union Party",
+                "Geto-Dacian Union Party",
+                "Conservatism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "Communists' Party",
+                "Communists' Party",
+                "Communists' Party",
+                "Communism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "Romanian Socialist Party",
+                "Romanian Socialist Party",
+                "Romanian Socialist Party",
+                "Communism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "Communist Party of the 21st Century",
+                "Communist Party of the 21st Century",
+                "Communist Party of the 21st Century",
+                "Marxism–Leninism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "Social Democratic Workers' Party",
+                "Social Democratic Workers' Party",
+                "Social Democratic Workers' Party",
+                "Socialism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "Patriots of the Romanian People",
+                "Patriots of the Romanian People",
+                "Patriots of the Romanian People",
+                "Romanian nationalism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "BSR",
+                "<NA>",
+                "Independent Social Democratic Party",
+                "Left wing nationalism",
+                "George Simion",
+                "George Simion"
+            ],
+            [
+                "BSR",
+                "<NA>",
+                "Romanian Nationhood Party",
+                "Romanian ultranationalism",
+                "No endorsement",
+                "George Simion"
+            ],
+            [
+                "Our Romania Party",
+                "Our Romania Party",
+                "Our Romania Party",
+                "Romanian ultranationalism",
+                "No endorsement",
+                "George Simion"
+            ],
+            [
+                "Romanian Hearth Union Party",
+                "Romanian Hearth Union Party",
+                "Romanian Hearth Union Party",
+                "Romanian ultranationalism",
+                "No endorsement",
+                "George Simion"
+            ],
+            [
+                "Strong Romania Party",
+                "Strong Romania Party",
+                "Strong Romania Party",
+                "Romanian nationalism",
+                "No endorsement",
+                "George Simion"
+            ],
+            [
+                "National Rebirth Alliance",
+                "National Rebirth Alliance",
+                "National Rebirth Alliance",
+                "Christian right",
+                "For Christian values",
+                "Against progressives"
+            ],
+            [
+                "Romanian Village Party",
+                "Romanian Village Party",
+                "Romanian Village Party",
+                "Agrarianism",
+                "Victor Ponta",
+                "George Simion"
+            ],
+            [
+                "Greater Romania Party",
+                "Greater Romania Party",
+                "Greater Romania Party",
+                "Romanian ultranationalism",
+                "Victor Ponta",
+                "George Simion"
+            ],
+            [
+                "Republican Party",
+                "Republican Party",
+                "Republican Party",
+                "Romanian nationalism",
+                "Victor Ponta",
+                "For sovereigntism"
+            ],
+            [
+                "Truth Democracy Education Reconstruction Party",
+                "Truth Democracy Education Reconstruction Party",
+                "Truth Democracy Education Reconstruction Party",
+                "Centrism",
+                "Victor Ponta",
+                "No endorsement"
+            ],
+            [
+                "PRO Romania",
+                "PRO Romania",
+                "PRO Romania",
+                "Social liberalism",
+                "Victor Ponta",
+                "No endorsement"
+            ],
+            [
+                "Romanian Ecologist Party",
+                "Romanian Ecologist Party",
+                "Romanian Ecologist Party",
+                "Green conservatism",
+                "Victor Ponta",
+                "No endorsement"
+            ],
+            [
+                "Party for the Homeland, Military and Police",
+                "Party for the Homeland, Military and Police",
+                "Party for the Homeland, Military and Police",
+                "Militarism",
+                "Victor Ponta",
+                "No endorsement"
+            ],
+            [
+                "Social Liberal Humanist Party",
+                "Social Liberal Humanist Party",
+                "Social Liberal Humanist Party",
+                "Conservative humanism",
+                "Lavinia Șandru",
+                "No endorsement"
+            ],
+            [
+                "Romanian National Conservative Party",
+                "Romanian National Conservative Party",
+                "Romanian National Conservative Party",
+                "National conservatism",
+                "Cristian Terheș",
+                "No endorsement"
+            ],
+            [
+                "New Romania Party",
+                "New Romania Party",
+                "New Romania Party",
+                "Populism",
+                "Sebastian Popescu [ro]",
+                "No endorsement"
+            ],
+            [
+                "National Action League Party",
+                "National Action League Party",
+                "National Action League Party",
+                "Social liberalism",
+                "Silviu Predoiu [ro]",
+                "No endorsement"
+            ],
+            [
+                "The Right Alternative",
+                "The Right Alternative",
+                "The Right Alternative",
+                "Libertarian conservatism",
+                "Right-conservative",
+                "Right-wing"
+            ],
+            [
+                "National Peasant Alliance",
+                "National Peasant Alliance",
+                "National Peasant Alliance",
+                "Social conservatism",
+                "No endorsement",
+                "Lesser evil"
+            ],
+            [
+                "Romanian Nation Party [ro]",
+                "Romanian Nation Party [ro]",
+                "Romanian Nation Party [ro]",
+                "Christian democracy",
+                "John Ion Banu [ro]",
+                "Boycott"
+            ]
+        ],
+        "table_text": "extraparliamentary_parties.1 | extraparliamentary_parties.2 | extraparliamentary_parties.3 | ideology | first_round | second_round<br>Health Education Nature Sustainability Party | Health Education Nature Sustainability Party | Health Education Nature Sustainability Party | Progressivism | Nicușor Dan | Nicușor Dan<br>Force of the Right | Force of the Right | Force of the Right | Liberal conservatism | Nicușor Dan | Nicușor Dan<br>United Social Democratic Party | United Social Democratic Party | United Social Democratic Party | Christian left | Victor Ponta | Nicușor Dan<br>Renewing Romania's European Project | Renewing Romania's European Project | Renewing Romania's European Project | Liberalism | Nicușor Dan | Nicușor Dan<br>Justice and Respect in Europe for All Party | Justice and Respect in Europe for All Party | Justice and Respect in Europe for All Party | Anti-corruption | Nicușor Dan | Nicușor Dan<br>People's Movement Party | People's Movement Party | People's Movement Party | National conservatism | Nicușor Dan | Nicușor Dan<br>National Peasants' Party Maniu-Mihalache | National Peasants' Party Maniu-Mihalache | National Peasants' Party Maniu-Mihalache | Agrarianism | Nicușor Dan | Nicușor Dan<br>Courage | Courage | Courage | Liberalism | Nicușor Dan | Nicușor Dan<br>United Diaspora Party | United Diaspora Party | United Diaspora Party | Pro-Europeanism | Nicusor Dan | Nicușor Dan<br>Union for State Reform | Union for State Reform | Union for State Reform | Reformism | Nicușor Dan | Nicușor Dan<br>Nature, People, and Animals | Nature, People, and Animals | Nature, People, and Animals | Animal rights | Nicușor Dan | Nicușor Dan<br>Green Party | Green Party | Green Party | Green politics | For a European Romania | Nicușor Dan<br>Volt Romania | Volt Romania | Volt Romania | European federalism | No endorsement | Nicușor Dan<br>Democracy and Solidarity Party | Democracy and Solidarity Party | Democracy and Solidarity Party | Democratic socialism | Against far-right | Nicușor Dan<br>We, Ploieșteni Movement | We, Ploieșteni Movement | We, Ploieșteni Movement | Regionalism | Nicușor Dan | Nicușor Dan<br>Székelyudvarhelyért Party | Székelyudvarhelyért Party | Székelyudvarhelyért Party | Localism | Nicușor Dan | Nicușor Dan<br>PACT for Galați | PACT for Galați | PACT for Galați | Regionalism | No endorsement | Nicușor Dan<br>Future of Țara Făgărașului Local Party | Future of Țara Făgărașului Local Party | Future of Țara Făgărașului Local Party | Regionalism | No endorsement | Nicușor Dan<br>We Help Romania Together | We Help Romania Together | We Help Romania Together | Regionalism | No endorsement | Nicușor Dan<br>Berceni Local Action Group | Berceni Local Action Group | Berceni Local Action Group | Localism | For a European Romania | No endorsement<br>Nation People Together | Nation People Together | Nation People Together | Social democracy | No endorsement | For a European Romania<br>Party of Free People | Party of Free People | Party of Free People | Localism | No endorsement | Against Simion<br>Christian Democratic National Peasants' Party | Christian Democratic National Peasants' Party | Christian Democratic National Peasants' Party | Christian democracy | George Simion | George Simion<br>Geto-Dacian Union Party | Geto-Dacian Union Party | Geto-Dacian Union Party | Conservatism | George Simion | George Simion<br>Communists' Party | Communists' Party | Communists' Party | Communism | George Simion | George Simion<br>Romanian Socialist Party | Romanian Socialist Party | Romanian Socialist Party | Communism | George Simion | George Simion<br>Communist Party of the 21st Century | Communist Party of the 21st Century | Communist Party of the 21st Century | Marxism–Leninism | George Simion | George Simion<br>Social Democratic Workers' Party | Social Democratic Workers' Party | Social Democratic Workers' Party | Socialism | George Simion | George Simion<br>Patriots of the Romanian People | Patriots of the Romanian People | Patriots of the Romanian People | Romanian nationalism | George Simion | George Simion<br>BSR | <NA> | Independent Social Democratic Party | Left wing nationalism | George Simion | George Simion<br>BSR | <NA> | Romanian Nationhood Party | Romanian ultranationalism | No endorsement | George Simion<br>Our Romania Party | Our Romania Party | Our Romania Party | Romanian ultranationalism | No endorsement | George Simion<br>Romanian Hearth Union Party | Romanian Hearth Union Party | Romanian Hearth Union Party | Romanian ultranationalism | No endorsement | George Simion<br>Strong Romania Party | Strong Romania Party | Strong Romania Party | Romanian nationalism | No endorsement | George Simion<br>National Rebirth Alliance | National Rebirth Alliance | National Rebirth Alliance | Christian right | For Christian values | Against progressives<br>Romanian Village Party | Romanian Village Party | Romanian Village Party | Agrarianism | Victor Ponta | George Simion<br>Greater Romania Party | Greater Romania Party | Greater Romania Party | Romanian ultranationalism | Victor Ponta | George Simion<br>Republican Party | Republican Party | Republican Party | Romanian nationalism | Victor Ponta | For sovereigntism<br>Truth Democracy Education Reconstruction Party | Truth Democracy Education Reconstruction Party | Truth Democracy Education Reconstruction Party | Centrism | Victor Ponta | No endorsement<br>PRO Romania | PRO Romania | PRO Romania | Social liberalism | Victor Ponta | No endorsement<br>Romanian Ecologist Party | Romanian Ecologist Party | Romanian Ecologist Party | Green conservatism | Victor Ponta | No endorsement<br>Party for the Homeland, Military and Police | Party for the Homeland, Military and Police | Party for the Homeland, Military and Police | Militarism | Victor Ponta | No endorsement<br>Social Liberal Humanist Party | Social Liberal Humanist Party | Social Liberal Humanist Party | Conservative humanism | Lavinia Șandru | No endorsement<br>Romanian National Conservative Party | Romanian National Conservative Party | Romanian National Conservative Party | National conservatism | Cristian Terheș | No endorsement<br>New Romania Party | New Romania Party | New Romania Party | Populism | Sebastian Popescu [ro] | No endorsement<br>National Action League Party | National Action League Party | National Action League Party | Social liberalism | Silviu Predoiu [ro] | No endorsement<br>The Right Alternative | The Right Alternative | The Right Alternative | Libertarian conservatism | Right-conservative | Right-wing<br>National Peasant Alliance | National Peasant Alliance | National Peasant Alliance | Social conservatism | No endorsement | Lesser evil<br>Romanian Nation Party [ro] | Romanian Nation Party [ro] | Romanian Nation Party [ro] | Christian democracy | John Ion Banu [ro] | Boycott",
+        "logical_labels": [
+            "negation",
+            "unique",
+            "aggregation",
+            "all",
+            "comparative"
+        ]
+    },
+    "28": {
+        "title": "2025 Western Australian state election",
+        "category": "politics | public election",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Western_Australian_state_election",
+        "date": "2021-03-25T03:04:34Z",
+        "csv_id": "Q106609492_28.csv",
+        "QID": "Q106609492",
+        "table": [
+            [
+                "party",
+                "party.1",
+                "votes",
+                "%",
+                "+/–",
+                "seats",
+                "+/–.1"
+            ],
+            [
+                "<NA>",
+                "Labor",
+                "635537",
+                "40.89",
+                "19.44",
+                "16",
+                "6"
+            ],
+            [
+                "<NA>",
+                "Liberal",
+                "422655",
+                "27.20",
+                "9.52",
+                "10",
+                "3"
+            ],
+            [
+                "<NA>",
+                "Greens",
+                "170052",
+                "10.94",
+                "4.56",
+                "4",
+                "3"
+            ],
+            [
+                "<NA>",
+                "National",
+                "84203",
+                "5.42",
+                "2.62",
+                "2",
+                "1"
+            ],
+            [
+                "<NA>",
+                "One Nation",
+                "59296",
+                "3.82",
+                "2.34",
+                "2",
+                "2"
+            ],
+            [
+                "<NA>",
+                "Legalise Cannabis",
+                "44754",
+                "2.88",
+                "0.90",
+                "1",
+                "1"
+            ],
+            [
+                "<NA>",
+                "Australian Christians",
+                "41348",
+                "2.66",
+                "0.71",
+                "1",
+                "1"
+            ],
+            [
+                "<NA>",
+                "Independents",
+                "20795",
+                "1.34",
+                "1.34",
+                "0",
+                "0"
+            ],
+            [
+                "<NA>",
+                "Animal Justice Party",
+                "18803",
+                "1.21",
+                "0.53",
+                "1",
+                "1"
+            ],
+            [
+                "<NA>",
+                "Sustainable Australia Party",
+                "16732",
+                "1.08",
+                "0.77",
+                "0",
+                "0"
+            ],
+            [
+                "<NA>",
+                "Stop Pedophiles! Protect kiddies!",
+                "14552",
+                "0.94",
+                "0.94",
+                "0",
+                "0"
+            ],
+            [
+                "<NA>",
+                "Shooters, Fishers and Farmers",
+                "13010",
+                "0.84",
+                "0.64",
+                "0",
+                "0"
+            ],
+            [
+                "<NA>",
+                "Libertarian",
+                "9912",
+                "0.64",
+                "0.00",
+                "0",
+                "0"
+            ],
+            [
+                "<NA>",
+                "Ungrouped Independents",
+                "2458",
+                "0.16",
+                "0.16",
+                "0",
+                "0"
+            ],
+            [
+                "Total",
+                "Total",
+                "1554107",
+                "100.00",
+                "<NA>",
+                "37",
+                "<NA>"
+            ],
+            [
+                "Valid votes",
+                "Valid votes",
+                "1554107",
+                "97.07",
+                "0.98",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Invalid/blank votes",
+                "Invalid/blank votes",
+                "46860",
+                "2.93",
+                "0.98",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "1600967",
+                "100.00",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Registered voters/turnout",
+                "Registered voters/turnout",
+                "1868936",
+                "85.66",
+                "0.16",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:"
+            ]
+        ],
+        "table_text": "party | party.1 | votes | % | +/– | seats | +/–.1<br><NA> | Labor | 635537 | 40.89 | 19.44 | 16 | 6<br><NA> | Liberal | 422655 | 27.20 | 9.52 | 10 | 3<br><NA> | Greens | 170052 | 10.94 | 4.56 | 4 | 3<br><NA> | National | 84203 | 5.42 | 2.62 | 2 | 1<br><NA> | One Nation | 59296 | 3.82 | 2.34 | 2 | 2<br><NA> | Legalise Cannabis | 44754 | 2.88 | 0.90 | 1 | 1<br><NA> | Australian Christians | 41348 | 2.66 | 0.71 | 1 | 1<br><NA> | Independents | 20795 | 1.34 | 1.34 | 0 | 0<br><NA> | Animal Justice Party | 18803 | 1.21 | 0.53 | 1 | 1<br><NA> | Sustainable Australia Party | 16732 | 1.08 | 0.77 | 0 | 0<br><NA> | Stop Pedophiles! Protect kiddies! | 14552 | 0.94 | 0.94 | 0 | 0<br><NA> | Shooters, Fishers and Farmers | 13010 | 0.84 | 0.64 | 0 | 0<br><NA> | Libertarian | 9912 | 0.64 | 0.00 | 0 | 0<br><NA> | Ungrouped Independents | 2458 | 0.16 | 0.16 | 0 | 0<br>Total | Total | 1554107 | 100.00 | <NA> | 37 | <NA><br>Valid votes | Valid votes | 1554107 | 97.07 | 0.98 | <NA> | <NA><br>Invalid/blank votes | Invalid/blank votes | 46860 | 2.93 | 0.98 | <NA> | <NA><br>Total votes | Total votes | 1600967 | 100.00 | <NA> | <NA> | <NA><br>Registered voters/turnout | Registered voters/turnout | 1868936 | 85.66 | 0.16 | <NA> | <NA><br>Source: | Source: | Source: | Source: | Source: | Source: | Source:",
+        "logical_labels": [
+            "count",
+            "unique",
+            "superlative",
+            "none",
+            "negation"
+        ]
+    },
+    "207": {
+        "title": "2025 Epsom Derby",
+        "category": "sport | competition | horse race",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Epsom_Derby",
+        "date": "2025-06-09T20:09:18Z",
+        "csv_id": "Q135038526_207.csv",
+        "QID": "Q135038526",
+        "table": [
+            [
+                "no",
+                "horse",
+                "jockey",
+                "trainer",
+                "owner"
+            ],
+            [
+                "1",
+                "Al Wasl Storm (IRE)",
+                "David Probert",
+                "Owen Burrows",
+                "Green Team Racing"
+            ],
+            [
+                "2",
+                "Damysus",
+                "James Doyle",
+                "John & Thady Gosden",
+                "Wathnan Racing"
+            ],
+            [
+                "3",
+                "Delacroix (IRE)",
+                "Ryan Moore",
+                "Aidan O'Brien (IRE)",
+                "Tabor / Smith / Magnier"
+            ],
+            [
+                "4",
+                "Green Storm (IRE)",
+                "Billy Loughnane",
+                "Charlie Johnston",
+                "Ahmad Al Shaikh"
+            ],
+            [
+                "5",
+                "Lambourn (IRE)",
+                "Wayne Lordan",
+                "Aidan O'Brien (IRE)",
+                "Tabor / Smith / Magnier"
+            ],
+            [
+                "6",
+                "Lazy Griff (GER)",
+                "Christophe Soumillon",
+                "Charlie Johnston",
+                "Middleham Park Racing & G Griffiths"
+            ],
+            [
+                "7",
+                "Midak (FRA)",
+                "Mickael Barzalona",
+                "Francis-Henri Graffard (FRA)",
+                "Aga Khan Studs"
+            ],
+            [
+                "8",
+                "New Ground",
+                "Alexis Pouchin",
+                "Henri Francois Devin (FRA)",
+                "Juddmonte"
+            ],
+            [
+                "9",
+                "Nightime Dancer (IRE)",
+                "Jamie Spencer",
+                "Richard Hannon Jr.",
+                "Stall Perlen"
+            ],
+            [
+                "10",
+                "Nightwalker",
+                "Tom Marquand",
+                "John & Thady Gosden",
+                "Juddmonte"
+            ],
+            [
+                "11",
+                "Pride of Arras (IRE)",
+                "Rossa Ryan",
+                "Ralph Beckett",
+                "Mrs David Aykroyd"
+            ],
+            [
+                "12",
+                "Rogue Impact",
+                "Luke Morris",
+                "James Owen",
+                "The Rogues Gallery"
+            ],
+            [
+                "13",
+                "Ruling Court",
+                "William Buick",
+                "Charlie Appleby",
+                "Godolphin"
+            ],
+            [
+                "14",
+                "Sea Scout (IRE)",
+                "Harry Davies",
+                "Simon & Ed Crisford",
+                "Abdulla Al Mansoori"
+            ],
+            [
+                "15",
+                "Stanhope Gardens (IRE)",
+                "Hector Crouch",
+                "Ralph Beckett",
+                "Marcstown Ltd And New Chelsea"
+            ],
+            [
+                "16",
+                "Tennessee Stud (IRE)",
+                "Dylan Browne McMonagle",
+                "Joseph Patrick O'Brien (IRE)",
+                "Westerberg / Tabor / Smith / Magnier"
+            ],
+            [
+                "17",
+                "The Lion In Winter (IRE)",
+                "Colin Keane",
+                "Aidan O'Brien (IRE)",
+                "Tabor / Smith / Magnier"
+            ],
+            [
+                "18",
+                "Tornado Alert (IRE)",
+                "Oisin Murphy",
+                "Saeed bin Suroor",
+                "Godolphin"
+            ],
+            [
+                "19",
+                "Tuscan Hills (FRA)",
+                "David Egan",
+                "Raphael Freire",
+                "Amo Racing"
+            ]
+        ],
+        "table_text": "no | horse | jockey | trainer | owner<br>1 | Al Wasl Storm (IRE) | David Probert | Owen Burrows | Green Team Racing<br>2 | Damysus | James Doyle | John & Thady Gosden | Wathnan Racing<br>3 | Delacroix (IRE) | Ryan Moore | Aidan O'Brien (IRE) | Tabor / Smith / Magnier<br>4 | Green Storm (IRE) | Billy Loughnane | Charlie Johnston | Ahmad Al Shaikh<br>5 | Lambourn (IRE) | Wayne Lordan | Aidan O'Brien (IRE) | Tabor / Smith / Magnier<br>6 | Lazy Griff (GER) | Christophe Soumillon | Charlie Johnston | Middleham Park Racing & G Griffiths<br>7 | Midak (FRA) | Mickael Barzalona | Francis-Henri Graffard (FRA) | Aga Khan Studs<br>8 | New Ground | Alexis Pouchin | Henri Francois Devin (FRA) | Juddmonte<br>9 | Nightime Dancer (IRE) | Jamie Spencer | Richard Hannon Jr. | Stall Perlen<br>10 | Nightwalker | Tom Marquand | John & Thady Gosden | Juddmonte<br>11 | Pride of Arras (IRE) | Rossa Ryan | Ralph Beckett | Mrs David Aykroyd<br>12 | Rogue Impact | Luke Morris | James Owen | The Rogues Gallery<br>13 | Ruling Court | William Buick | Charlie Appleby | Godolphin<br>14 | Sea Scout (IRE) | Harry Davies | Simon & Ed Crisford | Abdulla Al Mansoori<br>15 | Stanhope Gardens (IRE) | Hector Crouch | Ralph Beckett | Marcstown Ltd And New Chelsea<br>16 | Tennessee Stud (IRE) | Dylan Browne McMonagle | Joseph Patrick O'Brien (IRE) | Westerberg / Tabor / Smith / Magnier<br>17 | The Lion In Winter (IRE) | Colin Keane | Aidan O'Brien (IRE) | Tabor / Smith / Magnier<br>18 | Tornado Alert (IRE) | Oisin Murphy | Saeed bin Suroor | Godolphin<br>19 | Tuscan Hills (FRA) | David Egan | Raphael Freire | Amo Racing",
+        "logical_labels": [
+            "unique",
+            "ordinal",
+            "negation",
+            "comparative",
+            "none"
+        ]
+    },
+    "142": {
+        "title": "FIS Nordic World Ski Championships 2025 – Individual large hill/10 km",
+        "category": "sport | competition | winter sports competition",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/FIS_Nordic_World_Ski_Championships_2025_%E2%80%93_Individual_large_hill/10_km",
+        "date": "2025-02-25T18:19:58Z",
+        "csv_id": "Q133270219_142.csv",
+        "QID": "Q133270219",
+        "table": [
+            [
+                "rank",
+                "bib",
+                "athlete",
+                "country",
+                "start_time",
+                "cross-country_time",
+                "cross-country_rank",
+                "finish_time",
+                "deficit"
+            ],
+            [
+                "<NA>",
+                "1",
+                "Jarl Magnus Riiber",
+                "Norway",
+                "+0:00",
+                "24:57.5",
+                "13",
+                "24:57.5",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "7",
+                "Jørgen Graabak",
+                "Norway",
+                "+1:52",
+                "24:16.2",
+                "4",
+                "26:08.2",
+                "+1:10.7"
+            ],
+            [
+                "<NA>",
+                "9",
+                "Vinzenz Geiger",
+                "Germany",
+                "+2:18",
+                "23:50.6",
+                "2",
+                "26:08.6",
+                "+1:11.1"
+            ],
+            [
+                "4.0",
+                "12",
+                "Jens Lurås Oftebro",
+                "Norway",
+                "+2:23",
+                "23:46.5",
+                "1",
+                "26:09.5",
+                "+1:12.0"
+            ],
+            [
+                "5.0",
+                "8",
+                "Ilkka Herola",
+                "Finland",
+                "+1:54",
+                "24:18.9",
+                "5",
+                "26:12.9",
+                "+1:15.4"
+            ],
+            [
+                "6.0",
+                "4",
+                "Julian Schmid",
+                "Germany",
+                "+1:32",
+                "24:53.1",
+                "11",
+                "26:25.1",
+                "+1:27.6"
+            ],
+            [
+                "7.0",
+                "5",
+                "Johannes Lamparter",
+                "Austria",
+                "+1:36",
+                "24:50.6",
+                "9",
+                "26:26.6",
+                "+1:29.1"
+            ],
+            [
+                "8.0",
+                "2",
+                "Ryota Yamamoto",
+                "Japan",
+                "+1:14",
+                "26:01.1",
+                "27",
+                "27:15.1",
+                "+2:17.6"
+            ],
+            [
+                "9.0",
+                "6",
+                "Simen Tiller",
+                "Norway",
+                "+1:39",
+                "25:40.0",
+                "26",
+                "27:19.0",
+                "+2:21.5"
+            ],
+            [
+                "10.0",
+                "10",
+                "Wendelin Thannheimer",
+                "Germany",
+                "+2:20",
+                "25:03.1",
+                "16",
+                "27:23.1",
+                "+2:25.6"
+            ],
+            [
+                "11.0",
+                "11",
+                "Kristjan Ilves",
+                "Estonia",
+                "+2:22",
+                "25:03.4",
+                "17",
+                "27:25.4",
+                "+2:27.9"
+            ],
+            [
+                "12.0",
+                "22",
+                "Fabio Obermeyr",
+                "Austria",
+                "+3:17",
+                "24:10.5",
+                "3",
+                "27:27.5",
+                "+2:30.0"
+            ],
+            [
+                "13.0",
+                "3",
+                "Espen Bjørnstad",
+                "Norway",
+                "+1:19",
+                "26:12.7",
+                "31",
+                "27:31.7",
+                "+2:34.2"
+            ],
+            [
+                "14.0",
+                "15",
+                "Johannes Rydzek",
+                "Germany",
+                "+2:39",
+                "24:54.8",
+                "12",
+                "27:33.8",
+                "+2:36.3"
+            ],
+            [
+                "15.0",
+                "20",
+                "Aaron Kostner",
+                "Italy",
+                "+3:08",
+                "24:27.6",
+                "7",
+                "27:35.6",
+                "+2:38.1"
+            ],
+            [
+                "16.0",
+                "24",
+                "Stefan Rettenegger",
+                "Austria",
+                "+3:22",
+                "24:39.8",
+                "8",
+                "28:01.8",
+                "+3:04.3"
+            ],
+            [
+                "17.0",
+                "16",
+                "Franz-Josef Rehrl",
+                "Austria",
+                "+2:44",
+                "25:37.5",
+                "=24",
+                "28:22.5",
+                "+3:24.0"
+            ],
+            [
+                "18.0",
+                "19",
+                "Laurent Mühlethaler",
+                "France",
+                "+3:04",
+                "25:22.2",
+                "21",
+                "28:26.2",
+                "+3:28.7"
+            ],
+            [
+                "19.0",
+                "13",
+                "Marco Heinis",
+                "France",
+                "+2:35",
+                "26:03.1",
+                "28",
+                "28:38.1",
+                "+3:40.6"
+            ],
+            [
+                "20.0",
+                "31",
+                "Raffaele Buzzi",
+                "Italy",
+                "+3:40",
+                "25:06.2",
+                "18",
+                "28:46.2",
+                "+3:48.7"
+            ],
+            [
+                "21.0",
+                "28",
+                "Akito Watabe",
+                "Japan",
+                "+3:33",
+                "25:14.2",
+                "19",
+                "28:47.2",
+                "+3:49.7"
+            ],
+            [
+                "22.0",
+                "30",
+                "Jan Vytrval",
+                "Czech Republic",
+                "+3:39",
+                "25:22.1",
+                "20",
+                "29:01.1",
+                "+4:03.6"
+            ],
+            [
+                "23.0",
+                "29",
+                "Ben Loomis",
+                "United States",
+                "+3:37",
+                "25:37.5",
+                "=24",
+                "29:14.5",
+                "+4:17.0"
+            ],
+            [
+                "24.0",
+                "32",
+                "Otto Niittykoski",
+                "Finland",
+                "+3:43",
+                "25:35.8",
+                "23",
+                "29:18.8",
+                "+4:21.3"
+            ],
+            [
+                "25.0",
+                "17",
+                "Sora Yachi",
+                "Japan",
+                "+2:46",
+                "26:39.9",
+                "35",
+                "29:25.9",
+                "+4:28.4"
+            ],
+            [
+                "26.0",
+                "33",
+                "Wille Karhumaa",
+                "Finland",
+                "+4:09",
+                "25:26.5",
+                "22",
+                "29:35.5",
+                "+4:38.0"
+            ],
+            [
+                "27.0",
+                "18",
+                "Vid Vrhovnik",
+                "Slovenia",
+                "+3:00",
+                "26:38.7",
+                "34",
+                "29:38.7",
+                "+4:41.2"
+            ],
+            [
+                "28.0",
+                "14",
+                "Pascal Müller",
+                "Switzerland",
+                "+2:36",
+                "27:05.5",
+                "41",
+                "29:41.5",
+                "+4:44.0"
+            ],
+            [
+                "29.0",
+                "37",
+                "Gaël Blondeau",
+                "France",
+                "+4:54",
+                "24:58.3",
+                "14",
+                "29:52.3",
+                "+4:54.8"
+            ],
+            [
+                "30.0",
+                "21",
+                "Oleksandr Shumbarets",
+                "Ukraine",
+                "+3:11",
+                "26:49.2",
+                "37",
+                "30:00.2",
+                "+5:02.7"
+            ],
+            [
+                "31.0",
+                "23",
+                "Shogo Azegami",
+                "Japan",
+                "+3:19",
+                "26:49.1",
+                "36",
+                "30:08.1",
+                "+5:10.6"
+            ],
+            [
+                "32.0",
+                "25",
+                "Jiří Konvalinka",
+                "Czech Republic",
+                "+3:26",
+                "26:55.3",
+                "39",
+                "30:21.3",
+                "+5:23.8"
+            ],
+            [
+                "33.0",
+                "39",
+                "Stephen Schumann",
+                "United States",
+                "+5:41",
+                "24:51.0",
+                "10",
+                "30:32.0",
+                "+5:34.5"
+            ],
+            [
+                "34.0",
+                "42",
+                "Eero Hirvonen",
+                "Finland",
+                "+6:40",
+                "24:25.3",
+                "6",
+                "31:05.3",
+                "+6:07.8"
+            ],
+            [
+                "35.0",
+                "34",
+                "Niklas Malacinski",
+                "United States",
+                "+4:38",
+                "26:28.3",
+                "32",
+                "32:06.3",
+                "+6:08.8"
+            ],
+            [
+                "36.0",
+                "35",
+                "Iacopo Bortolas",
+                "Italy",
+                "+4:44",
+                "26:30.6",
+                "33",
+                "31:14.6",
+                "+6:17.1"
+            ],
+            [
+                "37.0",
+                "38",
+                "Dmytro Mazurchuk",
+                "Ukraine",
+                "+5:18",
+                "26:04.9",
+                "29",
+                "31:22.9",
+                "+6:25.4"
+            ],
+            [
+                "38.0",
+                "27",
+                "Zhao Jiawen",
+                "China",
+                "+3:28",
+                "28:05.1",
+                "46",
+                "31:33.1",
+                "+6:35.6"
+            ],
+            [
+                "39.0",
+                "36",
+                "Gašper Brecl",
+                "Slovenia",
+                "+4:48",
+                "26:49.5",
+                "38",
+                "31:37.5",
+                "+6:40.0"
+            ],
+            [
+                "40.0",
+                "41",
+                "Edgar Vallet",
+                "France",
+                "+6:18",
+                "26:07.9",
+                "30",
+                "32:25.9",
+                "+7:28.4"
+            ],
+            [
+                "41.0",
+                "46",
+                "Alessandro Pittin",
+                "Italy",
+                "+7:47",
+                "25:02.8",
+                "15",
+                "32:49.8",
+                "+7:52.3"
+            ],
+            [
+                "42.0",
+                "40",
+                "Ruslan Shumanskyi",
+                "Ukraine",
+                "+5:48",
+                "27:57.2",
+                "21",
+                "33:45.2",
+                "+8:47.7"
+            ],
+            [
+                "43.0",
+                "44",
+                "Erik Lynch",
+                "United States",
+                "+7:07",
+                "27:03.9",
+                "40",
+                "34:10.9",
+                "+9:13.4"
+            ],
+            [
+                "44.0",
+                "43",
+                "Paweł Szyndlar",
+                "Poland",
+                "+6:42",
+                "27:48.3",
+                "44",
+                "34:30.3",
+                "+9:32.8"
+            ],
+            [
+                "45.0",
+                "47",
+                "Oleksandr Shovkoplias",
+                "Ukraine",
+                "+7:55",
+                "27:31.0",
+                "42",
+                "35:26.0",
+                "+10:28.5"
+            ],
+            [
+                "46.0",
+                "45",
+                "Andrzej Waliczek",
+                "Poland",
+                "+7:24",
+                "29:08.1",
+                "47",
+                "36:32.1",
+                "+11:34.6"
+            ],
+            [
+                "47.0",
+                "48",
+                "Chingiz Rakparov",
+                "Kazakhstan",
+                "+9:47",
+                "27:35.4",
+                "43",
+                "37:22.4",
+                "+12:24.9"
+            ],
+            [
+                "48.0",
+                "49",
+                "Ali Askar",
+                "Kazakhstan",
+                "+9:50",
+                "31:24.4",
+                "48",
+                "41:14.4",
+                "+16:16.9"
+            ],
+            [
+                "<NA>",
+                "26",
+                "Hektor Kapustík",
+                "Slovakia",
+                "+3:26",
+                "Did not start",
+                "Did not start",
+                "Did not start",
+                "Did not start"
+            ]
+        ],
+        "table_text": "rank | bib | athlete | country | start_time | cross-country_time | cross-country_rank | finish_time | deficit<br><NA> | 1 | Jarl Magnus Riiber | Norway | +0:00 | 24:57.5 | 13 | 24:57.5 | <NA><br><NA> | 7 | Jørgen Graabak | Norway | +1:52 | 24:16.2 | 4 | 26:08.2 | +1:10.7<br><NA> | 9 | Vinzenz Geiger | Germany | +2:18 | 23:50.6 | 2 | 26:08.6 | +1:11.1<br>4.0 | 12 | Jens Lurås Oftebro | Norway | +2:23 | 23:46.5 | 1 | 26:09.5 | +1:12.0<br>5.0 | 8 | Ilkka Herola | Finland | +1:54 | 24:18.9 | 5 | 26:12.9 | +1:15.4<br>6.0 | 4 | Julian Schmid | Germany | +1:32 | 24:53.1 | 11 | 26:25.1 | +1:27.6<br>7.0 | 5 | Johannes Lamparter | Austria | +1:36 | 24:50.6 | 9 | 26:26.6 | +1:29.1<br>8.0 | 2 | Ryota Yamamoto | Japan | +1:14 | 26:01.1 | 27 | 27:15.1 | +2:17.6<br>9.0 | 6 | Simen Tiller | Norway | +1:39 | 25:40.0 | 26 | 27:19.0 | +2:21.5<br>10.0 | 10 | Wendelin Thannheimer | Germany | +2:20 | 25:03.1 | 16 | 27:23.1 | +2:25.6<br>11.0 | 11 | Kristjan Ilves | Estonia | +2:22 | 25:03.4 | 17 | 27:25.4 | +2:27.9<br>12.0 | 22 | Fabio Obermeyr | Austria | +3:17 | 24:10.5 | 3 | 27:27.5 | +2:30.0<br>13.0 | 3 | Espen Bjørnstad | Norway | +1:19 | 26:12.7 | 31 | 27:31.7 | +2:34.2<br>14.0 | 15 | Johannes Rydzek | Germany | +2:39 | 24:54.8 | 12 | 27:33.8 | +2:36.3<br>15.0 | 20 | Aaron Kostner | Italy | +3:08 | 24:27.6 | 7 | 27:35.6 | +2:38.1<br>16.0 | 24 | Stefan Rettenegger | Austria | +3:22 | 24:39.8 | 8 | 28:01.8 | +3:04.3<br>17.0 | 16 | Franz-Josef Rehrl | Austria | +2:44 | 25:37.5 | =24 | 28:22.5 | +3:24.0<br>18.0 | 19 | Laurent Mühlethaler | France | +3:04 | 25:22.2 | 21 | 28:26.2 | +3:28.7<br>19.0 | 13 | Marco Heinis | France | +2:35 | 26:03.1 | 28 | 28:38.1 | +3:40.6<br>20.0 | 31 | Raffaele Buzzi | Italy | +3:40 | 25:06.2 | 18 | 28:46.2 | +3:48.7<br>21.0 | 28 | Akito Watabe | Japan | +3:33 | 25:14.2 | 19 | 28:47.2 | +3:49.7<br>22.0 | 30 | Jan Vytrval | Czech Republic | +3:39 | 25:22.1 | 20 | 29:01.1 | +4:03.6<br>23.0 | 29 | Ben Loomis | United States | +3:37 | 25:37.5 | =24 | 29:14.5 | +4:17.0<br>24.0 | 32 | Otto Niittykoski | Finland | +3:43 | 25:35.8 | 23 | 29:18.8 | +4:21.3<br>25.0 | 17 | Sora Yachi | Japan | +2:46 | 26:39.9 | 35 | 29:25.9 | +4:28.4<br>26.0 | 33 | Wille Karhumaa | Finland | +4:09 | 25:26.5 | 22 | 29:35.5 | +4:38.0<br>27.0 | 18 | Vid Vrhovnik | Slovenia | +3:00 | 26:38.7 | 34 | 29:38.7 | +4:41.2<br>28.0 | 14 | Pascal Müller | Switzerland | +2:36 | 27:05.5 | 41 | 29:41.5 | +4:44.0<br>29.0 | 37 | Gaël Blondeau | France | +4:54 | 24:58.3 | 14 | 29:52.3 | +4:54.8<br>30.0 | 21 | Oleksandr Shumbarets | Ukraine | +3:11 | 26:49.2 | 37 | 30:00.2 | +5:02.7<br>31.0 | 23 | Shogo Azegami | Japan | +3:19 | 26:49.1 | 36 | 30:08.1 | +5:10.6<br>32.0 | 25 | Jiří Konvalinka | Czech Republic | +3:26 | 26:55.3 | 39 | 30:21.3 | +5:23.8<br>33.0 | 39 | Stephen Schumann | United States | +5:41 | 24:51.0 | 10 | 30:32.0 | +5:34.5<br>34.0 | 42 | Eero Hirvonen | Finland | +6:40 | 24:25.3 | 6 | 31:05.3 | +6:07.8<br>35.0 | 34 | Niklas Malacinski | United States | +4:38 | 26:28.3 | 32 | 32:06.3 | +6:08.8<br>36.0 | 35 | Iacopo Bortolas | Italy | +4:44 | 26:30.6 | 33 | 31:14.6 | +6:17.1<br>37.0 | 38 | Dmytro Mazurchuk | Ukraine | +5:18 | 26:04.9 | 29 | 31:22.9 | +6:25.4<br>38.0 | 27 | Zhao Jiawen | China | +3:28 | 28:05.1 | 46 | 31:33.1 | +6:35.6<br>39.0 | 36 | Gašper Brecl | Slovenia | +4:48 | 26:49.5 | 38 | 31:37.5 | +6:40.0<br>40.0 | 41 | Edgar Vallet | France | +6:18 | 26:07.9 | 30 | 32:25.9 | +7:28.4<br>41.0 | 46 | Alessandro Pittin | Italy | +7:47 | 25:02.8 | 15 | 32:49.8 | +7:52.3<br>42.0 | 40 | Ruslan Shumanskyi | Ukraine | +5:48 | 27:57.2 | 21 | 33:45.2 | +8:47.7<br>43.0 | 44 | Erik Lynch | United States | +7:07 | 27:03.9 | 40 | 34:10.9 | +9:13.4<br>44.0 | 43 | Paweł Szyndlar | Poland | +6:42 | 27:48.3 | 44 | 34:30.3 | +9:32.8<br>45.0 | 47 | Oleksandr Shovkoplias | Ukraine | +7:55 | 27:31.0 | 42 | 35:26.0 | +10:28.5<br>46.0 | 45 | Andrzej Waliczek | Poland | +7:24 | 29:08.1 | 47 | 36:32.1 | +11:34.6<br>47.0 | 48 | Chingiz Rakparov | Kazakhstan | +9:47 | 27:35.4 | 43 | 37:22.4 | +12:24.9<br>48.0 | 49 | Ali Askar | Kazakhstan | +9:50 | 31:24.4 | 48 | 41:14.4 | +16:16.9<br><NA> | 26 | Hektor Kapustík | Slovakia | +3:26 | Did not start | Did not start | Did not start | Did not start",
+        "logical_labels": [
+            "comparative",
+            "none",
+            "superlative",
+            "count",
+            "all"
+        ]
+    },
+    "156": {
+        "title": "2025 IIHF World U18 Championships",
+        "category": "sport | competition | sports season",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_IIHF_World_U18_Championships",
+        "date": "2024-11-09T17:10:54Z",
+        "csv_id": "Q127500786_156.csv",
+        "QID": "Q127500786",
+        "table": [
+            [
+                "pos",
+                "player",
+                "country",
+                "g",
+                "a",
+                "pts",
+                "+/−",
+                "pim"
+            ],
+            [
+                "1",
+                "Filip Ekberg",
+                "Sweden",
+                "10",
+                "8",
+                "18",
+                "6",
+                "6"
+            ],
+            [
+                "2",
+                "Sascha Boumedienne",
+                "Sweden",
+                "1",
+                "13",
+                "14",
+                "5",
+                "2"
+            ],
+            [
+                "3",
+                "Ivar Stenberg",
+                "Sweden",
+                "8",
+                "5",
+                "13",
+                "0",
+                "4"
+            ],
+            [
+                "4",
+                "Braeden Cootes",
+                "Canada",
+                "6",
+                "6",
+                "12",
+                "7",
+                "0"
+            ],
+            [
+                "5",
+                "Brady Martin",
+                "Canada",
+                "3",
+                "8",
+                "11",
+                "15",
+                "29"
+            ],
+            [
+                "5",
+                "Will Moore",
+                "United States",
+                "3",
+                "8",
+                "11",
+                "9",
+                "2"
+            ],
+            [
+                "7",
+                "L.J. Mooney",
+                "United States",
+                "2",
+                "9",
+                "11",
+                "10",
+                "4"
+            ],
+            [
+                "8",
+                "Lev Katzin",
+                "Canada",
+                "4",
+                "6",
+                "10",
+                "13",
+                "2"
+            ],
+            [
+                "9",
+                "Milton Gästrin",
+                "Sweden",
+                "3",
+                "7",
+                "10",
+                "-1",
+                "2"
+            ],
+            [
+                "10",
+                "Ryan Roobroeck",
+                "Canada",
+                "4",
+                "5",
+                "9",
+                "7",
+                "0"
+            ]
+        ],
+        "table_text": "pos | player | country | g | a | pts | +/− | pim<br>1 | Filip Ekberg | Sweden | 10 | 8 | 18 | 6 | 6<br>2 | Sascha Boumedienne | Sweden | 1 | 13 | 14 | 5 | 2<br>3 | Ivar Stenberg | Sweden | 8 | 5 | 13 | 0 | 4<br>4 | Braeden Cootes | Canada | 6 | 6 | 12 | 7 | 0<br>5 | Brady Martin | Canada | 3 | 8 | 11 | 15 | 29<br>5 | Will Moore | United States | 3 | 8 | 11 | 9 | 2<br>7 | L.J. Mooney | United States | 2 | 9 | 11 | 10 | 4<br>8 | Lev Katzin | Canada | 4 | 6 | 10 | 13 | 2<br>9 | Milton Gästrin | Sweden | 3 | 7 | 10 | -1 | 2<br>10 | Ryan Roobroeck | Canada | 4 | 5 | 9 | 7 | 0",
+        "logical_labels": [
+            "ordinal",
+            "comparative",
+            "count",
+            "none",
+            "all"
+        ]
+    }
+}

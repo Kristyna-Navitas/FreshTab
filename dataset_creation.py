@@ -4,6 +4,7 @@ import math
 import os
 import random
 import re
+import shutil
 from collections import Counter, defaultdict
 from datetime import datetime, date, timedelta
 from io import StringIO
@@ -434,7 +435,7 @@ def query_no_start_date_recursively(cnfg, limit: int, category: str, start_date:
         logger.warning("Wrong category for no date entities")
         return {}
 
-    if result or limit < 10:
+    if result and limit < 10:
         found_entities = {
             item['item']['value'].replace('http://www.wikidata.org/entity/', ''):
                 item['wikipediaUrl']['value'] for item in result["results"]["bindings"] if
@@ -675,7 +676,6 @@ def get_distribution_recursively(cnfg: dict, target_number: int, categories: dic
     level: Current recursive level
     Returns: Dictionary of category distributions
     """
-    print(level, target_number)
     level_cats = {" | ".join(part.split(' | ')[:level + 1]).strip() for part in categories}
     level_cat_dict = {c: sum(v for k, v in categories.items() if k.startswith(c)) for c in level_cats}
     # get current level distribution
@@ -684,7 +684,6 @@ def get_distribution_recursively(cnfg: dict, target_number: int, categories: dic
         real_vals_in_cat = {cat: cnfg['custom_distribution'].get(cat, 0) for cat in level_cat_dict}
     else:
         real_vals_in_cat = get_category_distribution(target_number, level_cat_dict)
-    print(real_vals_in_cat)
 
     # subcategories recursively
     final_distribution = {}
@@ -768,20 +767,22 @@ def main():
     filtered_tables, subcategories = filter_tables(new_dataset, config)
     # add logical operations to the tables
     tables_with_labels = add_labels_to_tables(filtered_tables, config)  # TODO choose them with LLM ?
-    save_json(tables_with_labels, config['output_dir'] + '/filtered_tables.json')
+    save_json(tables_with_labels, 'datasets/' + config['output_dir'] + '/filtered_tables.json')
     if config["num_pages"] or config["custom_distribution"]:
         # we need to know what categories we have for distributing amongst them
         final_tables = filter_categories(config, filtered_tables, subcategories)  # return is just for tests
 
-        save_json(final_tables, config['output_dir'] + '/diverse.json')
+        save_json(final_tables, 'datasets/' + config['output_dir'] + '/diverse.json')
         # putting the tables in csv to a folder
-        create_directory(config['output_dir'] + '/all_csv')
+        create_directory('datasets/' + config['output_dir'] + '/all_csv')
         for table in final_tables.values():
             write_table = table['table_text'].replace("#", '').replace(" | ", "#").replace("<br>", "\n")
             save_json(write_table, f'datasets/{config["output_dir"]}/all_csv/{table["csv_id"]}.json')
 
     logger.info("Dataset processing complete.")
-    # TODO save the config yaml as well just to be sure you do not forget the settings
+    # Tsave the config yaml as well just to be sure you do not forget the settings
+    shutil.copy(Path('config.yaml'), Path('datasets/' + config['output_dir']))
+
 
 
 if __name__ == "__main__":
