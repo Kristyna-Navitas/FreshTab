@@ -15,6 +15,8 @@ from transformers import BartForSequenceClassification, TapexTokenizer, DataColl
 
 from logzero import logger
 
+from utils import save_json
+
 
 def process_dataset(dataset, tokenizer, length):
     # from https://github.com/yale-nlp/LLM-T2T/blob/main/src/open_src_model_T2T_generation.py
@@ -136,58 +138,75 @@ def get_detailed_stats(results: pd.DataFrame, filename: str) -> None:
         all_empty = results[results.csv_ids == table].prediction.isnull().all() + len(results[results['prediction'] == 'DUMMY'])
         if all_empty:
             empty_tables.append(table)
-    with open(f"{filename}_results.csv", "a") as file:
-        file.write(f'File name: {filename}\n')
-        # basic counts
-        file.write(f'all predictions, {len(results)}\n')
-        file.write(f'empty predictions, {len(results_empty)}\n')
-        file.write(f'not empty predictions, {len(results_cleaned)}\n')
-        file.write(f'all empty table, {len(empty_tables)}\n')
-        if num_results != 0:
-            file.write(f'percent empty, {len(results_empty)/num_results}\n')
-            file.write(f'percent not empty, {len(results_cleaned)/num_results}\n')
-        file.write(f'\n')
-        # metrics
-        file.write(f'TAPAS for whole, {count_percentage(results.TAPAS.tolist())}\n')
-        file.write(f'TAPEX for whole, {count_percentage(results.TAPEX.tolist())}\n')
-        file.write(f'TAPAS not empty, {count_percentage(results_cleaned.TAPAS.tolist())}\n')
-        file.write(f'TAPEX not empty, {count_percentage(results_cleaned.TAPEX.tolist())}\n')
-        file.write(f'TAPAS empty, {count_percentage(results_empty.TAPAS.tolist())}\n')
-        file.write(f'TAPEX empty, {count_percentage(results_empty.TAPEX.tolist())}\n')
-        file.write(f'\n')
-        # for different logical labels
-        labels = results.label.unique().tolist()
-        for label in labels:
-            all_results = results[results.domain == label]
-            clean_results = results_cleaned[results_cleaned.domain == label]
-            write_analysis_for_group(filename, label, all_results, clean_results)
-            file.write(f'{label} count, {len(results[results.label==label])}\n')
-            file.write(f'{label} not empty count, {len(results_cleaned[results_cleaned.label==label])}\n')
-        # for different domains
-        domains = results.domain.unique().tolist()
+    results_dict = {
+        'File name': filename,
+        'all predictions': len(results),
+        'empty predictions': len(results_empty),
+        'not empty predictions': len(results_cleaned),
+        'all empty table': len(empty_tables),
+    }
+    if num_results != 0:
+        results_dict['percent empty'] = len(results_empty) / num_results
+        results_dict['percent not empty'] = len(results_cleaned) / num_results
+
+    # metrics
+    results_dict['metrics'] = {
+        'TAPAS': {
+            'for_whole': count_percentage(results.TAPAS.tolist()),
+            'not_empty': count_percentage(results_cleaned.TAPAS.tolist()),
+            'empty': count_percentage(results_empty.TAPAS.tolist()),
+        },
+        'TAPEX': {
+            'for_whole': count_percentage(results.TAPEX.tolist()),
+            'not_empty': count_percentage(results_cleaned.TAPEX.tolist()),
+            'empty': count_percentage(results_empty.TAPEX.tolist()),
+        },
+    }
+
+    # for different logical labels
+    labels = results.label.unique().tolist()
+    for label in labels:
+        all_results = results[results.domain == label]
+        clean_results = results_cleaned[results_cleaned.domain == label]
+        calculated = analysis_for_group(filename, label, all_results, clean_results)
+        results_dict.update(calculated)
+    # for different domains
+    domains = results.domain.unique().tolist()
+    for domain in domains:
+        all_results = results[results.domain == domain]
+        clean_results = results_cleaned[results_cleaned.domain == domain]
+        calculated = analysis_for_group(filename, domain, all_results, clean_results)
+        results_dict.update(calculated)
+    # combined domain and label
+    for label in labels:
         for domain in domains:
-            all_results = results[results.domain == domain]
-            clean_results = results_cleaned[results_cleaned.domain == domain]
-            write_analysis_for_group(filename, domain, all_results, clean_results)
-        # combined domain and label
-        for label in labels:
-            for domain in domains:
-                all_results = results[results.domain == domain & results.label == label]
-                clean_results = results_cleaned[results_cleaned.domain == domain & results.label == label]
-                write_analysis_for_group(filename, domain+' '+label, all_results, clean_results)
+            all_results = results[results.domain == domain & results.label == label]
+            clean_results = results_cleaned[results_cleaned.domain == domain & results.label == label]
+            calculated = analysis_for_group(filename, domain+' '+label, all_results, clean_results)
+            results_dict.update(calculated)
 
+    save_json(results_dict, f"{filename}_results.json")
 
-def write_analysis_for_group(filename, group_name, full_df, cleaned_df):
-    with open(f"{filename}_results.csv", "a") as file:
-        file.write(f'{group_name} count, {len(full_df)}\n')
-        file.write(f'{group_name} not empty count, {len(cleaned_df)}\n')
-        if len(full_df) != 0:
-            file.write(f'{group_name} not empty percentage, {len(cleaned_df)/len(full_df):.4f}\n')
-        file.write(f'{group_name} TAPAS, {count_percentage(full_df.TAPAS.tolist())}\n')
-        file.write(f'{group_name} not empty TAPAS, {count_percentage(cleaned_df.TAPAS.tolist())}\n')
-        file.write(f'{group_name} TAPEX, {count_percentage(full_df.TAPEX.tolist())}\n')
-        file.write(f'{group_name} not empty TAPEX, {count_percentage(cleaned_df.TAPEX.tolist())}\n')
-        file.write(f'\n')
+def analysis_for_group(filename, group_name, full_df, cleaned_df):
+    results_dict = {
+        f'{group_name} count': len(full_df),
+        f'{group_name} not empty count': len(cleaned_df),
+    }
+    if len(full_df) != 0:
+        results_dict[f'{group_name} not empty percentage'] = len(cleaned_df) / len(full_df)
+
+    results_dict[f'{group_name} metrics'] = {
+        'TAPAS': {
+            'whole': count_percentage(full_df.TAPAS.tolist()),
+            'not_empty': count_percentage(cleaned_df.TAPAS.tolist()),
+        },
+        'TAPEX': {
+            'whole': count_percentage(full_df.TAPEX.tolist()),
+            'not_empty': count_percentage(cleaned_df.TAPEX.tolist()),
+        },
+    }
+
+    return results_dict
 
 
 def count_percentage(prediction):
