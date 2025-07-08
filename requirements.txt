@@ -11,3 +11,5 @@ torch
 transformers
 datasets
 lxml
+nltk
+statsmodels
