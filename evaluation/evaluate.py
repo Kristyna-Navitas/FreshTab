@@ -66,7 +66,7 @@ def load_predictions(preds):
             row = [value if value else 'nan' for value in row]
             csv_ids_dict[count] = row[0]
             if row[1]:
-                predictions_dict[count] = row[6]
+                predictions_dict[count] = row[3]
             else:
                 predictions_dict[count] = 'wrong'
             count += 1
@@ -90,6 +90,7 @@ def create_dataset(csv_dict, predictions, tables):
             'table_csv': tables[key].to_csv(index=False),
             'prediction': value
         })
+    # items = items[:2]  # for dev
     return Dataset.from_list(items)
 
 
@@ -98,9 +99,8 @@ def evaluate(args):
     # loading the predictions:
     if args.only_stats:
         results_df = pd.read_csv(args.preds, header=0)
-        output_path = f"outputs/{name_stem}.csv"
+        output_path = f"generation/outputs/{name_stem}.csv"
         get_detailed_stats(results_df, output_path)
-
         return
 
     predictions_dict, csv_dict = load_predictions(args.preds)
@@ -125,10 +125,11 @@ def evaluate(args):
     print('TAPAS score:', tapas_score)
 
     results = pd.read_csv(args.preds, names=['csv_ids', 'domain', 'label', 'prediction'])
+    # results = results[:2]  # for dev
     results['TAPEX'] = predictions_tapex
     results['TAPAS'] = predictions_tapas
 
-    output_path = f"outputs/{name_stem}_evaluated.csv"
+    output_path = f"generation/outputs/{name_stem}_evaluated.csv"
     results.to_csv(output_path, index=True)
     logger.info(f'Predictions saved to {output_path}.')
 
@@ -226,15 +227,15 @@ def get_detailed_stats(results: pd.DataFrame, filename: str) -> None:
             'for_whole': count_percentage(results.TAPAS.tolist()),
             'not_empty': count_percentage(results_cleaned.TAPAS.tolist()),
             'empty': count_percentage(results_empty.TAPAS.tolist()),
-            'upper_bound': lower_tapas,
-            'lower_bound': upper_tapas,
+            'lower_bound': lower_tapas,
+            'upper_bound': upper_tapas,
         },
         'TAPEX': {
             'for_whole': count_percentage(results.TAPEX.tolist()),
             'not_empty': count_percentage(results_cleaned.TAPEX.tolist()),
             'empty': count_percentage(results_empty.TAPEX.tolist()),
-            'upper_bound': lower_tapex,
-            'lower_bound': upper_tapex,
+            'lower_bound': lower_tapex,
+            'upper_bound': upper_tapex,
         },
     }
 
@@ -270,7 +271,7 @@ def get_detailed_stats(results: pd.DataFrame, filename: str) -> None:
         all_results = results[results.domain == domain]
         clean_results = results_cleaned[results_cleaned.domain == domain]
         calculated = analysis_for_group(filename, domain, all_results, clean_results)
-        results_dict.update(calculated)
+        dm_dict.update(calculated)
     results_dict['domains'] = dm_dict
 
     # combined domain and label
@@ -278,12 +279,11 @@ def get_detailed_stats(results: pd.DataFrame, filename: str) -> None:
     for label in labels:
         for domain in domains:
             all_results = results[(results.domain == domain) & (results.label == label)]
-            clean_results = results_cleaned[(results_cleaned.domain == domain) & (results.label == label)]
+            clean_results = results_cleaned[(results_cleaned.domain == domain) & (results_cleaned.label == label)]
             calculated = analysis_for_group(filename, domain+' '+label, all_results, clean_results)
             dmlb_dict.update(calculated)
     results_dict['domain_label'] = dmlb_dict
-
-    save_json(results_dict, f"generation/{filename}_results.json")
+    save_json(results_dict, f"{filename}_results.json")
 
 
 def analysis_for_group(filename, group_name, full_df, cleaned_df):
@@ -346,3 +346,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
