@@ -28,6 +28,3 @@ python dataset_creation.py
 Then there is also generation script for ollama LLM outputs for the dataset in the generation directory.
 And evaluation script in the evaluation directory.
 
-## Poster
-- in the publications folder
-- do not look there if this should be anonymized for you
