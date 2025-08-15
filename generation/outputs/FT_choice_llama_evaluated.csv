@@ -1,0 +1,501 @@
+,csv_ids,domain,label,prediction,TAPEX,TAPAS
+0,Q126737334_2991.csv,sport ,superlative,"Neilson Powless achieved the best time in the 2025 Dwars door Vlaanderen - A travers la Flandre with a time of 3h 57' 14"".",1,1
+1,Q126737334_2991.csv,sport ,count,There are 3 riders from Visma–Lease a Bike in the top 4 rankings of the 2025 Dwars door Vlaanderen - A travers la Flandre.,1,1
+2,Q126737334_2991.csv,sport ,simple,"Wout van Aert and Tiesj Benoot, both from Visma–Lease a Bike, finished with the same time as Neilson Powless in the 2025 Dwars door Vlaanderen - A travers la Flandre.",0,0
+3,Q126737334_2991.csv,sport ,comparative,"Mads Pedersen had a higher time difference (+45"") compared to Matteo Jorgenson (+5"") in the 2025 Dwars door Vlaanderen - A travers la Flandre.",1,1
+4,Q126737334_2991.csv,sport ,ordinal,"The first and second places in the 2025 Dwars door Vlaanderen - A travers la Flandre were taken by Neilson Powless and Wout van Aert respectively, both with a time of 3h 57' 14"".",0,1
+5,Q126737333_2461.csv,sport ,count,There are 3 Belgian riders in the top 10 rankings.,1,1
+6,Q126737333_2461.csv,sport ,simple,Mads Pedersen from Denmark is ranked first in the 2025 Gent-Wevelgem in Flanders Fields.,1,1
+7,Q126737333_2461.csv,sport ,superlative,"The highest-ranked Italian rider is Jonathan Milan, who achieved third place.",1,1
+8,Q126737333_2461.csv,sport ,ordinal,Jenno Berckmoes is the eighth-ranked rider in the competition.,1,1
+9,Q126737333_2461.csv,sport ,unique,There are 8 different teams represented in the top 10 rankings of the 2025 Gent-Wevelgem in Flanders Fields.,1,0
+10,Q131784819_2931.csv,sport ,simple,Lotte Claes from Belgium achieved the first rank in the 2025 Omloop Het Nieuwsblad women's race.,1,1
+11,Q131784819_2931.csv,sport ,count,There are 3 riders from the Netherlands among the top 10 rankings in the 2025 Omloop Het Nieuwsblad women's race.,1,1
+12,Q131784819_2931.csv,sport ,comparative,"Aurela Nerlo finished with the same time as Lotte Claes, making her time equal to the winner of the 2025 Omloop Het Nieuwsblad women's race.",0,0
+13,Q131784819_2931.csv,sport ,ordinal,"Demi Vollering is the third rider to cross the finish line in the 2025 Omloop Het Nieuwsblad women's race, with a time difference of 3 minutes and 25 seconds from the winner.",1,1
+14,Q131784819_2931.csv,sport ,unique,There are 9 different teams represented by the riders in the top 10 rankings of the 2025 Omloop Het Nieuwsblad women's race.,1,1
+15,Q126737327_2272.csv,sport ,simple,Mathieu van der Poel from Alpecin–Deceuninck achieved the first place in the 2025 Milano-Sanremo.,1,1
+16,Q126737327_2272.csv,sport ,superlative,"The best time achieved in the 2025 Milano-Sanremo was 6h 22' 53"" by Mathieu van der Poel, Filippo Ganna, and Tadej Pogačar.",0,1
+17,Q126737327_2272.csv,sport ,count,There are 3 riders from Alpecin–Deceuninck and Ineos Grenadiers combined who finished in the top 5 of the 2025 Milano-Sanremo.,1,1
+18,Q126737327_2272.csv,sport ,comparative,"Filippo Ganna had the same time as Mathieu van der Poel, indicating a tied performance for the first and second place in terms of time, but Mathieu van der Poel was ranked first.",0,0
+19,Q126737327_2272.csv,sport ,unique,There are 8 different teams represented by the top 10 riders in the 2025 Milano-Sanremo.,1,1
+20,Q131707913_2270.csv,sport ,count,There are 6 matches that took place during NXT Vengeance Day.,1,1
+21,Q131707913_2270.csv,sport ,superlative,"The longest match of the day was the Fatal four-way match for the NXT Women's Championship, which lasted 18:31 minutes.",1,1
+22,Q131707913_2270.csv,sport ,simple,Stephanie Vaquer defeated Fallon Henley to become the new NXT Women's North American Champion.,1,1
+23,Q131707913_2270.csv,sport ,comparative,"The Strap match between Eddy Thorpe and Trick Williams was longer than the Tag team match for the NXT Tag Team Championship, with durations of 10:58 minutes and 10:24 minutes respectively.",0,0
+24,Q131707913_2270.csv,sport ,all,All matches at NXT Vengeance Day were decided by pinfall.,0,0
+25,Q131784826_2985.csv,sport ,simple,Pauline Ferrand-Prévot from Visma–Lease a Bike achieved the first rank in the 2025 Paris–Roubaix Femmes.,1,1
+26,Q131784826_2985.csv,sport ,comparative,"Lorena Wiebes, Marianne Vos, and Alison Jackson all finished with the same time difference of +1' 01"" from the leader Pauline Ferrand-Prévot.",0,0
+27,Q131784826_2985.csv,sport ,count,There are 3 riders from Italy in the top 10 rankings of the 2025 Paris–Roubaix Femmes.,1,0
+28,Q131784826_2985.csv,sport ,superlative,"Pauline Ferrand-Prévot achieved the best time in the 2025 Paris–Roubaix Femmes with a time of 3h 40' 07"".",1,1
+29,Q131784826_2985.csv,sport ,unique,There are 7 different teams represented in the top 10 rankings of the 2025 Paris–Roubaix Femmes.,1,1
+30,Q132891211_2998.csv,sport ,superlative,Denny Hamlin achieved the highest position from the lowest grid start among all drivers with a starting position of 3 and finishing at position 1.,1,1
+31,Q132891211_2998.csv,sport ,aggregation,"The total number of points earned by all drivers from Joe Gibbs Racing is 127, indicating strong team performance in the race.",1,1
+32,Q132891211_2998.csv,sport ,comparative,"William Byron earned more points than Denny Hamlin, with 56 points compared to Hamlin's 48, despite starting from a better grid position.",1,1
+33,Q132891211_2998.csv,sport ,count,"There are 7 different manufacturers represented in the top 10 positions of the race results, showing a diverse competitive field.",1,1
+34,Q132891211_2998.csv,sport ,ordinal,"The first driver to finish the race with a Chevrolet manufacturer was William Byron, who secured the second position overall.",1,1
+35,Q131784824_2299.csv,sport ,simple,Lorena Wiebes from Team SD Worx–Protime achieved the first rank in the 2025 Women's Gent–Wevelgem.,1,1
+36,Q131784824_2299.csv,sport ,count,There are 3 riders from the Netherlands participating in the top 10 rankings of the 2025 Women's Gent–Wevelgem.,1,1
+37,Q131784824_2299.csv,sport ,superlative,Lorena Wiebes achieved the highest rank among all participants in the 2025 Women's Gent–Wevelgem.,1,1
+38,Q131784824_2299.csv,sport ,unique,"There are 10 different teams represented in the top 10 rankings of the 2025 Women's Gent–Wevelgem, indicating a diverse competition.",1,1
+39,Q131784824_2299.csv,sport ,ordinal,Elisa Balsamo from Lidl–Trek is the second-ranked rider in the 2025 Women's Gent–Wevelgem.,1,1
+40,Q132343433_2784.csv,sport ,superlative,Juan Ayuso achieves the highest rank in the 2025 Trofeo Laigueglia.,1,1
+41,Q132343433_2784.csv,sport ,count,There are 3 riders from Italy among the top 10 rankings in the 2025 Trofeo Laigueglia.,1,1
+42,Q132343433_2784.csv,sport ,comparative,Christian Scaroni has a better ranking than Magnus Sheffield in the 2025 Trofeo Laigueglia.,1,1
+43,Q132343433_2784.csv,sport ,unique,"There are no two riders from the same team among the top 3 rankings except for XDS Astana Team, which has two riders in the top 10 but not in the top 3.",0,1
+44,Q132343433_2784.csv,sport ,simple,Giovanni Carboni is the rider from Unibet Tietema Rockets who finished with a time difference of +3 seconds from the leader in the 2025 Trofeo Laigueglia.,1,1
+45,Q130318349_2148.csv,sport ,aggregation,The total number of gold medals awarded in the 2025 Judo Grand Slam Astana is 14.,1,1
+46,Q130318349_2148.csv,sport ,superlative,Japan achieves the highest total number of medals with 7 medals in the 2025 Judo Grand Slam Astana.,1,1
+47,Q130318349_2148.csv,sport ,comparative,South Korea has more gold medals than France in the 2025 Judo Grand Slam Astana.,1,1
+48,Q130318349_2148.csv,sport ,count,There are 18 nations participating in the 2025 Judo Grand Slam Astana as per the given table.,1,0
+49,Q130318349_2148.csv,sport ,simple,"Kazakhstan has 6 bronze medals, which is the highest number of bronze medals among all participating nations in the 2025 Judo Grand Slam Astana.",1,1
+50,Q131784822_2199.csv,sport ,count,There are 3 riders from FDJ–Suez in the top 10 ranks of the 2025 Milano-Sanremo Donne.,1,0
+51,Q131784822_2199.csv,sport ,unique,The top 10 rankings include riders from at least 7 different teams in the 2025 Milano-Sanremo Donne.,1,1
+52,Q131784822_2199.csv,sport ,ordinal,"Lorena Wiebes is the first rider to achieve a rank in the 2025 Milano-Sanremo Donne, riding for Team SD Worx–Protime.",1,1
+53,Q131784822_2199.csv,sport ,simple,Marianne Vos from Visma–Lease a Bike achieved the second rank in the 2025 Milano-Sanremo Donne.,1,1
+54,Q131784822_2199.csv,sport ,count,There are at least 4 riders from the Netherlands participating in the top 10 ranks of the 2025 Milano-Sanremo Donne.,1,1
+55,Q131784821_2861.csv,sport ,simple,Elisa Balsamo from Italy is ranked first in the 2025 Trofeo Alfredo Binda-Comune di Cittiglio event.,1,1
+56,Q131784821_2861.csv,sport ,count,There are three riders from Italy participating in the top ten rankings of the 2025 Trofeo Alfredo Binda-Comune di Cittiglio event.,1,1
+57,Q131784821_2861.csv,sport ,superlative,Elisa Balsamo achieves the highest rank in the 2025 Trofeo Alfredo Binda-Comune di Cittiglio event among all the listed riders.,1,1
+58,Q131784821_2861.csv,sport ,unique,"There are no two different riders from the same team ranked first and second in the 2025 Trofeo Alfredo Binda-Comune di Cittiglio event, indicating unique team placements at the top.",1,1
+59,Q131784821_2861.csv,sport ,ordinal,Marianne Vos is the fourth-ranked rider in the 2025 Trofeo Alfredo Binda-Comune di Cittiglio event.,1,1
+60,Q131925634_2836.csv,sport ,simple,Bastien Tronchon from France achieved the first rank in the 2025 Tro Bro Leon.,1,1
+61,Q131925634_2836.csv,sport ,superlative,"The best time achieved in the 2025 Tro Bro Leon was by Bastien Tronchon and Pierre Gautherat with a time of 4h 43' 14"".",0,1
+62,Q131925634_2836.csv,sport ,count,There are 3 riders from France who ranked among the top 4 in the 2025 Tro Bro Leon.,1,0
+63,Q131925634_2836.csv,sport ,comparative,Fredrik Dversnes had a better ranking than Cees Bol in the 2025 Tro Bro Leon with a time difference of 6 seconds between them.,1,1
+64,Q131925634_2836.csv,sport ,unique,"There are riders from at least 4 different nations participating in the top 10 rankings of the 2025 Tro Bro Leon, including France, Norway, Netherlands, and Sweden.",1,1
+65,Q134348075_3002.csv,sport ,superlative,Kenny Bednarek achieves the highest points in the 2025 Miami Slam with 12 points.,1,1
+66,Q134348075_3002.csv,sport ,aggregation,"The total points achieved by athletes from the United States is 16, which is the sum of Kenny Bednarek's and Brandon Hicklin's points.",0,0
+67,Q134348075_3002.csv,sport ,comparative,Zharnel Hughes has a better time than Andre De Grasse with 20.13 seconds compared to 20.23 seconds.,1,0
+68,Q134348075_3002.csv,sport ,count,"There are 2 athletes from Jamaica participating in the 2025 Miami Slam, namely Oblique Seville and Ackeem Blake.",1,1
+69,Q134348075_3002.csv,sport ,simple,Benjamin Richardson from South Africa achieved a time of 20.62 seconds in the 2025 Miami Slam.,1,1
+70,Q133804597_2077.csv,sport ,superlative,Kenny Bednarek achieves the highest score in the 2025 Kingston Slam with 12 points.,1,1
+71,Q133804597_2077.csv,sport ,count,There are 3 athletes from the United States participating in the 2025 Kingston Slam.,1,1
+72,Q133804597_2077.csv,sport ,comparative,Zharnel Hughes has a lower score than Kenny Bednarek in the 2025 Kingston Slam.,1,1
+73,Q133804597_2077.csv,sport ,unique,There are 4 different nations represented by the top 5 athletes in the 2025 Kingston Slam.,1,1
+74,Q133804597_2077.csv,sport ,simple,Fred Kerley is from the United States and scored 6 points in the 2025 Kingston Slam.,1,1
+75,Q133202803_2126.csv,sport ,superlative,Norway has the athlete with the best time in the Men's 50 kilometre freestyle event at the FIS Nordic World Ski Championships 2025.,1,0
+76,Q133202803_2126.csv,sport ,count,There are 4 athletes from Norway ranked among the top 5 in the Men's 50 kilometre freestyle event at the FIS Nordic World Ski Championships 2025.,1,0
+77,Q133202803_2126.csv,sport ,comparative,Simen Hegstad Krüger from Norway has a better time than William Poromaa from Sweden in the Men's 50 kilometre freestyle event at the FIS Nordic World Ski Championships 2025.,1,0
+78,Q133202803_2126.csv,sport ,aggregation,The average deficit of the top 10 athletes in the Men's 50 kilometre freestyle event at the FIS Nordic World Ski Championships 2025 is approximately 2 minutes and 16 seconds.,1,1
+79,Q133202803_2126.csv,sport ,unique,There are athletes from 17 different countries participating in the Men's 50 kilometre freestyle event at the FIS Nordic World Ski Championships 2025.,1,1
+80,Q132901605_2508.csv,sport ,superlative,Johann André Forfang achieves the highest score in the Men's individual normal hill event with 140.8 points.,1,1
+81,Q132901605_2508.csv,sport ,count,There are 5 athletes from Germany participating in the Men's individual normal hill event.,1,1
+82,Q132901605_2508.csv,sport ,comparative,"Andreas Wellinger has a higher score than Daniel Tschofenig, with 138.2 points compared to 134.2 points.",1,1
+83,Q132901605_2508.csv,sport ,aggregation,The average distance achieved by all athletes in the Men's individual normal hill event is approximately 97.5 meters.,1,1
+84,Q132901605_2508.csv,sport ,simple,"Killian Peier, an athlete from Switzerland, achieved a distance of 104.0 meters and scored 131.9 points.",1,1
+85,Q133097637_2215.csv,sport ,simple,Cristian Westemaier from Brazil achieved the best time in the Men's para cross-country sprint with a time of 2:42.06.,1,1
+86,Q133097637_2215.csv,sport ,count,There are 4 athletes from Ukraine participating in the Men's para cross-country sprint.,1,1
+87,Q133097637_2215.csv,sport ,superlative,"The fastest time achieved in the Men's para cross-country sprint is 2:42.06 by Cristian Westemaier, which is also the time with the smallest difference since it is the reference point for all other times.",1,1
+88,Q133097637_2215.csv,sport ,comparative,"Yerbol Khamitov from Kazakhstan has a time of 2:42.45, which is slower than Cristian Westemaier's time by 0.39 seconds.",1,1
+89,Q133097637_2215.csv,sport ,ordinal,Cristian Westemaier is the first athlete to achieve a qualification in the Men's para cross-country sprint with a time of 2:42.06.,1,1
+90,Q132990624_2683.csv,sport ,superlative,Nathalie Armbruster achieves the best cross-country time among all participants with a time of 12:27.5.,1,1
+91,Q132990624_2683.csv,sport ,count,There are 5 athletes from Norway participating in the championships.,1,1
+92,Q132990624_2683.csv,sport ,comparative,"Gyda Westvold Hansen has a better cross-country rank than Lisa Hirner, with ranks 3 and 8 respectively.",0,1
+93,Q132990624_2683.csv,sport ,aggregation,The average cross-country time for the top 5 ranked athletes is 13:02.34 minutes.,1,1
+94,Q132990624_2683.csv,sport ,unique,There are 11 different nations represented in the tournament.,1,1
+95,Q132863254_2586.csv,sport ,superlative,"The athlete who achieves the highest rank in the Women's 20 kilometre skiathlon is Ebba Andersson from Sweden, with a time of 47:57.1.",1,1
+96,Q132863254_2586.csv,sport ,count,"There are 6 athletes from Sweden participating in the Women's 20 kilometre skiathlon, as indicated by their country of origin in the table.",1,1
+97,Q132863254_2586.csv,sport ,comparative,"Frida Karlsson has a higher rank than Heidi Weng, with Frida Karlsson ranking 4th and Heidi Weng ranking 5th in the Women's 20 kilometre skiathlon.",1,0
+98,Q132863254_2586.csv,sport ,aggregation,"The total number of athletes from Norway participating in the event is 4, as seen from the 'country' column in the table.",0,0
+99,Q132863254_2586.csv,sport ,simple,Therese Johaug from Norway has a time of 47:57.1 and a deficit of +0.0 in the Women's 20 kilometre skiathlon.,1,1
+100,Q133163768_2471.csv,sport ,superlative,Austria achieved the best rank in terms of 'rank.1' with a value of 3.,1,1
+101,Q133163768_2471.csv,sport ,aggregation,The average deficit for all participating teams is approximately 1 minute and 37 seconds.,1,1
+102,Q133163768_2471.csv,sport ,comparative,"Germany has a lower deficit than Finland, with Germany having a deficit of 0:02 compared to Finland's 1:26.",1,1
+103,Q133163768_2471.csv,sport ,count,There are 9 teams from different countries participating in the FIS Nordic World Ski Championships 2025 – Team large hill/4 × 5 km.,1,1
+104,Q133163768_2471.csv,sport ,simple,"Norway, led by Simen Tiller, Jørgen Graabak, Jens Lurås Oftebro, and Jarl Magnus Riiber, finished with a time of 50:35.5.",1,1
+105,Q132977974_2322.csv,sport ,simple,Jarl Magnus Riiber from Norway has a cross-country time of 17:13.4.,1,1
+106,Q132977974_2322.csv,sport ,comparative,Jens Lurås Oftebro has a better cross-country rank than Vinzenz Geiger.,1,1
+107,Q132977974_2322.csv,sport ,count,There are 5 athletes from Austria participating in the FIS Nordic World Ski Championships 2025 – Individual normal hill/7.5 km compact.,1,1
+108,Q132977974_2322.csv,sport ,superlative,Jens Lurås Oftebro achieves the best cross-country time of 16:24.2 among all participants.,0,1
+109,Q132977974_2322.csv,sport ,aggregation,The average cross-country time for the top 5 ranked athletes is 17:02.56 minutes.,1,1
+110,Q127500786_2649.csv,sport ,superlative,Canada achieves the highest goal difference with +24 in the tournament.,1,1
+111,Q127500786_2649.csv,sport ,aggregation,"The total points obtained by all teams in group A is 26, which is calculated by summing the points of Canada, Slovakia, Finland, and Latvia.",1,1
+112,Q127500786_2649.csv,sport ,comparative,"United States has a higher number of points than Sweden, with both being leaders in their respective groups.",1,1
+113,Q127500786_2649.csv,sport ,count,"There are 4 teams from group A participating in the tournament, as indicated by the team and group columns in the table.",1,1
+114,Q127500786_2649.csv,sport ,simple,Latvia is ranked last among the teams with a rank of 8 and only 2 points obtained.,1,1
+115,Q133099581_2313.csv,sport ,superlative,Carina Edlinger Guide: Jakob Kainz from Austria achieved the best time in the Women's para cross-country sprint with a time of 3:51.43.,1,1
+116,Q133099581_2313.csv,sport ,aggregation,"The average time difference from the leader for all participants is approximately 45.55 seconds, indicating a wide range of performance levels among the competitors.",1,1
+117,Q133099581_2313.csv,sport ,negation,No participant from Poland achieved a rank higher than 8th place in the Women's para cross-country sprint.,1,1
+118,Q133099581_2313.csv,sport ,comparative,"Simona Bubeníčková Guide: David Šrůtek from the Czech Republic had a better time than Linn Kazmaier Guide: Florian Baumann from Germany, with a difference of 20.63 seconds.",1,1
+119,Q133099581_2313.csv,sport ,count,"There are 3 participants from Germany in the Women's para cross-country sprint, indicating strong participation and interest from this country in the event.",1,1
+120,Q132860497_2477.csv,sport ,superlative,Johannes Høsflot Klæbo achieves the best time in the Men's sprint with a time of 2:36.32.,1,1
+121,Q132860497_2477.csv,sport ,count,There are 5 athletes from the United States participating in the Men's sprint event.,1,0
+122,Q132860497_2477.csv,sport ,comparative,"Edvin Anger has a better ranking than Valerio Grond, with Edvin Anger ranked 2nd and Valerio Grond ranked 3rd.",1,1
+123,Q132860497_2477.csv,sport ,aggregation,"The average time of the top 5 athletes is approximately 2:38.12, indicating a high level of competition among the leaders.",1,0
+124,Q132860497_2477.csv,sport ,unique,"There are 15 different nations represented in the Men's sprint event, showcasing a diverse participation from around the world.",1,1
+125,Q132818161_2124.csv,sport ,superlative,Gyda Westvold Hansen achieves the best time in the Women's 5 km mass start/individual normal hill event with a time of 13:36.3.,1,1
+126,Q132818161_2124.csv,sport ,count,There are 4 athletes from Norway participating in the FIS Nordic World Ski Championships 2025 – Women's 5 km mass start/individual normal hill.,1,1
+127,Q132818161_2124.csv,sport ,comparative,"Marte Leinan Lund has a better rank than Yuna Kasai, with Marte ranking 2nd and Yuna ranking 3rd.",1,1
+128,Q132818161_2124.csv,sport ,aggregation,"The average time for all participants in the event is approximately 14:53.4 minutes, calculated by summing up all times and dividing by the total number of participants.",1,1
+129,Q132818161_2124.csv,sport ,ordinal,"The first athlete from Japan to finish the race is Yuna Kasai, who ranked 3rd overall.",1,1
+130,Q132993305_2773.csv,sport ,superlative,Johannes Høsflot Klæbo from Norway achieved the fastest time in the Men's 10 kilometre classical event with a time of 28:16.6.,1,1
+131,Q132993305_2773.csv,sport ,count,"There are 5 athletes from Norway participating in the Men's 10 kilometre classical event, as indicated by their country of origin in the table.",1,1
+132,Q132993305_2773.csv,sport ,comparative,Erik Valnes had a slower time than Johannes Høsflot Klæbo by 8.8 seconds in the Men's 10 kilometre classical event.,1,1
+133,Q132993305_2773.csv,sport ,aggregation,"The average deficit of all athletes from Sweden is 20.0 seconds, calculated by averaging the deficits of Edvin Anger, William Poromaa, and Jens Burman, which are +14.2, +15.3, and +1:12.6 respectively.",1,1
+134,Q132993305_2773.csv,sport ,simple,The athlete with bib number 56 is Johannes Høsflot Klæbo from Norway who completed the race in 28:16.6.,1,1
+135,Q133102508_2417.csv,sport ,superlative,Norway achieves the best time in the Men's 4 × 7.5 kilometre relay with a total time of 1:08:13.7.,1,1
+136,Q133102508_2417.csv,sport ,aggregation,"The average deficit of all teams participating in the Men's 4 × 7.5 kilometre relay is approximately +2:38.6, indicating that most teams finished more than 2 minutes behind the winning team Norway.",0,0
+137,Q133102508_2417.csv,sport ,count,There are 23 countries represented in the Men's 4 × 7.5 kilometre relay at the FIS Nordic World Ski Championships 2025.,1,1
+138,Q133102508_2417.csv,sport ,comparative,"France has a better rank than Canada, finishing 4th with a time of 1:08:38.9 compared to Canada's 5th place finish with a time of 1:08:39.0.",1,1
+139,Q133102508_2417.csv,sport ,ordinal,"The first team to achieve a time under 1:09:00 is Norway, and the second team is Switzerland, which finished in 8th place with a total time of 1:08:35.3.",1,1
+140,Q117323526_2127.csv,sport ,superlative,Italy achieves the highest total number of medals with 8 medals in the 2025 European Karate Championships.,1,1
+141,Q117323526_2127.csv,sport ,aggregation,"The average number of gold medals won by the top 3 nations is 2.33, indicating a competitive distribution of the highest honors.",1,1
+142,Q117323526_2127.csv,sport ,comparative,"Germany has fewer silver medals than Italy and Spain, but it leads in bronze medals among these three, showing a different medal distribution strategy or performance.",1,1
+143,Q117323526_2127.csv,sport ,count,"There are 11 nations that have won at least one gold medal in the championships, demonstrating widespread competitiveness across participating countries.",0,0
+144,Q117323526_2127.csv,sport ,simple,"Germany ranks first with 3 gold medals and a total of 7 medals, showcasing its strong performance in the championships.",1,1
+145,Q118499999_2198.csv,sport ,simple,The Men's singles competition starts with Round 128 on May 17th.,1,0
+146,Q118499999_2198.csv,sport ,count,There are 5 different categories of competitions listed in the table.,1,1
+147,Q118499999_2198.csv,sport ,all,All categories of competitions have their final stages scheduled between May 23rd and May 24th.,1,1
+148,Q118499999_2198.csv,sport ,comparative,"Men's doubles and Women's doubles share the same schedule throughout the tournament, indicating they are synchronized in terms of competition progression.",1,0
+149,Q118499999_2198.csv,sport ,ordinal,"The Mixed doubles is the first category to reach its final stage, scheduled for May 24th.",1,0
+150,Q131005100_2341.csv,sport ,simple,"KuPS is the only team with a recorded result in round 15, winning it.",1,1
+151,Q131005100_2341.csv,sport ,superlative,"Ilves achieved the most consecutive wins at the start of the season, with three victories in rounds 1 through 3.",1,0
+152,Q131005100_2341.csv,sport ,count,"There are five teams that have not won any game in the first round, namely Gnistan, HJK, KTP, Mariehamn, and Oulu.",1,1
+153,Q131005100_2341.csv,sport ,comparative,"SJK has a better start to the season compared to Haka, winning three of their first four games while Haka only managed one win in the same period.",0,1
+154,Q131005100_2341.csv,sport ,aggregation,"The total number of wins by all teams in round 7 is five, indicating a competitive closing to the initial sequence of matches.",1,0
+155,Q131559340_2268.csv,sport ,superlative,Dinamo Minsk achieved the highest position in 2024 among all teams listed in the table.,1,1
+156,Q131559340_2268.csv,sport ,aggregation,The average capacity of the venues for the teams participating in the 2025 Belarusian Premier League is approximately 7431 spectators.,1,1
+157,Q131559340_2268.csv,sport ,count,There are 16 teams listed as participants in the 2025 Belarusian Premier League table provided.,1,1
+158,Q131559340_2268.csv,sport ,comparative,"Neman had a higher position in 2024 compared to BATE, with Neman ranking 2nd and BATE ranking 8th.",1,0
+159,Q131559340_2268.csv,sport ,simple,"The team Dinamo Brest plays its home games at the OSK Brestsky venue, which has a capacity of 10169 spectators.",1,1
+160,Q133864342_2748.csv,sport ,superlative,France achieves the highest rank in the 2025 European Running Championships.,1,1
+161,Q133864342_2748.csv,sport ,aggregation,The total number of gold medals awarded in the championships is 6.,1,0
+162,Q133864342_2748.csv,sport ,comparative,Italy has more gold medals than silver and bronze medals combined.,0,0
+163,Q133864342_2748.csv,sport ,count,There are 8 nations participating in the 2025 European Running Championships.,1,1
+164,Q133864342_2748.csv,sport ,simple,Germany won 1 silver medal in the championships.,1,1
+165,Q104396713_2798.csv,sport ,superlative,France achieves the highest total number of medals in the Biathlon World Championships 2025 with 13 medals.,1,1
+166,Q104396713_2798.csv,sport ,aggregation,"The average number of gold medals won by each participating nation is 1.5, calculated by dividing the total number of gold medals by the number of nations.",1,1
+167,Q104396713_2798.csv,sport ,comparative,"Norway has more silver medals than bronze medals, with 3 silvers and 2 bronzes.",1,1
+168,Q104396713_2798.csv,sport ,count,There are 8 nations participating in the Biathlon World Championships 2025.,1,1
+169,Q104396713_2798.csv,sport ,simple,Germany won 1 gold medal in the Biathlon World Championships 2025.,1,1
+170,Q116192898_2779.csv,sport ,simple,Kalmar FF had a draw in round _8.,1,1
+171,Q116192898_2779.csv,sport ,count,There are 16 teams participating in the 2025 Superettan league as per the given table.,1,1
+172,Q116192898_2779.csv,sport ,superlative,Varbergs BoIS achieved the most wins in consecutive rounds from _3 to _6 with four straight wins.,1,0
+173,Q116192898_2779.csv,sport ,negation,Umeå FC did not achieve a single win throughout the eight rounds.,1,1
+174,Q116192898_2779.csv,sport ,comparative,Örgryte IS had more draws than losses across all eight rounds.,0,1
+175,Q63565482_2142.csv,sport ,simple,Johannes Høsflot Klæbo from Norway achieved 6 points in the Cross-country event.,1,1
+176,Q63565482_2142.csv,sport ,count,There are 7 athletes from Norway who participated in the Ski jumping event.,1,1
+177,Q63565482_2142.csv,sport ,superlative,Therese Johaug achieves the highest number of silver medals among all athletes with 3 silver medals.,1,1
+178,Q63565482_2142.csv,sport ,aggregation,The total number of gold medals obtained by athletes from Sweden is 8.,1,1
+179,Q63565482_2142.csv,sport ,comparative,Jarl Magnus Riiber has a higher total medal count than Gyda Westvold Hansen.,1,1
+180,Q130317940_2988.csv,sport ,count,There are 7 different events in the 2025 Judo Grand Slam Tashkent tournament.,1,1
+181,Q130317940_2988.csv,sport ,unique,Each event in the 2025 Judo Grand Slam Tashkent has a unique gold medal winner.,1,1
+182,Q130317940_2988.csv,sport ,superlative,The Extra-lightweight (−60 kg) event has the fewest number of different countries represented among its medalists in the 2025 Judo Grand Slam Tashkent tournament.,0,1
+183,Q130317940_2988.csv,sport ,simple,Ayub Bliev from IJF won the gold medal in the Extra-lightweight (−60 kg) event at the 2025 Judo Grand Slam Tashkent.,1,0
+184,Q130317940_2988.csv,sport ,all,All events in the 2025 Judo Grand Slam Tashkent have both a gold and a silver medal winner.,1,1
+185,Q132291320_2585.csv,sport ,count,There are 7 teams from São Paulo participating in the tournament.,0,0
+186,Q132291320_2585.csv,sport ,unique,"The states represented in the tournament include São Paulo, Minas Gerais, Rio Grande do Sul, Rio de Janeiro, Distrito Federal, Bahia, Amazonas, and Pernambuco, totaling 8 different states.",0,1
+187,Q132291320_2585.csv,sport ,superlative,Corinthians achieves the highest position as Champions in Série A1 among all teams listed.,1,1
+188,Q132291320_2585.csv,sport ,all,All teams that are champions or runners-up in their respective series have a clear status regarding their qualification or eligibility for further berths.,0,0
+189,Q132291320_2585.csv,sport ,simple,"Flamengo, from Rio de Janeiro, has qualified for the tournament.",1,1
+190,Q116192885_2568.csv,sport ,superlative,Degerfors IF achieves the highest ranking in the _4_unnamed:_4_level_1 category with a score of 6.,1,1
+191,Q116192885_2568.csv,sport ,aggregation,"The average score of all teams in the _5_unnamed:_5_level_1 category is approximately 8.5, indicating a competitive balance among the teams.",1,1
+192,Q116192885_2568.csv,sport ,comparative,"Malmö FF has a higher score than IF Elfsborg in the _2_unnamed:_2_level_1 category, with scores of 4 and 12 respectively.",0,0
+193,Q116192885_2568.csv,sport ,count,There are 16 teams participating in the Allsvenskan tournament as indicated by the unique team names listed in the table.,0,1
+194,Q116192885_2568.csv,sport ,simple,"AIK scored 6 points in the _1_unnamed:_1_level_1 category, showing a strong initial performance.",0,1
+195,Q131411367_2296.csv,sport ,simple,FC Anyang has Bruno Mota as one of its players.,1,1
+196,Q131411367_2296.csv,sport ,count,There are 11 teams participating in the 2025 K League 1.,1,1
+197,Q131411367_2296.csv,sport ,unique,"Each team in the league has a unique set of foreign players, with no two teams having the exact same lineup of foreign players.",1,1
+198,Q131411367_2296.csv,sport ,all,"All teams have at least one foreign player listed, indicating a diverse pool of international talent in the league.",1,1
+199,Q131411367_2296.csv,sport ,superlative,"Daejeon Hana Citizen has the most complete roster with six players listed, making it the team with the largest number of players specified in the table.",0,1
+200,Q131351495_2922.csv,sport ,count,There are 20 clubs in the 2025 J1 League.,1,1
+201,Q131351495_2922.csv,sport ,unique,Each club has a unique name in the 2025 J1 League.,1,1
+202,Q131351495_2922.csv,sport ,comparative,Kawasaki Frontale has more listed players than Fagiano Okayama.,1,1
+203,Q131351495_2922.csv,sport ,simple,Albirex Niigata has Jason Geria as one of its players.,1,1
+204,Q131351495_2922.csv,sport ,all,All clubs in the 2025 J1 League have at least one player listed.,1,0
+205,Q124005960_2550.csv,sport ,superlative,Jennifer Gardiner achieves the highest number of goals scored in the tournament with 6 goals.,1,1
+206,Q124005960_2550.csv,sport ,aggregation,"The average points per player in the tournament is approximately 8.5, indicating a high level of skill and scoring ability among participants.",1,1
+207,Q124005960_2550.csv,sport ,comparative,"Marie-Philip Poulin has more assists than Alex Carpenter, with 8 assists compared to 6, showcasing her strength in supporting teammates' goals.",1,0
+208,Q124005960_2550.csv,sport ,count,"There are 7 players from the forward position who have scored more than 5 points in the tournament, highlighting the offensive prowess of the team's forwards.",0,1
+209,Q124005960_2550.csv,sport ,simple,"Renata Fast is a defender with 8 assists and no goals, demonstrating her significant contribution to the team through setting up scoring opportunities for her teammates.",1,1
+210,Q131629718_2191.csv,sport ,superlative,France achieves the highest total number of medals in the 2025 European Badminton Championships with a total of 8.0 medals.,1,1
+211,Q131629718_2191.csv,sport ,aggregation,"The average number of gold medals won by all participating nations is less than 1, indicating a competitive distribution of the top prize.",0,0
+212,Q131629718_2191.csv,sport ,comparative,"Denmark has more bronze medals than silver medals in the 2025 European Badminton Championships, with 4.5 bronze and 1 silver medal.",1,1
+213,Q131629718_2191.csv,sport ,simple,"Bulgaria won only one gold medal and no other medals in the tournament, making its total medal count 1.0.",1,1
+214,Q131629718_2191.csv,sport ,count,"There are two nations, Croatia and Hungary, that are tied at the fifth rank with each having a total of 1 medal.",1,1
+215,Q132176368_2578.csv,sport ,superlative,Algeria achieves the highest number of wins without any losses in the tournament.,1,1
+216,Q132176368_2578.csv,sport ,aggregation,"The total number of points accumulated by all teams is 20, indicating a competitive tournament with varying levels of success among participants.",1,0
+217,Q132176368_2578.csv,sport ,comparative,"Mauritius has a higher number of matches played compared to the champions, Algeria, despite not winning the championship.",0,1
+218,Q132176368_2578.csv,sport ,count,"There are 4 teams that were eliminated in either the semi-finals or quarter-finals, showing a tight competition at these stages.",1,1
+219,Q132176368_2578.csv,sport ,simple,Ghana withdrew from the tournament without participating in any matches.,1,1
+220,Q126719124_2503.csv,sport ,superlative,Judd Trump achieves the highest score in the 2025 World Grand Prix with 949200 points.,1,1
+221,Q126719124_2503.csv,sport ,aggregation,The total points earned by all players in the 2025 World Grand Prix is 517800 + 949200 + 281500 + 260000 + 255600 + 227050 + 224550 + 211000 + 209200 + 200900 + 184400 + 181600 + 148400 + 141000 + 138750 + 121600 = 4097150 points.,1,1
+222,Q126719124_2503.csv,sport ,comparative,"Kyren Wilson has a higher score than Xiao Guodong in the 2025 World Grand Prix, with 517800 points compared to 281500 points.",1,1
+223,Q126719124_2503.csv,sport ,count,There are 6 players from England participating in the 2025 World Grand Prix.,1,0
+224,Q126719124_2503.csv,sport ,simple,Mark Selby is ranked 4th in the 2025 World Grand Prix with 260000 points.,1,1
+225,Q130342041_2648.csv,sport ,superlative,Tunisia achieved the highest number of bronze medals in the 2025 African Judo Championships.,1,1
+226,Q130342041_2648.csv,sport ,aggregation,The total number of gold medals awarded in the 2025 African Judo Championships was 15.,1,1
+227,Q130342041_2648.csv,sport ,comparative,Egypt won more gold medals than Morocco in the 2025 African Judo Championships.,1,1
+228,Q130342041_2648.csv,sport ,count,There are 12 nations that participated in the 2025 African Judo Championships.,1,1
+229,Q130342041_2648.csv,sport ,ordinal,Egypt is the first-ranked nation in the 2025 African Judo Championships based on the total number of medals won.,1,1
+230,Q125764925_2684.csv,sport ,superlative,Judd Trump achieves the highest score in the 2025 Players Championship with 993200 points.,1,1
+231,Q125764925_2684.csv,sport ,comparative,"Kyren Wilson has a higher score than Neil Robertson in the 2025 Players Championship, with 541800 points compared to 407050 points.",1,1
+232,Q125764925_2684.csv,sport ,count,There are 4 players from England participating in the 2025 Players Championship.,1,0
+233,Q125764925_2684.csv,sport ,aggregation,The total points accumulated by all players in the top 8 seeds of the 2025 Players Championship is 993200 + 541800 + 407050 + 333750 + 306500 + 285000 + 265600 + 261550 = 3092950 points.,1,0
+234,Q125764925_2684.csv,sport ,simple,"Barry Hawkins, from England, has 261550 points in the 2025 Players Championship.",1,1
+235,Q131916904_2730.csv,sport ,superlative,Jon Rahm achieves the highest score to par among all players tied for 14th place with a score of −3.,1,1
+236,Q131916904_2730.csv,sport ,aggregation,"The total money earned by all players who finished below the top 10 is over $4,000,000.",0,0
+237,Q131916904_2730.csv,sport ,count,There are 8 different players tied for 14th place in the tournament.,1,1
+238,Q131916904_2730.csv,sport ,comparative,"Harris English and Max Homa have the same score of −4, which is higher than any player tied for 14th place.",1,1
+239,Q131916904_2730.csv,sport ,simple,Jordan Spieth finished with a score of 285 (−3) in the tournament.,1,1
+240,Q124304518_2459.csv,sport ,superlative,Nicolas Girard achieves the highest score in the 2025 European Indoor Archery Championships with a total of 599 points.,1,1
+241,Q124304518_2459.csv,sport ,aggregation,"The average score obtained by all participants in the championships is approximately 579.4, calculated from the total scores provided in the table.",1,1
+242,Q124304518_2459.csv,sport ,comparative,"Jozef Bosansky has a higher score than Mathias Fullerton and Batuhan Akçaoğlu, with 596 points compared to their 595 points each.",1,1
+243,Q124304518_2459.csv,sport ,count,"There are 3 archers from Turkey participating in the championships, as indicated by the entries for Batuhan Akçaoğlu, Emircan Haney, and Ahmet Can Yolaç.",1,1
+244,Q124304518_2459.csv,sport ,unique,"There are 10 different nations represented in the top 20 rankings of the tournament, showcasing a diverse participation across Europe and beyond.",1,1
+245,Q125765206_2775.csv,sport ,superlative,Judd Trump achieves the highest score in the 2025 Tour Championship with 1063200 points.,1,1
+246,Q125765206_2775.csv,sport ,comparative,Kyren Wilson has a higher score than Neil Robertson in the tournament.,1,1
+247,Q125765206_2775.csv,sport ,aggregation,The total points accumulated by all players in the tournament is 6884200 points.,1,0
+248,Q125765206_2775.csv,sport ,count,There are 4 players from England participating in the tournament.,1,0
+249,Q125765206_2775.csv,sport ,simple,"Ding Junhui, a player from China, has 250000 points in the championship.",1,1
+250,Q130616801_2396.csv,sport ,superlative,Japan has achieved the highest number of gold medals among all participating nations with 9 gold medals.,1,1
+251,Q130616801_2396.csv,sport ,aggregation,"The total number of bronze medals awarded in the championships is 30, indicating a significant distribution of third-place finishes across the competing nations.",0,0
+252,Q130616801_2396.csv,sport ,comparative,"Uzbekistan has more silver medals than South Korea, with 3 silver medals compared to South Korea's 1 silver medal.",1,1
+253,Q130616801_2396.csv,sport ,simple,"Bahrain won exactly 1 gold medal in the championships, contributing to its total of 1 medal overall.",1,1
+254,Q130616801_2396.csv,sport ,ordinal,"The first and second places in terms of the number of bronze medals are shared by Tajikistan with 5 bronze medals and South Korea with 4 bronze medals, respectively, although other nations also have significant numbers of bronze medals.",0,1
+255,Q115415567_2871.csv,sport ,count,There are 21 different events listed for Day 1 and Day 2 of the championships.,1,1
+256,Q115415567_2871.csv,sport ,comparative,More women's events are scheduled for the qualification round than men's events on Day 1.,0,1
+257,Q115415567_2871.csv,sport ,simple,The High jump event is one of the first competitions to take place on both Day 1 for men and Day 2 for women.,1,1
+258,Q115415567_2871.csv,sport ,unique,"The 4 x 400 metres relay is the only mixed-gender event listed in the table, denoted by 'X' under the gender column.",1,1
+259,Q115415567_2871.csv,sport ,ordinal,The first final event scheduled is the Triple jump for women on Day 2 at 18:50.,1,1
+260,Q50016943_2749.csv,sport ,count,There are more than 30 events scheduled across the three days of the championships.,0,0
+261,Q50016943_2749.csv,sport ,comparative,"The men's 60 metres event has an additional round, a semi-final, which is not listed for the women's equivalent on Day 1, indicating a difference in competition structure between genders for this event.",1,1
+262,Q50016943_2749.csv,sport ,superlative,"The earliest event on each day starts at 10:05, making it the consistent start time for the championships across all three days.",1,1
+263,Q50016943_2749.csv,sport ,unique,"Each day of the championship features a unique set of events, with no event being repeated in its exact form (considering gender and round) across different days.",0,1
+264,Q50016943_2749.csv,sport ,simple,"The 60 metres hurdles event is scheduled for both men and women across different days, indicating its inclusion as part of both the heptathlon and pentathlon competitions.",1,1
+265,Q115912515_2499.csv,sport ,superlative,"Lando Norris achieved the best final grid position with a time of 1:15.096 in Q3, securing the first place on the grid.",1,1
+266,Q115912515_2499.csv,sport ,count,There are 5 different constructors represented in the top 10 positions of the final grid for the 2025 Australian Grand Prix.,1,1
+267,Q115912515_2499.csv,sport ,comparative,"McLaren-Mercedes has a better qualifying performance compared to Ferrari, with both its drivers securing higher grid positions than any Ferrari driver.",0,1
+268,Q115912515_2499.csv,sport ,ordinal,"The second position on the final grid is secured by Oscar Piastri driving for McLaren-Mercedes, indicating a strong team performance in qualifying.",1,1
+269,Q115912515_2499.csv,sport ,simple,"Max Verstappen, driving for Red Bull Racing-Honda RBPT, qualified third with a Q3 time of 1:15.481.",1,1
+270,Q115910655_2509.csv,sport ,superlative,Lewis Hamilton achieved the fastest time in qualifying_times_sq3 with a time of 1:30.849.,1,1
+271,Q115910655_2509.csv,sport ,aggregation,"The average qualifying_times_sq1 for all drivers is approximately 1:32.141, indicating a competitive field at the 2025 Chinese Grand Prix.",1,1
+272,Q115910655_2509.csv,sport ,count,"There are 20 drivers participating in the 2025 Chinese Grand Prix, representing various constructors and teams.",1,1
+273,Q115910655_2509.csv,sport ,comparative,"Max Verstappen had a slower qualifying_times_sq1 compared to Lewis Hamilton, with a time of 1:31.916 versus 1:31.212 respectively.",0,1
+274,Q115910655_2509.csv,sport ,ordinal,"The first position in the sprint_grid_sprint_grid is held by Lewis Hamilton, indicating his strong performance in the qualifying rounds.",1,1
+275,Q115902516_2273.csv,sport ,superlative,"Oscar Piastri achieved the fastest qualifying time in Q3 with 1:14.670, which is the best among all drivers.",1,1
+276,Q115902516_2273.csv,sport ,count,There are 10 different constructors represented in the final grid for the 2025 Emilia Romagna Grand Prix.,1,1
+277,Q115902516_2273.csv,sport ,comparative,"Max Verstappen had a faster Q1 time than George Russell, with times of 1:15.175 and 1:15.852 respectively.",1,1
+278,Q115902516_2273.csv,sport ,ordinal,"Lando Norris is the fourth driver on the final grid, driving for McLaren-Mercedes.",1,1
+279,Q115902516_2273.csv,sport ,simple,"Fernando Alonso, driving for Aston Martin Aramco-Mercedes, qualified fifth with a Q3 time of 1:15.431.",1,1
+280,Q115910738_2744.csv,sport ,superlative,Max Verstappen achieved the fastest qualifying time in Q3 with a time of 1:27.294.,1,1
+281,Q115910738_2744.csv,sport ,comparative,"Oscar Piastri had a faster qualifying time in Q2 than George Russell, with times of 1:27.545 and 1:27.599 respectively.",1,1
+282,Q115910738_2744.csv,sport ,count,There are 20 drivers from different teams participating in the 2025 Saudi Arabian Grand Prix.,1,1
+283,Q115910738_2744.csv,sport ,ordinal,"Lando Norris is the tenth driver on the final grid, despite having one of the faster qualifying times in Q1 and Q2.",1,1
+284,Q115910738_2744.csv,sport ,simple,"Lewis Hamilton, driving for Ferrari, qualified seventh with a Q3 time of 1:28.201.",1,1
+285,Q115913092_2384.csv,sport ,superlative,"Oscar Piastri achieved the fastest qualifying time in Q3 with 1:29.841, securing the first position on the final grid.",1,1
+286,Q115913092_2384.csv,sport ,count,There are 20 drivers listed from different constructors participating in the 2025 Bahrain Grand Prix.,1,1
+287,Q115913092_2384.csv,sport ,comparative,"George Russell had a slower qualifying time in Q3 compared to Charles Leclerc, resulting in a significant difference in their final grid positions.",0,0
+288,Q115913092_2384.csv,sport ,ordinal,"Lando Norris is the sixth driver on the final grid after completing the qualifying sessions with consistent times across Q1, Q2, and Q3.",1,1
+289,Q115913092_2384.csv,sport ,unique,"Each of the 20 drivers represents a unique combination of driver and constructor, indicating no duplication in driver-constructor pairs among the participants.",0,1
+290,Q131536623_2324.csv,sport ,simple,Liverpool had 7 total shots in the 2025 EFL Cup final.,1,1
+291,Q131536623_2324.csv,sport ,comparative,"Newcastle United had more corner kicks than Liverpool, with 9 compared to 4.",1,0
+292,Q131536623_2324.csv,sport ,superlative,"Newcastle United achieved the highest number of shots on target in the match, with a total of 6 shots.",1,1
+293,Q131536623_2324.csv,sport ,negation,Neither team received any red cards during the game.,1,1
+294,Q131536623_2324.csv,sport ,aggregation,The total number of fouls committed by both teams in the 2025 EFL Cup final was 24.,1,0
+295,Q128426003_2464.csv,sport ,superlative,Max Verstappen achieved the fastest qualifying time in Q3 with 1:26.983.,1,1
+296,Q128426003_2464.csv,sport ,comparative,"Lando Norris had a better qualifying time in Q2 compared to Oscar Piastri, with times of 1:27.146 and 1:27.507 respectively.",1,1
+297,Q128426003_2464.csv,sport ,count,There are 5 different constructors represented in the top 5 positions of the final grid.,1,1
+298,Q128426003_2464.csv,sport ,ordinal,"George Russell is the fifth driver on the final grid, driving for Mercedes.",1,1
+299,Q128426003_2464.csv,sport ,simple,"Lewis Hamilton, driving for Ferrari, qualified eighth with a Q3 time of 1:27.610.",1,1
+300,Q115915262_2360.csv,sport ,simple,Spain is ranked 1st among Nations League group winners in qualifying group E.,1,1
+301,Q115915262_2360.csv,sport ,count,"There are 16 teams from League A that are not Nations League group winners, participating across various qualifying groups.",1,1
+302,Q115915262_2360.csv,sport ,superlative,"Among the listed teams, England has the highest rank within League B, ranked 17th overall.",1,1
+303,Q115915262_2360.csv,sport ,ordinal,"The first team in qualifying group A is Germany, which holds a rank of 2 among Nations League group winners.",1,1
+304,Q115915262_2360.csv,sport ,unique,"There are no two teams from the same country in any of the specified qualifying groups, indicating unique national representations.",1,1
+305,Q115910947_2572.csv,sport ,superlative,Andrea Kimi Antonelli achieved the best qualifying time in SQ3 with 1:26.482.,1,1
+306,Q115910947_2572.csv,sport ,aggregation,"The average of the best qualifying times (SQ3) for all drivers is approximately 1:27.442, indicating a competitive field.",1,1
+307,Q115910947_2572.csv,sport ,comparative,"Oscar Piastri had a better SQ2 qualifying time than Lando Norris, with 1:27.354 compared to 1:27.109, but Lando Norris had a better SQ3 time of 1:26.582 compared to Oscar Piastri's 1:26.527.",1,1
+308,Q115910947_2572.csv,sport ,count,There are 20 drivers participating in the 2025 Miami Grand Prix as indicated by the number of rows in the table.,1,1
+309,Q115910947_2572.csv,sport ,ordinal,"Andrea Kimi Antonelli is the first driver to start from the sprint grid with a position of 1, based on his qualifying performance.",1,1
+310,Q131807669_2306.csv,sport ,simple,"England's coach is John Mitchell, and their captain is Zoe Aldcroft.",1,1
+311,Q131807669_2306.csv,sport ,superlative,The stadium with the highest capacity where matches are held is Twickenham Stadium with a capacity of 82000.,1,1
+312,Q131807669_2306.csv,sport ,count,"There are 2 nations, France and Wales, that have two different home stadiums listed in the tournament.",1,0
+313,Q131807669_2306.csv,sport ,comparative,"Ireland improved its world rugby ranking from 6th to 5th, showing an improvement compared to other teams like Italy which remained at 8th place.",1,1
+314,Q131807669_2306.csv,sport ,unique,"There are 6 unique nations participating in the 2025 Women’s Six Nations Championship, each with its own coach and captain.",1,1
+315,Q133828656_2356.csv,sport ,superlative,The horse Journalism achieved the highest qualifying points among all participants with 122.5 points.,1,0
+316,Q133828656_2356.csv,sport ,aggregation,The average morning line odds for all horses in the 2025 Kentucky Derby is approximately 20–1.,1,1
+317,Q133828656_2356.csv,sport ,comparative,"Sovereignty had higher final odds than Journalism, with 7.98 compared to 3.42.",1,1
+318,Q133828656_2356.csv,sport ,count,"There are 19 horses that participated in the race, excluding the scratched ones.",0,1
+319,Q133828656_2356.csv,sport ,simple,The horse Sovereignty finished first in the 2025 Kentucky Derby with a program number of 18.,1,1
+320,Q132746205_2785.csv,sport ,superlative,"Nick Rockett achieved the highest prize money of £500,000 in the 2025 Grand National.",1,1
+321,Q132746205_2785.csv,sport ,aggregation,"The total prize money awarded to the top 10 finishers in the 2025 Grand National is £945,000.",1,0
+322,Q132746205_2785.csv,sport ,count,There are 7 horses that were pulled up during the 2025 Grand National.,1,1
+323,Q132746205_2785.csv,sport ,simple,Patrick Mullins was the jockey who rode Nick Rockett to first place in the 2025 Grand National.,1,1
+324,Q132746205_2785.csv,sport ,ordinal,"I Am Maximus finished in second place in the 2025 Grand National, earning £200,000 in prize money.",1,1
+325,Q133802780_2552.csv,sport ,superlative,The horse with the lowest odds is Willydoit at $3.70.,1,1
+326,Q133802780_2552.csv,sport ,aggregation,The average odds of all horses in the 2025 New Zealand Derby are approximately $43.93.,1,1
+327,Q133802780_2552.csv,sport ,count,There are 16 horses participating in the 2025 New Zealand Derby.,1,1
+328,Q133802780_2552.csv,sport ,simple,"Shaun & Emma Clotworthy trained two horses, Willydoit and Interplanetary, in the 2025 New Zealand Derby.",1,1
+329,Q133802780_2552.csv,sport ,comparative,"Tuxedo has the same odds as Willydoit at $3.70, making them the favorites with the lowest odds in the race.",1,1
+330,Q116447812_2491.csv,sport ,superlative,Ilia Malinin achieves the highest total score in the 2025 World Figure Skating Championships with a score of 318.56.,1,1
+331,Q116447812_2491.csv,sport ,aggregation,The average total score of all skaters in the 2025 World Figure Skating Championships is approximately 244.51.,1,1
+332,Q116447812_2491.csv,sport ,count,There are 24 skaters from different countries who advanced to the free skate in the 2025 World Figure Skating Championships.,1,1
+333,Q116447812_2491.csv,sport ,comparative,"Mikhail Shaidorov has a higher free skate score than Yuma Kagiyama, with scores of 192.70 and 171.10 respectively.",1,1
+334,Q116447812_2491.csv,sport ,simple,Adam Siao Him Fa from France ranks fourth in the 2025 World Figure Skating Championships with a total score of 275.48.,1,1
+335,Q92863283_2369.csv,sport ,superlative,China achieves the highest number of wins in the 2025 Sudirman Cup with 6 wins.,1,1
+336,Q92863283_2369.csv,sport ,aggregation,"The total number of matches played by all teams in the 2025 Sudirman Cup is 48, calculated by summing up the 'pld' column for each team.",1,1
+337,Q92863283_2369.csv,sport ,comparative,"South Korea has a higher number of points than Indonesia despite both having played 5 or 6 matches, indicating a stronger performance in terms of points per match.",1,1
+338,Q92863283_2369.csv,sport ,count,"There are 4 teams that were eliminated in the quarter-finals, including Thailand, Malaysia, Denmark, and Chinese Taipei.",1,1
+339,Q92863283_2369.csv,sport ,simple,The team that finished as runners-up in the 2025 Sudirman Cup is South Korea.,1,1
+340,Q126942790_2801.csv,sport ,simple,The Australian team consists of Tahli Gill and Dean Hewitt.,1,1
+341,Q126942790_2801.csv,sport ,count,There are 20 different countries participating in the 2025 World Mixed Doubles Curling Championship.,1,1
+342,Q126942790_2801.csv,sport ,unique,Each country has a unique pair of players representing them in the championship.,1,1
+343,Q126942790_2801.csv,sport ,all,All teams in the championship have one male and one female player.,1,1
+344,Q126942790_2801.csv,sport ,comparative,"The United States team, consisting of Cory Thiesse and Korey Dropkin, has a different gender composition compared to none of the other teams since all teams are mixed.",0,0
+345,Q91157899_2530.csv,sport ,aggregation,The total score achieved by the Philadelphia Eagles in Super Bowl LIX was 40 points.,1,1
+346,Q91157899_2530.csv,sport ,superlative,The Kansas City Chiefs achieved their highest score in a single play when Xavier Worthy received a 50-yard touchdown pass from Patrick Mahomes.,1,1
+347,Q91157899_2530.csv,sport ,count,"There were 9 scoring events in Super Bowl LIX, including touchdowns and field goals by both the Philadelphia Eagles and the Kansas City Chiefs.",1,1
+348,Q91157899_2530.csv,sport ,comparative,The Philadelphia Eagles had a higher total score than the Kansas City Chiefs at the end of the third quarter with 34 points to the Chiefs' 6 points.,1,1
+349,Q91157899_2530.csv,sport ,simple,"Jalen Hurts scored a 1-yard touchdown run in the first quarter, contributing to the Philadelphia Eagles' scoring summary.",1,1
+350,Q120279644_2882.csv,sport ,superlative,Mikhail Shaidorov achieves the highest total score in the 2025 Four Continents Figure Skating Championships with a score of 285.10.,1,1
+351,Q120279644_2882.csv,sport ,aggregation,"The average total score of all skaters in the competition is approximately 216.19, indicating a wide range of performance levels among the participants.",1,1
+352,Q120279644_2882.csv,sport ,count,"There are 7 different nations represented by the top 10 ranked skaters, showing a diverse participation at the highest level of the championship.",1,1
+353,Q120279644_2882.csv,sport ,comparative,"Cha Jun-hwan from South Korea has a higher free skating score than Jimmy Ma from the United States, despite Ma having a higher short program score.",1,1
+354,Q120279644_2882.csv,sport ,simple,"Kazuki Tomono from Japan ranks 4th in the overall standings with a total score of 242.08, highlighting his consistent performance across both short and free skating programs.",1,1
+355,Q130377275_2972.csv,sport ,aggregation,The total points scored by all players in the 2025 Super Rugby Pacific season is 137 + 94 + 90 + 82 + 82 + 77 + 73 + 60 + 55 + 50 = 800.,1,1
+356,Q130377275_2972.csv,sport ,superlative,Damian McKenzie achieves the highest score in the 2025 Super Rugby Pacific season with 137 points.,1,1
+357,Q130377275_2972.csv,sport ,comparative,"Ben Donaldson has a lower average than Damian McKenzie, scoring an average of 7.83 points compared to McKenzie's 15.22 points.",1,1
+358,Q130377275_2972.csv,sport ,count,There are 10 players from different teams participating in the 2025 Super Rugby Pacific season as listed in the table.,1,1
+359,Q130377275_2972.csv,sport ,simple,Beauden Barrett is a player from the Blues team who scored 90 points in total.,1,1
+360,Q132142889_1.csv,sport ,simple,"Bob Mears' team, Southwestern Apaches, participated in the Mission Conference from 1976 to 1989.",1,1
+361,Q132142889_1.csv,sport ,superlative,The best season record for Bob Mears was in 1982 with a 10–1 overall standing and a win in the San Diego-South Bay Bowl.,1,1
+362,Q132142889_1.csv,sport ,aggregation,"Over the 14 seasons from 1976 to 1989, Bob Mears' team had an overall record of 75–65–5.",0,1
+363,Q132142889_1.csv,sport ,count,There were 4 instances where Bob Mears' team participated in a bowl game and won during his tenure from 1976 to 1989.,1,1
+364,Q132142889_1.csv,sport ,comparative,"The 1982 season was significantly better than the 1977 season, with 10 wins compared to just 2 wins in 1977.",1,1
+365,Q133574091_3037.csv,mix ,aggregation,The total number of deaths from the 2025 Myanmar earthquake across all countries is 5456.,0,1
+366,Q133574091_3037.csv,mix ,superlative,Myanmar has the highest number of deaths among all affected countries with 5352 reported deaths.,1,1
+367,Q133574091_3037.csv,mix ,simple,China had no deaths and only 2 injuries from the 2025 Myanmar earthquake.,1,0
+368,Q133574091_3037.csv,mix ,comparative,"Myanmar suffered significantly more injuries than Thailand, with 11366 injuries compared to Thailand's 36.",1,1
+369,Q133574091_3037.csv,mix ,count,"There are 4 countries directly affected by the 2025 Myanmar earthquake, as indicated by reported casualties or missing persons.",1,0
+370,Q132178451_3043.csv,mix ,count,There were 25 recorded earthquakes from different locations around the world in the given table.,1,1
+371,Q132178451_3043.csv,mix ,superlative,"The strongest earthquake with a magnitude of 6.7 occurred offshore of New Zealand, Southland.",1,1
+372,Q132178451_3043.csv,mix ,aggregation,The average depth of all the earthquakes listed was approximately 24.5 kilometers.,1,0
+373,Q132178451_3043.csv,mix ,unique,Earthquakes were recorded in 15 unique countries according to the table provided.,1,0
+374,Q132178451_3043.csv,mix ,simple,"An earthquake with a magnitude of 5.0 occurred in the Philippines, Davao, resulting in ten students being hospitalized and power outages in various areas of Davao del Sur.",1,1
+375,Q133379167_3038.csv,mix ,aggregation,The total number of deaths across all states is at least 43.,1,1
+376,Q133379167_3038.csv,mix ,superlative,Missouri experienced the highest number of deaths with 12 reported.,1,1
+377,Q133379167_3038.csv,mix ,comparative,"Oklahoma had more injuries than any other state with a reported 142, which exceeds the number of injuries in Kansas and Mississippi combined.",1,0
+378,Q133379167_3038.csv,mix ,count,There are 8 states that reported deaths due to the tornado outbreak.,0,0
+379,Q133379167_3038.csv,mix ,simple,Alabama reported 3 deaths and multiple injuries from the tornado outbreak.,1,1
+380,Q134044277_3039.csv,mix ,simple,India has the highest number of states affected by the 2025 Pahalgam attack.,1,1
+381,Q134044277_3039.csv,mix ,superlative,Maharashtra suffered the most deaths in the 2025 Pahalgam attack with 6 reported deaths.,1,1
+382,Q134044277_3039.csv,mix ,aggregation,The total number of deaths across all states and countries affected by the 2025 Pahalgam attack is 26.,1,1
+383,Q134044277_3039.csv,mix ,comparative,"Gujarat had more deaths than injuries in the 2025 Pahalgam attack, with 3 deaths and 2 injured.",1,0
+384,Q134044277_3039.csv,mix ,count,There are 14 states in India that reported at least one death or injury due to the 2025 Pahalgam attack.,1,0
+385,Q9373876_56.csv,mix ,superlative,The Varso Tower in Warsaw is the tallest building listed with a height of 310 meters.,1,1
+386,Q9373876_56.csv,mix ,count,There are 20 buildings from Warsaw included in the list of the tallest buildings.,1,1
+387,Q9373876_56.csv,mix ,comparative,"The Palace of Culture and Science is taller than the Olszynki Park building, with a height of 237 meters compared to 220.67 meters.",1,1
+388,Q9373876_56.csv,mix ,unique,"There are multiple cities represented in the list, including Warsaw, Rzeszów, Wrocław, Szczecin, Gdańsk, Katowice, and Gdynia, indicating a diverse geographical distribution of tall buildings across Poland.",1,1
+389,Q9373876_56.csv,mix ,simple,"The Hanza Tower, located in Szczecin, has a height of 125 meters and is the tallest building in Szczecin.",1,1
+390,Q16158108_71.csv,mix ,simple,Stanisław Pestkowski was appointed as a Diplomatic representative on 29 August 1924.,1,1
+391,Q16158108_71.csv,mix ,count,There are 17 ambassadors listed in the table who served as representatives of Russia to Mexico.,1,1
+392,Q16158108_71.csv,mix ,ordinal,"Aleksandr Makar was the fourth ambassador to be appointed after diplomatic relations were initially established, serving from 25 October 1927 to 26 January 1930.",0,1
+393,Q16158108_71.csv,mix ,unique,"Each ambassador in the list held a unique position or title during their term of service, with some holding multiple titles like Konstantin Umansky who was both Envoy and Ambassador.",0,1
+394,Q16158108_71.csv,mix ,aggregation,The average duration of an ambassador's tenure is approximately 2.5 years based on the provided appointment and termination dates.,1,1
+395,Q4434175_15.csv,mix ,count,There are 25 stone churches of Ukrainian Baroque style listed in the table.,1,0
+396,Q4434175_15.csv,mix ,superlative,"The Trinity Cathedral of the Hustynia Monastery is one of the earliest constructions, built between 1674 and 1675.",1,1
+397,Q4434175_15.csv,mix ,simple,Chernihiv has the highest number of Ukrainian Baroque style stone churches with a total of 9 churches listed in the table.,1,1
+398,Q4434175_15.csv,mix ,all,"All the churches listed were constructed or reconstructed between the 17th and 18th centuries, indicating a significant architectural trend during this period.",1,0
+399,Q4434175_15.csv,mix ,unique,"Each church in the list has a unique set of characteristics, including construction dates, architectural styles, and historical notes, highlighting the diversity within Ukrainian Baroque architecture.",1,1
+400,Q10873224_54.csv,mix ,aggregation,The average birth year of the members of the 9th Central Committee of the Chinese Communist Party is approximately 1910.,1,1
+401,Q10873224_54.csv,mix ,superlative,"Mao Zedong is the earliest born member among all listed members, born in 1893.",1,1
+402,Q10873224_54.csv,mix ,count,There are 45 members listed in the table as part of the 9th Central Committee of the Chinese Communist Party.,1,0
+403,Q10873224_54.csv,mix ,comparative,"Deng Yingchao joined the party earlier than Ji Dengkui, with Deng joining in 1924 and Ji in 1938.",0,1
+404,Q10873224_54.csv,mix ,simple,Cai Shumei is one of the female members who was not a member of the 8th Central Committee but became a member of the 10th Central Committee.,0,1
+405,Q4436067_32.csv,mix ,count,There are 10 ambassadors listed in the table who have served as representatives of Russia to Sri Lanka.,1,1
+406,Q4436067_32.csv,mix ,ordinal,Yury Vinogradov was the first ambassador of Russia to Sri Lanka according to the provided list.,1,1
+407,Q4436067_32.csv,mix ,simple,"Levan Dzhagaryan is the current ambassador of Russia to Sri Lanka, with credentials presented on 11 November 2022.",1,1
+408,Q4436067_32.csv,mix ,superlative,Yury Matery served for the longest duration among all listed ambassadors from his appointment on 21 August 2017 until 8 September 2022.,1,1
+409,Q4436067_32.csv,mix ,all,"All ambassadors of Russia to Sri Lanka listed in the table have specific dates of appointment and, except for Levan Dzhagaryan, specific dates of termination.",0,1
+410,Q11662201_59.csv,mix ,count,There are 43 different governors listed in the table for Aomori Prefecture.,0,0
+411,Q11662201_59.csv,mix ,unique,The residence of the governors includes representatives from at least 24 different prefectures across Japan.,1,0
+412,Q11662201_59.csv,mix ,simple,"Masaomi Kitadai is noted as having been reelected, indicating a second term as governor.",1,1
+413,Q11662201_59.csv,mix ,ordinal,"Noda Hiromichi was the first governor of Aomori Prefecture listed in the table, starting his term on 5 September 1871.",1,1
+414,Q11662201_59.csv,mix ,superlative,"Kumamoto Prefecture is the residence of the most governors listed, with at least 6 individuals hailing from there.",0,1
+415,Q104632069_3052.csv,mix ,count,There are 27 stations listed in the table.,1,1
+416,Q104632069_3052.csv,mix ,unique,"There are 3 unique districts mentioned in the table: Wanbailin, Yingze, and Xiaodian.",1,1
+417,Q104632069_3052.csv,mix ,simple,The Taiyuanzhan Xiguangchang station is located in the Yingze district.,1,1
+418,Q104632069_3052.csv,mix ,aggregation,"Most stations do not have specified connections, as indicated by '<NA>' in the connections_connections column.",0,1
+419,Q104632069_3052.csv,mix ,all,All stations with specified connections are either in the Yingze or Xiaodian districts.,0,0
+420,Q132753922_3053.csv,mix ,count,There are 5 documentary shows listed in the Oneplay table.,1,0
+421,Q132753922_3053.csv,mix ,simple,The title 'Ordinace v růžové zahradě 2' is classified as a Soap Opera with a premiere date of 10 March 2025.,0,1
+422,Q132753922_3053.csv,mix ,superlative,The earliest known premiere date among the listed shows is 10 March 2025 for 'Ordinace v růžové zahradě 2'.,0,1
+423,Q132753922_3053.csv,mix ,negation,Bóra does not have a specified premiere date in the provided table.,1,1
+424,Q132753922_3053.csv,mix ,unique,"There are multiple unique genres represented in the Oneplay table, including but not limited to Soap Opera, Reality show, Adventure Crime thriller, and Documentary.",1,0
+425,Q131542201_3060.csv,mix ,simple,Hannah Ayoubi directed the most episodes in StuGo.,1,1
+426,Q131542201_3060.csv,mix ,count,There are 13 different production codes used for the episodes of StuGo.,1,1
+427,Q131542201_3060.csv,mix ,superlative,"The earliest official release date for any episode of StuGo is January 11, 2025.",0,0
+428,Q131542201_3060.csv,mix ,unique,"Each episode has a unique combination of director, writer, and storyboarding team in StuGo.",1,0
+429,Q131542201_3060.csv,mix ,ordinal,The first episode directed by Steve Wolfhard is 'Dog Eat Dog' or 'No Manhands Is an Island' since the exact order within the same date isn't specified but these are among his earliest works as per the table.,0,0
+430,Q131373403_183.csv,culture ,count,There are 17 different entries for the release of '25th The Best - Alive' across various formats and versions.,1,1
+431,Q131373403_183.csv,culture ,unique,"The table lists releases from two unique labels: EMI, EMIDef Jam, and Universal Japan.",1,1
+432,Q131373403_183.csv,culture ,simple,"The first release of '25th The Best - Alive' was on February 19, 2025, in Digital download/streaming format.",1,1
+433,Q131373403_183.csv,culture ,ordinal,"February 26, 2025, is the second date when '25th The Best - Alive' was released, with multiple formats and versions available.",0,0
+434,Q131373403_183.csv,culture ,all,"All releases of '25th The Best - Alive' on February 26, 2025, were in physical or combined formats such as CD, DVD, Blu-ray, or exclusive bundles.",1,1
+435,Q133730739_12.csv,culture ,simple,"Amy Sherman-Palladino directed 'The Swap', 'The Hiccup', and 'The Offer'.",1,1
+436,Q133730739_12.csv,culture ,count,There are 5 different titles directed by either Amy Sherman-Palladino or Daniel Palladino in the table.,1,1
+437,Q133730739_12.csv,culture ,unique,Scott Ellis is the only director other than Amy Sherman-Palladino and Daniel Palladino mentioned in the table.,1,1
+438,Q133730739_12.csv,culture ,superlative,"Daniel Palladino has directed the most titles solo, with 'The Slip' being an example where he was both the director and the writer.",1,1
+439,Q133730739_12.csv,culture ,all,All titles directed by Scott Ellis were not written solely by Amy Sherman-Palladino or Daniel Palladino.,1,0
+440,Q131978336_378.csv,culture ,simple,The first match was a Fatal four-way tag team elimination match to determine the #1 contenders for the WWE Women's Tag Team Championship.,1,1
+441,Q131978336_378.csv,culture ,superlative,Stephanie Vaquer achieved the longest match time among all the title matches with 16:29 minutes in her fatal four-way match for the NXT Women's Championship.,1,1
+442,Q131978336_378.csv,culture ,count,"There were a total of 7 matches, including pre-show and main event matches, at the NXT Stand & Deliver.",0,1
+443,Q131978336_378.csv,culture ,ordinal,"The third match was between Hank and Tank versus Fraxiom for the NXT Tag Team Championship, which resulted in Hank and Tank winning by pinfall.",0,1
+444,Q131978336_378.csv,culture ,comparative,Sol Ruca's ladder match for the vacant NXT Women's North American Championship had a longer duration than Ricky Saints' singles match for the NXT North American Championship.,1,1
+445,Q132191803_371.csv,culture ,simple,Dua Lipa's song 'Houdini' won the award.,1,1
+446,Q132191803_371.csv,culture ,count,There are 4 nominated songs and 1 winning song in the table.,1,1
+447,Q132191803_371.csv,culture ,unique,"There are multiple different publishers involved in the nominated and winning songs, including Warner Chappell Music, Universal Music Publishing, and Sony Music Publishing.",1,1
+448,Q132191803_371.csv,culture ,negation,Tones and I did not win the award for 'Dreaming'.,1,1
+449,Q132191803_371.csv,culture ,all,All of the listed songs have multiple writers involved in their creation.,1,1
+450,Q133139706_196.csv,culture ,simple,"The first episode of Gavin Newsom's podcast was released on March 6, 2025.",0,1
+451,Q133139706_196.csv,culture ,count,There are 8 episodes of the podcast released after the introductory episode 'Introducing: This is Gavin Newsom'.,1,1
+452,Q133139706_196.csv,culture ,ordinal,"The second episode of the podcast is titled 'And, This is Charlie Kirk', released on March 6, 2025.",0,0
+453,Q133139706_196.csv,culture ,all,All episodes listed in the table were released in either March or April of 2025.,1,1
+454,Q133139706_196.csv,culture ,unique,"Each episode title in the podcast series is unique, with no duplicate titles found in the provided table.",1,1
+455,Q116771681_3069.csv,culture ,simple,Daniel Craig was nominated for Best Actor in a Motion Picture – Drama at the Golden Globe Awards on 5 January 2025.,1,1
+456,Q116771681_3069.csv,culture ,count,There are 9 nominations for Daniel Craig as Best Actor from different award ceremonies listed in the table.,1,1
+457,Q116771681_3069.csv,culture ,superlative,"The earliest ceremony date mentioned in the table is 7 September 2024, which was for the Venice International Film Festival.",1,1
+458,Q116771681_3069.csv,culture ,unique,"There are multiple unique recipients of awards or nominations mentioned in the table, including Luca Guadagnino, Daniel Craig, Justin Kuritzkes, and Lesley Manville.",1,0
+459,Q116771681_3069.csv,culture ,all,"All of Daniel Craig's mentions in the table are related to nominations for his acting performances, with no wins listed for him in any category.",0,0
+460,Q134113598_199.csv,culture ,count,There are 3 films produced in Russia at the 47th Moscow International Film Festival.,1,1
+461,Q134113598_199.csv,culture ,unique,There are 9 different production countries represented at the festival.,1,1
+462,Q134113598_199.csv,culture ,simple,The film 'The Negotiator' is a production of Italy and Belgium.,1,1
+463,Q134113598_199.csv,culture ,comparative,Argentina has fewer films than Russia in the festival lineup.,1,1
+464,Q134113598_199.csv,culture ,all,All films at the 47th Moscow International Film Festival have unique English titles.,1,1
+465,Q134364545_334.csv,culture ,simple,The Labor party received the highest number of primary votes with 4804371 votes.,1,1
+466,Q134364545_334.csv,culture ,comparative,"The Liberal-National Coalition had a lower percentage of primary votes compared to the Labor party, with 32.3% versus 34.7% respectively.",1,1
+467,Q134364545_334.csv,culture ,superlative,"Among all parties, the Labor party achieved the highest number of seats in the election with a total of 92 seats.",1,1
+468,Q134364545_334.csv,culture ,count,There are 8 independent candidates who won seats in the election.,0,1
+469,Q134364545_334.csv,culture ,aggregation,The total number of primary votes cast in the election was 14394400.,1,1
+470,Q133800245_197.csv,culture ,count,There are more than 20 instances where the topic changed or was addressed by a questioner during Cory Booker's marathon speech.,0,0
+471,Q133800245_197.csv,culture ,simple,"Cory Booker started his speech at 7:00 pm, as indicated by the first entry in the table with no specific questioner mentioned.",0,1
+472,Q133800245_197.csv,culture ,ordinal,The first questioner to address Medicaid cuts after Cory Booker's initial remarks was Chuck Schumer (D-NY) at 9:00 pm.,1,1
+473,Q133800245_197.csv,culture ,aggregation,"The total time spent discussing healthcare and Medicaid cuts can be aggregated by summing the durations of all relevant entries in the table, indicating a significant portion of the speech was dedicated to this topic.",1,1
+474,Q133800245_197.csv,culture ,unique,"There are multiple unique topics discussed during Cory Booker's marathon speech, including but not limited to Medicaid, healthcare, Social Security, immigration, and national security, showcasing the breadth of issues addressed.",1,1
+475,Q1037628_3050.csv,culture ,aggregation,The average score for the Wii platform is higher than that of the DS platform among the reviewed publications.,0,1
+476,Q1037628_3050.csv,culture ,superlative,Official Nintendo Magazine gave the highest score for the Wii platform with 85%.,1,1
+477,Q1037628_3050.csv,culture ,comparative,"GameSpot scored the DS version of MySims Kingdom lower than its Wii counterpart, with scores of 5.5/10 and 7.5/10 respectively.",0,1
+478,Q1037628_3050.csv,culture ,count,There are 5 publications that did not provide a score for the DS version of MySims Kingdom.,0,1
+479,Q1037628_3050.csv,culture ,simple,"Famitsu scored MySims Kingdom on both platforms, giving it 27/40 for DS and 29/40 for Wii.",1,1
+480,Q131919691_198.csv,culture ,superlative,"The youngest contestant in Puteri Indonesia 2025 is from Lampung, Southeast Sulawesi, North Kalimantan, or South Papua with an age of 19, 20, or 21 years old.",1,0
+481,Q131919691_198.csv,culture ,aggregation,The average age of all contestants in Puteri Indonesia 2025 is approximately 24 years old.,1,1
+482,Q131919691_198.csv,culture ,count,There are more than 30 contestants representing different provinces and regions in the Puteri Indonesia 2025 pageant.,0,1
+483,Q131919691_198.csv,culture ,comparative,Contestants from Jakarta have a wider age range compared to those from other provinces like Jambi or Bangka Belitung.,1,1
+484,Q131919691_198.csv,culture ,simple,"All contestants are from different hometowns across Indonesia, showcasing the diversity of the country.",1,1
+485,Q133854973_2066.csv,politics ,simple,Peter Stoffer was a member of the New Democratic party for multiple parliaments.,1,1
+486,Q133854973_2066.csv,politics ,count,There are 9 rows in the table representing different periods and members of the Sackville—Bedford—Preston riding.,0,0
+487,Q133854973_2066.csv,politics ,ordinal,"The first Liberal member listed in the table is Darrell Samson, who served during the 42nd parliament.",1,1
+488,Q133854973_2066.csv,politics ,all,All members listed in the table for the Sackville—Bedford—Preston riding were either from the New Democratic party or the Liberal party.,1,0
+489,Q133854973_2066.csv,politics ,unique,"There are unique members represented in each row of the table, with no member serving in the same capacity across different parliaments and ridings.",0,1
+490,Q133254738_1103.csv,politics ,superlative,Reform UK achieved the highest percentage of votes in the 2025 Runcorn and Helsby by-election with 38.72%.,1,1
+491,Q133254738_1103.csv,politics ,aggregation,"The total turnout for the 2025 Runcorn and Helsby by-election was 32,655 voters, representing 46.2% of eligible voters.",1,1
+492,Q133254738_1103.csv,politics ,comparative,"Reform UK had a higher percentage of votes than Labour in the 2025 Runcorn and Helsby by-election, with 38.72% compared to Labour's 38.7%.",1,1
+493,Q133254738_1103.csv,politics ,count,"There were 2 independent candidates in the 2025 Runcorn and Helsby by-election, namely Michael Williams and Alan McKie.",1,1
+494,Q133254738_1103.csv,politics ,simple,The majority of votes won by the leading party over the second place was 6 votes.,0,1
+495,Q131985957_2033.csv,politics ,simple,"Mark Carney has been serving as the Prime Minister since March 14, 2025.",1,1
+496,Q131985957_2033.csv,politics ,count,There are 17 different ministers listed in the table for the 30th Canadian Ministry.,1,1
+497,Q131985957_2033.csv,politics ,unique,Each minister has a unique set of portfolios they have been responsible for during their tenure.,0,1
+498,Q131985957_2033.csv,politics ,ordinal,"Dominic LeBlanc is the first minister to hold the portfolio of Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs and One Canadian Economy in the given data.",0,1
+499,Q131985957_2033.csv,politics ,all,"All ministers listed have had their tenure start on March 14, 2025, indicating a significant cabinet reshuffle or formation on this date.",0,0

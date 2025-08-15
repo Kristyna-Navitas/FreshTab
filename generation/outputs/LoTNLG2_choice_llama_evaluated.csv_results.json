@@ -1,0 +1,895 @@
+{
+    "File name": "generation/outputs/LoTNLG2_choice_llama_evaluated.csv",
+    "all predictions": 500,
+    "empty predictions": 0,
+    "not empty predictions": 500,
+    "all empty table": 0,
+    "percent empty": 0.0,
+    "percent not empty": 1.0,
+    "statistics": {
+        "BLEU": {
+            "BLEU1": 0.5266542570282107,
+            "BLEU2": 0.33549078262469906,
+            "BLEU3": 0.23766333298724837,
+            "BLEU4": 0.17629301697008995,
+            "BLEU5": 0.13461485593018874
+        },
+        "avg_length": 109.502,
+        "unique_tokens": 61.19,
+        "entropy": 5.572530736138753,
+        "msttr": 0.9261107782092185
+    },
+    "metrics": {
+        "TAPAS": {
+            "for_whole": 0.888,
+            "not_empty": 0.888,
+            "empty": 0,
+            "lower_bound": 0.8573463119959378,
+            "upper_bound": 0.9127371998058978
+        },
+        "TAPEX": {
+            "for_whole": 0.876,
+            "not_empty": 0.876,
+            "empty": 0,
+            "lower_bound": 0.8442125871122163,
+            "upper_bound": 0.9020539088606966
+        }
+    },
+    "operations_metrics": {
+        "superlative count": 80,
+        "superlative not empty count": 80,
+        "superlative not empty percentage": 1.0,
+        "superlative metrics": {
+            "TAPAS": {
+                "whole": 0.95,
+                "not_empty": 0.95,
+                "lower_bound": 0.8783772379535698,
+                "upper_bound": 0.9803864454644556
+            },
+            "TAPEX": {
+                "whole": 0.9,
+                "not_empty": 0.9,
+                "lower_bound": 0.8148931119389591,
+                "upper_bound": 0.9484523844326191
+            }
+        },
+        "aggregation count": 80,
+        "aggregation not empty count": 80,
+        "aggregation not empty percentage": 1.0,
+        "aggregation metrics": {
+            "TAPAS": {
+                "whole": 0.8125,
+                "not_empty": 0.8125,
+                "lower_bound": 0.7134167737100687,
+                "upper_bound": 0.8829468953302269
+            },
+            "TAPEX": {
+                "whole": 0.825,
+                "not_empty": 0.825,
+                "lower_bound": 0.7274245802116865,
+                "upper_bound": 0.8927936355902206
+            }
+        },
+        "comparative count": 72,
+        "comparative not empty count": 72,
+        "comparative not empty percentage": 1.0,
+        "comparative metrics": {
+            "TAPAS": {
+                "whole": 0.8194444444444444,
+                "not_empty": 0.8194444444444444,
+                "lower_bound": 0.7151965826080176,
+                "upper_bound": 0.891331834899801
+            },
+            "TAPEX": {
+                "whole": 0.8472222222222222,
+                "not_empty": 0.8472222222222222,
+                "lower_bound": 0.7467771063249946,
+                "upper_bound": 0.912492912705243
+            }
+        },
+        "count count": 97,
+        "count not empty count": 97,
+        "count not empty percentage": 1.0,
+        "count metrics": {
+            "TAPAS": {
+                "whole": 0.865979381443299,
+                "not_empty": 0.865979381443299,
+                "lower_bound": 0.7841000614500551,
+                "upper_bound": 0.9199754331959007
+            },
+            "TAPEX": {
+                "whole": 0.8247422680412371,
+                "not_empty": 0.8247422680412371,
+                "lower_bound": 0.737143589002599,
+                "upper_bound": 0.8875994555424038
+            }
+        },
+        "simple count": 96,
+        "simple not empty count": 96,
+        "simple not empty percentage": 1.0,
+        "simple metrics": {
+            "TAPAS": {
+                "whole": 0.9895833333333334,
+                "not_empty": 0.9895833333333334,
+                "lower_bound": 0.9433338237728423,
+                "upper_bound": 0.9981588297831837
+            },
+            "TAPEX": {
+                "whole": 0.9791666666666666,
+                "not_empty": 0.9791666666666666,
+                "lower_bound": 0.9271928648221578,
+                "upper_bound": 0.9942680301475696
+            }
+        },
+        "unique count": 36,
+        "unique not empty count": 36,
+        "unique not empty percentage": 1.0,
+        "unique metrics": {
+            "TAPAS": {
+                "whole": 0.9166666666666666,
+                "not_empty": 0.9166666666666666,
+                "lower_bound": 0.7817330875072737,
+                "upper_bound": 0.9712513886640066
+            },
+            "TAPEX": {
+                "whole": 0.8888888888888888,
+                "not_empty": 0.8888888888888888,
+                "lower_bound": 0.7468519140963513,
+                "upper_bound": 0.9559335969968435
+            }
+        },
+        "negation count": 5,
+        "negation not empty count": 5,
+        "negation not empty percentage": 1.0,
+        "negation metrics": {
+            "TAPAS": {
+                "whole": 0.6,
+                "not_empty": 0.6,
+                "lower_bound": 0.2307242812760129,
+                "upper_bound": 0.8823792257673522
+            },
+            "TAPEX": {
+                "whole": 0.6,
+                "not_empty": 0.6,
+                "lower_bound": 0.2307242812760129,
+                "upper_bound": 0.8823792257673522
+            }
+        },
+        "ordinal count": 26,
+        "ordinal not empty count": 26,
+        "ordinal not empty percentage": 1.0,
+        "ordinal metrics": {
+            "TAPAS": {
+                "whole": 0.8846153846153846,
+                "not_empty": 0.8846153846153846,
+                "lower_bound": 0.7102409678828635,
+                "upper_bound": 0.9599675537638938
+            },
+            "TAPEX": {
+                "whole": 0.8461538461538461,
+                "not_empty": 0.8461538461538461,
+                "lower_bound": 0.6646880067178652,
+                "upper_bound": 0.9384996627642165
+            }
+        },
+        "all count": 8,
+        "all not empty count": 8,
+        "all not empty percentage": 1.0,
+        "all metrics": {
+            "TAPAS": {
+                "whole": 0.75,
+                "not_empty": 0.75,
+                "lower_bound": 0.40927543031016883,
+                "upper_bound": 0.9285207872478909
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.6755924351161198,
+                "upper_bound": 1.0
+            }
+        }
+    },
+    "operations_accuracy": {
+        "superlative count": 73,
+        "superlative percentage": 0.9125,
+        "aggregation count": 79,
+        "aggregation percentage": 0.9875,
+        "comparative count": 69,
+        "comparative percentage": 0.9583333333333334,
+        "count count": 97,
+        "count percentage": 1.0,
+        "simple count": 37,
+        "simple percentage": 0.3854166666666667,
+        "unique count": 33,
+        "unique percentage": 0.9166666666666666,
+        "negation count": 5,
+        "negation percentage": 1.0,
+        "ordinal count": 26,
+        "ordinal percentage": 1.0,
+        "all count": 8,
+        "all percentage": 1.0,
+        "everything count": 427,
+        "everything percentage": 0.854
+    },
+    "domains": {
+        "sport count": 365,
+        "sport not empty count": 365,
+        "sport not empty percentage": 1.0,
+        "sport metrics": {
+            "TAPAS": {
+                "whole": 0.8958904109589041,
+                "not_empty": 0.8958904109589041,
+                "lower_bound": 0.8603282596533414,
+                "upper_bound": 0.9232062186128133
+            },
+            "TAPEX": {
+                "whole": 0.863013698630137,
+                "not_empty": 0.863013698630137,
+                "lower_bound": 0.8239404653917041,
+                "upper_bound": 0.8945254056827977
+            }
+        },
+        "mix count": 65,
+        "mix not empty count": 65,
+        "mix not empty percentage": 1.0,
+        "mix metrics": {
+            "TAPAS": {
+                "whole": 0.8923076923076924,
+                "not_empty": 0.8923076923076924,
+                "lower_bound": 0.7939868641855017,
+                "upper_bound": 0.9468457804688724
+            },
+            "TAPEX": {
+                "whole": 0.8769230769230769,
+                "not_empty": 0.8769230769230769,
+                "lower_bound": 0.7754850591783847,
+                "upper_bound": 0.9362953249013078
+            }
+        },
+        "politics count": 15,
+        "politics not empty count": 15,
+        "politics not empty percentage": 1.0,
+        "politics metrics": {
+            "TAPAS": {
+                "whole": 0.8,
+                "not_empty": 0.8,
+                "lower_bound": 0.5481455128483064,
+                "upper_bound": 0.9295245065301845
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7961166989641513,
+                "upper_bound": 1.0
+            }
+        },
+        "culture count": 55,
+        "culture not empty count": 55,
+        "culture not empty percentage": 1.0,
+        "culture metrics": {
+            "TAPAS": {
+                "whole": 0.8545454545454545,
+                "not_empty": 0.8545454545454545,
+                "lower_bound": 0.7383908706854772,
+                "upper_bound": 0.924407108522407
+            },
+            "TAPEX": {
+                "whole": 0.9272727272727272,
+                "not_empty": 0.9272727272727272,
+                "lower_bound": 0.8274005992784393,
+                "upper_bound": 0.9713559397669594
+            }
+        }
+    },
+    "domain_label": {
+        "sport superlative count": 62,
+        "sport superlative not empty count": 62,
+        "sport superlative not empty percentage": 1.0,
+        "sport superlative metrics": {
+            "TAPAS": {
+                "whole": 0.9516129032258065,
+                "not_empty": 0.9516129032258065,
+                "lower_bound": 0.8671196207267605,
+                "upper_bound": 0.9834083141494193
+            },
+            "TAPEX": {
+                "whole": 0.8709677419354839,
+                "not_empty": 0.8709677419354839,
+                "lower_bound": 0.7655067270982637,
+                "upper_bound": 0.9331412194071697
+            }
+        },
+        "mix superlative count": 9,
+        "mix superlative not empty count": 9,
+        "mix superlative not empty percentage": 1.0,
+        "mix superlative metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7008549515804557,
+                "upper_bound": 0.9999999999999999
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7008549515804557,
+                "upper_bound": 0.9999999999999999
+            }
+        },
+        "politics superlative count": 2,
+        "politics superlative not empty count": 2,
+        "politics superlative not empty percentage": 1.0,
+        "politics superlative metrics": {
+            "TAPAS": {
+                "whole": 0.5,
+                "not_empty": 0.5,
+                "lower_bound": 0.09453120573423068,
+                "upper_bound": 0.9054687942657693
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.342380227506653,
+                "upper_bound": 1.0
+            }
+        },
+        "culture superlative count": 7,
+        "culture superlative not empty count": 7,
+        "culture superlative not empty percentage": 1.0,
+        "culture superlative metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.6456695649333125,
+                "upper_bound": 0.9999999999999999
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.6456695649333125,
+                "upper_bound": 0.9999999999999999
+            }
+        },
+        "sport aggregation count": 62,
+        "sport aggregation not empty count": 62,
+        "sport aggregation not empty percentage": 1.0,
+        "sport aggregation metrics": {
+            "TAPAS": {
+                "whole": 0.8064516129032258,
+                "not_empty": 0.8064516129032258,
+                "lower_bound": 0.6914820382117386,
+                "upper_bound": 0.8856619175970974
+            },
+            "TAPEX": {
+                "whole": 0.8064516129032258,
+                "not_empty": 0.8064516129032258,
+                "lower_bound": 0.6914820382117386,
+                "upper_bound": 0.8856619175970974
+            }
+        },
+        "mix aggregation count": 8,
+        "mix aggregation not empty count": 8,
+        "mix aggregation not empty percentage": 1.0,
+        "mix aggregation metrics": {
+            "TAPAS": {
+                "whole": 0.875,
+                "not_empty": 0.875,
+                "lower_bound": 0.5291118177871466,
+                "upper_bound": 0.9775825085499434
+            },
+            "TAPEX": {
+                "whole": 0.75,
+                "not_empty": 0.75,
+                "lower_bound": 0.40927543031016883,
+                "upper_bound": 0.9285207872478909
+            }
+        },
+        "politics aggregation count": 3,
+        "politics aggregation not empty count": 3,
+        "politics aggregation not empty percentage": 1.0,
+        "politics aggregation metrics": {
+            "TAPAS": {
+                "whole": 0.6666666666666666,
+                "not_empty": 0.6666666666666666,
+                "lower_bound": 0.2076596008020477,
+                "upper_bound": 0.9385080552796037
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            }
+        },
+        "culture aggregation count": 7,
+        "culture aggregation not empty count": 7,
+        "culture aggregation not empty percentage": 1.0,
+        "culture aggregation metrics": {
+            "TAPAS": {
+                "whole": 0.8571428571428571,
+                "not_empty": 0.8571428571428571,
+                "lower_bound": 0.4868721707256809,
+                "upper_bound": 0.9743203756552563
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.6456695649333125,
+                "upper_bound": 0.9999999999999999
+            }
+        },
+        "sport comparative count": 56,
+        "sport comparative not empty count": 56,
+        "sport comparative not empty percentage": 1.0,
+        "sport comparative metrics": {
+            "TAPAS": {
+                "whole": 0.8214285714285714,
+                "not_empty": 0.8214285714285714,
+                "lower_bound": 0.7015881796334894,
+                "upper_bound": 0.900001432475877
+            },
+            "TAPEX": {
+                "whole": 0.8392857142857143,
+                "not_empty": 0.8392857142857143,
+                "lower_bound": 0.7219379333025048,
+                "upper_bound": 0.9130733239240486
+            }
+        },
+        "mix comparative count": 11,
+        "mix comparative not empty count": 11,
+        "mix comparative not empty percentage": 1.0,
+        "mix comparative metrics": {
+            "TAPAS": {
+                "whole": 0.8181818181818182,
+                "not_empty": 0.8181818181818182,
+                "lower_bound": 0.5230194380391557,
+                "upper_bound": 0.9486323102539149
+            },
+            "TAPEX": {
+                "whole": 0.8181818181818182,
+                "not_empty": 0.8181818181818182,
+                "lower_bound": 0.5230194380391557,
+                "upper_bound": 0.9486323102539149
+            }
+        },
+        "politics comparative count": 2,
+        "politics comparative not empty count": 2,
+        "politics comparative not empty percentage": 1.0,
+        "politics comparative metrics": {
+            "TAPAS": {
+                "whole": 0.5,
+                "not_empty": 0.5,
+                "lower_bound": 0.09453120573423068,
+                "upper_bound": 0.9054687942657693
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.342380227506653,
+                "upper_bound": 1.0
+            }
+        },
+        "culture comparative count": 3,
+        "culture comparative not empty count": 3,
+        "culture comparative not empty percentage": 1.0,
+        "culture comparative metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            }
+        },
+        "sport count count": 71,
+        "sport count not empty count": 71,
+        "sport count not empty percentage": 1.0,
+        "sport count metrics": {
+            "TAPAS": {
+                "whole": 0.9014084507042254,
+                "not_empty": 0.9014084507042254,
+                "lower_bound": 0.8101927775940715,
+                "upper_bound": 0.9514171762760307
+            },
+            "TAPEX": {
+                "whole": 0.8309859154929577,
+                "not_empty": 0.8309859154929577,
+                "lower_bound": 0.7274087200136651,
+                "upper_bound": 0.9005854524757174
+            }
+        },
+        "mix count count": 13,
+        "mix count not empty count": 13,
+        "mix count not empty percentage": 1.0,
+        "mix count metrics": {
+            "TAPAS": {
+                "whole": 0.8461538461538461,
+                "not_empty": 0.8461538461538461,
+                "lower_bound": 0.5776536898051745,
+                "upper_bound": 0.9567418216419188
+            },
+            "TAPEX": {
+                "whole": 0.7692307692307693,
+                "not_empty": 0.7692307692307693,
+                "lower_bound": 0.497436240532725,
+                "upper_bound": 0.9182047128150144
+            }
+        },
+        "politics count count": 3,
+        "politics count not empty count": 3,
+        "politics count not empty percentage": 1.0,
+        "politics count metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            }
+        },
+        "culture count count": 10,
+        "culture count not empty count": 10,
+        "culture count not empty percentage": 1.0,
+        "culture count metrics": {
+            "TAPAS": {
+                "whole": 0.6,
+                "not_empty": 0.6,
+                "lower_bound": 0.31267376973365824,
+                "upper_bound": 0.8318196702937638
+            },
+            "TAPEX": {
+                "whole": 0.8,
+                "not_empty": 0.8,
+                "lower_bound": 0.49016247153664183,
+                "upper_bound": 0.9433178485456247
+            }
+        },
+        "sport simple count": 70,
+        "sport simple not empty count": 70,
+        "sport simple not empty percentage": 1.0,
+        "sport simple metrics": {
+            "TAPAS": {
+                "whole": 0.9857142857142858,
+                "not_empty": 0.9857142857142858,
+                "lower_bound": 0.9234181286879168,
+                "upper_bound": 0.9974737535421097
+            },
+            "TAPEX": {
+                "whole": 0.9714285714285714,
+                "not_empty": 0.9714285714285714,
+                "lower_bound": 0.9016774388157609,
+                "upper_bound": 0.9921293880545587
+            }
+        },
+        "mix simple count": 12,
+        "mix simple not empty count": 12,
+        "mix simple not empty percentage": 1.0,
+        "mix simple metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7575059933447589,
+                "upper_bound": 0.9999999999999999
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7575059933447589,
+                "upper_bound": 0.9999999999999999
+            }
+        },
+        "politics simple count": 3,
+        "politics simple not empty count": 3,
+        "politics simple not empty percentage": 1.0,
+        "politics simple metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            }
+        },
+        "culture simple count": 11,
+        "culture simple not empty count": 11,
+        "culture simple not empty percentage": 1.0,
+        "culture simple metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7411670330319682,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.7411670330319682,
+                "upper_bound": 1.0
+            }
+        },
+        "sport unique count": 21,
+        "sport unique not empty count": 21,
+        "sport unique not empty percentage": 1.0,
+        "sport unique metrics": {
+            "TAPAS": {
+                "whole": 0.9047619047619048,
+                "not_empty": 0.9047619047619048,
+                "lower_bound": 0.7108586092608173,
+                "upper_bound": 0.9734812325619255
+            },
+            "TAPEX": {
+                "whole": 0.8571428571428571,
+                "not_empty": 0.8571428571428571,
+                "lower_bound": 0.6536393971937904,
+                "upper_bound": 0.9501898750027473
+            }
+        },
+        "mix unique count": 5,
+        "mix unique not empty count": 5,
+        "mix unique not empty percentage": 1.0,
+        "mix unique metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.5655175352168252,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.5655175352168252,
+                "upper_bound": 1.0
+            }
+        },
+        "politics unique count": 2,
+        "politics unique not empty count": 2,
+        "politics unique not empty percentage": 1.0,
+        "politics unique metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.342380227506653,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.342380227506653,
+                "upper_bound": 1.0
+            }
+        },
+        "culture unique count": 8,
+        "culture unique not empty count": 8,
+        "culture unique not empty percentage": 1.0,
+        "culture unique metrics": {
+            "TAPAS": {
+                "whole": 0.875,
+                "not_empty": 0.875,
+                "lower_bound": 0.5291118177871466,
+                "upper_bound": 0.9775825085499434
+            },
+            "TAPEX": {
+                "whole": 0.875,
+                "not_empty": 0.875,
+                "lower_bound": 0.5291118177871466,
+                "upper_bound": 0.9775825085499434
+            }
+        },
+        "sport negation count": 4,
+        "sport negation not empty count": 4,
+        "sport negation not empty percentage": 1.0,
+        "sport negation metrics": {
+            "TAPAS": {
+                "whole": 0.75,
+                "not_empty": 0.75,
+                "lower_bound": 0.30064184258240184,
+                "upper_bound": 0.9544127391902995
+            },
+            "TAPEX": {
+                "whole": 0.75,
+                "not_empty": 0.75,
+                "lower_bound": 0.30064184258240184,
+                "upper_bound": 0.9544127391902995
+            }
+        },
+        "mix negation count": 0,
+        "mix negation not empty count": 0,
+        "mix negation metrics": {
+            "TAPAS": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            },
+            "TAPEX": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            }
+        },
+        "politics negation count": 0,
+        "politics negation not empty count": 0,
+        "politics negation metrics": {
+            "TAPAS": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            },
+            "TAPEX": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            }
+        },
+        "culture negation count": 1,
+        "culture negation not empty count": 1,
+        "culture negation not empty percentage": 1.0,
+        "culture negation metrics": {
+            "TAPAS": {
+                "whole": 0.0,
+                "not_empty": 0.0,
+                "lower_bound": 0.0,
+                "upper_bound": 0.7934506856227627
+            },
+            "TAPEX": {
+                "whole": 0.0,
+                "not_empty": 0.0,
+                "lower_bound": 0.0,
+                "upper_bound": 0.7934506856227627
+            }
+        },
+        "sport ordinal count": 17,
+        "sport ordinal not empty count": 17,
+        "sport ordinal not empty percentage": 1.0,
+        "sport ordinal metrics": {
+            "TAPAS": {
+                "whole": 0.8823529411764706,
+                "not_empty": 0.8823529411764706,
+                "lower_bound": 0.6566364940511411,
+                "upper_bound": 0.9671202262362073
+            },
+            "TAPEX": {
+                "whole": 0.8235294117647058,
+                "not_empty": 0.8235294117647058,
+                "lower_bound": 0.5897054143116587,
+                "upper_bound": 0.93808873362379
+            }
+        },
+        "mix ordinal count": 4,
+        "mix ordinal not empty count": 4,
+        "mix ordinal not empty percentage": 1.0,
+        "mix ordinal metrics": {
+            "TAPAS": {
+                "whole": 0.75,
+                "not_empty": 0.75,
+                "lower_bound": 0.30064184258240184,
+                "upper_bound": 0.9544127391902995
+            },
+            "TAPEX": {
+                "whole": 0.75,
+                "not_empty": 0.75,
+                "lower_bound": 0.30064184258240184,
+                "upper_bound": 0.9544127391902995
+            }
+        },
+        "politics ordinal count": 0,
+        "politics ordinal not empty count": 0,
+        "politics ordinal metrics": {
+            "TAPAS": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            },
+            "TAPEX": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            }
+        },
+        "culture ordinal count": 5,
+        "culture ordinal not empty count": 5,
+        "culture ordinal not empty percentage": 1.0,
+        "culture ordinal metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.5655175352168252,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.5655175352168252,
+                "upper_bound": 1.0
+            }
+        },
+        "sport all count": 2,
+        "sport all not empty count": 2,
+        "sport all not empty percentage": 1.0,
+        "sport all metrics": {
+            "TAPAS": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.342380227506653,
+                "upper_bound": 1.0
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.342380227506653,
+                "upper_bound": 1.0
+            }
+        },
+        "mix all count": 3,
+        "mix all not empty count": 3,
+        "mix all not empty percentage": 1.0,
+        "mix all metrics": {
+            "TAPAS": {
+                "whole": 0.6666666666666666,
+                "not_empty": 0.6666666666666666,
+                "lower_bound": 0.2076596008020477,
+                "upper_bound": 0.9385080552796037
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            }
+        },
+        "politics all count": 0,
+        "politics all not empty count": 0,
+        "politics all metrics": {
+            "TAPAS": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            },
+            "TAPEX": {
+                "whole": 0,
+                "not_empty": 0,
+                "lower_bound": NaN,
+                "upper_bound": NaN
+            }
+        },
+        "culture all count": 3,
+        "culture all not empty count": 3,
+        "culture all not empty percentage": 1.0,
+        "culture all metrics": {
+            "TAPAS": {
+                "whole": 0.6666666666666666,
+                "not_empty": 0.6666666666666666,
+                "lower_bound": 0.2076596008020477,
+                "upper_bound": 0.9385080552796037
+            },
+            "TAPEX": {
+                "whole": 1.0,
+                "not_empty": 1.0,
+                "lower_bound": 0.43850296824495444,
+                "upper_bound": 1.0
+            }
+        }
+    }
+}

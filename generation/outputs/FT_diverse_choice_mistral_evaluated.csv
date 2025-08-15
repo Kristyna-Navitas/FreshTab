@@ -1,0 +1,1001 @@
+,csv_ids,domain,label,prediction,TAPEX,TAPAS
+0,Q10872948_47.csv,mix ,unique,There are two different types of top wartime honors: Order of the Red Banner and Order of the Red Star.,1,1
+1,Q10872948_47.csv,mix ,count,"There are 24 different types of ribbon bars listed in the table, indicating a wide range of awards within the Chinese armed forces.",0,1
+2,Q10872948_47.csv,mix ,ordinal,The first class combat hero is the highest individual wartime honor after the Special class combat hero.,1,1
+3,Q10872948_47.csv,mix ,simple,"The Wartime merit awards Collective merit honors include both individual and collective categories, with classes ranging from First to Fourth.",1,1
+4,Q10872948_47.csv,mix ,all,All peacetime merit awards have a collective category.,0,0
+5,Q18225599_77.csv,mix ,simple,Jacques Aarden was a member of two different parliamentary groups during his term: KVP and Group-Aarden.,1,1
+6,Q18225599_77.csv,mix ,superlative,"Willem Aantjes had the longest continuous term in office, serving from 23 February 1967 to 10 May 1971.",1,1
+7,Q18225599_77.csv,mix ,unique,"There were 5 different parliamentary groups represented by members who served continuously throughout the period: KVP, ARP, PvdA, VVD, and CHU.",0,1
+8,Q18225599_77.csv,mix ,count,There are 10 members whose terms ended on 19 May 1969 or before.,0,0
+9,Q18225599_77.csv,mix ,all,"All members who assumed office on 23 February 1967 served in the KVP, ARP, SGP, CPN, PvdA, VVD, CHU, D66, or BP parliamentary groups.",1,1
+10,Q15118566_61.csv,mix ,simple,"Luis Fernando Guachalla served as ambassador twice, first from September 21, 1936 to October 6, 1936 and again from March 24, 1942 to March 31, 1942.",1,1
+11,Q15118566_61.csv,mix ,ordinal,"Víctor Andrade Uzquiano is the ambassador who served three times in the list of ambassadors: from November 13, 1944 to December 21, 1944, from July 29, 1952 to August 11, 1952 and from January 15, 1960 to February 15, 1960.",1,1
+12,Q15118566_61.csv,mix ,count,There are nine ambassadors who served as Chargé d'affaires (a.i.) during their tenure.,1,1
+13,Q15118566_61.csv,mix ,superlative,"José Manuel Pando is the president under whom the most ambassadors were designated, with a total of four ambassadors serving during his presidency.",1,1
+14,Q15118566_61.csv,mix ,unique,"There are two unique dates when relations between Bolivia and the United States were severed: from January 20 to June 23, 1944 and from July 21 to August 12, 1946.",1,1
+15,Q9149650_55.csv,mix ,simple,The first ambassador of Austria to Italy after the establishment of diplomatic relations in 1866 was Alois Kübeck von Kübau.,0,1
+16,Q9149650_55.csv,mix ,count,"There are 5 different ambassadors who served during the reign of Franz Joseph I from December 20, 1871 to October 7, 1895.",1,1
+17,Q9149650_55.csv,mix ,comparative,The term of Marius Pasetti-Angeli von Friedenburg was longer than that of Felix von Wimpffen.,0,1
+18,Q9149650_55.csv,mix ,unique,There are no two different ambassadors who served during the same period.,0,0
+19,Q9149650_55.csv,mix ,ordinal,The fourth ambassador to Italy after the establishment of diplomatic relations in 1866 was Felix von Wimpffen.,1,1
+20,Q11662201_59.csv,mix ,superlative,"Masaomi Kitadai had the earliest start date among all governors, beginning his term on 20 August 1873.",1,0
+21,Q11662201_59.csv,mix ,count,There are 5 governors from Kagoshima Prefecture.,1,0
+22,Q11662201_59.csv,mix ,comparative,Masaomi Kitadai served his first term starting earlier than Shigeyoshi Hishida's term.,0,0
+23,Q11662201_59.csv,mix ,unique,There are no two governors from the same prefecture who started their terms on the exact same date.,0,1
+24,Q11662201_59.csv,mix ,all,"All of the governors listed have unique names, with no repetitions except for Masaomi Kitadai who is listed twice due to his reelection.",1,0
+25,Q1321872_2.csv,mix ,superlative,"Aldo Moro held the position of Minister of Foreign Affairs for the longest cumulative term, serving a total of 3 years and 105 days across multiple terms.",1,1
+26,Q1321872_2.csv,mix ,count,There are 6 different parties represented by the ministers in this list.,1,1
+27,Q1321872_2.csv,mix ,unique,Carlo Sforza and Alcide De Gasperi each held the position of Minister of Foreign Affairs for multiple non-consecutive terms.,1,0
+28,Q1321872_2.csv,mix ,aggregation,The average length of tenure for all ministers is approximately 1 year and 238 days.,1,1
+29,Q1321872_2.csv,mix ,ordinal,"Alcide De Gasperi was the first Minister of Foreign Affairs in this list, taking office on July 13, 1946.",1,1
+30,Q6619024_39.csv,mix ,count,There are a total of 32 films listed in the table.,1,1
+31,Q6619024_39.csv,mix ,unique,"The country with the most unique films is Japan, with 8 different titles.",0,1
+32,Q6619024_39.csv,mix ,comparative,Ken Russell's film 'The Devils' has a higher genre count than Bernardo Bertolucci’s film 'Last Tango in Paris'.,1,1
+33,Q6619024_39.csv,mix ,superlative,"The director with the most films listed is Shunya Itō, with four entries.",1,0
+34,Q6619024_39.csv,mix ,all,All of the films directed by Jesús Franco are associated with multiple countries.,1,0
+35,Q4436065_22.csv,mix ,simple,Andrei Timoshchenko was the first ambassador of Russia to Tanzania.,1,1
+36,Q4436065_22.csv,mix ,ordinal,"Yuri Yukalov is the fourth ambassador of Russia to Tanzania after Andrei Timoshchenko, Vyacheslav Ustinov and Sergei Slipchenko.",1,1
+37,Q4436065_22.csv,mix ,count,"There are three ambassadors who served for less than a year: Andrei Fialkovsky, Sergey Illarionov, Andrei Timoshchenko.",0,0
+38,Q4436065_22.csv,mix ,unique,Andrei Fialkovsky is the only ambassador whose tenure lasted exactly five months and thirteen days.,0,0
+39,Q4436065_22.csv,mix ,all,All ambassadors who served from 1964 to 2023 were male.,1,1
+40,Q6635366_45.csv,mix ,superlative,The program with the longest run of reruns is The Day My Butt Went Psycho! which has been broadcast from 2015-2017 and since 2021.,1,0
+41,Q6635366_45.csv,mix ,comparative,"Hotel Transylvania: The Series had a longer premiere to finale duration than Detentionaire, which had 3 years compared to 4 years of Hotel Transylvania",1,1
+42,Q6635366_45.csv,mix ,count,There are 2 programs that premiered in the year 2018.,1,1
+43,Q6635366_45.csv,mix ,simple,"Supernoobs had its finale in 2018, and reruns started from the same year",1,1
+44,Q6635366_45.csv,mix ,unique,There are no two programs with the exact same premiere date.,0,1
+45,Q1847025_5.csv,mix ,count,There are 6 members from the Progressive Citizens' Party in the Oberland constituency.,0,1
+46,Q1847025_5.csv,mix ,unique,Anton Frommelt is the only member who held the position of President of the Landtag during this period.,1,1
+47,Q1847025_5.csv,mix ,simple,Otto Schaedler from the Patriotic Union in Oberland constituency was the Vice president of the Landtag,1,1
+48,Q1847025_5.csv,mix ,count,"The Patriotic Union has 6 members in total, with 5 in Oberland and 1 in Unterland.",1,0
+49,Q1847025_5.csv,mix ,comparative,Oberland constituency has more members from the Progressive Citizens' Party than Unterland constituency.,1,1
+50,Q10873233_53.csv,mix ,simple,Chen Tanqiu was an Alternate member of the 5th Central Committee.,1,1
+51,Q10873233_53.csv,mix ,count,There are three individuals who were members of both the 5th and 6th Central Committees.,1,1
+52,Q10873233_53.csv,mix ,unique,"There is only one female member listed in the table, Xu Lanzhi.",1,1
+53,Q10873233_53.csv,mix ,superlative,"Shi Wenbin, born in 1887, is the oldest individual in the table.",1,1
+54,Q10873233_53.csv,mix ,comparative,Chen Yun lived longer than Deng Zhongxia.,1,0
+55,Q19977258_81.csv,mix ,count,There are 5 paintings created using Bristol board as a technique.,1,0
+56,Q19977258_81.csv,mix ,unique,All the paintings from 1840 and earlier use at least two different techniques except for 'Catholic Monk' which uses only steel engraving.,1,1
+57,Q19977258_81.csv,mix ,aggregation,The average dimension of the paintings is approximately 25.7 x 26.3 centimeters.,1,1
+58,Q19977258_81.csv,mix ,comparative,"More paintings were created in 1839 than in any other single year, with a total of 4 paintings that year.",1,1
+59,Q19977258_81.csv,mix ,simple,The painting 'Head of the Mother' is the only one created using oil on paper and has dimensions of 68 x 58 centimeters.,0,1
+60,Q7304593_46.csv,mix ,count,There are 25 different script variants listed in the table.,1,0
+61,Q7304593_46.csv,mix ,superlative,"The Lontara script has the most number of distinct variants, with a total of five.",1,1
+62,Q7304593_46.csv,mix ,unique,"There are three scripts that use Arabic as their parent script derivation: Jawi, Pegon and Buri Wolio.",1,0
+63,Q7304593_46.csv,mix ,simple,The Latin script is the only alphabet type script in the table and it is used for Indonesian and all regional languages.,0,0
+64,Q7304593_46.csv,mix ,comparative,"More variants of the Ulu script are active compared to the Batak script, with seven active variants versus five.",0,1
+65,Q4436040_28.csv,mix ,simple,Vladimir Kalinin is currently the ambassador of Russia to Laos.,1,1
+66,Q4436040_28.csv,mix ,ordinal,Georgiy Rudov was the first ambassador of Russia to Laos after the dissolution of the Soviet Union.,0,0
+67,Q4436040_28.csv,mix ,count,There have been 8 different ambassadors of Russia to Laos from December 1991 onwards.,0,1
+68,Q4436040_28.csv,mix ,comparative,Vladimir Plotnikov served as ambassador for a shorter duration compared to Oleg Kabanov.,1,1
+69,Q4436040_28.csv,mix ,superlative,"Mikhail Baranov had the longest tenure among all ambassadors, serving from 27 June 2014 to 6 September 2019",1,1
+70,Q4436067_32.csv,mix ,superlative,"Oleg Kabanov served as the ambassador for the longest period, spanning over 4 years and 7 months.",0,1
+71,Q4436067_32.csv,mix ,unique,Levan Dzhagaryan is the only ambassador who has not had a termination date listed yet.,0,1
+72,Q4436067_32.csv,mix ,aggregation,"There have been a total of 10 ambassadors of Russia to Sri Lanka since December 25, 1991.",0,0
+73,Q4436067_32.csv,mix ,comparative,Mikhail Konarovsky had a shorter tenure as ambassador compared to Oleg Kabanov by over 3 years.,0,1
+74,Q4436067_32.csv,mix ,simple,"Yury Vinogradov was the first ambassador of Russia to Sri Lanka after the dissolution of the Soviet Union, appointed on December 25, 1991.",1,1
+75,Q2549263_11.csv,mix ,superlative,"The disaster with the highest death toll was the 1868 Lofoten storm, which resulted in between 96 and 100 fatalities.",1,1
+76,Q2549263_11.csv,mix ,count,There are four different disasters related to landslides or megatsunamis listed in the table.,1,1
+77,Q2549263_11.csv,mix ,comparative,"The 2004 Indian Ocean tsunami, which caused 84 fatalities among Norwegians, had a higher death toll than the 1961 Holtaheia Vickers Viking crash, which resulted in 39 fatalities.",1,1
+78,Q2549263_11.csv,mix ,ordinal,"The third deadliest disaster was the West Ice accidents of 1952, with 78 fatalities.",0,0
+79,Q2549263_11.csv,mix ,unique,There are no two disasters in the list that occurred in the same year and had the exact same number of fatalities.,1,1
+80,Q16023025_67.csv,mix ,simple,Subardjo Surosarojo served two consecutive terms from 1970 to 1980.,1,1
+81,Q16023025_67.csv,mix ,count,There are three acting interim governors listed in the table.,0,1
+82,Q16023025_67.csv,mix ,ordinal,"Maksid was the second governor of South Kalimantan, serving from 1959 to 1963.",1,1
+83,Q16023025_67.csv,mix ,superlative,"Sjachriel Darham had the shortest term as governor, lasting only about five years from 2000 to March 2005.",1,1
+84,Q16023025_67.csv,mix ,unique,Rudy Resnawan is unique in that he served as both a deputy governor and an acting interim governor.,1,1
+85,Q18653559_79.csv,mix ,count,There are three chairmen who were members of the Xinjiang clique.,1,1
+86,Q18653559_79.csv,mix ,ordinal,Yang Zengxin was the first chairman of Xinjiang.,1,1
+87,Q18653559_79.csv,mix ,unique,"Each chairman had a unique way of ending their term, including assassination, deposition in a coup, removal from office, and resignation.",1,1
+88,Q18653559_79.csv,mix ,simple,Sheng Shicai was the only chairman who served under two different political parties: the People's Anti-Imperialist Association and Kuomintang.,1,1
+89,Q18653559_79.csv,mix ,comparative,Jin Shuren's term of office was shorter than Yang Zengxin's.,0,0
+90,Q1309616_6.csv,mix ,count,There are 19 religious buildings in Timișoara under the Romanian Orthodox denomination.,0,1
+91,Q1309616_6.csv,mix ,unique,"The 'Church of the Dormition of the Mother of God' has three distinct locations across different districts: Aradului, Elisabetin, and Ghiroda Nouă.",1,1
+92,Q1309616_6.csv,mix ,simple,"The Serbian Orthodox denomination includes one cathedral, specifically the 'Serbian Cathedral of the Ascension of the Lord'.",1,1
+93,Q1309616_6.csv,mix ,superlative,The district with the most religious buildings is Elisabetin.,0,1
+94,Q1309616_6.csv,mix ,comparative,There are more Romanian Orthodox churches in Timișoara than Greek Catholic ones.,0,1
+95,Q2355315_8.csv,mix ,count,There are 71 different members listed in the table.,1,1
+96,Q2355315_8.csv,mix ,superlative,"Anneke Assen served the shortest term, starting her service on 26 April 1995 and ending it on 18 May 1998.",1,0
+97,Q2355315_8.csv,mix ,unique,There are 7 different parliamentary groups represented in the table.,1,1
+98,Q2355315_8.csv,mix ,all,"All members of the PvdA party started their service on 17 May 1994 except for Mieke van der Burg who started her service later, on 21 June 1994.",1,1
+99,Q2355315_8.csv,mix ,simple,Liesbeth Aiking-van Wageningen is listed under two different parliamentary groups: AOV[a] and Nijpels[b].,1,1
+100,Q1431703_1.csv,mix ,superlative,The tallest building in the European Union is Varso Tower located in Warsaw.,1,1
+101,Q1431703_1.csv,mix ,aggregation,The average height of the top 10 tallest buildings in the EU is approximately 247.6 meters (813 feet).,1,1
+102,Q1431703_1.csv,mix ,negation,No building in Vienna exceeds 220 meters (722 feet) in height.,1,1
+103,Q1431703_1.csv,mix ,comparative,The Commerzbank Tower is taller than the Messeturm by approximately 2.6 meters (8.5 feet).,1,1
+104,Q1431703_1.csv,mix ,unique,There are 14 different cities represented among the tallest buildings in the European Union.,1,1
+105,Q4434175_15.csv,mix ,count,There are five churches located in Chernihiv.,1,1
+106,Q4434175_15.csv,mix ,superlative,The oldest church listed is the Cathedral of the Nativity of Virgin Mary in Kozelets built between 1752 and 1763.,1,1
+107,Q4434175_15.csv,mix ,unique,There are three different churches associated with monasteries located in Hustynia.,1,1
+108,Q4434175_15.csv,mix ,simple,The St. Nicholas Church in Kozelets was built by Kyrylo Tarakh-Tarlovsky.,1,0
+109,Q4434175_15.csv,mix ,negation,None of the churches in Chernihiv were constructed before 1639.,0,0
+110,Q4436019_24.csv,mix ,count,There were 8 individuals who served as ambassadors or representatives of Russia to Hungary from 1924 to the listed period.,1,1
+111,Q4436019_24.csv,mix ,ordinal,"The first ambassador of Russia to Hungary after a treaty was ratified was Adolf Petrovsky, appointed on 2 April 1934.",1,1
+112,Q4436019_24.csv,mix ,negation,There was no official diplomatic representation from Russia to Hungary between 1924 and 1934 due to the treaty not being ratified.,1,1
+113,Q4436019_24.csv,mix ,simple,Nikolai Sharonov served as a Diplomatic representative before 9 May 1941 and as an Envoy after 9 May 1941.,1,1
+114,Q4436019_24.csv,mix ,unique,"The titles held by the representatives include 'Diplomatic representative', 'Chargé d'affaires', and 'Envoy'.",1,1
+115,Q15973490_65.csv,mix ,simple,The first ambassador listed in the table is Paul Le Mintier de Léhélec who served from 1968 to 1975.,1,1
+116,Q15973490_65.csv,mix ,count,"There are 3 ambassadors who resided in Castries: Éric de la Moussaye, Philippe Ardanaz, Jacques-Henry Heuls and Francis Étienne.",1,1
+117,Q15973490_65.csv,mix ,ordinal,"The second ambassador to reside in Port of Spain was Henri Chollet, serving from 1975 to 1979.",1,0
+118,Q15973490_65.csv,mix ,superlative,Jane Debenest is the only female ambassador listed in the table.,1,1
+119,Q15973490_65.csv,mix ,comparative,Jacques Sturm served a shorter term (2012 to 2015) compared to Olivier Pelen who served from 1999 to 2004.,1,0
+120,Q4435997_33.csv,mix ,count,There are a total of 34 ambassadors listed in the table.,1,1
+121,Q4435997_33.csv,mix ,unique,There were two different titles for these ambassadorial positions: 'Envoy' and 'Chargé d'affaires'.,1,1
+122,Q4435997_33.csv,mix ,superlative,"The longest-serving ambassador was Ivan Vasilyev, who served from 9 May 1800 to 10 September 1806.",1,1
+123,Q4435997_33.csv,mix ,simple,Aleksey Stroganov held the title of 'Chargé d'affaires before 13 March 1845 Envoy after 13 March 1845' during his appointment from 20 June 1842 to 11 March 1848.,1,1
+124,Q4435997_33.csv,mix ,ordinal,"The first ambassador listed was Maximilian Nesselrode, who served as an Envoy from 1778 to 1789.",1,1
+125,Q16158108_71.csv,mix ,count,There are 21 entries in the list of ambassadors of Russia to Mexico.,1,1
+126,Q16158108_71.csv,mix ,unique,There is only one entry with the title 'Diplomatic relations interrupted (1930 - 1942)',1,1
+127,Q16158108_71.csv,mix ,simple,Stanisław Pestkowski was the first ambassador appointed after Russia recognized Mexico's diplomatic status.,0,0
+128,Q16158108_71.csv,mix ,ordinal,"Viktor Fedyushin is the last person listed as an Envoy, before the title 'Ambassador' became common in the list.",1,0
+129,Q16158108_71.csv,mix ,simple,Konstantin Umansky's title changed from Envoy to Ambassador during his tenure.,1,1
+130,Q20427522_99.csv,mix ,count,There are 12 songs in the Batak language.,0,1
+131,Q20427522_99.csv,mix ,comparative,Siddik Sitompul has written more songs than any other author.,1,1
+132,Q20427522_99.csv,mix ,unique,There is only one song that does not have an author listed in the Toba Batak language,1,0
+133,Q20427522_99.csv,mix ,count,The Simalungun Batak language has 2 songs.,1,1
+134,Q20427522_99.csv,mix ,simple,Nahum Situmorang is the author of 'Dago Inang Sarge' and 'Alusi Au'.,1,1
+135,Q4435999_30.csv,mix ,unique,"There is only one female ambassador in the list, Zoya Novozhilova.",1,1
+136,Q4435999_30.csv,mix ,count,A total of 15 ambassadors have served from Russia to Switzerland between 1946 and 1991.,1,1
+137,Q4435999_30.csv,mix ,ordinal,"Anatoly Kulazhenkov was the first ambassador appointed after World War II, on April 30, 1946.",0,0
+138,Q4435999_30.csv,mix ,simple,Pavel Yershov held the title of Envoy before being promoted to Ambassador in January 1956.,1,1
+139,Q4435999_30.csv,mix ,comparative,Joseph Kuzmin served a shorter term than Dmitri Pozhidaev.,1,1
+140,Q15916742_64.csv,mix ,superlative,"Zhao Shoushan served as the Governor of Qinghai Provincial People's Government for the shortest term, lasting only two years and ten months.",1,1
+141,Q15916742_64.csv,mix ,count,All 21 governors listed were members of the Chinese Communist Party.,1,1
+142,Q15916742_64.csv,mix ,negation,No governor served more than one non-consecutive term as Governor of Qinghai Provincial People's Government.,0,1
+143,Q15916742_64.csv,mix ,ordinal,"The third governor, Sun Zuobin, is the first to have a second entry in the table with a different title: Governor of the Qinghai Provincial People's Committee.",1,1
+144,Q15916742_64.csv,mix ,comparative,Song Ruixiang served a longer term than his immediate predecessor Huang Jingbo by four years and three months.,1,0
+145,Q18477415_78.csv,mix ,count,There are 3 cardinals who served in the Archdiocese of Salvador.,1,1
+146,Q18477415_78.csv,mix ,superlative,Eusébio Oscar Scheid is the oldest cardinal currently serving.,0,0
+147,Q18477415_78.csv,mix ,comparative,More cardinals were elevated to the cardinalate by Pope John Paul II than by any other pope.,1,1
+148,Q18477415_78.csv,mix ,ordinal,Jaime de Barros Câmara is the second oldest cardinal in the list.,0,0
+149,Q18477415_78.csv,mix ,unique,There are no two cardinals with the same name among those who served in the Archdiocese of São Paulo.,1,0
+150,Q5944564_35.csv,mix ,count,The name 'Dadvah Ahura Mazdā' appears 4 times in the list of Zoroastrian month days.,0,1
+151,Q5944564_35.csv,mix ,ordinal,"The third day, Aša Vahišta, is known as Ardibeht and signifies 'the best truth'.",1,1
+152,Q5944564_35.csv,mix ,unique,There are 28 unique common names listed in the table.,1,1
+153,Q5944564_35.csv,mix ,superlative,"The day with the highest order number is Anaghra Raočā, known as Anaram, which means 'eternal light'.",1,1
+154,Q5944564_35.csv,mix ,simple,"The common name for the day Hvar is Khorshid, representing the sun and sunshine.",1,1
+155,Q774261_0.csv,mix ,count,There are a total of four airports listed in the State of Palestine.,1,1
+156,Q774261_0.csv,mix ,simple,"The Yasser Arafat International Airport is located in Rafah, Gaza Strip.",1,1
+157,Q774261_0.csv,mix ,superlative,"The Muqeible Airfield in Jenin, West Bank is the oldest defunct airport listed.",0,1
+158,Q774261_0.csv,mix ,unique,There are two airports with ICAO codes that start with 'L' and one that starts with 'OJJR'.,0,0
+159,Q774261_0.csv,mix ,all,All of the airports in the Gaza Strip are defunct.,1,0
+160,Q17023233_76.csv,mix ,superlative,The deadliest disaster in Taiwan was the 1982-1983 Polio epidemic with 99 fatalities.,1,1
+161,Q17023233_76.csv,mix ,count,"There are 5 different types of disasters recorded in this list: typhoons, earthquakes, epidemics and pandemics, mine disasters, and naval training disasters.",1,1
+162,Q17023233_76.csv,mix ,comparative,Typhoon Wayne in 1986 caused more fatalities than Typhoon Clara in 1967.,1,1
+163,Q17023233_76.csv,mix ,unique,There are no two different disasters with the exact same number of fatalities in this list.,0,1
+164,Q17023233_76.csv,mix ,simple,"The typhoons were the most common type of disaster, with 14 recorded instances.",1,1
+165,Q5491294_37.csv,mix ,count,There are a total of 30 different presidential terms listed in the table.,0,1
+166,Q5491294_37.csv,mix ,simple,"Joannes Willem van Hasselt's membership term ended on 11 June 1799, making it the shortest membership duration among all presidents.",1,0
+167,Q5491294_37.csv,mix ,superlative,Augustijn Gerhard Besier served the most number of presidential terms with a total of six terms.,1,1
+168,Q5491294_37.csv,mix ,ordinal,"The first president to start their term after 1800 was Augustijn Gerhard Besier, who began his term on 17 May 1800.",0,1
+169,Q5491294_37.csv,mix ,comparative,François Ermerins had more presidential terms than Anthonie Frederik Robbert Evert van Haersolte during their respective membership periods.,1,1
+170,Q16158253_73.csv,mix ,count,There have been nine ambassadors of Russia to Jamaica since 1991.,0,1
+171,Q16158253_73.csv,mix ,ordinal,Vladimir Romanchenko was the first ambassador of Russia to Jamaica after the dissolution of the Soviet Union.,0,0
+172,Q16158253_73.csv,mix ,superlative,"Igor Lebedev had the shortest tenure as an ambassador, serving for only 24 March 2006 - 28 February 2005 = 1 year and 25 days.",1,0
+173,Q16158253_73.csv,mix ,comparative,Vladimir Polyenov served longer than Igor Yakovlev as the ambassador of Russia to Jamaica.,0,1
+174,Q16158253_73.csv,mix ,simple,"Sergei Petrovich is the current ambassador of Russia to Jamaica, appointed on 24 May 2021.",1,1
+175,Q9373876_56.csv,mix ,superlative,Hanza Tower is the tallest building in Szczecin.,1,1
+176,Q9373876_56.csv,mix ,comparative,Varso Tower is taller than all other buildings in this list.,1,1
+177,Q9373876_56.csv,mix ,unique,There are no two different buildings with the same height from the city of Szczecin.,0,0
+178,Q9373876_56.csv,mix ,aggregation,The average height of the tallest buildings in this list is 168.4 meters.,1,1
+179,Q9373876_56.csv,mix ,negation,No building in this list was constructed before 1955.,1,1
+180,Q16158097_68.csv,mix ,superlative,"Malik Fazylov served the longest term as the Ambassador of Russia to Morocco, spanning from 24 December 1983 to 1990.",1,1
+181,Q16158097_68.csv,mix ,count,There are eight different ambassadors listed who have served as representatives of Russia to Morocco between 1958 and 1991.,1,1
+182,Q16158097_68.csv,mix ,simple,"Dmitri Pozhidaev was the first ambassador appointed, on 11 October 1958.",1,1
+183,Q16158097_68.csv,mix ,unique,Each ambassador had a unique tenure period with no overlaps in their appointment dates.,0,1
+184,Q16158097_68.csv,mix ,comparative,"Sergei Kiktev's term was shorter than Aleksey Shvedov's, lasting from 25 October 1972 to 26 December 1973 compared to Aleksey Shvedov's term from 20 July 1962 to 13 August 1965.",0,0
+185,Q3249894_14.csv,mix ,superlative,"The government with the longest duration was De Gasperi VII, which lasted for 712 days.",1,1
+186,Q3249894_14.csv,mix ,count,There were a total of 3 governments led by Prime Minister Alcide De Gasperi during the Constituent Assembly.,1,1
+187,Q3249894_14.csv,mix ,comparative,The duration of the Badoglio I government was longer than that of the Badoglio II government by 219 days.,1,1
+188,Q3249894_14.csv,mix ,unique,"There are three different legislatures in which Alcide De Gasperi served as Prime Minister: Constituent Assembly, 1st legislature and 2nd legislature",1,1
+189,Q3249894_14.csv,mix ,simple,Pietro Badoglio served as the prime minister for two governments during the transitional constitutional period of the Kingdom of Italy.,1,1
+190,Q2120629_7.csv,mix ,superlative,"Hans van den Akker from CDA had the longest tenure in office, serving continuously from 19 May 1998 to 22 May 2002.",1,1
+191,Q2120629_7.csv,mix ,count,"The parliamentary group PvdA had the highest number of members, with a total of 17 representatives during the period.",1,1
+192,Q2120629_7.csv,mix ,unique,Leen van Dijke is uniquely listed under two different parliamentary groups: RPF and CU.,1,0
+193,Q2120629_7.csv,mix ,comparative,"The VVD parliamentary group had a shorter average tenure compared to the CDA group, with several members serving less than four years.",0,0
+194,Q2120629_7.csv,mix ,simple,"Jozias van Aartsen from VVD and Karin Adelmund from PvdA both assumed office on 19 May 1998 and left on 3 August 1998, making them the shortest-serving members.",1,1
+195,Q15895936_62.csv,mix ,aggregation,The average number of shows per tour is approximately 75.,1,1
+196,Q15895936_62.csv,mix ,superlative,"The 'Nowhere World Tour' had the highest attendance with 2,600,000 people.",0,0
+197,Q15895936_62.csv,mix ,comparative,The 'Just Rock It! World Tour' has more shows than the 'Really Want To See You Tour'.,1,1
+198,Q15895936_62.csv,mix ,negation,None of the tours have a recorded attendance for their respective locations.,1,1
+199,Q15895936_62.csv,mix ,simple,"The 'Life Tour' spans from March 18, 2017 to January 6, 2019 with 122 shows.",1,1
+200,Q10873224_54.csv,mix ,aggregation,The average birth year of the members is 1912.,1,1
+201,Q10873224_54.csv,mix ,count,There are 8 female members in the 9th Central Committee.,1,1
+202,Q10873224_54.csv,mix ,superlative,"Chen Xilian, born in 1915 is the youngest member of the committee who was a member during the 8th and also in the 10th central committees.",0,0
+203,Q10873224_54.csv,mix ,unique,"There are only 2 members from Inner Mongolia: Baori Ledai, and they are both Mongolian.",1,1
+204,Q10873224_54.csv,mix ,comparative,The committee has more Han ethnicity members than any other ethnicity with a total of 47 members,1,1
+205,Q131542201_3060.csv,mix ,count,There are 5 episodes directed by Hannah Ayoubi.,1,1
+206,Q131542201_3060.csv,mix ,simple,"The episode 'Finders Kelpers' was released on February 2, 2025.",0,1
+207,Q131542201_3060.csv,mix ,unique,There are no two different episodes with the same production code of 107 and different directors.,0,0
+208,Q131542201_3060.csv,mix ,comparative,Steve Wolfhard has directed more episodes than Erica Jones.,1,1
+209,Q131542201_3060.csv,mix ,superlative,The episode 'Dog Eat Dog' has the earliest official release date among all episodes.,1,1
+210,Q132178451_3043.csv,mix ,superlative,The earthquake with the highest magnitude (mw_mw) was 6.7 in New Zealand.,1,1
+211,Q132178451_3043.csv,mix ,comparative,The earthquake in Norway had a higher mmi than the one in Mexico.,1,1
+212,Q132178451_3043.csv,mix ,count,There were 5 earthquakes with a magnitude (mw_mw) of 6.0 or higher.,1,1
+213,Q132178451_3043.csv,mix ,unique,The earthquake on April 7th in Indonesia was the only one to have an mmi of VII.,0,1
+214,Q132178451_3043.csv,mix ,simple,"On April 4th, an earthquake near Nyaungdon Myanmar caused several houses and religious buildings to collapse.",1,1
+215,Q133574091_3037.csv,mix ,aggregation,The total number of deaths across all affected countries is 5456.,1,1
+216,Q133574091_3037.csv,mix ,negation,China did not report any missing persons due to the earthquake.,1,1
+217,Q133574091_3037.csv,mix ,superlative,"Myanmar had the highest number of deaths, with 5352 fatalities.",1,1
+218,Q133574091_3037.csv,mix ,comparative,Thailand reported fewer injuries than Myanmar but more deaths than Vietnam and China combined.,0,0
+219,Q133574091_3037.csv,mix ,unique,There are four different countries affected by the 2025 earthquake in addition to Myanmar.,0,1
+220,Q133379167_3038.csv,mix ,superlative,Missouri had the highest number of deaths with 12.,1,1
+221,Q133379167_3038.csv,mix ,comparative,"Oklahoma experienced more injuries than any other state, with at least 142 reported.",1,0
+222,Q133379167_3038.csv,mix ,aggregation,The total number of deaths across all states is at least 43.,1,1
+223,Q133379167_3038.csv,mix ,count,There were seven different states affected by the tornado outbreak.,1,1
+224,Q133379167_3038.csv,mix ,simple,"Texas reported a significant number of injuries, described as 'multiple'.",1,1
+225,Q134044277_3039.csv,mix ,superlative,Maharashtra experienced the highest number of deaths in India due to the 2025 Pahalgam attack.,1,1
+226,Q134044277_3039.csv,mix ,count,There are 19 states in India affected by the 2025 Pahalgam attack.,1,0
+227,Q134044277_3039.csv,mix ,aggregation,"The total number of deaths across all affected regions is 26, with a corresponding total of 17 injured individuals.",1,1
+228,Q134044277_3039.csv,mix ,negation,No state in India reported more than 6 deaths due to the attack.,1,1
+229,Q134044277_3039.csv,mix ,simple,Nepal had 1 death and 1 injury due to the 2025 Pahalgam attack.,1,1
+230,Q104632069_3052.csv,mix ,count,There are 5 stations in the Xiaodian district.,1,1
+231,Q104632069_3052.csv,mix ,unique,The Yingze district has 4 unique station names that have connections.,1,1
+232,Q104632069_3052.csv,mix ,comparative,The Da'nanmen station has more connections than any other station in the table.,0,0
+233,Q104632069_3052.csv,mix ,simple,The Taiyuanligongdaxue station is located in the Wanbailin district.,1,1
+234,Q104632069_3052.csv,mix ,all,All stations in the Xiaodian district do not have connections listed.,0,0
+235,Q132753922_3053.csv,mix ,count,There are 4 documentary titles in the table.,1,1
+236,Q132753922_3053.csv,mix ,superlative,The King of Šumava: The Phantom of the Dark Land is the only Adventure Crime thriller in the table.,1,1
+237,Q132753922_3053.csv,mix ,unique,There are 10 different genres represented in the table.,0,1
+238,Q132753922_3053.csv,mix ,simple,Extrémní proměny is a Reality show premiering on 12 March 2025.,0,1
+239,Q132753922_3053.csv,mix ,negation,None of the titles in the table have a premiere date in January or February 2025.,1,1
+240,Q133254738_1103.csv,politics ,superlative,Reform UK received the highest number of votes with 12645.,1,1
+241,Q133254738_1103.csv,politics ,comparative,"Labour had a slightly lower vote percentage than Reform UK, with 38.7% compared to 38.72%.",1,1
+242,Q133254738_1103.csv,politics ,count,There are two independent candidates in the election.,1,1
+243,Q133254738_1103.csv,politics ,simple,The turnout for the election was 46.2% of eligible voters.,1,1
+244,Q133254738_1103.csv,politics ,unique,There were 85 rejected ballots in this by-election.,1,1
+245,Q117451185_621.csv,politics ,comparative,Susan Crawford has a higher average percentage support than Brad Schimel across all polls.,1,1
+246,Q117451185_621.csv,politics ,superlative,"The highest undecided voter percentage is 24%, recorded by TIPP Insights (R) on February 7–11, 2025.",1,1
+247,Q117451185_621.csv,politics ,aggregation,"On average, Susan Crawford's support across all polls is approximately 46.3%.",1,1
+248,Q117451185_621.csv,politics ,simple,"The poll conducted by SoCal Strategies (R) on March 25–26, 2025, shows Susan Crawford with 50% support among likely voters.",1,1
+249,Q117451185_621.csv,politics ,negation,No poll indicates that Brad Schimel has a higher percentage of support than Susan Crawford.,1,1
+250,Q86440621_1794.csv,politics ,comparative,"Infratest dimap's poll conducted on January 27-February 3, 2025, showed a higher lead for Tschentscher's SPD (28) compared to the previous poll by the same firm on January 9-13, 2025.",1,0
+251,Q86440621_1794.csv,politics ,superlative,"The highest support for Fegebank's Greens was recorded at 17% in the Forschungsgruppe Wahlen poll conducted on February 10-13, 2025.",1,1
+252,Q86440621_1794.csv,politics ,aggregation,"On average, Tschentscher's SPD received 48.6% support across all polls.",1,1
+253,Q86440621_1794.csv,politics ,count,There are two different polling firms mentioned in the table: Forschungsgruppe Wahlen and Infratest dimap.,1,1
+254,Q86440621_1794.csv,politics ,simple,"In the poll conducted by Infratest dimap on February 17-19, 2025, Fegebank's Greens received 16% support.",1,1
+255,Q112629738_1803.csv,politics ,count,There are 16 incumbents who won unopposed in their respective congressional districts.,1,1
+256,Q112629738_1803.csv,politics ,superlative,"The highest winning margin is 88.50%, achieved by Tina Pancho in Bulacan–2nd district.",0,1
+257,Q112629738_1803.csv,politics ,unique,There are 9 different political parties represented among the winners.,1,1
+258,Q112629738_1803.csv,politics ,comparative,The winning margin in Abra (70.98%) is higher than that in Aklan–1st (7.82%).,1,1
+259,Q112629738_1803.csv,politics ,simple,"In Albay–1st district, the incumbent was vacant and Krisel Lagman won with a margin of 8.96%.",1,1
+260,Q131225854_1640.csv,politics ,superlative,"Andrea Jenkyns from Reform UK received the highest number of votes, totaling 104,133.",1,1
+261,Q131225854_1640.csv,politics ,comparative,Rob Waltham from the Conservative party received fewer votes than Andrea Jenkyns but more than Jason Stockwood from Labour Co-op.,0,1
+262,Q131225854_1640.csv,politics ,unique,"There are six different parties participating in the Greater Lincolnshire mayoral election of 2025, including Reform UK, Conservative, Labour Co-op, Lincolnshire Independent, Green, and Liberal Democrats.",1,1
+263,Q131225854_1640.csv,politics ,aggregation,"The total number of votes cast in the 2025 Greater Lincolnshire mayoral election was 249,792.",1,1
+264,Q131225854_1640.csv,politics ,simple,The turnout for the 2025 Greater Lincolnshire mayoral election was 30.15%.,1,1
+265,Q112317546_803.csv,politics ,aggregation,"The total first-preference votes cast were 13,428,504.",1,1
+266,Q112317546_803.csv,politics ,comparative,"Labor gained more seats than the Liberal/National Coalition, with a net gain of four and one respectively.",1,0
+267,Q112317546_803.csv,politics ,superlative,The Labor Party received the highest percentage of first-preference votes at 35.45%.,1,1
+268,Q112317546_803.csv,politics ,count,There are five parties that won seats in the election.,0,0
+269,Q112317546_803.csv,politics ,unique,"The Liberal National (QLD) party had a unique split of seats, with four seats but no new total indicated.",0,0
+270,Q106492733_961.csv,politics ,superlative,North West Delhi has the highest number of listed constituencies in the '2025 Delhi Legislative Assembly election'.,1,0
+271,Q106492733_961.csv,politics ,all,All candidates from North Delhi are affiliated with the BJP party.,1,0
+272,Q106492733_961.csv,politics ,unique,"There is only one constituency in New Delhi listed in the table, which is Patel Nagar (SC).",1,1
+273,Q106492733_961.csv,politics ,comparative,North West Delhi has more constituencies than South West Delhi.,1,1
+274,Q106492733_961.csv,politics ,simple,Rajesh Gupta from Bawana (SC) is the only candidate in his constituency listed in the table.,0,0
+275,Q132184366_1927.csv,politics ,superlative,Cora Richardson-Hodge from Anguilla United Front achieved the highest percentage of votes (58.6%) in the Sandy Hill constituency.,1,1
+276,Q132184366_1927.csv,politics ,comparative,Ellis Lorenzo Webster received more votes than Claude C. Smith in the Island Harbour constituency.,1,1
+277,Q132184366_1927.csv,politics ,count,"There are a total of three different political parties represented in the election results for the constituency of Sandy Hill: Anguilla United Front, Anguilla Progressive Movement and Anguilla Reliable Team.",0,1
+278,Q132184366_1927.csv,politics ,simple,The Island Wide (4 seats) category has 13 candidates from Anguilla United Front.,1,1
+279,Q132184366_1927.csv,politics ,aggregation,The total number of votes cast in the Island Harbour constituency is 1041.,1,1
+280,Q124481157_1225.csv,politics ,superlative,"Reform UK achieved the highest number of gains, with 28 new seats.",1,1
+281,Q124481157_1225.csv,politics ,comparative,The Liberal Democrats received a higher percentage of votes than Labour.,1,1
+282,Q124481157_1225.csv,politics ,aggregation,A total of 423 candidates participated in the 2025 Cornwall Council election.,1,1
+283,Q124481157_1225.csv,politics ,unique,The Green Party is the only party that gained seats without any losses.,0,1
+284,Q124481157_1225.csv,politics ,simple,Labour won 4 seats in the 2025 Cornwall Council election.,0,1
+285,Q131363823_1439.csv,politics ,superlative,Reform UK achieved the highest number of seats with 23.,1,1
+286,Q131363823_1439.csv,politics ,comparative,"The Conservative Party lost more seats than any other party, with a net loss of 32.",1,1
+287,Q131363823_1439.csv,politics ,count,There were 15 different political parties and groups represented in the 2025 Warwickshire County Council election.,1,1
+288,Q131363823_1439.csv,politics ,simple,"The Liberal Democrats gained 9 seats, the highest number of gains among all parties.",1,1
+289,Q131363823_1439.csv,politics ,aggregation,The total number of candidates who ran in the election was 351.,1,1
+290,Q130332891_1032.csv,politics ,superlative,The Liberal Democrats won the highest number of seats with a total of 42.,1,1
+291,Q130332891_1032.csv,politics ,aggregation,A total of 72 candidates contested the election from different parties.,1,1
+292,Q130332891_1032.csv,politics ,comparative,"The Conservative Party lost more seats than any other party, with a net loss of 36 seats.",1,1
+293,Q130332891_1032.csv,politics ,ordinal,Shropshire First is the only new entry in the election and it came in last place with no seats won.,1,1
+294,Q130332891_1032.csv,politics ,unique,There are two parties that did not win any seats: Shropshire First and Heritage.,1,1
+295,Q131759062_624.csv,politics ,aggregation,The total number of valid votes cast remains constant at 245 across both rounds.,1,1
+296,Q131759062_624.csv,politics ,unique,"There are only two candidates from The Centre party, Martin Pfister and Markus Ritter.",1,1
+297,Q131759062_624.csv,politics ,comparative,Martin Pfister received more votes than Markus Ritter in both the first round (122 vs 105) and the second round (134 vs 110).,1,1
+298,Q131759062_624.csv,politics ,simple,There were no invalid or blank votes recorded in either round.,0,1
+299,Q131759062_624.csv,politics ,negation,Neither Martin Pfister nor Markus Ritter reached the absolute majority of 123 votes required to win in either round.,0,1
+300,Q131283653_1107.csv,politics ,superlative,Reform UK received the highest number of votes.,1,0
+301,Q131283653_1107.csv,politics ,comparative,Liberal Democrats received more votes than Conservative.,1,1
+302,Q131283653_1107.csv,politics ,ordinal,Labour is the fourth-ranked party by vote count in Hull and East Yorkshire.,0,0
+303,Q131283653_1107.csv,politics ,aggregation,"The total number of valid votes cast was 135,066.",1,1
+304,Q131283653_1107.csv,politics ,negation,Yorkshire party did not win the election.,1,1
+305,Q125676552_1958.csv,politics ,superlative,Stefan Fisher received the highest number of votes with 2105.,1,1
+306,Q125676552_1958.csv,politics ,comparative,"Reform UK's Stefan Fisher received more votes than any other candidate, including Conservative candidates Steve Count and Elisabeth Clough.",1,1
+307,Q125676552_1958.csv,politics ,ordinal,The Liberal Democrats' Diane Cutler finished eighth in terms of vote count with 378 votes.,0,1
+308,Q125676552_1958.csv,politics ,negation,"None of the Green Party candidates received more than 265 votes, indicating a relatively low performance compared to other parties.",1,1
+309,Q125676552_1958.csv,politics ,aggregation,"The average percentage change for Conservative candidates is -26.65%, showing a significant decline in support.",1,1
+310,Q133799590_1094.csv,politics ,superlative,Labor achieved the highest percentage of first-preference votes at 35.45%.,1,1
+311,Q133799590_1094.csv,politics ,count,The Liberal/National Coalition won a total of 26 seats.,1,1
+312,Q133799590_1094.csv,politics ,comparative,Labor had a higher increase in vote percentage (+5.36%) compared to the decrease experienced by the Liberal/National Coalition (−4.15%).,1,1
+313,Q133799590_1094.csv,politics ,unique,"The Trumpet of Patriots party saw an increase of +2.35% in their vote share, which is the highest increase among all parties.",0,0
+314,Q133799590_1094.csv,politics ,simple,The total number of seats available is 76.,1,1
+315,Q126003385_1192.csv,politics ,superlative,"Helen Godwin received the highest number of votes with 51,197.",1,1
+316,Q126003385_1192.csv,politics ,comparative,"Labour lost more percentage points than any other party, with a drop of 8.4%",1,0
+317,Q126003385_1192.csv,politics ,aggregation,"The total number of votes cast was 205,557, representing a turnout rate of 30.0%. ",1,1
+318,Q126003385_1192.csv,politics ,ordinal,The Green Party is the third-highest in terms of vote percentage with 20.0%.,1,0
+319,Q126003385_1192.csv,politics ,unique,"There are six distinct parties competing in the election, including Labour, Reform UK, Green, Conservative, Liberal Democrats, and Independent.",1,1
+320,Q131362871_1643.csv,politics ,superlative,Reform UK secured the highest number of seats with 53.,1,1
+321,Q131362871_1643.csv,politics ,comparative,"The Conservative Party lost more seats than any other party, with a total of 40 losses.",1,1
+322,Q131362871_1643.csv,politics ,unique,There are no two different parties that gained exactly the same number of seats in the election.,1,0
+323,Q131362871_1643.csv,politics ,simple,"The Liberal Democrats won 5 seats, and gained 3 seats from other parties.",0,1
+324,Q131362871_1643.csv,politics ,count,There are 12 different political parties participating in the Lancashire County Council election.,1,1
+325,Q131605831_1186.csv,politics ,superlative,Steve Murphy received the highest number of votes among all candidates.,1,1
+326,Q131605831_1186.csv,politics ,comparative,"The Liberal party gained more votes than any other party, with a +3.65% change in vote share.",1,1
+327,Q131605831_1186.csv,politics ,unique,"There were three Independent candidates running for the election: Paul Hopper, Munish Joshi and Aidan McLindon.",1,1
+328,Q131605831_1186.csv,politics ,simple,John Lister from the Labor party won the two-party-preferred result with 50.82% of the votes.,1,1
+329,Q131605831_1186.csv,politics ,count,There were a total of seven different parties participating in the election.,1,1
+330,Q134376285_1929.csv,politics ,superlative,"Jason Perillo received the highest number of votes in 2016 with a total of 8,090 votes.",1,1
+331,Q134376285_1929.csv,politics ,comparative,"In 2020, Jason Perillo (i) received more votes than Elaine Matto by 3,527 votes.",1,1
+332,Q134376285_1929.csv,politics ,unique,There were no Democratic candidates in the elections of 2014 and 2008,1,1
+333,Q134376285_1929.csv,politics ,all,"In all years except for 2016, Jason Perillo has received a higher percentage of votes than his opponents.",1,1
+334,Q134376285_1929.csv,politics ,simple,The special election in 2007 saw James Orazietti receive 35.41% of the votes and Jason Perillo getting 64.59%,1,1
+335,Q131447752_1997.csv,politics ,superlative,Erwin Jay Saunders received the highest number of votes with 4614.0.,1,1
+336,Q131447752_1997.csv,politics ,comparative,Otis Chuck Morris of the Progressive National Party received more votes than George Lightbourne of the People's Democratic Movement in Grand Turk North.,1,1
+337,Q131447752_1997.csv,politics ,count,There are 3 candidates from the Progressive National Party and 1 independent candidate in South Caicos constituency.,1,0
+338,Q131447752_1997.csv,politics ,simple,The Progressive National Party's Matthew Timothy Stubbs narrowly lost to Audric Skippings of the People's Democratic Movement by a single vote in The Bight (Providenciales).,1,1
+339,Q131447752_1997.csv,politics ,unique,All Island District 9 elected at-large has no constituency and all its candidates are from Progressive National Party.,0,1
+340,Q106625095_392.csv,politics ,count,There are 6 representatives from PD party in Shkodër County.,0,0
+341,Q106625095_392.csv,politics ,unique,"There is only one representative from the PL party, Monica Kryemadhi.",1,1
+342,Q106625095_392.csv,politics ,comparative,More representatives were elected in 2021 than in any other year,1,1
+343,Q106625095_392.csv,politics ,superlative,"Dashnor Sula from PD party is the longest-serving representative, having been elected since 2005.",1,1
+344,Q106625095_392.csv,politics ,simple,Fier County has the highest number of representatives with 10,1,1
+345,Q134389551_1925.csv,politics ,superlative,Samuel Gongben Kogar received the highest number of votes.,1,1
+346,Q134389551_1925.csv,politics ,aggregation,"A total of 122,312 votes were cast in the election.",1,1
+347,Q134389551_1925.csv,politics ,comparative,Edith Lianue Gongloe-Weh received more votes than B. Mack Gblinwon.,1,1
+348,Q134389551_1925.csv,politics ,simple,The turnout for registered voters was 39.81%.,1,1
+349,Q134389551_1925.csv,politics ,unique,There are six different parties or independent candidates in the election.,0,1
+350,Q131363719_516.csv,politics ,superlative,Reform UK achieved the highest number of seats with 25.,1,1
+351,Q131363719_516.csv,politics ,comparative,"The Conservative Party lost more seats than any other party, with a net loss of 27.",1,1
+352,Q131363719_516.csv,politics ,count,There were 10 different parties and independents running in the 2025 Leicestershire County Council election.,0,0
+353,Q131363719_516.csv,politics ,ordinal,"Labour is the fourth party with the highest number of seats, securing only 2 seats.",1,1
+354,Q131363719_516.csv,politics ,simple,The Liberal Democrats gained 5 seats in the 2025 Leicestershire County Council election.,1,1
+355,Q132891730_2068.csv,politics ,count,There are 12 Prime Ministers attending the summit.,0,1
+356,Q132891730_2068.csv,politics ,superlative,The title 'Prime Minister' is the most common among the representatives at the summit.,1,1
+357,Q132891730_2068.csv,politics ,unique,Ukraine and Turkey are the only countries represented by a President and a Foreign Affairs Minister respectively.,0,1
+358,Q132891730_2068.csv,politics ,negation,No country is represented by a monarch or royal figure at the summit.,0,1
+359,Q132891730_2068.csv,politics ,comparative,There are more Prime Ministers than Presidents attending the summit.,1,1
+360,Q131056221_2069.csv,politics ,simple,"The Prime Minister of Albania, Edi Rama, hosted the 6th European Political Community Summit.",1,1
+361,Q131056221_2069.csv,politics ,comparative,More countries are represented by a Prime Minister than by a President at the summit.,1,1
+362,Q131056221_2069.csv,politics ,count,"There are four different representatives from the European Union, including Kaja Kallas as High Representative of the Union for Foreign Affairs and Security Policy, António Costa as President of the European Council, Ursula von der Leyen as President of the European Commission, and Roberta Metsola as President of the European Parliament.",1,1
+363,Q131056221_2069.csv,politics ,unique,The sovereign Prince Albert II is the only representative from Monaco at the summit.,1,1
+364,Q131056221_2069.csv,politics ,ordinal,"Andorra's Prime Minister Xavier Espot Zamora, who was present at the 6th European Political Community Summit, is the second leader in alphabetical order after Albania's Edi Rama.",1,0
+365,Q133690919_2057.csv,politics ,simple,Louise Thibault served as a member for the Bloc Québécois during the 38th and 39th parliaments.,1,1
+366,Q133690919_2057.csv,politics ,count,There are four different members who have represented Rimouski—La Matapédia across the parliaments listed.,0,1
+367,Q133690919_2057.csv,politics ,comparative,Guy Caron served a longer term than Claude Guimond in the New Democratic Party.,1,1
+368,Q133690919_2057.csv,politics ,unique,Louise Thibault is the only member who has represented both the Bloc Québécois and as an Independent.,1,1
+369,Q133690919_2057.csv,politics ,ordinal,Maxime Blanchette-Joncas was elected to his first term in the 43rd parliament.,1,1
+370,Q125747097_2059.csv,politics ,superlative,Bloc Québécois achieved the highest number of votes in the 2021 federal election redistributed results.,1,1
+371,Q125747097_2059.csv,politics ,superlative,Green received the fewest votes in the 2021 federal election redistributed results.,1,1
+372,Q125747097_2059.csv,politics ,comparative,Liberal obtained a higher percentage of votes than Conservative in the 2021 federal election redistributed results.,1,1
+373,Q125747097_2059.csv,politics ,count,There were six different parties that participated in the 2021 federal election redistributed results.,1,1
+374,Q125747097_2059.csv,politics ,simple,"New Democratic received 3,800 votes in the 2021 federal election redistributed results.",0,0
+375,Q16850493_2053.csv,politics ,simple,"The European population in Calgary Crowfoot decreased from 77,590 in 2016 to 75,910 in 2021.",0,1
+376,Q16850493_2053.csv,politics ,aggregation,The total panethnic group population in Calgary Crowfoot increased by 34.8% from 2011 to 2021.,1,1
+377,Q16850493_2053.csv,politics ,comparative,The East Asian population in Calgary Crowfoot grew more rapidly than the South Asian population between 2016 and 2021.,1,1
+378,Q16850493_2053.csv,politics ,superlative,"The European group had the highest population in Calgary Crowfoot across all years, with 75,910 individuals in 2021.",0,1
+379,Q16850493_2053.csv,politics ,count,There are nine different panethnic groups reported in the Calgary Crowfoot data for 2021.,1,1
+380,Q133854973_2066.csv,politics ,simple,Peter Stoffer served as the member for Sackville—Eastern Shore from 2004 to 2015.,0,1
+381,Q133854973_2066.csv,politics ,count,"There are three different ridings mentioned in the table: Sackville—Musquodoboit Valley—Eastern Shore Riding, Sackville—Eastern Shore and Sackville—Preston—Chezzetcook",1,1
+382,Q133854973_2066.csv,politics ,comparative,Darrell Samson has served longer than Braedon Clark as of 2025.,0,1
+383,Q133854973_2066.csv,politics ,ordinal,The first member listed for the Sackville—Bedford—Preston riding is Braedon Clark.,0,0
+384,Q133854973_2066.csv,politics ,unique,There are no two different members from the same party serving consecutively in the Sackville—Eastern Shore riding.,0,0
+385,Q3260876_2063.csv,politics ,unique,There are five different representatives in Louis-Saint-Laurent—Akiawenhrahk from 2004 to present.,0,0
+386,Q3260876_2063.csv,politics ,count,The Conservative Party has had representation for eight out of the twelve years covered in the table.,1,1
+387,Q3260876_2063.csv,politics ,ordinal,Josée Verner is the second representative from the Conservative party who served consecutively in Louis-Saint-Laurent—Akiawenhrahk from 2006-2011,0,0
+388,Q3260876_2063.csv,politics ,simple,The riding of Louis-Saint-Laurent was created from Portneuf and Quebec East.,0,1
+389,Q3260876_2063.csv,politics ,superlative,"Gérard Deltell has the longest tenure as a representative for Louis-Saint-Laurent—Akiawenhrahk, serving continuously from 2015 to 2025.",1,1
+390,Q125101873_2056.csv,politics ,unique,There is only one association based in Hamilton.,1,1
+391,Q125101873_2056.csv,politics ,simple,The CEO of Brantford--Brant South--Six Nations Federal Liberal Association is Jamie Crick.,1,1
+392,Q125101873_2056.csv,politics ,comparative,"The Conservative Party and the New Democratic Party have CEOs based in different cities, while the Green Party's CEO is from Hamilton.",1,0
+393,Q125101873_2056.csv,politics ,superlative,Brantford is the city with the most associations headquarters,1,1
+394,Q125101873_2056.csv,politics ,all,All of the parties have different association names for Brantford--Brant South--Six Nations.,1,0
+395,Q3414825_2061.csv,politics ,superlative,"Jean-Yves Duclos has been the member for the most consecutive parliaments, serving from the 42nd to the 45th.",1,1
+396,Q3414825_2061.csv,politics ,unique,"There are five different political parties represented in the 'Québec Centre' riding over the years: Liberal, Progressive Conservative, Bloc Québécois, New Democratic and Quebec.",0,1
+397,Q3414825_2061.csv,politics ,simple,Jean Marchand served as a member from 1968 to 1974,1,1
+398,Q3414825_2061.csv,politics ,comparative,"Christian Gagnon has served the most consecutive parliaments, from the 35th to the 40th.",1,1
+399,Q3414825_2061.csv,politics ,ordinal,The second member of Parliament for Québec Centre was Jean Marchand,0,0
+400,Q16976871_2065.csv,politics ,simple,Adam Vaughan represented Spadina—Fort York from 2015-2019.,1,1
+401,Q16976871_2065.csv,politics ,unique,"There are three different individuals who have represented the riding of Spadina—Harbourfront and its predecessor, Spadina—Fort York Riding, over the years.",0,0
+402,Q16976871_2065.csv,politics ,comparative,Adam Vaughan has served more parliamentary terms than Kevin Vuong in this riding.,1,1
+403,Q16976871_2065.csv,politics ,ordinal,"Kevin Vuong is the third representative of Spadina—Harbourfront and its predecessor, Spadina—Fort York Riding.",0,0
+404,Q16976871_2065.csv,politics ,negation,Chi Nguyen has never represented the riding under the name Spadina—Fort York.,1,1
+405,Q133521162_2055.csv,politics ,simple,The Liberal Party's association is named Taiaiako'n—Parkdale—High Park Federal Liberal Association.,1,1
+406,Q133521162_2055.csv,politics ,unique,There are no two different associations with the same postal code in their HQ address.,1,0
+407,Q133521162_2055.csv,politics ,comparative,The New Democratic Party has a later postal code (M6R 3B5) than the Green Party (M6N 2H3).,1,1
+408,Q133521162_2055.csv,politics ,ordinal,"When listed alphabetically by party name, the Liberal Party is the third association.",0,0
+409,Q133521162_2055.csv,politics ,all,All associations are located in different postal codes.,1,0
+410,Q132406145_2058.csv,politics ,unique,There is only one member who has not held any previous position before joining the National Citizen Party.,1,0
+411,Q132406145_2058.csv,politics ,count,There are three individuals who have served as Member Secretary in some capacity prior to their current roles.,0,1
+412,Q132406145_2058.csv,politics ,simple,"Nahid Islam, who is currently the Convener, previously served as Adviser of the interim government.",1,1
+413,Q132406145_2058.csv,politics ,comparative,"Ariful Islam Adib and Samantha Sharmin both hold the position of Senior Joint Convener, but only Samantha Sharmin has a noted previous position as Spokesperson of JNC.",1,1
+414,Q132406145_2058.csv,politics ,superlative,"The most common previous role among the members is that of Member Secretary of JNC, held by Akhter Hossain and Nasiruddin Patwary.",0,0
+415,Q131995381_2048.csv,politics ,count,There are three deputy prime ministers from the N-VA party.,1,1
+416,Q131995381_2048.csv,politics ,unique,The position of Minister of Defence and Foreign Trade is uniquely held by Theo Francken from the N-VA party.,1,1
+417,Q131995381_2048.csv,politics ,superlative,"Frank Vandenbroucke, who serves as Deputy Prime Minister & Minister of Health and Social Affairs, has been in office since the longest duration compared to other ministers.",0,1
+418,Q131995381_2048.csv,politics ,simple,Bart De Wever is the prime minister of Belgium and took office on 3 February 2025.,1,1
+419,Q131995381_2048.csv,politics ,comparative,More deputy prime ministers belong to N-VA compared to other parties.,1,1
+420,Q133885867_2037.csv,politics ,count,There are 13 ministers from the SNS party in the cabinet.,1,1
+421,Q133885867_2037.csv,politics ,unique,All Deputy Prime Ministers come from either the SPS or SNS parties.,1,1
+422,Q133885867_2037.csv,politics ,simple,"Dragan Glamočić is the Minister of Agriculture, Forestry and Water Economy.",1,1
+423,Q133885867_2037.csv,politics ,superlative,The SNS party has the most ministers in the cabinet.,1,1
+424,Q133885867_2037.csv,politics ,comparative,More independent ministers hold ministerial positions compared to any other individual party except for SNS.,0,1
+425,Q134305440_2040.csv,politics ,simple,Gerardo Sicat served under Ferdinand E. Marcos from 1970 to 1981.,1,0
+426,Q134305440_2040.csv,politics ,count,There are three individuals who served as department heads during the term of Gloria Macapagal Arroyo.,0,1
+427,Q134305440_2040.csv,politics ,superlative,"Cayetano Paderanga Jr. is the only individual to have served two non-consecutive terms as a department head, from June 30, 2010 to May 10, 2012 and January 2, 1990 to June 30, 1992.",1,1
+428,Q134305440_2040.csv,politics ,ordinal,The first department head under the Fifth Republic of the Philippines was Solita 'Winnie' Monsod.,1,0
+429,Q134305440_2040.csv,politics ,unique,There are no two different department heads who served under the same president during overlapping periods.,0,0
+430,Q133858220_2039.csv,politics ,count,There are three government councillors in Brigitte Haas' cabinet.,0,0
+431,Q133858220_2039.csv,politics ,simple,Brigitte Haas serves as the Finance Minister in the cabinet.,1,1
+432,Q133858220_2039.csv,politics ,unique,The Patriotic Union party has two members in the cabinet.,1,1
+433,Q133858220_2039.csv,politics ,comparative,"Sabine Monauni's portfolio encompasses more roles than any other minister, including Foreign affairs, Environment, and Culture",1,0
+434,Q133858220_2039.csv,politics ,ordinal,The first role listed in the cabinet is that of Prime Minister.,1,1
+435,Q131985957_2033.csv,politics ,simple,"Mark Carney has been serving as the Prime Minister since March 14, 2025.",1,1
+436,Q131985957_2033.csv,politics ,comparative,"Dominic LeBlanc held more portfolios than Mélanie Joly before May 13, 2025.",0,1
+437,Q131985957_2033.csv,politics ,unique,"There are three ministers who have changed their portfolios on May 13, 2025: François-Philippe Champagne, Mélanie Joly, and Dominic LeBlanc.",1,1
+438,Q131985957_2033.csv,politics ,count,"There are 4 ministers who hold multiple roles as of May 13, 2025.",0,1
+439,Q131985957_2033.csv,politics ,superlative,Gary Anandasangaree held the most portfolios in March 2025.,1,0
+440,Q132821037_2049.csv,politics ,count,There are 12 members in the Third W. Misick ministry.,0,0
+441,Q132821037_2049.csv,politics ,simple,"Washington Misick is the Premier Minister of Finance, Economic Development, Investment & Trade.",1,1
+442,Q132821037_2049.csv,politics ,unique,There are 10 different constituencies represented in the Third W. Misick ministry.,0,0
+443,Q132821037_2049.csv,politics ,all,All elected members took office on 13 February 2025.,1,1
+444,Q132821037_2049.csv,politics ,comparative,"Anya Williams has been in her position longer than any other member, having taken office on 15 October 2012.",1,1
+445,Q133714844_2038.csv,politics ,count,There are 14 ministers affiliated with Hay'at Tahrir al-Sham.,1,1
+446,Q133714844_2038.csv,politics ,unique,The Syrian National Coalition has only one minister in the transitional government.,1,1
+447,Q133714844_2038.csv,politics ,simple,Musaab Nazzal al-Ali is the Minister of Health and an Independent.,1,1
+448,Q133714844_2038.csv,politics ,all,"All ministers from Hay'at Tahrir al-Sham hold key portfolios such as Interior, Defence, Foreign Affairs, Justice, and Energy.",1,0
+449,Q133714844_2038.csv,politics ,comparative,Hay'at Tahrir al-Sham has more ministers than the Syrian National Coalition.,1,1
+450,Q133849523_2047.csv,politics ,count,There are 6 SPD members in the Merz cabinet.,1,0
+451,Q133849523_2047.csv,politics ,unique,"The Federal Minister for Digital and State Modernisation is the only minister who changed their party affiliation while in office, from Ind to CDU.",1,1
+452,Q133849523_2047.csv,politics ,ordinal,"The Federal Minister of Defence Boris Pistorius was the first cabinet member to take office on January 19th, 2023.",1,1
+453,Q133849523_2047.csv,politics ,simple,Friedrich Merz is the Chancellor and a CDU party member in the Merz cabinet.,1,1
+454,Q133849523_2047.csv,politics ,comparative,"The CDU party has more ministers than any other single party, with a total of 7 members.",1,1
+455,Q131393934_384.csv,politics ,aggregation,"The total number of votes cast in the senate election was 2,443,901.",1,1
+456,Q131393934_384.csv,politics ,superlative,The Broad Front received the highest percentage of senate votes with 43.86%.,1,1
+457,Q131393934_384.csv,politics ,comparative,The National Party gained fewer seats than the Colorado Party.,0,0
+458,Q131393934_384.csv,politics ,count,There are four parties that did not gain any senate seats.,1,1
+459,Q131393934_384.csv,politics ,simple,"The Popular Unity-Workers' Party received 10,102 votes.",1,1
+460,Q134300818_388.csv,politics ,superlative,"The People's National Movement (PNM) has the highest number of long-serving members, with Colm Imbert having been in office since 1991.",0,1
+461,Q134300818_388.csv,politics ,count,There are 20 members who started their terms in 2025.,1,0
+462,Q134300818_388.csv,politics ,unique,"Tobago is uniquely represented by two different parties, the Tobago People's Party (TPP) and the United National Congress (UNC).",1,1
+463,Q134300818_388.csv,politics ,comparative,The United National Congress (UNC) has more members in office than the People's National Movement (PNM).,1,1
+464,Q134300818_388.csv,politics ,simple,Kamla Persad-Bissessar from the UNC constituency of Siparia has been a member since 1995.,1,1
+465,Q131338455_383.csv,politics ,count,There are 26 senators from the Broad Front party in the Senate.,1,0
+466,Q131338455_383.csv,politics ,unique,"The Senate has three distinct political parties represented: the Broad Front, National Party and Colorado Party.",1,1
+467,Q131338455_383.csv,politics ,ordinal,Nicolás Viera is the first senator to start his term on 15 February 2025.,1,1
+468,Q131338455_383.csv,politics ,simple,Alejandro Sánchez holds the position of President of the Senate.,1,1
+469,Q131338455_383.csv,politics ,comparative,There are more senators from the Broad Front party than from the National Party.,1,1
+470,Q124661964_387.csv,politics ,aggregation,The average age of the members elected or re-elected in 2021 is approximately 45.6 years.,1,1
+471,Q124661964_387.csv,politics ,superlative,"Norbert Altenkamp from Hesse received the highest vote percentage, which is 39.8%, among all members who ran in their constituencies.",1,0
+472,Q124661964_387.csv,politics ,count,There are seven members from the SPD party who were elected or re-elected in 2021.,0,1
+473,Q124661964_387.csv,politics ,comparative,Carolin Bachmann received a higher vote percentage (45.4%) than Sanae Abdi (24.9%).,1,1
+474,Q124661964_387.csv,politics ,simple,"Jan van Aken is the oldest member of the 21st German Bundestag, born on May 1, 1961.",1,1
+475,Q126049909_2051.csv,politics ,count,There are 4 members who are constituents from Lancashire County Council.,0,1
+476,Q126049909_2051.csv,politics ,unique,There is one observer from Lancashire Police and Crime Commissioner.,1,1
+477,Q126049909_2051.csv,politics ,comparative,Lancashire County Council has more constituent members than Blackburn with Darwen Council.,1,1
+478,Q126049909_2051.csv,politics ,simple,Phil Riley is a member who was nominated by Blackburn with Darwen Council.,1,1
+479,Q126049909_2051.csv,politics ,ordinal,"The Lancashire Business Board has the only associate member, Mo Isap.",1,1
+480,Q132797065_2050.csv,politics ,count,There are three ministers from Upper Austria in the Stocker government.,0,0
+481,Q132797065_2050.csv,politics ,unique,All ministers from Lower Austria belong to either ÖVP or SPÖ parties,0,0
+482,Q132797065_2050.csv,politics ,simple,Christian Stocker is the Chancellor of Austria and a member of the ÖVP party.,1,1
+483,Q132797065_2050.csv,politics ,comparative,The SPÖ has more ministers than the NEOS party in the Stocker government.,1,1
+484,Q132797065_2050.csv,politics ,superlative,Wolfgang Hattmannsdorfer is the only Minister from Upper Austria who belongs to ÖVP,0,0
+485,Q125966109_2052.csv,politics ,count,There are a total of three vacant positions in the Devon County Council.,1,1
+486,Q125966109_2052.csv,politics ,simple,Paul Arnott is nominated by District Councils of Devon,1,1
+487,Q125966109_2052.csv,politics ,comparative,Torbay Council has more constituent members than Devon and Torbay Combined County Authority.,1,1
+488,Q125966109_2052.csv,politics ,unique,There are five different nominating authorities represented in the table.,1,1
+489,Q125966109_2052.csv,politics ,all,None of the members have the membership type 'Non-constituent' from Devon and Torbay Combined County Authority.,0,0
+490,Q131919691_198.csv,culture ,aggregation,The average age of the contestants is approximately 23.8 years.,1,1
+491,Q131919691_198.csv,culture ,count,There are 7 contestants from Jakarta SCR provinces in total.,1,1
+492,Q131919691_198.csv,culture ,superlative,Fidya Adystiara is the youngest contestant from Riau Islands at age 25.,1,1
+493,Q131919691_198.csv,culture ,comparative,The average age of contestants from Java (excluding Jakarta) is higher than that of contestants from Sumatra.,0,1
+494,Q131919691_198.csv,culture ,unique,"The youngest contestant, Zenab Fadila Ahaya, is 19 years old and comes from Gorontalo province",1,1
+495,Q133139706_196.csv,culture ,count,"There are a total of 8 episodes titled 'And, This is ...' in the podcast.",1,1
+496,Q133139706_196.csv,culture ,unique,The podcast features guests with unique titles including Charlie Kirk and Michael Savage.,1,1
+497,Q133139706_196.csv,culture ,ordinal,"The first episode of the podcast was released on March 6, 2025.",0,1
+498,Q133139706_196.csv,culture ,superlative,Steve Bannon's episode is the second last one to be released in march month,1,0
+499,Q133139706_196.csv,culture ,simple,The first episode of the podcast is titled 'Introducing: This is Gavin Newsom'.,1,1
+500,Q131324617_7.csv,culture ,simple,"""Stick or Twist"" is directed by Guy Ritchie.",1,1
+501,Q131324617_7.csv,culture ,count,There are 2 movies directed by Daniel Syrkin in the table.,1,1
+502,Q131324617_7.csv,culture ,comparative,Lawrence Gough has a later release date than Anthony Byrne for his first movie.,1,1
+503,Q131324617_7.csv,culture ,unique,There are no two different movies from Guy Ritchie with the same original release year.,0,0
+504,Q131324617_7.csv,culture ,all,All movies have unique titles in the table.,1,1
+505,Q133806770_93.csv,culture ,count,There are three episodes featuring a challenge winner's guest activity involving Sydnee.,1,0
+506,Q133806770_93.csv,culture ,superlative,"The episode '911, Misdemeanor, Handcuffs' had the most eliminations, with two contestants eliminated in total.",0,0
+507,Q133806770_93.csv,culture ,unique,There is no instance where a challenge winner's guest activity involved Lauren and Corey simultaneously.,0,0
+508,Q133806770_93.csv,culture ,simple,Corey was the only contestant who appeared as a guest in three different episodes.,1,1
+509,Q133806770_93.csv,culture ,all,All episodes featuring 'The Kill Shot' challenge resulted in success for the millionaire's agenda.,1,1
+510,Q118421125_64.csv,culture ,count,There are 4 different channels broadcasting all shows in Albania.,0,0
+511,Q118421125_64.csv,culture ,unique,There are no two different commentators in Cyprus.,0,0
+512,Q118421125_64.csv,culture ,superlative,"Finland has the most diverse language coverage for its broadcasts, including Finnish, Swedish, Northern Sámi, Inari Sámi, Russian, and Ukrainian.",1,1
+513,Q118421125_64.csv,culture ,comparative,Germany uses more channels than Austria to broadcast the Eurovision Song Contest 2025.,0,0
+514,Q118421125_64.csv,culture ,all,All shows are broadcasted on the same channel in Armenia.,1,0
+515,Q131929176_51.csv,culture ,simple,The film '100 Litres of Gold' was nominated for Best Film in the Progressive Cinema Competition.,1,1
+516,Q131929176_51.csv,culture ,count,There are a total of seven nominations in different categories for individuals associated with '100 Liters of Gold'.,0,1
+517,Q131929176_51.csv,culture ,comparative,"Teemu Nikki received more nominations than any other individual, with three nominations.",1,1
+518,Q131929176_51.csv,culture ,unique,There are no two individuals who won in the same category for Best Actress.,0,0
+519,Q131929176_51.csv,culture ,negation,None of the recipients associated with '100 Litres of Gold' were awarded the Grand Prix: Best Film.,1,0
+520,Q132816513_170.csv,culture ,aggregation,The total length of all the songs in 'Aarii' is 15:43.,0,0
+521,Q132816513_170.csv,culture ,unique,"There are three different lyricists who contributed to the songs in 'Aarii': Lincon Roy Chowdhury, Anindya Chatterjee, and Amitabha Bhattacharya.",0,0
+522,Q132816513_170.csv,culture ,simple,The song 'Kichu Kotha' is sung by Muhammad Irfan and Anwesshaa.,1,1
+523,Q132816513_170.csv,culture ,comparative,'Aarii (Title Track)' is longer than 'Tor Moto kore keo',1,1
+524,Q132816513_170.csv,culture ,ordinal,The shortest song in the list is 'Dakat Poreche',1,1
+525,Q133810179_157.csv,culture ,count,There are 6 episodes in the season.,1,1
+526,Q133810179_157.csv,culture ,unique,"Three different directors have contributed to this series: Nathaniel Villanueva, Saul Ruiz and Charles Murray",1,1
+527,Q133810179_157.csv,culture ,superlative,Saul Ruiz directed the most episodes in this season.,1,1
+528,Q133810179_157.csv,culture ,ordinal,The episode titled 'Resolve' is the sixth episode in the season.,1,1
+529,Q133810179_157.csv,culture ,simple,"Charles Murray directed and co-wrote the third episode, 'Choices'.",1,1
+530,Q130971959_156.csv,culture ,count,There are 3 episodes directed by Sean Buckelew.,1,0
+531,Q130971959_156.csv,culture ,unique,There are no two different episodes from the same director released on the same date.,0,1
+532,Q130971959_156.csv,culture ,negation,There is no episode with a viewership of less than 0.14 million US viewers in February 2025.,1,1
+533,Q130971959_156.csv,culture ,comparative,The episode 'Star-Tel-Lite' has higher US viewer numbers than the episode 'Pilot'.,1,0
+534,Q130971959_156.csv,culture ,ordinal,Camille Bozec is the first director in the list to direct multiple episodes.,1,1
+535,Q132801799_81.csv,culture ,count,Grand Theft Auto V was nominated for a total of 28 awards.,1,1
+536,Q132801799_81.csv,culture ,superlative,"The British Academy Video Games Awards in March 2014 is the most successful event for Grand Theft Auto V, with two wins and three nominations.",1,1
+537,Q132801799_81.csv,culture ,negation,Rockstar North did not win any award for 'Studio of the Year' at the Spike VGX in December 2013.,1,1
+538,Q132801799_81.csv,culture ,simple,Grand Theft Auto V won the 'Most Anticipated Game' award at the Spike Video Game Awards in December 2012.,1,1
+539,Q132801799_81.csv,culture ,aggregation,The average number of awards Grand Theft Auto V received per event is approximately 3.57.,1,1
+540,Q129906095_87.csv,culture ,count,James Ponsoldt has directed three episodes.,1,0
+541,Q129906095_87.csv,culture ,unique,There are five different directors in the series.,1,0
+542,Q129906095_87.csv,culture ,superlative,"Mindy Kaling has written the most episodes, with a total of two.",1,1
+543,Q129906095_87.csv,culture ,count,Michael Weaver directed four episodes.,1,1
+544,Q129906095_87.csv,culture ,simple,"The episode 'Pilot' was teleplayed by Mindy Kaling, Ike Barinholtz & David Stassen and the story written by Elaine Ko and Mindy Kaling, Ike Barinholtz & David Stassen.",0,1
+545,Q131850239_370.csv,culture ,simple,Josh Allen won both the Most Valuable Player award and the Art Rooney Award.,1,1
+546,Q131850239_370.csv,culture ,count,There are 3 quarterbacks who received awards.,1,1
+547,Q131850239_370.csv,culture ,unique,There are no two different players from the same team who won both the Offensive Player of the Year and the Jim Brown Award,0,1
+548,Q131850239_370.csv,culture ,comparative,The Buffalo Bills have more award winners than any other team with 2 players winning awards.,1,1
+549,Q131850239_370.csv,culture ,superlative,Saquon Barkley is the only player to win two different awards: Offensive Player of the Year and Jim Brown Award,1,1
+550,Q132191803_371.csv,culture ,simple,'Houdini' by Dua Lipa won the APRA Music Award in 2025.,1,1
+551,Q132191803_371.csv,culture ,count,There are four nominees and one winner for the APRA Music Awards in 2025,1,1
+552,Q132191803_371.csv,culture ,comparative,'Got Me Started' by Troye Sivan has more writers than 'Dreaming' by Tones and I.,1,1
+553,Q132191803_371.csv,culture ,unique,There are three different publishers for the nominated song 'Give You Love'.,1,0
+554,Q132191803_371.csv,culture ,negation,'Saving Up' by Dom Dolla did not win the APRA Music Award in 2025.,1,1
+555,Q125777302_380.csv,culture ,superlative,"The longest match at WrestleMania 41 was the Triple threat match between Seth Rollins, Roman Reigns, and CM Punk with Paul Heyman.",1,1
+556,Q125777302_380.csv,culture ,aggregation,The average duration of all matches at WrestleMania 41 was approximately 15 minutes and 37 seconds.,1,1
+557,Q125777302_380.csv,culture ,comparative,The match between Jey Uso and Gunther for the World Heavyweight Championship lasted longer than the match between Tiffany Stratton and Charlotte Flair for the WWE Women's Championship.,1,0
+558,Q125777302_380.csv,culture ,ordinal,"The second shortest match at WrestleMania 41 was El Grande Americano vs Rey Fénix, which lasted only 7 minutes and 55 seconds.",1,0
+559,Q125777302_380.csv,culture ,simple,Jade Cargill defeated Naomi in a singles match that lasted 9 minutes and 20 seconds.,1,1
+560,Q133465103_379.csv,culture ,superlative,"The longest match was the Last Man Standing match between Tate Mayfairs and Eddie Dennis, lasting 21:12.",1,1
+561,Q133465103_379.csv,culture ,aggregation,The average duration of all matches is approximately 13:50.,1,1
+562,Q133465103_379.csv,culture ,comparative,Simon Miller's match for the Progress Proteus Championship lasted longer than Michael Oku's singles match.,1,1
+563,Q133465103_379.csv,culture ,unique,"There was only one No Ropes 'I Quit' match, involving Lykos Gym and their opponents.",1,1
+564,Q133465103_379.csv,culture ,simple,Cara Noir defeated Trent Seven by submission in a singles match that lasted 23:08.,1,1
+565,Q131978336_378.csv,culture ,superlative,"The longest match was the Triple threat match for the NXT Championship, lasting 16:58.",1,1
+566,Q131978336_378.csv,culture ,count,There were three matches that ended in a pinfall.,0,1
+567,Q131978336_378.csv,culture ,comparative,The fatal four-way tag team elimination match lasted longer than the six-man tag team match.,0,1
+568,Q131978336_378.csv,culture ,ordinal,"The second longest match was the Fatal four-way match for the NXT Women's Championship, lasting 16:29.",0,0
+569,Q131978336_378.csv,culture ,simple,Ricky Saints retained his NXT North American Championship in a singles match against Ethan Page by pinfall.,1,1
+570,Q134238714_288.csv,culture ,superlative,"The Australian Labor Party received the highest number of votes with 1,359,022.",1,0
+571,Q134238714_288.csv,culture ,comparative,"The Liberal/National Coalition had more seats than any other single party, except for the Australian Labor Party.",1,1
+572,Q134238714_288.csv,culture ,count,There are a total of 14 different parties and groups that participated in the election.,1,1
+573,Q134238714_288.csv,culture ,ordinal,"The Australian Greens are the third-largest party by percentage of votes, with 13.44%.",0,0
+574,Q134238714_288.csv,culture ,simple,"The turnout for the election was 91.32%, which is an increase of 3.31% from the previous election.",1,1
+575,Q134286901_359.csv,culture ,superlative,"The Australian Labor Party received the highest number of votes, totaling 402,314.",1,1
+576,Q134286901_359.csv,culture ,comparative,The Liberal/National Coalition had more votes than the Liberal Party of Australia alone but fewer seats.,0,0
+577,Q134286901_359.csv,culture ,unique,"There are three parties with exactly zero seats: National Party of Australia, Australian Greens and Pauline Hanson's One Nation.",1,1
+578,Q134286901_359.csv,culture ,ordinal,"The Centre Alliance is the third party in terms of votes received, with a total of 35,174 votes.",0,0
+579,Q134286901_359.csv,culture ,simple,The turnout for the election was 84.35% of registered voters.,1,1
+580,Q134274634_349.csv,culture ,superlative,"Melissa Price from the Liberal Party achieved the highest number of votes with 28,758.",1,1
+581,Q134274634_349.csv,culture ,comparative,The National Party experienced a larger percentage increase in vote share (+4.18%) compared to One Nation (+3.02%).,1,1
+582,Q134274634_349.csv,culture ,simple,"The total number of formal votes cast was 87,420.",1,1
+583,Q134274634_349.csv,culture ,count,There are a total of 11 parties or candidates listed in the results.,1,1
+584,Q134274634_349.csv,culture ,ordinal,The Liberal Party holds the first position in the two-party-preferred result with 59.92% of the votes.,0,1
+585,Q134286902_327.csv,culture ,simple,"The Australian Labor Party received 125,206 votes.",1,1
+586,Q134286902_327.csv,culture ,superlative,"The Liberal Party of Australia experienced the largest swing in vote percentage, with a decrease of -8.37%.",1,1
+587,Q134286902_327.csv,culture ,aggregation,"A total of 341,958 voters turned out for the election.",1,1
+588,Q134286902_327.csv,culture ,comparative,"The Australian Labor Party secured more seats than any other party, with a total of 4 seats.",1,1
+589,Q134286902_327.csv,culture ,count,"There are three parties which have obtained 0 seats: Liberal Party of Australia, Australian Greens and Pauline Hanson's One Nation.",1,1
+590,Q134274645_239.csv,culture ,superlative,"The Australian Labor Party received the highest number of votes, totaling 35,950.",1,1
+591,Q134274645_239.csv,culture ,aggregation,"A total of 97,367 voters turned out for the election.",1,1
+592,Q134274645_239.csv,culture ,comparative,The Country Liberal Party had a higher swing percentage (+4.87%) compared to the Australian Labor Party (+0.23%).,1,1
+593,Q134274645_239.csv,culture ,count,"There are two different parties, namely Australian Labor Party and Country Liberal Party, that won seats.",0,0
+594,Q134274645_239.csv,culture ,simple,"The Indigenous-Aboriginal Party of Australia received 1,000 votes.",1,0
+595,Q134238712_279.csv,culture ,superlative,"Michael McCormack from the National party received the highest number of votes with 42,608.",1,1
+596,Q134238712_279.csv,culture ,aggregation,"The total number of formal votes cast was 105,791.",1,1
+597,Q134238712_279.csv,culture ,negation,"None of the candidates from the Independent party received more than 6,898 votes.",0,0
+598,Q134238712_279.csv,culture ,comparative,The National party's candidate Michael McCormack had a higher percentage of votes (40.28%) compared to Mark Jeffreson from the Labor party (18.39%).,1,1
+599,Q134238712_279.csv,culture ,unique,"There are three different parties whose candidates received more than 5% of the total votes: National, Labor and One Nation.",0,1
+600,Q134274629_227.csv,culture ,superlative,"Leon Rebello from the Liberal National Party received the highest number of votes, totaling 34699.",0,1
+601,Q134274629_227.csv,culture ,aggregation,The total number of formal votes cast in Queensland was 96584.,1,1
+602,Q134274629_227.csv,culture ,negation,"No candidate received zero votes, indicating that every candidate on the ballot had at least some level of support.",1,0
+603,Q134274629_227.csv,culture ,comparative,The Liberal National Party received a higher percentage of votes than the Labor Party.,1,1
+604,Q134274629_227.csv,culture ,unique,There were 12 unique parties and independent candidates in the Queensland federal election.,0,0
+605,Q134364545_334.csv,culture ,superlative,"Labor achieved the highest number of seats in the 2025 Australian House of Representatives election, securing 92 seats.",1,1
+606,Q134364545_334.csv,culture ,comparative,"The Liberal–National Coalition experienced a larger swing in vote percentage compared to Labor, with −3.5 pp versus +2.2 pp respectively.",1,1
+607,Q134364545_334.csv,culture ,count,"There are 11 seats that are currently in doubt, indicating uncertainty in the final distribution of parliamentary representation.",1,1
+608,Q134364545_334.csv,culture ,comparative,"Labor received a higher primary vote percentage than the Liberal–National Coalition, with 34.7% compared to 32.3%.",1,1
+609,Q134364545_334.csv,culture ,superlative,The party with the highest swing in vote percentage is People First with +1.5 pp.,0,0
+610,Q133800245_197.csv,culture ,count,There are 12 mentions of Medicaid cuts in Senator Cory Booker's marathon speech.,0,0
+611,Q133800245_197.csv,culture ,simple,Senator Cory Booker began his marathon speech by discussing the motivation for speaking and referencing John Lewis at 7:03 PM.,0,1
+612,Q133800245_197.csv,culture ,unique,"There are five different topics related to healthcare discussed in Senator Cory Booker's marathon speech, including Medicaid cuts, healthcare, health insurance legislative process, healthcare accessibility, and prescription drug cost reductions.",1,1
+613,Q133800245_197.csv,culture ,ordinal,The first topic addressed by a questioner was about Medicaid at 2:00 PM.,0,0
+614,Q133800245_197.csv,culture ,all,"All mentions of immigration were made after midnight, with the earliest mention at 1:27 AM.",0,0
+615,Q113961028_3051.csv,culture ,count,There are 6 wins and 4 nominations.,0,0
+616,Q113961028_3051.csv,culture ,unique,The Famitsu Dengeki Game Awards is the only ceremony with four nominations.,1,1
+617,Q113961028_3051.csv,culture ,simple,The PlayStation Partner Awards has two awards won.,1,1
+618,Q113961028_3051.csv,culture ,superlative,The Famitsu Hall of Fame has the highest number of wins among all ceremonies.,1,1
+619,Q113961028_3051.csv,culture ,all,All categories in the PlayStation Game Music Awards have resulted in a win,0,0
+620,Q1037628_3050.csv,culture ,superlative,Official Nintendo Magazine gave the highest score on Wii with an 85% rating.,1,1
+621,Q1037628_3050.csv,culture ,aggregation,"The average score for MySims Kingdom on DS is 6.17/10, calculated from available scores",1,1
+622,Q1037628_3050.csv,culture ,negation,Common Sense Media did not provide a score for MySims Kingdom on either platform.,1,0
+623,Q1037628_3050.csv,culture ,comparative,GameZone's Wii score of 8/10 is higher than its DS score of 6/10.,0,0
+624,Q1037628_3050.csv,culture ,simple,Famitsu gave MySims Kingdom a score of 27/40 on the DS.,1,1
+625,Q107214683_3048.csv,culture ,count,'Forza Horizon 5' won a total of 6 awards in 2021.,1,0
+626,Q107214683_3048.csv,culture ,unique,There are no two different players from the same country in the game.,0,0
+627,Q107214683_3048.csv,culture ,negation,'Forza Horizon 5' did not win any awards in 2023.,1,1
+628,Q107214683_3048.csv,culture ,comparative,'Forza Horizon 5' had more nominations in 2021 than in 2022.,0,0
+629,Q107214683_3048.csv,culture ,superlative,The category with the most wins for 'Forza Horizon 5' is Outstanding Visual Style,1,1
+630,Q119224900_3046.csv,culture ,count,Prince of Persia: The Lost Crown received a total of 13 award nominations in 2024 and 2025.,1,1
+631,Q119224900_3046.csv,culture ,unique,"The game has been nominated for or won awards from seven different award ceremonies including the Golden Joystick Awards, The Game Awards, New York Game Awards, D.I.C.E. Awards, British Academy Games Awards and Pégases",0,1
+632,Q119224900_3046.csv,culture ,superlative,"In 2025, Prince of Persia: The Lost Crown won the most awards with four wins from the Pégases.",1,1
+633,Q119224900_3046.csv,culture ,negation,Prince of Persia: The Lost Crown did not win any award in 2024 despite being nominated for three categories.,1,0
+634,Q119224900_3046.csv,culture ,simple,The game was longlisted for the Animation category at the 21st British Academy Games Awards in 2025.,1,1
+635,Q76122450_3047.csv,culture ,count,The game 'Sayonara Wild Hearts' received a total of 4 wins across various awards.,1,1
+636,Q76122450_3047.csv,culture ,simple,"'Sayonara Wild Hearts' won the award for Best Art Direction at the British Academy Games Awards on April 2, 2020.",0,0
+637,Q76122450_3047.csv,culture ,superlative,The highest number of nominations received by 'Sayonara Wild Hearts' was in February 2020 with a total of 4 nominations.,1,1
+638,Q76122450_3047.csv,culture ,unique,'Sayonara Wild Hearts' is the only game that won both the Best International Mobile Game at the Pégases Awards and Outstanding Design and Innovation at the Apple Design Awards.,1,1
+639,Q76122450_3047.csv,culture ,ordinal,"The first award 'Sayonara Wild Hearts' received was a nomination for Best Independent Game at the Game Critics Awards on June 27, 2019.",1,1
+640,Q124312399_3049.csv,culture ,count,There are a total of 10 nominations for Indiana Jones and the Great Circle.,0,0
+641,Q124312399_3049.csv,culture ,simple,"The NAVGTR Awards 2024 recognized Troy Baker's performance as 'Indiana Jones' with a win in the 'Performance in a Drama, Lead' category.",1,1
+642,Q124312399_3049.csv,culture ,superlative,The most wins for Indiana Jones and the Great Circle came from the NAVGTR Awards 2024 with 5 awards won,1,1
+643,Q124312399_3049.csv,culture ,unique,There are a total of 6 different award categories that 'Indiana Jones and the Great Circle' has been nominated for.,1,1
+644,Q124312399_3049.csv,culture ,comparative,"The New York Game Awards 2024 had more nominations than wins for Indiana Jones and the Great Circle, with 3 nominations and only one win in the 'Great White Way Award for Best Acting in a Game' category.",0,0
+645,Q134298707_202.csv,culture ,count,There are 38 films in the festival.,1,1
+646,Q134298707_202.csv,culture ,unique,There are 28 different production countries represented in the festival.,1,1
+647,Q134298707_202.csv,culture ,superlative,"The United States is the country with the most films, having a total of 16 films either directed by or produced in the U.S..",1,1
+648,Q134298707_202.csv,culture ,comparative,"France has more films than any other European country, with a total of 9 films.",1,1
+649,Q134298707_202.csv,culture ,simple,"The film 'Beginnings [de]' is directed by Jeanette Nordahl and is a co-production between Denmark, Sweden, and Belgium",1,1
+650,Q134113598_199.csv,culture ,count,There are two films co-directed by more than one director.,1,1
+651,Q134113598_199.csv,culture ,unique,Only the Russian Federation has multiple films directed by different directors.,1,1
+652,Q134113598_199.csv,culture ,simple,The film 'When We Bloom Again' is directed by Shin Kyung-soo.,1,1
+653,Q134113598_199.csv,culture ,superlative,"The film 'The Negotiator', which is originally titled 'Il Nibbio,' has the most production countries with two.",1,0
+654,Q134113598_199.csv,culture ,comparative,More films are produced in Russia than in any other country represented in the festival.,1,1
+655,Q127688495_3065.csv,culture ,simple,"September 5 received a total of five nominations from the San Diego Film Critics Society, St. Louis Film Critics Association, New York Film Critics Online, Golden Globe Awards, and AARP Movies for Grownups Awards.",1,1
+656,Q127688495_3065.csv,culture ,unique,There are no two different recipients in the category Best Ensemble which has been won by September 5 from San Diego Film Critics Society.,0,0
+657,Q127688495_3065.csv,culture ,count,Hansjörg Weißbrich received six nominations and three wins for Best Editing across various awards.,1,1
+658,Q127688495_3065.csv,culture ,comparative,"Moritz Binder, Tim Fehlbaum, and Alex David received more nominations than any other screenwriting team, with a total of three nominations across different awards.",1,1
+659,Q127688495_3065.csv,culture ,all,"All wins for Best Editing were achieved by Hansjörg Weißbrich in the San Francisco Bay Area Film Critics Circle, Los Angeles Film Critics Association and Independent Spirit Awards.",0,1
+660,Q114245238_3075.csv,culture ,count,There are a total of 7 categories where Stormskerry Maja or its associated nominees won awards.,0,1
+661,Q114245238_3075.csv,culture ,superlative,"The category with the most nominations is Best Film, with two nominations.",1,1
+662,Q114245238_3075.csv,culture ,unique,"There are three unique categories where Stormskerry Maja or its associated nominees were nominated but did not win: Best Supporting Actor, Best Cinematography and Best Sound Design.",0,0
+663,Q114245238_3075.csv,culture ,comparative,The category of People's Choice has more nominations than the category of Best Leading Actor.,1,1
+664,Q114245238_3075.csv,culture ,simple,Best Film was won by both Best Film and Stormskerry Maja.,1,1
+665,Q108965590_3073.csv,culture ,count,There are three nominations from the 37th Goya Awards in 2023.,1,1
+666,Q108965590_3073.csv,culture ,unique,The film 'Irati' has been nominated or won in four unique categories at the 37th Goya Awards and 55th Sitges Film Festival.,1,0
+667,Q108965590_3073.csv,culture ,comparative,The 55th Sitges Film Festival had more wins than nominations for 'Irati' compared to the 37th Goya Awards in 2023.,0,0
+668,Q108965590_3073.csv,culture ,superlative,The film 'Irati' achieved its highest number of wins at the 55th Sitges Film Festival in 2022.,1,1
+669,Q108965590_3073.csv,culture ,simple,"'Izena duena bada' by Aránzazu Calleja, Maite Arroitajauregi 'Mursego', and Paul Urkijo Alijo was nominated for Best Original Song at the 37th Goya Awards.",0,1
+670,Q125422898_3076.csv,culture ,count,There are two categories of awards presented at Cannes Film Festival: Palme d'Or and Caméra d'Or.,1,1
+671,Q125422898_3076.csv,culture ,unique,"Agathe Riedinger is the only recipient who received multiple awards on May 25, 2024.",1,1
+672,Q125422898_3076.csv,culture ,comparative,Malou Khebizi won her Best Female Revelation award at a later date compared to Priscilla Bertin and Judith Nora's Best First Film award.,1,1
+673,Q125422898_3076.csv,culture ,simple,"The Lumière Awards for Best Female Revelation and Best First Film were both awarded on January 20, 2025.",1,1
+674,Q125422898_3076.csv,culture ,superlative,Agathe Riedinger is the most awarded recipient in Cannes Film Festival with two awards.,1,1
+675,Q116771681_3069.csv,culture ,count,Daniel Craig received 13 nominations.,1,1
+676,Q116771681_3069.csv,culture ,superlative,"The most frequent recipient of nominations is Daniel Craig, with a total of 13 nominations",1,1
+677,Q116771681_3069.csv,culture ,comparative,Luca Guadagnino has fewer nominations than Daniel Craig.,1,0
+678,Q116771681_3069.csv,culture ,unique,There are 5 different categories in which Daniel Craig was nominated for Best Actor.,1,1
+679,Q116771681_3069.csv,culture ,simple,"The National Board of Review awarded 'Queer' as one of the Top Ten Films on December 4, 2024",1,1
+680,Q120188885_3058.csv,culture ,count,Andrea Arnold has been nominated four times.,1,1
+681,Q120188885_3058.csv,culture ,unique,There are two distinct award ceremonies where the film 'Bird' won an award.,1,1
+682,Q120188885_3058.csv,culture ,simple,The British Independent Film Awards ceremony had eight nominations in total.,1,1
+683,Q120188885_3058.csv,culture ,superlative,Franz Rogowski is the only recipient who received a nomination and won an award at the same event,1,0
+684,Q120188885_3058.csv,culture ,comparative,The film 'Bird' has more nominations than wins.,0,0
+685,Q125469562_3070.csv,culture ,simple,Karim Leklou won the Best Actor award at the César Awards on 28 February 2025.,1,1
+686,Q125469562_3070.csv,culture ,negation,Jim's Story did not win any awards but was nominated for two Best Film categories in 2024 and 2025.,1,1
+687,Q125469562_3070.csv,culture ,unique,There are four different award ceremonies mentioned in the table.,1,1
+688,Q125469562_3070.csv,culture ,count,There are three nominations for 'Jim's Story' across two categories: Best Film and Best Actor.,0,1
+689,Q125469562_3070.csv,culture ,comparative,"Karim Leklou has more award recognitions in 2024-2025 than Arnaud and Jean-Marie Larrieu, with a win at the César Awards and a nomination at the Lumière Awards.",1,0
+690,Q122194100_3062.csv,culture ,simple,Manuel Martín Cuenca won the Best Director award at the 27th Tallinn Black Nights Film Festival in 2023.,1,1
+691,Q122194100_3062.csv,culture ,count,There are two awards won by Manuel Martín Cuenca in 2023.,1,1
+692,Q122194100_3062.csv,culture ,comparative,Manuel Martín Cuenca has more nominations than wins at the 3rd Carmen Awards in 2024.,1,1
+693,Q122194100_3062.csv,culture ,unique,Lupe Mateo Barredo is the only nominee who won an award at the 3rd Carmen Awards in 2024.,0,1
+694,Q122194100_3062.csv,culture ,negation,Manuel Martín Cuenca did not win any awards at the 38th Goya Awards in 2024,1,1
+695,Q196602_3054.csv,culture ,simple,Minami Takayama is the Japanese voice actor for both Kiki and Ursula.,1,1
+696,Q196602_3054.csv,culture ,unique,"Kōichi Yamadera is the only actor to have voiced three different characters (Jiji, Fukuo, Policeman) in the Japanese version of 'Kiki's Delivery Service'.",0,1
+697,Q196602_3054.csv,culture ,count,"In the 1989 Streamline Pictures version, there are four instances where a character is voiced by different voice actors between the English and Japanese versions.",1,1
+698,Q196602_3054.csv,culture ,comparative,Wendee Lee has more voice acting roles in the Disney/Buena Vista version compared to the Streamline Pictures version.,1,0
+699,Q196602_3054.csv,culture ,superlative,Melanie MacQueen is the only voice actor who voiced two different characters (Madame and Old Lady) in both English versions of 'Kiki's Delivery Service'.,0,1
+700,Q133091915_194.csv,culture ,simple,Allan Clayton is cast as Christian with a tenor voice type.,1,1
+701,Q133091915_194.csv,culture ,unique,There are no two different singers assigned to the same role.,0,1
+702,Q133091915_194.csv,culture ,count,There are three baritone roles in the premiere cast.,1,1
+703,Q133091915_194.csv,culture ,comparative,More sopranos than bass-baritones are featured in the premiere cast.,1,1
+704,Q133091915_194.csv,culture ,all,All mezzo-soprano roles are assigned to female singers.,1,0
+705,Q131995012_178.csv,culture ,superlative,"The highest recorded attendance is 36,000 at Taipei Dome in Taipei, Taiwan.",1,1
+706,Q131995012_178.csv,culture ,comparative,"More attendees were present for the event on March 7, 2025 in Seoul than on April 12, 2025 in Jakarta.",1,1
+707,Q131995012_178.csv,culture ,unique,There are six different cities listed as venues for events between March and June 2025.,1,1
+708,Q131995012_178.csv,culture ,simple,"The venue KSPO Dome in Seoul hosted three consecutive shows from March 7 to March 9, 2025.",1,1
+709,Q131995012_178.csv,culture ,count,There are two entries with missing attendance data for the events held in Pasay and Jakarta.,1,1
+710,Q132042259_172.csv,culture ,count,There are six different cities on the 'Cowboy Carter Tour'.,1,1
+711,Q132042259_172.csv,culture ,unique,Only Inglewood has five consecutive dates in the tour.,0,0
+712,Q132042259_172.csv,culture ,comparative,London has more concert dates than any other city outside of the United States.,1,1
+713,Q132042259_172.csv,culture ,superlative,"The venue with most dates is SoFi Stadium in Inglewood, United States.",1,1
+714,Q132042259_172.csv,culture ,all,All concerts in the United Kingdom are held at Tottenham Hotspur Stadium in London.,0,1
+715,Q131384026_184.csv,culture ,count,There are a total of 42 tour dates scheduled for the Grand National Tour.,1,1
+716,Q131384026_184.csv,culture ,unique,"The 'Grand National Tour' includes events in 8 different countries: United States, Canada, Germany, Scotland, England, Netherlands, France, Wales, Portugal, Spain, Italy, Poland and Sweden.",1,1
+717,Q131384026_184.csv,culture ,all,All events in the United States have Mustard as their supporting act except for one event on April 26,1,1
+718,Q131384026_184.csv,culture ,superlative,"The city with the most tour dates is Inglewood, California with three dates.",1,1
+719,Q131384026_184.csv,culture ,simple,East Rutherford hosted two events in May on consecutive days.,1,1
+720,Q130363568_180.csv,culture ,count,There are 12 concerts held in Mexico.,0,0
+721,Q130363568_180.csv,culture ,superlative,"Melbourne has the most consecutive shows, with four shows from June 9 to June 13.",1,0
+722,Q130363568_180.csv,culture ,unique,There are 4 different venues in Australia for the tour.,1,1
+723,Q130363568_180.csv,culture ,negation,No supporting act is listed for any of the shows in Australia.,1,1
+724,Q130363568_180.csv,culture ,all,All concerts in Canada have Rebecca Black as a supporting act.,0,0
+725,Q132120763_177.csv,culture ,aggregation,"The average certified units required for a Gold certification across the listed regions is approximately 214,000.",1,1
+726,Q132120763_177.csv,culture ,negation,There are no countries in the table with a Platinum certification.,1,0
+727,Q132120763_177.csv,culture ,superlative,"The highest number of certified units required for a Gold certification is in Greece, at 1,000,000.",1,1
+728,Q132120763_177.csv,culture ,count,There are five different regions listed with a Gold certification.,1,1
+729,Q132120763_177.csv,culture ,simple,"Poland requires 25,000 certified units to achieve a Gold certification.",1,1
+730,Q131722393_187.csv,culture ,superlative,"'Glass wo Ware!' achieved the highest physical sales with 1,021,450 units.",1,1
+731,Q131722393_187.csv,culture ,negation,'Dare ga Sono Kane o Narasu no ka?' did not reach the top position on the peak_chart_positions_jpn_[99]_keyakizaka46 chart in 2020.,1,1
+732,Q131722393_187.csv,culture ,comparative,The song 'Fukyōwaon' sold more physical units than 'Silent Majority'.,1,1
+733,Q131722393_187.csv,culture ,count,There are three songs released in 2018 that received a Million (phy.) certification.,1,1
+734,Q131722393_187.csv,culture ,unique,All the songs from the album 'Addiction' reached either the first or second position on the peak_chart_positions_jpn_hot_[100]_keyakizaka46 chart.,1,0
+735,Q132130113_193.csv,culture ,unique,There are six different regions listed in the table.,1,1
+736,Q132130113_193.csv,culture ,count,The BlissooWarner label appears four times in total.,1,1
+737,Q132130113_193.csv,culture ,comparative,"More regions released 'Blissoo' on March 14, 2025 compared to February 14, 2025.",0,0
+738,Q132130113_193.csv,culture ,superlative,The most common format for releasing 'Blissoo' is CDKitNFC.,1,1
+739,Q132130113_193.csv,culture ,simple,"The release date for 'BlissooWarner' in South Korea is May 30, 2025.",1,1
+740,Q133457122_181.csv,culture ,unique,There are three unique regions mentioned in the table.,0,1
+741,Q133457122_181.csv,culture ,simple,"The Original version was released on Digital download/streaming, Radio airplay and Contemporary hit radio formats.",1,1
+742,Q133457122_181.csv,culture ,count,There are four different versions of 'Azizam' mentioned in the table.,1,1
+743,Q133457122_181.csv,culture ,ordinal,The first release date of 'Azizam' is 4 April 2025.,1,1
+744,Q133457122_181.csv,culture ,comparative,There are more releases on Digital download/streaming than any other format.,1,1
+745,Q126737342_2143.csv,sport ,superlative,Tadej Pogačar achieved the fastest time in the 2025 Liège-Bastogne-Liège race.,1,1
+746,Q126737342_2143.csv,sport ,ordinal,Giulio Ciccone finished second overall in the 2025 Liège-Bastogne-Liège race.,1,1
+747,Q126737342_2143.csv,sport ,count,There are three riders from Italy who finished in the top ten.,1,1
+748,Q126737342_2143.csv,sport ,comparative,Tadej Pogačar had a faster time than Giulio Ciccone by 1 minute and 3 seconds.,1,1
+749,Q126737342_2143.csv,sport ,unique,There are five different nationalities represented among the top ten finishers.,1,1
+750,Q126737348_2735.csv,sport ,simple,Mads Pedersen (DEN) won three stages of the Giro d'Italia.,1,1
+751,Q126737348_2735.csv,sport ,aggregation,"The total distance covered in the 2025 Giro d'Italia is 3,443.3 km.",1,1
+752,Q126737348_2735.csv,sport ,count,There are four mountain stages in the Giro d'Italia from May 1 to June 1.,0,0
+753,Q126737348_2735.csv,sport ,unique,The only flat stage winner is Casper van Uden (NED).,1,1
+754,Q126737348_2735.csv,sport ,comparative,"Stage 6 has the longest distance of 227 km, while Stage 10 has a much shorter distance of 28.6 km.",1,1
+755,Q132529634_2320.csv,sport ,superlative,Emma Nuutinen has the most points with 15.,1,1
+756,Q132529634_2320.csv,sport ,count,There are 3 players from K-Espoo who have scored more than 6 goals.,0,1
+757,Q132529634_2320.csv,sport ,comparative,Kiti Seikkula has more penalty minutes (pim) compared to Karoliina Rantamäki despite both having the same number of games played.,1,1
+758,Q132529634_2320.csv,sport ,unique,Ines Lukkarila is unique among all players in HPK as she is the only one with exactly 2 goals.,1,1
+759,Q132529634_2320.csv,sport ,simple,Raili Mustonen has scored 4 goals.,1,1
+760,Q131925569_2292.csv,sport ,superlative,Matthew Brennan (GBR) achieved the best time in the 2025 Grand Prix de Denain.,1,1
+761,Q131925569_2292.csv,sport ,count,There are five riders from Belgium in the top ten rankings of the 2025 Grand Prix de Denain.,1,1
+762,Q131925569_2292.csv,sport ,comparative,Arnaud De Lie (BEL) and Lewis Askey (GBR) both finished with a time difference of +30 seconds compared to the leader Matthew Brennan.,1,1
+763,Q131925569_2292.csv,sport ,ordinal,Gianni Vermeersch (BEL) is the second highest-ranked rider in the 2025 Grand Prix de Denain.,1,0
+764,Q131925569_2292.csv,sport ,simple,"Dillon Corkery (IRL) finished in sixth place, representing St. Michel–Preference Home–Auber93 team.",1,1
+765,Q132891206_2380.csv,sport ,superlative,Denny Hamlin achieved the highest points with 54.,1,1
+766,Q132891206_2380.csv,sport ,count,There are 8 drivers from Joe Gibbs Racing in the top 20 positions.,0,1
+767,Q132891206_2380.csv,sport ,comparative,"Denny Hamlin has more points than Christopher Bell, who finished second with 38 points.",1,1
+768,Q132891206_2380.csv,sport ,ordinal,"Christopher Bell, starting from the first position (grid 1), finished in second place.",1,1
+769,Q132891206_2380.csv,sport ,simple,All drivers except for Erik Jones completed exactly 400 laps or more.,1,1
+770,Q126737340_2497.csv,sport ,superlative,Mattias Skjelmose achieved the fastest time in the 2025 Amstel Gold Race.,1,1
+771,Q126737340_2497.csv,sport ,aggregation,The average time difference for riders finishing in the top ten is +17.84 seconds behind Mattias Skjelmose.,1,1
+772,Q126737340_2497.csv,sport ,count,There are three Belgian riders among the top ten finishers in the 2025 Amstel Gold Race.,1,1
+773,Q126737340_2497.csv,sport ,comparative,"Tadej Pogačar and Remco Evenepoel finished ahead of Wout van Aert, Michael Matthews, Louis Barré, Romain Grégoire, Tiesj Benoot, Tom Pidcock, and Ben Healy.",1,1
+774,Q126737340_2497.csv,sport ,unique,There are seven different nationalities represented among the top ten finishers in the 2025 Amstel Gold Race.,1,1
+775,Q126737337_2220.csv,sport ,aggregation,The total distance covered in the 2025 Itzulia Basque Country is 855 kilometers.,1,1
+776,Q126737337_2220.csv,sport ,superlative,"João Almeida (POR) won two stages, more than any other rider in this edition of the race.",1,1
+777,Q126737337_2220.csv,sport ,count,"There are three different countries represented by the stage winners: Germany, Australia, Spain, Portugal and Ireland.",1,1
+778,Q126737337_2220.csv,sport ,ordinal,The first stage is an individual time trial with a distance of 16.5 km.,1,1
+779,Q126737337_2220.csv,sport ,simple,"Caleb Ewan (AUS) won the hilly stage from Pamplona to Lodosa on April 8th, covering 186.6 kilometers.",1,1
+780,Q133049972_2300.csv,sport ,simple,Edward Theuns from Belgium is ranked first in the 2025 Bredene Koksijde Classic.,1,1
+781,Q133049972_2300.csv,sport ,count,There are 4 riders from Belgium in the top 10 rankings of the 2025 Bredene Koksijde Classic.,1,0
+782,Q133049972_2300.csv,sport ,comparative,Luke Lamperti from USA is ranked higher than Ethan Vernon from GBR in the 2025 Bredene Koksijde Classic.,1,1
+783,Q133049972_2300.csv,sport ,ordinal,Nils Eekhoff from Netherlands is the third-ranked rider in the 2025 Bredene Koksijde Classic.,1,1
+784,Q133049972_2300.csv,sport ,unique,There are 6 different nationalities represented among the top 10 riders in the 2025 Bredene Koksijde Classic.,1,1
+785,Q133804597_2077.csv,sport ,superlative,"Kenny Bednarek from the United States achieved the fastest time of 20.07 seconds, setting a new championship record.",1,1
+786,Q133804597_2077.csv,sport ,comparative,Zharnel Hughes from Great Britain has a faster time than Fred Kerley from the United States.,1,1
+787,Q133804597_2077.csv,sport ,count,There are two athletes representing Jamaica in the 2025 Kingston Slam.,1,1
+788,Q133804597_2077.csv,sport ,negation,No athlete from Liberia achieved a time faster than 20.42 seconds.,1,1
+789,Q133804597_2077.csv,sport ,simple,The wind condition during the race was consistently measured at +0.2 m/s.,1,1
+790,Q134348075_3002.csv,sport ,superlative,Kenny Bednarek achieved the highest score of 12 points in the 2025 Miami Slam.,1,1
+791,Q134348075_3002.csv,sport ,count,There are two athletes from Canada in the top eight rankings: Andre De Grasse and Jerome Blake,1,1
+792,Q134348075_3002.csv,sport ,comparative,Kenny Bednarek has a faster time than Zharnel Hughes.,1,1
+793,Q134348075_3002.csv,sport ,ordinal,The fourth place is secured by Andre De Grasse from Canada with 5 points.,1,1
+794,Q134348075_3002.csv,sport ,simple,Oblique Seville achieved a personal best time of 20.13 seconds.,1,1
+795,Q132990624_2683.csv,sport ,superlative,Nathalie Armbruster from Germany had the fastest cross-country time of 12:27.5.,1,1
+796,Q132990624_2683.csv,sport ,aggregation,The average deficit for all participants is 2 minutes and 34.8 seconds.,1,0
+797,Q132990624_2683.csv,sport ,comparative,Ida Marie Hagen from Norway finished with a higher rank than Teja Pavec from Slovenia.,1,0
+798,Q132990624_2683.csv,sport ,count,There are four participants from Germany in the top 20 rankings.,1,1
+799,Q132990624_2683.csv,sport ,unique,The competition included skiers from eight different countries.,1,1
+800,Q132863254_2586.csv,sport ,count,There are 7 athletes from Sweden in the top 20 ranks.,0,1
+801,Q132863254_2586.csv,sport ,superlative,"Ebba Andersson has the fastest time of 47:57.1, making her the winner of the event.",1,1
+802,Q132863254_2586.csv,sport ,comparative,Jessie Diggins finished ahead of Nadine Fähndrich by a deficit of +0.1 seconds.,1,1
+803,Q132863254_2586.csv,sport ,unique,There are 20 different nations represented in the tournament.,1,1
+804,Q132863254_2586.csv,sport ,ordinal,"Heidi Weng is the fifth-ranked athlete in the competition, achieving a time of 48:08.1.",1,1
+805,Q132993305_2773.csv,sport ,superlative,Johannes Høsflot Klæbo from Norway achieved the fastest time of 28:16.6.,1,1
+806,Q132993305_2773.csv,sport ,count,There are 9 athletes representing Norway in the top 50 rankings.,0,1
+807,Q132993305_2773.csv,sport ,comparative,Edvin Anger from Sweden has a faster time than Martin Løwstrøm Nyenget from Norway.,1,1
+808,Q132993305_2773.csv,sport ,unique,There are no two different athletes tied for the same rank in the top 50.,1,0
+809,Q132993305_2773.csv,sport ,simple,Cyril Fähndrich from Switzerland finished in 7th place with a time of 28:52.5.,1,1
+810,Q133270220_2783.csv,sport ,superlative,Marius Lindvik from Norway achieved the highest score of 154.4 points.,1,1
+811,Q133270220_2783.csv,sport ,count,There are 7 athletes from Norway participating in the competition.,0,1
+812,Q133270220_2783.csv,sport ,comparative,Ryoyu Kobayashi from Japan scored higher than Domen Prevc from Slovenia by 0.4 points.,1,1
+813,Q133270220_2783.csv,sport ,unique,There are no two different athletes from Ukraine who scored the same points in this competition.,1,1
+814,Q133270220_2783.csv,sport ,simple,Jan Hörl from Austria jumped a distance of 133.0 meters.,1,1
+815,Q133102508_2417.csv,sport ,superlative,Norway achieved the fastest time of 1:08:13.7 in the Men's 4 × 7.5 kilometre relay.,1,1
+816,Q133102508_2417.csv,sport ,count,There are 20 countries that completed the race without a LAP.,1,0
+817,Q133102508_2417.csv,sport ,aggregation,The average deficit time for all completed races is +1:59.6 minutes.,1,1
+818,Q133102508_2417.csv,sport ,comparative,Switzerland had a faster time than Sweden by 0.2 seconds.,1,1
+819,Q133102508_2417.csv,sport ,unique,"Australia has the highest deficit time of +9:53.4 minutes, making it an outlier in the competition.",1,0
+820,Q132857184_2571.csv,sport ,superlative,Johannes Høsflot Klæbo from Norway achieved the fastest time of 44:22.3 in the Men's 20 kilometre skiathlon.,1,1
+821,Q132857184_2571.csv,sport ,count,There are 6 athletes from France participating in the competition.,0,1
+822,Q132857184_2571.csv,sport ,comparative,Simen Hegstad Krüger finished with a larger deficit (+10.0) compared to Harald Østberg Amundsen and Martin Løwstrøm Nyenget (both +1.4).,1,0
+823,Q132857184_2571.csv,sport ,aggregation,The average time for the top 5 athletes is approximately 44:23.38 minutes.,1,1
+824,Q132857184_2571.csv,sport ,unique,There are 19 different nations represented in the competition.,1,1
+825,Q132901771_2539.csv,sport ,superlative,Norway achieved the highest total points with 904.5.,1,1
+826,Q132901771_2539.csv,sport ,comparative,"Austria has a higher total score of 885.1 than Germany, which scored 846.5.",1,1
+827,Q132901771_2539.csv,sport ,negation,Finland did not qualify for the final round.,1,1
+828,Q132901771_2539.csv,sport ,unique,There are no two different players from the United States in the top 3 ranks.,1,1
+829,Q132901771_2539.csv,sport ,simple,Anna Odine Strøm of Norway achieved a distance of 102.0 meters and scored 459.2 points in the final round.,1,1
+830,Q133163856_2383.csv,sport ,superlative,Slovenia achieved the highest total points with 1080.8.,1,1
+831,Q133163856_2383.csv,sport ,aggregation,The average round_1_points for all teams is 97.58,1,1
+832,Q133163856_2383.csv,sport ,comparative,Slovenia has a higher total points than Austria by 13.4.,1,1
+833,Q133163856_2383.csv,sport ,unique,"Only Switzerland, Kazakhstan and China did not qualify for the final round.",1,1
+834,Q133163856_2383.csv,sport ,simple,Germany finished in the fourth position with a total of 1005.8 points.,1,1
+835,Q132459230_2355.csv,sport ,simple,Alianza Lima won all of their matches with a score of 3-0.,1,0
+836,Q132459230_2355.csv,sport ,count,"There are three different teams that participated in the championship: Alianza Lima, Praia, San Martín and Atlético Barbato.",1,1
+837,Q132459230_2355.csv,sport ,comparative,Praia has a higher total score than San Martín across all their matches.,0,0
+838,Q132459230_2355.csv,sport ,superlative,"The highest total score in a single match was 108, achieved by Atlético Barbato against San Martín.",1,1
+839,Q132459230_2355.csv,sport ,negation,San Martín did not win any of their matches.,0,0
+840,Q116192898_2779.csv,sport ,superlative,Kalmar FF has the highest number of wins in the 2025 Superettan season.,1,1
+841,Q116192898_2779.csv,sport ,comparative,Varbergs BoIS has more wins than Falkenbergs FF in the 2025 Superettan season.,1,0
+842,Q116192898_2779.csv,sport ,count,"There are three teams with no recorded losses (W, D) in the 8th round: IK Oddevold, Kalmar FF and Örgryte IS.",0,1
+843,Q116192898_2779.csv,sport ,aggregation,The average number of draws per team is approximately 2.5 across all rounds.,1,1
+844,Q116192898_2779.csv,sport ,simple,Umeå FC has not won any match in the 2025 Superettan season.,1,1
+845,Q133449975_2472.csv,sport ,superlative,Niva Dolbizno achieved the highest position in the 2024 league standings among the teams listed.,0,0
+846,Q133449975_2472.csv,sport ,count,"There are three teams from Minsk in the 2025 Belarusian First League: Dinamo-2 Minsk, ABFF U-19 and Minsk-2.",1,1
+847,Q133449975_2472.csv,sport ,unique,None of the teams from Gomel were in the top half of the league standings in 2024.,0,0
+848,Q133449975_2472.csv,sport ,ordinal,Lokomotiv Gomel was the second-last team in the 2024 league standings.,0,0
+849,Q133449975_2472.csv,sport ,simple,Dnepr Mogilev is from Premier League,1,1
+850,Q131143410_2206.csv,sport ,superlative,"Simran Shaikh is the highest-paid player in the 2025 Women's Premier League with a price of ₹1.9 crore (US$220,000).",1,1
+851,Q131143410_2206.csv,sport ,count,There are five players from India playing for Delhi Capitals.,0,0
+852,Q131143410_2206.csv,sport ,aggregation,"The average price of players in the Gujarat Giants team is ₹93.5 lakh (US$108,750).",1,1
+853,Q131143410_2206.csv,sport ,unique,There are six different nationalities represented in the 2025 Women's Premier League.,1,1
+854,Q131143410_2206.csv,sport ,simple,"Nadine de Klerk is a South African player who plays for Mumbai Indians with a price of ₹30 lakh (US$35,000).",1,1
+855,Q132794932_2979.csv,sport ,simple,Takara Suda from Japan won the gold medal in the 61 kg event.,1,1
+856,Q132794932_2979.csv,sport ,unique,"Bahrain is the only country to have wrestlers win medals in both the 74 kg and 79 kg events, with Magomedrasul Asluev winning bronze in the 74 kg event and Khidir Saipudinov winning silver in the 79 kg.",0,0
+857,Q132794932_2979.csv,sport ,count,"Iran has won a total of six gold medals across different weight categories, including the 57 kg, 61kg, 79 kg, 86 kg, and 92 kg events.",1,1
+858,Q132794932_2979.csv,sport ,comparative,"Japan has more bronze medal winners than any other country, with three bronze medals in total across different weight categories.",1,1
+859,Q132794932_2979.csv,sport ,aggregation,"The average number of bronze medals per event is 2.0, indicating consistent competition for third place.",1,1
+860,Q131351497_2413.csv,sport ,superlative,"The Kagoshima United has the largest stadium capacity in the league with 19,934.",0,0
+861,Q131351497_2413.csv,sport ,aggregation,"The average stadium capacity for all teams in the J2 League is approximately 10,875.",1,0
+862,Q131351497_2413.csv,sport ,comparative,"FC Osaka has a higher stadium capacity than FC Gifu with 27,346 seats compared to 16,310.",1,1
+863,Q131351497_2413.csv,sport ,ordinal,"The second-placed team in the JFL (Japan Football League) for the 2024 season is Kochi United, which has secured a spot in the J3 League for the 2025 season.",1,1
+864,Q131351497_2413.csv,sport ,simple,"Giravanz Kitakyushu is located in Kitakyushu, Fukuoka and plays at Mikuni World Stadium Kitakyushu with a capacity of 15,300.",1,1
+865,Q63565482_2142.csv,sport ,superlative,Johannes Høsflot Klæbo from Norway achieved the highest total score of 6 in the Cross-country event.,1,1
+866,Q63565482_2142.csv,sport ,aggregation,"Norway has a total of 35 points, the highest among all countries.",1,1
+867,Q63565482_2142.csv,sport ,count,There are 4 athletes from Sweden participating in the championships.,1,0
+868,Q63565482_2142.csv,sport ,comparative,Jarl Magnus Riiber has a higher total score than Gyda Westvold Hansen.,1,1
+869,Q63565482_2142.csv,sport ,unique,There are 7 different nations represented in the championships.,1,1
+870,Q130318343_2581.csv,sport ,superlative,Tajikistan achieved the highest number of total medals with 11.,1,1
+871,Q130318343_2581.csv,sport ,comparative,Azerbaijan has a higher gold medal count than Great Britain and Croatia.,1,1
+872,Q130318343_2581.csv,sport ,aggregation,The total number of bronze medals awarded is 28.,1,1
+873,Q130318343_2581.csv,sport ,count,There are six nations that have not won any gold medals.,1,1
+874,Q130318343_2581.csv,sport ,unique,"Only Tajikistan and France obtained at least one medal in each category (gold, silver, bronze).",1,0
+875,Q124603953_2866.csv,sport ,superlative,France achieved the highest total number of medals with 10.,1,1
+876,Q124603953_2866.csv,sport ,comparative,"Georgia won more gold medals than Italy, but Italy has more bronze medals.",1,0
+877,Q124603953_2866.csv,sport ,unique,Only Hungary and Kosovo each have one gold medal and no other medals.,1,1
+878,Q124603953_2866.csv,sport ,ordinal,"The fourth-place nation, Germany, won only 4 total medals.",1,1
+879,Q124603953_2866.csv,sport ,simple,Azerbaijan has the highest number of bronze medals among nations that did not win any gold medals.,1,1
+880,Q123185607_2382.csv,sport ,count,Australia secured 5 gold medals in total.,0,1
+881,Q123185607_2382.csv,sport ,superlative,Shaunna Li is the most successful female singles player with 2 gold medals.,1,1
+882,Q123185607_2382.csv,sport ,comparative,Jack Yu has a higher number of gold medals than Edward Lau,1,1
+883,Q123185607_2382.csv,sport ,unique,There are no bronze medal winners in the mixed team event.,1,1
+884,Q123185607_2382.csv,sport ,simple,The pair Vincent Tao and Gronya Somerville won the mixed doubles event twice,1,1
+885,Q130616801_2396.csv,sport ,superlative,Japan achieved the highest number of gold medals at 9.,1,1
+886,Q130616801_2396.csv,sport ,aggregation,The total number of bronze medals awarded is 30.,1,1
+887,Q130616801_2396.csv,sport ,comparative,Uzbekistan has more silver medals than South Korea.,1,1
+888,Q130616801_2396.csv,sport ,unique,"Bahrain is the only nation with no bronze or silver medals, having won a single gold medal.",1,1
+889,Q130616801_2396.csv,sport ,ordinal,China ranks 4th overall in total medals with 6.,1,1
+890,Q131916904_2730.csv,sport ,aggregation,The average score for players tied at the 29th place is 288.,1,1
+891,Q131916904_2730.csv,sport ,superlative,Max Homa and Harris English achieved the highest to-par score of -4 among players below the top 10.,0,0
+892,Q131916904_2730.csv,sport ,negation,No player below the top 10 finished with a score better than -4.,1,1
+893,Q131916904_2730.csv,sport ,comparative,"Max Greyserman earned more prize money than Brian Campbell, despite both having the same total score of 289.",1,1
+894,Q131916904_2730.csv,sport ,count,There are six players tied at the 14th place with a score of -3.,1,1
+895,Q130342041_2648.csv,sport ,superlative,Tunisia has the highest number of bronze medals with 6.,1,1
+896,Q130342041_2648.csv,sport ,comparative,"Egypt has more gold medals than any other country, with a total of 5.",1,1
+897,Q130342041_2648.csv,sport ,ordinal,"The second-ranked nation, Morocco, won 3 gold medals.",1,1
+898,Q130342041_2648.csv,sport ,unique,Only Egypt and Tunisia have won more than one silver medal.,0,0
+899,Q130342041_2648.csv,sport ,simple,South Africa has a total of 2 medals with no silver.,1,1
+900,Q124304518_2459.csv,sport ,superlative,Nicolas Girard from France achieved the highest score of 599.,1,1
+901,Q124304518_2459.csv,sport ,comparative,"Jozef Bosansky from Slovakia scored higher than Mathias Fullerton and Batuhan Akçaoğlu, who are tied for third place with a score of 595",0,0
+902,Q124304518_2459.csv,sport ,count,There are three archers from Italy in the top ten.,1,1
+903,Q124304518_2459.csv,sport ,unique,"No two archers share the same number of 10s and 9s scored, indicating a unique performance for each archer.",0,1
+904,Q124304518_2459.csv,sport ,simple,"Martin Damsbo from Denmark has the same score as Mario Vavro from Croatia, both scoring 590 points.",1,1
+905,Q131445822_2219.csv,sport ,superlative,Indonesia achieved the highest point difference with +195.,1,1
+906,Q131445822_2219.csv,sport ,comparative,Japan has a higher game difference (+16) than Thailand (+4).,1,1
+907,Q131445822_2219.csv,sport ,unique,There are four teams eliminated in the quarter-finals with identical points (2.0).,1,1
+908,Q131445822_2219.csv,sport ,aggregation,The average number of games played by all teams is 3.45.,1,1
+909,Q131445822_2219.csv,sport ,count,There are six teams that played three matches.,1,1
+910,Q131629718_2191.csv,sport ,aggregation,The total number of medals awarded at the championships is 20.,1,1
+911,Q131629718_2191.csv,sport ,comparative,"France has more gold medals than any other nation, with a total of 2.",0,0
+912,Q131629718_2191.csv,sport ,unique,Denmark and France are the only nations to have won both gold and silver medals.,1,1
+913,Q131629718_2191.csv,sport ,ordinal,The first place nation in terms of total medals is France with 8 medals.,1,1
+914,Q131629718_2191.csv,sport ,simple,Bulgaria has the highest number of gold medals among the nations that did not win any silver or bronze medals.,0,0
+915,Q131536623_2324.csv,sport ,comparative,Newcastle United had more than double the total shots of Liverpool.,0,1
+916,Q131536623_2324.csv,sport ,superlative,Liverpool had the highest ball possession at 66%.,1,1
+917,Q131536623_2324.csv,sport ,negation,Neither team received a red card during the match.,0,1
+918,Q131536623_2324.csv,sport ,simple,Newcastle United committed fewer fouls than Liverpool with 10 compared to 14.,0,0
+919,Q131536623_2324.csv,sport ,count,"There were a total of 2 offside calls, evenly split between both teams.",1,0
+920,Q115910738_2744.csv,sport ,superlative,Max Verstappen achieved the fastest time in Q3 with 1:27.294.,1,1
+921,Q115910738_2744.csv,sport ,count,"There are three drivers from Mercedes who qualified for the race (George Russell, Andrea Kimi Antonelli and Lando Norris).",0,1
+922,Q115910738_2744.csv,sport ,comparative,Oscar Piastri had a faster Q3 time than George Russell.,1,1
+923,Q115910738_2744.csv,sport ,simple,Lewis Hamilton finished seventh in the final grid.,1,1
+924,Q115910738_2744.csv,sport ,unique,Lando Norris is the only driver who did not record a time in Q3.,1,1
+925,Q115910947_2572.csv,sport ,superlative,Andrea Kimi Antonelli achieved the fastest qualifying time in SQ3 with 1:26.482.,1,1
+926,Q115910947_2572.csv,sport ,negation,Carlos Sainz Jr did not set a time in SQ2 and was unable to proceed to SQ3.,1,1
+927,Q115910947_2572.csv,sport ,comparative,"Oscar Piastri had a faster qualifying time than Lando Norris in SQ1, but slower in SQ2",1,1
+928,Q115910947_2572.csv,sport ,ordinal,Max Verstappen secured the fourth position on the sprint grid.,1,1
+929,Q115910947_2572.csv,sport ,unique,There are 7 unique constructors participating in the 2025 Miami Grand Prix.,1,1
+930,Q128426003_2464.csv,sport ,superlative,Max Verstappen achieved the fastest qualifying time in Q3 with 1:26.983.,1,1
+931,Q128426003_2464.csv,sport ,negation,Pierre Gasly and Carlos Sainz Jr. did not complete all three stages of qualifying.,0,1
+932,Q128426003_2464.csv,sport ,aggregation,The average Q1 qualifying time for all drivers is 1:28.304,1,1
+933,Q128426003_2464.csv,sport ,count,There are four drivers from Red Bull Racing-Honda RBPT.,1,0
+934,Q128426003_2464.csv,sport ,comparative,Lando Norris had a faster Q2 qualifying time than Oscar Piastri.,1,1
+935,Q115902516_2273.csv,sport ,superlative,Oscar Piastri achieved the fastest qualifying time in Q3 with 1:14.670.,1,1
+936,Q115902516_2273.csv,sport ,comparative,Max Verstappen had a faster final grid position than George Russell despite Russell having a better time in Q2.,1,0
+937,Q115902516_2273.csv,sport ,ordinal,"Carlos Sainz Jr. is the sixth driver on the final grid, with a qualifying time of 1:15.432 in Q3.",1,1
+938,Q115902516_2273.csv,sport ,unique,The constructor Kick Sauber-Ferrari had two drivers who did not complete their Q3 times.,0,1
+939,Q115902516_2273.csv,sport ,count,There are 10 drivers whose final grid position matches their qualifying position in all three rounds,1,1
+940,Q115913092_2384.csv,sport ,superlative,Oscar Piastri achieved the fastest qualifying time in Q3 with a time of 1:29.841.,1,1
+941,Q115913092_2384.csv,sport ,comparative,"Lando Norris had a faster qualifying time than Max Verstappen in all three sessions (Q1, Q2, and Q3).",1,1
+942,Q115913092_2384.csv,sport ,unique,"There are only two drivers from McLaren-Mercedes, Oscar Piastri and Lando Norris.",1,1
+943,Q115913092_2384.csv,sport ,count,"Three drivers did not set a time in Q3: Jack Doohan, Isack Hadjar, and Fernando Alonso.",0,0
+944,Q115913092_2384.csv,sport ,simple,Max Verstappen started the race from the 7th position on the grid.,1,1
+945,Q115910655_2509.csv,sport ,superlative,Lewis Hamilton achieved the fastest qualifying time in SQ3 with a time of 1:30.849.,1,1
+946,Q115910655_2509.csv,sport ,negation,Jack Doohan did not set a time in both SQ2 and SQ3 due to not completing the sessions.,0,1
+947,Q115910655_2509.csv,sport ,comparative,Max Verstappen had a slower qualifying time in SQ1 compared to Lewis Hamilton by 0.704 seconds.,0,1
+948,Q115910655_2509.csv,sport ,ordinal,Oscar Piastri is the third driver on the sprint grid with a position of 3.,1,1
+949,Q115910655_2509.csv,sport ,unique,"There are six different constructors participating in the 2025 Chinese Grand Prix: Ferrari, Red Bull Racing-Honda RBPT, McLaren-Mercedes, Mercedes, Williams-Mercedes and Aston Martin Aramco-Mercedes.",1,1
+950,Q131807669_2306.csv,sport ,superlative,The largest home stadium in the tournament is the Millennium Stadium in Cardiff with a capacity of 73931.,1,1
+951,Q131807669_2306.csv,sport ,aggregation,"The average capacity of all home stadiums listed is approximately 26,488.56.",1,1
+952,Q131807669_2306.csv,sport ,negation,No nation had changed their world rugby ranking from the start to the end of the tournament.,1,0
+953,Q131807669_2306.csv,sport ,unique,There are 5 different nations participating in the tournament.,1,0
+954,Q131807669_2306.csv,sport ,simple,Wales has two home stadiums: Millennium Stadium and Rodney Parade.,0,1
+955,Q132746205_2785.csv,sport ,superlative,"Patrick Mullins earned the highest prize money of £500,000 for his horse Nick Rockett.",1,1
+956,Q132746205_2785.csv,sport ,aggregation,"The total prize money awarded to the top ten horses is £1,035,000.",1,0
+957,Q132746205_2785.csv,sport ,negation,No horse that fell or was pulled up received any prize money.,1,1
+958,Q132746205_2785.csv,sport ,comparative,"Paul Townend earned more prize money than Brian Hayes, with £200,000 compared to £100,000 respectively",1,1
+959,Q132746205_2785.csv,sport ,unique,There are no two horses tied for any placement in the race.,0,0
+960,Q133802780_2552.csv,sport ,superlative,Shaun & Emma Clotworthy are the only trainers who have two horses in the derby.,1,1
+961,Q133802780_2552.csv,sport ,count,There are four different trainers who had a horse with odds of $3.70 or lower.,0,1
+962,Q133802780_2552.csv,sport ,unique,There is no trainer who has more than two horses in the derby.,1,1
+963,Q133802780_2552.csv,sport ,simple,The highest odds are for Ayteem at $98.60,1,1
+964,Q133802780_2552.csv,sport ,comparative,"Hakkinen is more likely to win than Interplanetary, as the former has lower odds of $9.10 compared to the latter's $107.50.",1,0
+965,Q133828656_2356.csv,sport ,superlative,Journalism had the highest qualifying points with 122.5.,1,0
+966,Q133828656_2356.csv,sport ,comparative,Sovereignty's final odds of 7.98 were lower than its morning line odds of 5–1.,0,0
+967,Q133828656_2356.csv,sport ,count,There are three horses trained by Steven M. Asmussen in the race.,0,1
+968,Q133828656_2356.csv,sport ,negation,No horse had qualifying points higher than 130.,1,1
+969,Q133828656_2356.csv,sport ,unique,"Bob Baffert is the only trainer with two horses, Citizen Bull and Rodriguez.",1,1
+970,Q116447812_2491.csv,sport ,superlative,Ilia Malinin from the United States achieved the highest total score of 318.56.,1,1
+971,Q116447812_2491.csv,sport ,count,"There are three skaters who did not advance to the free skate round: Lev Vinokur, Kim Hyun-gyeom and Donovan Carrillo.",1,1
+972,Q116447812_2491.csv,sport ,negation,Nika Egadze from Georgia did not receive a perfect score in either the short program or the free skate.,1,1
+973,Q116447812_2491.csv,sport ,comparative,Kevin Aymoz from France has a higher total score than Shun Sato from Japan.,1,1
+974,Q116447812_2491.csv,sport ,unique,There are 18 different nations represented in the tournament.,1,0
+975,Q126942790_2801.csv,sport ,simple,Kristin Skaslien is paired with Magnus Nedregotten for Norway.,0,1
+976,Q126942790_2801.csv,sport ,unique,There are no two different players from the same country in each pair.,1,0
+977,Q126942790_2801.csv,sport ,comparative,"Denmark has a married couple, Jasmin Holtermann and Henrik Holtermann, participating together",1,1
+978,Q126942790_2801.csv,sport ,count,There are 24 players from 16 different countries.,1,0
+979,Q126942790_2801.csv,sport ,superlative,The Czech Republic is the last country listed in the table.,0,0
+980,Q92863283_2369.csv,sport ,superlative,"China won all of their matches, achieving a perfect record.",1,1
+981,Q92863283_2369.csv,sport ,comparative,South Korea has a better win-loss ratio than Indonesia and Japan.,1,1
+982,Q92863283_2369.csv,sport ,count,There are three teams that were eliminated in the group stage with no wins.,1,1
+983,Q92863283_2369.csv,sport ,unique,Only China achieved a positive match difference of over +20.,1,1
+984,Q92863283_2369.csv,sport ,simple,Indonesia and Japan both have identical win-loss records.,1,0
+985,Q91157899_2530.csv,sport ,aggregation,The Philadelphia Eagles scored a total of 40 points throughout the game.,1,1
+986,Q91157899_2530.csv,sport ,comparative,"Jalen Hurts' 1-yard touchdown run was the first scoring play for the Philadelphia Eagles, occurring at 6:15 in the first quarter.",1,1
+987,Q91157899_2530.csv,sport ,count,There were 4 touchdowns scored by the Philadelphia Eagles during the game.,0,1
+988,Q91157899_2530.csv,sport ,unique,"Xavier Worthy had two touchdown receptions from Patrick Mahomes in the fourth quarter, one for 24 yards and another for 50 yards.",1,1
+989,Q91157899_2530.csv,sport ,ordinal,The second scoring play of the game was a 48-yard field goal by Jake Elliott at 8:38 in the second quarter.,1,1
+990,Q120279644_2882.csv,sport ,superlative,Mikhail Shaidorov achieved the highest total score of 285.10.,1,1
+991,Q120279644_2882.csv,sport ,comparative,Cha Jun-hwan has a higher total score than Jimmy Ma.,1,1
+992,Q120279644_2882.csv,sport ,count,There are four skaters from Japan in the top 7 rankings,0,1
+993,Q120279644_2882.csv,sport ,unique,There are seven different nations represented among the top 20 skaters.,1,1
+994,Q120279644_2882.csv,sport ,simple,Roman Sadovsky is ranked 10th with a total score of 213.90.,1,1
+995,Q130377275_2972.csv,sport ,superlative,Damian McKenzie has the highest points total in the 2025 Super Rugby Pacific season with 137 points.,1,1
+996,Q130377275_2972.csv,sport ,aggregation,The average points per game for all players is 8.96.,1,1
+997,Q130377275_2972.csv,sport ,comparative,Ben Donaldson has scored more points than Beauden Barrett.,1,1
+998,Q130377275_2972.csv,sport ,count,"There are two players, Sam Gilbert and Tom Lynagh, who have scored exactly 82 points each.",1,1
+999,Q130377275_2972.csv,sport ,simple,Isaiah Armstrong-Ravula has scored a total of 73 points for the Drua team.,1,1

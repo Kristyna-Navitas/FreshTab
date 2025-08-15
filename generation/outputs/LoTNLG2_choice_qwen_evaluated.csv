@@ -1,0 +1,501 @@
+,csv_ids,domain,label,prediction,TAPEX,TAPAS
+0,2-1458666-4.html.csv,sport,aggregation,The United States has accumulated the highest total wins with 32 in World Golf Championships.,1,1
+1,2-1458666-4.html.csv,sport,comparative,"England's individual wins are higher than its team wins, unlike South Africa which has more team wins.",1,1
+2,2-1458666-4.html.csv,sport,count,There are 12 different individuals from the United States who have won in World Golf Championships.,1,1
+3,2-1458666-4.html.csv,sport,unique,Japan and Wales are unique in that they each have one team win but no individual winners.,1,0
+4,2-1458666-4.html.csv,sport,superlative,"The United States has the highest number of individual winners with 12, far more than any other nation.",1,1
+5,2-17814838-6.html.csv,sport,superlative,"Manchester United vs Tottenham Hotspur had the highest attendance of 75,014 in this round of the FA Cup.",1,1
+6,2-17814838-6.html.csv,sport,unique,West Ham United is the only team that won their match without a replay and by more than one goal.,0,1
+7,2-17814838-6.html.csv,sport,comparative,"The attendance for the replay between Blackburn Rovers and Sunderland (10,112) was lower than the initial match's attendance (22,634).",1,1
+8,2-17814838-6.html.csv,sport,aggregation,The total number of goals scored in all matches involving a replay was 28.,1,1
+9,2-17814838-6.html.csv,sport,simple,Hull City won their match against Millwall with a score of 2-0.,1,1
+10,2-170969-2.html.csv,mix,superlative,"Saint James has the largest area among all parishes in Charlotte County, New Brunswick, covering 555.99 square kilometers.",1,1
+11,2-170969-2.html.csv,mix,aggregation,"The total population of all parishes in Charlotte County, New Brunswick is 12,684.",1,1
+12,2-170969-2.html.csv,mix,unique,There are two parishes with a population of 824 people: Lepreau and West Isles.,1,1
+13,2-170969-2.html.csv,mix,comparative,Saint George has a higher population than Pennfield by 154 people.,1,1
+14,2-170969-2.html.csv,mix,ordinal,"Saint David is the third parish in Charlotte County, New Brunswick with the highest census ranking at 1592 out of 5008.",0,0
+15,2-14255774-8.html.csv,sport,aggregation,"The average attendance for the September games was approximately 35,641 people.",1,1
+16,2-14255774-8.html.csv,sport,superlative,"The game with the highest attendance was on September 28 against the Rockies, with 35,908 spectators.",0,1
+17,2-14255774-8.html.csv,sport,comparative,The Diamondbacks had a higher record (79-77) after playing the Cardinals on September 24 compared to their record (71-74) before facing the Giants on September 10.,0,1
+18,2-14255774-8.html.csv,sport,count,There were 5 games in which the Diamondbacks played against the Rockies during this period.,1,0
+19,2-14255774-8.html.csv,sport,negation,"The Diamondbacks did not win any of their three games against the Cardinals from September 22 to September 25, resulting in a loss or tie each time.",0,0
+20,2-17964087-2.html.csv,politics,aggregation,The average age of political appointees in Hong Kong is 37 years.,1,1
+21,2-17964087-2.html.csv,politics,superlative,"Tsui Ying-wai, Caspar 徐英偉 is the youngest appointee at 31 years old.",1,1
+22,2-17964087-2.html.csv,politics,comparative,"Choy Siu-min, Linda 蔡少綿 has a higher government salary than Chan Chi-yuen, Paul 陳智遠.",1,1
+23,2-17964087-2.html.csv,politics,unique,There are no two appointees with the same foreign nationality in the given data.,1,1
+24,2-17964087-2.html.csv,politics,all,"All political appointees listed have a government salary of at least HK$134,150.",0,0
+25,2-12582968-1.html.csv,sport,superlative,"Lukáš Melich achieved his highest position of 3rd at the World Championships held in Moscow, Russia in 2013.",1,1
+26,2-12582968-1.html.csv,sport,count,Lukáš Melich participated in the World Championships a total of 4 times between 2005 and 2013.,1,1
+27,2-12582968-1.html.csv,sport,comparative,"Lukáš Melich's performance at the Olympic Games in London, Great Britain (6th place) was better than his performance at the Beijing Olympics (29th place).",1,1
+28,2-12582968-1.html.csv,sport,aggregation,The average position of Lukáš Melich across all World Championships is 10.5.,1,1
+29,2-12582968-1.html.csv,sport,ordinal,"Lukáš Melich's first appearance in a major international competition was at the World Junior Championships in Annecy, France in 1998, where he placed 10th.",1,1
+30,2-14820149-3.html.csv,sport,superlative,Juan Garriga achieved his highest number of wins (3) in 1988 while racing in the 250cc class for Ducados - Yamaha.,1,1
+31,2-14820149-3.html.csv,sport,aggregation,The total points accumulated by Juan Garriga across all years and classes is 678.,1,1
+32,2-14820149-3.html.csv,sport,negation,Juan Garriga never scored any points in the 250cc class for Yamaha in 1984.,1,1
+33,2-14820149-3.html.csv,sport,comparative,Juan Garriga scored more points in 1988 (221) compared to his total points in the 500cc class from 1986 to 1993 (370).,0,0
+34,2-14820149-3.html.csv,sport,ordinal,"The first year Juan Garriga achieved more than 40 points was 1987, when he raced in the 250cc class for Ducados - Yamaha.",1,1
+35,2-12392766-3.html.csv,sport,superlative,The United States achieved the highest total medal count with 36 medals.,1,1
+36,2-12392766-3.html.csv,sport,aggregation,The total number of gold medals awarded in the 2005-06 ISU Junior Grand Prix was 27.,1,0
+37,2-12392766-3.html.csv,sport,comparative,Russia won more silver medals than Japan by a margin of 3 medals.,1,1
+38,2-12392766-3.html.csv,sport,unique,"Only the United States and Russia won double-digit numbers of gold, silver, and bronze medals.",1,1
+39,2-12392766-3.html.csv,sport,ordinal,Japan is the third-ranked nation in terms of total medal count with 14 medals.,1,1
+40,2-1140095-1.html.csv,sport,unique,"Jim Clark is the only driver who achieved pole position, fastest lap, and won the race in the South African Grand Prix.",1,1
+41,2-1140095-1.html.csv,sport,count,"There are 3 races where Graham Hill was on pole position: Spanish Grand Prix, Monaco Grand Prix, and British Grand Prix.",0,0
+42,2-1140095-1.html.csv,sport,comparative,"Jackie Stewart won more races than any other driver in the 1968 Formula One season, with a total of 3 victories.",1,1
+43,2-1140095-1.html.csv,sport,superlative,"The Belgian Grand Prix had the earliest date among all the races in the 1968 Formula One season, taking place on June 9th.",0,1
+44,2-1140095-1.html.csv,sport,simple,Denny Hulme won both the Italian Grand Prix and Canadian Grand Prix with McLaren-Ford as his constructor.,1,1
+45,2-1123180-2.html.csv,sport,superlative,Michael Schumacher achieved the fastest race time of 1:32:46.309 at the 1993 Portuguese Grand Prix.,1,1
+46,2-1123180-2.html.csv,sport,count,"There were 5 drivers who completed fewer than 70 laps in the race, including Derek Warwick, Riccardo Patrese, Pedro Lamy, Johnny Herbert, and Mark Blundell.",1,1
+47,2-1123180-2.html.csv,sport,comparative,"Alain Prost finished the race with a time of + 0.982 seconds behind Michael Schumacher, which was faster than Damon Hill's finishing time of + 8.206 seconds.",0,1
+48,2-1123180-2.html.csv,sport,unique,No two drivers started from the same grid position in the 1993 Portuguese Grand Prix.,0,1
+49,2-1123180-2.html.csv,sport,simple,"Damon Hill, driving for Williams-Renault, finished the race in third place with a time of + 8.206 seconds behind the leader.",1,0
+50,1-2419754-1.html.csv,sport,superlative,"Saint Louis University is the oldest institution in the Great Midwest Conference, founded in 1818.",1,1
+51,1-2419754-1.html.csv,sport,aggregation,"The average enrollment of institutions in the Great Midwest Conference is approximately 20,957 students.",1,1
+52,1-2419754-1.html.csv,sport,negation,None of the institutions in the Great Midwest Conference are public universities located in Illinois.,1,1
+53,1-2419754-1.html.csv,sport,count,There are six institutions that joined and left the Great Midwest Conference between 1991 and 1995.,1,1
+54,1-2419754-1.html.csv,sport,comparative,"The University of Cincinnati has a higher enrollment than Marquette University by over 29,000 students.",1,1
+55,2-17746881-1.html.csv,sport,superlative,US Orléans (D2) achieved the highest total score in both rounds against Paris SG (D1).,1,1
+56,2-17746881-1.html.csv,sport,unique,FC Sochaux - Montbéliard (D1) is the only team that won its match but drew in the second round.,0,0
+57,2-17746881-1.html.csv,sport,aggregation,The total number of goals scored across all matches and rounds was 48.,1,1
+58,2-17746881-1.html.csv,sport,comparative,AS Monaco (D1) scored more in the second round than FC Nantes (D1) did in both rounds combined.,0,0
+59,2-17746881-1.html.csv,sport,simple,OGC Nice (D1) lost to AJ Auxerre (D1) with a score of 1 - 5 in the final match.,1,1
+60,1-23157997-13.html.csv,sport,superlative,Tom Zirbel achieved the highest number of stage wins with a total of 2 stages won.,0,0
+61,1-23157997-13.html.csv,sport,negation,"Kenneth Hanson did not win any stages, despite leading the mountains classification in Stages 3 and 4.",0,0
+62,1-23157997-13.html.csv,sport,count,There were a total of 5 different winners across all 6 stages of the 2009 Nature Valley Grand Prix.,1,0
+63,1-23157997-13.html.csv,sport,comparative,"Thomas Soladay scored more points than any other rider in the points classification, leading it from Stage 2 onwards.",1,1
+64,1-23157997-13.html.csv,sport,unique,Bissell is the only team that consistently held the team classification lead throughout all stages of the event.,1,1
+65,2-187504-13.html.csv,sport,superlative,The Soviet Union achieved the highest total medal count with 29 medals in the 1988 Winter Olympics.,1,1
+66,2-187504-13.html.csv,sport,aggregation,"East Germany and the Soviet Union together won a combined total of 54 medals, which is more than half of the top 10 countries' medal count.",0,0
+67,2-187504-13.html.csv,sport,comparative,"Finland had more silver medals (1) than Sweden (0), despite both countries having the same number of gold and bronze medals.",1,1
+68,2-187504-13.html.csv,sport,unique,Canada is the only country in the top 13 that did not win any gold medals in the 1988 Winter Olympics.,1,1
+69,2-187504-13.html.csv,sport,ordinal,"Switzerland, ranked third overall, was the first country to achieve an equal number of gold, silver, and bronze medals (5 each).",1,1
+70,2-18855244-2.html.csv,mix,superlative,"Michael Phelps won the most medals with a total of 22, making him the top athlete in terms of medal count.",1,1
+71,2-18855244-2.html.csv,mix,aggregation,"The United States has the highest number of athletes listed, totaling 10 different entries across various sports and events.",1,1
+72,2-18855244-2.html.csv,mix,comparative,"Paavo Nurmi won more medals in athletics than any other Finnish athlete in the table, with a total of 4 medals.",0,0
+73,2-18855244-2.html.csv,mix,ordinal,"Larisa Latynina is the first and only Soviet Union athlete to win 18 medals, making her the most decorated gymnast in this dataset.",1,1
+74,2-18855244-2.html.csv,mix,unique,"There are no other athletes from Germany listed in the table besides Carl Schuhmann and Hermann Weingärtner, who both won multiple medals in gymnastics.",1,0
+75,2-14076898-4.html.csv,sport,superlative,The team with the highest goal difference (51 - 10) also has the most points (12).,1,1
+76,2-14076898-4.html.csv,sport,aggregation,The average number of games played by all teams is 7.,1,1
+77,2-14076898-4.html.csv,sport,negation,No team lost more than 6 games in the tournament.,0,1
+78,2-14076898-4.html.csv,sport,comparative,Teams with fewer losses generally have a higher goal difference and more points compared to teams with more losses.,1,1
+79,2-14076898-4.html.csv,sport,count,There are 3 teams that scored exactly 7 points in the tournament.,1,1
+80,2-16045118-20.html.csv,mix,superlative,"Whoopi Goldberg has won the most awards among Black Golden Globe winners and nominees, with two wins in 1986 for 'The Color Purple' and 1991 for 'Ghost'.",1,1
+81,2-16045118-20.html.csv,mix,ordinal,"Diana Ross was the first Black actress to win a Golden Globe Award, winning New Star - Actress for 'Lady Sings the Blues' in 1973.",1,1
+82,2-16045118-20.html.csv,mix,unique,"There is only one instance of an award being won by an actor for a musical or comedy role, which was Angela Bassett for Best Actress - Musical or Comedy for 'What’s Love Got to Do with It' in 1994.",1,1
+83,2-16045118-20.html.csv,mix,comparative,"Diahann Carroll received more nominations (2) than any other actress who did not win an award, including nominations in 1975 and 1993 for 'Claudine' and 'Sister Act', respectively.",0,0
+84,2-16045118-20.html.csv,mix,simple,"In 2010, Mo'nique won the Best Supporting Actress award for her role in 'Precious: Based on the Novel Push by Sapphire'.",1,1
+85,2-10234157-2.html.csv,sport,superlative,Andy Goode of Leicester Tigers achieved the highest points with 207 in the 2007-08 English Premiership (Rugby Union).,1,1
+86,2-10234157-2.html.csv,sport,count,"There are three players who did not score any tries in the 2007-08 season: Charlie Hodgson, Alberto Di Bernardo, and Adrian Jarvis.",1,1
+87,2-10234157-2.html.csv,sport,comparative,Danny Cipriani scored more points (192) than Glen Jackson (179) in the 2007-08 English Premiership (Rugby Union).,1,1
+88,2-10234157-2.html.csv,sport,all,All players from Harlequins did not score any drop goals during the 2007-08 season.,0,0
+89,2-10234157-2.html.csv,sport,simple,Ryan Lamb scored 4 tries for Gloucester Rugby in the 2007-08 English Premiership (Rugby Union).,1,1
+90,2-11963735-4.html.csv,sport,superlative,"Allen Iverson scored the highest points in a single game with 51 points against the Lakers on December 5, 2007.",1,1
+91,2-11963735-4.html.csv,sport,aggregation,"The average attendance for home games played by the Denver Nuggets from December 2 to December 30, 2007, was approximately 16,489 people.",1,1
+92,2-11963735-4.html.csv,sport,comparative,The Denver Nuggets had a better record after their game against the Trail Blazers on December 20 compared to before their game against the Kings on December 8.,1,0
+93,2-11963735-4.html.csv,sport,unique,Carmelo Anthony and Allen Iverson were the only two players who led in scoring for the Denver Nuggets during this period.,1,1
+94,2-11963735-4.html.csv,sport,negation,"The Denver Nuggets did not lose a home game against the Lakers, despite losing their away game against the Spurs on December 15, 2007.",0,1
+95,1-25030512-41.html.csv,politics,superlative,"Bob Brady received the highest percentage of votes among all incumbents in the Pennsylvania House of Representatives elections, 2012.",1,1
+96,1-25030512-41.html.csv,politics,aggregation,The average percentage of votes for Republican candidates across all listed districts was approximately 59.3%.,1,1
+97,1-25030512-41.html.csv,politics,negation,"Mark Critz did not win re-election in Pennsylvania's 12th district, marking a shift from Democratic to Republican representation.",1,1
+98,1-25030512-41.html.csv,politics,comparative,Allyson Schwartz received more votes than any other Democratic incumbent in the listed districts of Pennsylvania.,0,1
+99,1-25030512-41.html.csv,politics,count,There were 4 districts where the Republican candidate won by a margin greater than 60%.,0,1
+100,2-15177130-1.html.csv,sport,superlative,Reg Parnell achieved the highest number of race finishes among all drivers listed in the 'brm type 15' races.,0,1
+101,2-15177130-1.html.csv,sport,count,"There are 4 different circuits where the 'brm type 15' was raced: Silverstone, Goodwood, Pedralbes, and Bremgarten.",1,1
+102,2-15177130-1.html.csv,sport,comparative,Reg Parnell had a better race result (position 5) in the British Grand Prix on 14th July 1951 compared to Peter Walker who finished in position 7.,1,1
+103,2-15177130-1.html.csv,sport,negation,"Juan Manuel Fangio did not participate in any of the 'brm type 15' races that he was listed for, as indicated by his 'not present' status.",0,1
+104,2-15177130-1.html.csv,sport,unique,All drivers who participated in the Grand Prix de l'Albigeois final on 31st May 1953 were also part of its qualifying heat.,1,0
+105,2-17337904-12.html.csv,mix,count,"There are 3 different states with a ruler titled 'Marquis': Cai, Jin, and Wey.",1,0
+106,2-17337904-12.html.csv,mix,unique,"The state of Qin is the only one to have rulers with three different titles: Marquis, Ruler, and Ruler again (Qin Zhong).",1,1
+107,2-17337904-12.html.csv,mix,comparative,Chu has more sovereigns listed than any other state in the 840s BC.,0,0
+108,2-17337904-12.html.csv,mix,simple,"The ruler of Qi, Duke Wu, belongs to the Jiang royal house.",1,1
+109,2-17337904-12.html.csv,mix,all,All rulers from the state of Lu are titled as 'Duke'.,0,0
+110,1-25847911-1.html.csv,culture,superlative,The episode '英語対決!勝負だバカ6人' (English Showdown! Fight for Stupid 6) achieved the highest rating at 17.9%.,1,1
+111,1-25847911-1.html.csv,culture,aggregation,The average rating of all episodes listed in the table is approximately 15.2%.,1,1
+112,1-25847911-1.html.csv,culture,comparative,The episode '泣くな!お前の人生だ!' (Don't Cry! It's Your Life!) had a higher rating than the episode '壁にぶつかるまで我慢しろ' (Hold Out Until You Hit the Wall).,1,1
+113,1-25847911-1.html.csv,culture,count,There are 6 episodes that have ratings above 15%.,1,0
+114,1-25847911-1.html.csv,culture,simple,"The episode '自らの弱さを知れ!' (Know Your Weaknesses!) was broadcast on July 15, 2005.",1,1
+115,2-15029747-1.html.csv,culture,unique,Brandi Love received nominations and a win in three different award ceremonies in 2013.,0,0
+116,2-15029747-1.html.csv,culture,count,There are five total entries for Brandi Love's awards and nominations in 2013.,0,0
+117,2-15029747-1.html.csv,culture,superlative,The highest recognition Brandi Love received in 2013 was winning the Best Cougar / Milf Performer (Editor’s Choice) at the NightMoves Award.,1,1
+118,2-15029747-1.html.csv,culture,comparative,Brandi Love had more nominations than wins across all ceremonies in 2013.,1,0
+119,2-15029747-1.html.csv,culture,simple,"In 2013, Brandi Love was nominated for the Milf / Cougar Performer of the Year at the AVN Award ceremony.",1,1
+120,2-11713403-3.html.csv,sport,superlative,Chris Jackson achieved the highest number of receptions with 119.,1,1
+121,2-11713403-3.html.csv,sport,aggregation,The total number of touchdowns scored by all players is 86.,1,1
+122,2-11713403-3.html.csv,sport,negation,None of the players had more than 48 yards in their longest reception.,1,0
+123,2-11713403-3.html.csv,sport,comparative,Derek Lee's average yards per reception (11.2) is lower than Chris Jackson's (12.1).,1,1
+124,2-11713403-3.html.csv,sport,count,There are 7 players who had at least one touchdown.,0,0
+125,2-18025901-1.html.csv,sport,superlative,"The highest attendance at an FA Cup third-fourth place match was 25,841 at St Andrew's in the 1971-72 season.",0,1
+126,2-18025901-1.html.csv,sport,unique,Stoke City is the only team to have both won and lost in these matches over the seasons listed.,0,1
+127,2-18025901-1.html.csv,sport,aggregation,The total number of matches played in the FA Cup third-fourth place from 1969-70 to 1973-74 is 5.,0,1
+128,2-18025901-1.html.csv,sport,comparative,Manchester United scored more goals against Watford (2) than Burnley did against Leicester City (1).,1,1
+129,2-18025901-1.html.csv,sport,simple,Wolverhampton Wanderers won their match with a score of 3-1 against Arsenal in the 1972-73 FA Cup third-fourth place match.,1,1
+130,1-24584486-1.html.csv,sport,superlative,James Calado achieved the highest number of wins (8) in the British Formula Renault 2.0 series during the 2009 season.,1,1
+131,1-24584486-1.html.csv,sport,aggregation,The total number of races James Calado participated in across all series and seasons is 137.,1,1
+132,1-24584486-1.html.csv,sport,comparative,James Calado had more podium finishes (12) than wins (5) in the British Formula Three Championship in 2010.,0,1
+133,1-24584486-1.html.csv,sport,ordinal,"The second series where James Calado scored points was the Formula Renault 2.0 Eurocup in 2009, following his participation in the British Formula Renault 2.0 earlier that year.",1,1
+134,1-24584486-1.html.csv,sport,unique,James Calado is the only driver listed who has won races in both the GP3 Series and the GP2 Final.,1,0
+135,2-10750694-19.html.csv,sport,superlative,"The game between Geelong and Carlton at Kardinia Park had the highest crowd attendance with 49,107 spectators.",1,1
+136,2-10750694-19.html.csv,sport,negation,Carlton did not score more than 32 points in their match against Geelong on 30 August 1952.,1,1
+137,2-10750694-19.html.csv,sport,comparative,Richmond scored higher than Essendon by 25 points in their game at Punt Road Oval on 30 August 1952.,1,0
+138,2-10750694-19.html.csv,sport,count,There were 6 VFL matches played on 30 August 1952 across different venues.,1,1
+139,2-10750694-19.html.csv,sport,simple,Geelong's home game against Carlton was held at Kardinia Park.,1,1
+140,2-17832085-4.html.csv,sport,superlative,Hércules CF achieved the highest number of points in the 1965-66 Segunda División with 39 points.,1,1
+141,2-17832085-4.html.csv,sport,aggregation,The total number of goals scored by all teams in the 1965-66 Segunda División is 720.,1,1
+142,2-17832085-4.html.csv,sport,comparative,"Levante UD had a better goal difference (+20) than Hércules CF, despite having fewer points (34 compared to 39).",0,1
+143,2-17832085-4.html.csv,sport,unique,CD Badajoz is the only team with a negative goal difference of -36 and the lowest number of wins (4) in the league.,1,1
+144,2-17832085-4.html.csv,sport,simple,"Real Valladolid scored 49 goals, which is the highest among all teams in the 1965-66 Segunda División.",1,1
+145,2-10774891-18.html.csv,sport,superlative,South Melbourne achieved the highest score of the day with 17.11 (113) against North Melbourne.,1,1
+146,2-10774891-18.html.csv,sport,aggregation,"The total crowd across all matches on August 24, 1957 was 135,087.",1,1
+147,2-10774891-18.html.csv,sport,negation,Collingwood did not score more than 60 points in their match against St Kilda.,1,1
+148,2-10774891-18.html.csv,sport,comparative,Melbourne scored 49 more points than Richmond in their match at the MCG.,1,1
+149,2-10774891-18.html.csv,sport,simple,"The match between Fitzroy and Geelong was held at Brunswick Street Oval with a crowd of 10,000 people.",1,1
+150,2-1825661-2.html.csv,mix,superlative,"The model with the highest number built is the 300sel 3.5, with 9,483 units produced.",1,1
+151,2-1825661-2.html.csv,mix,aggregation,"A total of 23,420 Mercedes-Benz W108 series models were built across all variants from 1965 to 1972.",1,1
+152,2-1825661-2.html.csv,mix,ordinal,"The second model in the production timeline is the 300sel with chassis code w109.016, which was produced from December 1967 to January 1970.",1,0
+153,2-1825661-2.html.csv,mix,comparative,"The 300sel 6.3 has a larger engine displacement (6.3L) compared to the 300sel, which has a 2.8L engine in its later production period.",1,1
+154,2-1825661-2.html.csv,mix,unique,There are no two models in this series that share both the same chassis code and production time period.,1,1
+155,2-10361861-2.html.csv,sport,superlative,"The highest attendance was recorded on December 7, 1980, when the Vikings played against the Tampa Bay Buccaneers with 65,649 spectators.",1,0
+156,2-10361861-2.html.csv,sport,aggregation,The Vikings won a total of 9 games during their 1980 season.,1,1
+157,2-10361861-2.html.csv,sport,count,The Vikings played the Chicago Bears twice and had one win and one loss against them.,1,1
+158,2-10361861-2.html.csv,sport,comparative,The Vikings scored more points in their game against the Atlanta Falcons (24) than they did in their game against the Philadelphia Eagles (7).,0,1
+159,2-10361861-2.html.csv,sport,unique,There were 16 unique opponents faced by the Minnesota Vikings during their 1980 season.,1,1
+160,2-10773616-16.html.csv,sport,superlative,Melbourne achieved the highest away team score with 94 points against Richmond.,1,1
+161,2-10773616-16.html.csv,sport,aggregation,"The total crowd across all games played on August 14, 1954, was 122,670 people.",1,1
+162,2-10773616-16.html.csv,sport,comparative,Essendon scored more points as an away team (80) than Carlton did as a home team (76).,0,0
+163,2-10773616-16.html.csv,sport,all,"All games in the 1954 VFL season listed were played on August 14, 1954.",1,1
+164,2-10773616-16.html.csv,sport,unique,There are no duplicate venues in this list of matches from the 1954 VFL season.,1,0
+165,2-1100124-1.html.csv,sport,aggregation,"The average attendance for all games in the 1964 World Series was approximately 45,208.",1,1
+166,2-1100124-1.html.csv,sport,superlative,"Game 3 at Yankee Stadium (I) had the highest attendance with 67,101 spectators.",0,1
+167,2-1100124-1.html.csv,sport,comparative,The duration of Game 5 was longer than that of Game 4 by 19 minutes.,0,0
+168,2-1100124-1.html.csv,sport,count,There were 3 games played at Busch Stadium (I) in the 1964 World Series.,1,0
+169,2-1100124-1.html.csv,sport,ordinal,The second game of the series was played on October 8 at Busch Stadium (I).,1,1
+170,2-11048203-1.html.csv,sport,superlative,"The highest score in a single match was 5 - 0, which occurred on February 18, 2004, during the 2006 FIFA World Cup qualification.",1,1
+171,2-11048203-1.html.csv,sport,aggregation,There were a total of 3 wins and 1 draw in friendly matches between 2004 and 2013.,1,0
+172,2-11048203-1.html.csv,sport,negation,"Hatem Aqel's team never won the 2011 AFC Asian Cup qualification match against Singapore, held on January 28, 2009.",1,0
+173,2-11048203-1.html.csv,sport,count,There are 4 matches where Hatem Aqel played in Amman as a venue.,1,1
+174,2-11048203-1.html.csv,sport,ordinal,"The second match that resulted in a loss was on September 9, 2009, against an opponent not specified, during a friendly match.",1,0
+175,2-17324893-3.html.csv,sport,simple,The New York Rangers played against the Vancouver Canucks on November 8th.,1,1
+176,2-17324893-3.html.csv,sport,aggregation,The total number of games played in November was 14.,0,0
+177,2-17324893-3.html.csv,sport,superlative,"The highest score achieved by the New York Rangers in a single game during November was 7, which occurred twice (against California Golden Seals and Toronto Maple Leafs).",1,0
+178,2-17324893-3.html.csv,sport,comparative,The New York Rangers scored more goals against the Los Angeles Kings on November 12th (5-1) compared to their game against them on November 29th (2-2).,1,1
+179,2-17324893-3.html.csv,sport,unique,There were no games in which the New York Rangers and the Chicago Black Hawks played more than once in November.,1,1
+180,2-1520959-1.html.csv,culture,superlative,"The Buffalo Mountain Coaster is the oldest ride in Drayton Manor Theme Park, having opened in 1987.",1,1
+181,2-1520959-1.html.csv,culture,unique,There are no two rides with the same manufacturer in the Action Park themed area.,1,1
+182,2-1520959-1.html.csv,culture,count,"There are three different themed areas represented in the table: Action Park, Aerial Park, and Thomas Land.",1,1
+183,2-1520959-1.html.csv,culture,simple,The G Force rollercoaster was manufactured by Mauer Söhne and opened in 2005.,1,1
+184,2-1520959-1.html.csv,culture,comparative,The Ben 10 - Ultimate Mission opened later than the Troublesome Trucks Runaway Coaster.,1,1
+185,2-1235883-1.html.csv,sport,aggregation,Umberto Maglioli scored a total of 6 points over his Formula One career from 1953 to 1957.,0,1
+186,2-1235883-1.html.csv,sport,superlative,"The highest number of points Umberto Maglioli scored in a single year was 2, achieved in 1954 with Scuderia Ferrari using the Ferrari 625 chassis.",1,1
+187,2-1235883-1.html.csv,sport,negation,Umberto Maglioli never scored any points in his Formula One career when driving for entrants other than Scuderia Ferrari.,1,0
+188,2-1235883-1.html.csv,sport,count,"There are 3 different chassis types that Umberto Maglioli drove during his Formula One career: Ferrari 553, Ferrari 625, and Maserati 250F.",1,1
+189,2-1235883-1.html.csv,sport,comparative,Umberto Maglioli scored more points in 1954 than he did in any other year during his Formula One career.,1,1
+190,2-18813729-2.html.csv,culture,simple,The song 'Good Boys' by Blondie was released in the album 'The Curse of Blondie' in 2003.,1,1
+191,2-18813729-2.html.csv,culture,unique,Pixie Lott is the only artist who has a remix by Dee - Lux in the year 2010.,0,0
+192,2-18813729-2.html.csv,culture,comparative,"Lamb's song 'Wonder' from 2003 was released earlier than Texas' song 'Can't Resist' which was released in 2005, both featuring the 'Dead Guys Remix'.",1,1
+193,2-18813729-2.html.csv,culture,count,There are three songs that were remixed by Dead Guys in the year 2003.,1,1
+194,2-18813729-2.html.csv,culture,all,All songs in this list from the year 2010 have a remix by Dee - Lux.,1,1
+195,2-180342-8.html.csv,mix,superlative,The Shard London Bridge is the tallest building in the list with a height of 306 meters (1004 feet).,1,1
+196,2-180342-8.html.csv,mix,comparative,"St Paul's Cathedral, which was the tallest from 1710 to 1939, is shorter than Battersea Power Station, which held the title from 1939 to 1950.",1,1
+197,2-180342-8.html.csv,mix,count,"There are three buildings in the City of London that have been the tallest at some point: Old St Paul's Cathedral, Monument to the Great Fire of London, and St Mary-le-Bow.",1,1
+198,2-180342-8.html.csv,mix,ordinal,"The White Tower was the first building to be recorded as the tallest in London, holding the title from 1098 to 1310.",1,1
+199,2-180342-8.html.csv,mix,aggregation,The total number of years across all entries during which a structure has been the tallest is 925 years.,1,1
+200,2-12209065-5.html.csv,sport,superlative,"The highest attendance at a game was on July 11 against the Brewers, with 47,919 spectators.",0,1
+201,2-12209065-5.html.csv,sport,aggregation,The total number of games played in this period (July 1 to July 25) is 25.,1,1
+202,2-12209065-5.html.csv,sport,count,"There were two double-header games against the Tigers on July 4, resulting in a split record of 1 win and 1 loss for that day.",1,1
+203,2-12209065-5.html.csv,sport,comparative,The Orioles had a higher attendance at their home game against the Blue Jays (July 15) compared to their game against the Twins (July 25).,1,1
+204,2-12209065-5.html.csv,sport,all,"All games from July 1 to July 25 were played in Baltimore, as indicated by the consistent attendance figures suggesting home games.",1,1
+205,2-18662679-3.html.csv,sport,simple,"Australia's team of Morgan, McRae, Long, and Noonan won the gold medal with a time of 5:36.20.",1,1
+206,2-18662679-3.html.csv,sport,comparative,Italy finished just 0.22 seconds behind Australia in the men's quadruple sculls event.,1,1
+207,2-18662679-3.html.csv,sport,count,There are 5 different countries represented in the top five ranks of the men's quadruple sculls event.,1,1
+208,2-18662679-3.html.csv,sport,negation,Estonia did not finish within the top three positions in the men's quadruple sculls event at the 2008 Summer Olympics.,1,1
+209,2-18662679-3.html.csv,sport,superlative,Australia achieved the fastest time in the men's quadruple sculls event at the 2008 Summer Olympics with a time of 5:36.20.,1,1
+210,2-16570286-3.html.csv,sport,superlative,Ray Lindwall achieved the highest number of wickets (27) in the 1948 Ashes series.,1,1
+211,2-16570286-3.html.csv,sport,aggregation,The average number of matches played by each player in the 1948 Ashes series was 4.57.,1,1
+212,2-16570286-3.html.csv,sport,comparative,Alec Bedser had a higher bowling average (38.22) compared to Keith Miller (23.15).,1,1
+213,2-16570286-3.html.csv,sport,ordinal,Jim Laker was the third player from England in terms of wickets taken during the 1948 Ashes series.,1,0
+214,2-16570286-3.html.csv,sport,unique,There were no two players with the same number of matches played in the 1948 Ashes series except for all five Australian players who each played 5 matches.,0,0
+215,2-17599325-1.html.csv,sport,superlative,"Alec Mildren won the most races in the 1958 Australian Drivers' Championship, with two victories.",1,1
+216,2-17599325-1.html.csv,sport,count,There were a total of 9 different circuits used throughout the 1958 Australian Drivers' Championship season.,1,1
+217,2-17599325-1.html.csv,sport,comparative,"The Victorian Trophy Race held on 23 February was won by Stan Jones, who also won the Phillip Island Trophy Race on 26 December, making him one of the multiple winners in this championship.",1,1
+218,2-17599325-1.html.csv,sport,ordinal,"The first race of the 1958 Australian Drivers' Championship took place on 27 January at the Gnoo Blas Circuit in Orange, New South Wales.",1,1
+219,2-17599325-1.html.csv,sport,unique,No two races were held at the same circuit and location combination during the 1958 Australian Drivers' Championship season.,1,1
+220,2-1620397-5.html.csv,mix,count,There are three audio plays featuring the 5th Doctor in the '6eb' series.,1,1
+221,2-1620397-5.html.csv,mix,unique,"The 'h / c' series is unique as it is the only one featuring the 1st Doctor with Susan Foreman, Ian Chesterton, and Barbara Wright.",1,1
+222,2-1620397-5.html.csv,mix,comparative,The audio play 'Power Play' was released after 'The Guardians of Prophecy'.,1,1
+223,2-1620397-5.html.csv,mix,ordinal,"The first 6th Doctor audio play in the '6y' series is 'The Guardians of Prophecy', released in May 2012.",1,1
+224,2-1620397-5.html.csv,mix,all,All audio plays featuring the 5th Doctor were released between October and December 2011.,1,1
+225,2-14841421-2.html.csv,sport,superlative,Iran has the highest total number of medals with 15.,1,1
+226,2-14841421-2.html.csv,sport,aggregation,"The total number of gold, silver, and bronze medals awarded is equal for each category, totaling 14 in each.",1,1
+227,2-14841421-2.html.csv,sport,comparative,South Korea has more silver medals than Kazakhstan despite having fewer total medals.,0,0
+228,2-14841421-2.html.csv,sport,ordinal,Kazakhstan is the third country in terms of total medal count.,1,1
+229,2-14841421-2.html.csv,sport,unique,There are 8 different nations represented in the AVC Club Volleyball Championship.,1,1
+230,2-13189034-1.html.csv,culture,superlative,"The episode with the highest budget was the Vietnam special in December 2008, costing 15,000,000 Vietnamese dong.",1,1
+231,2-13189034-1.html.csv,culture,count,May used 9 different vehicles across all listed episodes of Top Gear.,1,1
+232,2-13189034-1.html.csv,culture,simple,"In the Africa special (series 19, episodes 6 and 7), May drove a 1996 Volvo 850R wagon which was also the race winner.",1,1
+233,2-13189034-1.html.csv,culture,comparative,"The budget for the Vietnam special in December 2008 was significantly higher than the budget for the Botswana special in November 2007, by about 14.985 million Vietnamese dong.",1,1
+234,2-13189034-1.html.csv,culture,all,All episodes listed either had no backup vehicle or specified a unique backup vehicle; there were no instances where multiple backups were used.,1,1
+235,2-11902366-4.html.csv,sport,superlative,"The game with the highest attendance was on November 17 against Philadelphia, with 19,621 spectators.",0,1
+236,2-11902366-4.html.csv,sport,aggregation,New Jersey Devils won a total of 8 games in the first half of November (from November 2 to November 14).,1,1
+237,2-11902366-4.html.csv,sport,unique,Martin Brodeur was the only goalie credited with the decision for all games listed in this period.,0,1
+238,2-11902366-4.html.csv,sport,comparative,New Jersey Devils scored more goals against Montreal (4) than any other team during this period.,0,0
+239,2-11902366-4.html.csv,sport,simple,"On November 23, the New Jersey Devils won their game against Atlanta with a score of 3-0.",1,1
+240,1-2417308-3.html.csv,politics,superlative,John Parker Hale was installed as a successor earlier than any other individual listed in this table.,1,0
+241,1-2417308-3.html.csv,politics,count,There are five states represented in the 34th United States Congress that had vacant seats due to legislative failure to elect on time.,1,1
+242,1-2417308-3.html.csv,politics,ordinal,"Graham N Fitch was the second successor installed in 1857, following William M Gwin.",1,0
+243,1-2417308-3.html.csv,politics,all,All of the successors listed were from states where the legislature had failed to elect on time.,1,1
+244,1-2417308-3.html.csv,politics,simple,"William Bigler was installed as a successor for Pennsylvania's vacant seat on January 14, 1856.",1,1
+245,2-10790651-10.html.csv,sport,superlative,Carlton achieved the highest score in the 1935 VFL season with 22.8 (140) against Essendon.,1,1
+246,2-10790651-10.html.csv,sport,aggregation,"The average crowd size across all matches played on 29 June 1935 was approximately 14,667 people.",1,1
+247,2-10790651-10.html.csv,sport,negation,"Hawthorn did not achieve the highest score in their match against Footscray, despite playing at home.",1,1
+248,2-10790651-10.html.csv,sport,comparative,South Melbourne scored 25 more points than St Kilda in their match at Lake Oval on 29 June 1935.,0,0
+249,2-10790651-10.html.csv,sport,all,"All matches played on 29 June 1935 had a crowd size of over 7,000 people.",0,0
+250,2-11739153-7.html.csv,sport,superlative,"Minnesota Wild achieved their highest attendance on February 14 in Vancouver with 18,630 spectators.",1,1
+251,2-11739153-7.html.csv,sport,aggregation,The total number of games played by Minnesota Wild during this period is 15.,1,1
+252,2-11739153-7.html.csv,sport,comparative,Minnesota Wild had a better record (36-24-5) after their game against Florida on February 29 compared to their record (30-19-3) after the game against Columbus on February 2.,1,1
+253,2-11739153-7.html.csv,sport,unique,"Minnesota Wild played all of their away games in this period against teams from different cities, with no repeat visits to the same city.",1,1
+254,2-11739153-7.html.csv,sport,simple,"On February 9, Minnesota Wild defeated the NY Islanders with a score of 4-3 at home.",0,0
+255,2-10897046-5.html.csv,sport,simple,Anders Nilsson from Sweden was drafted as a goalie by the Luleå HF team.,1,1
+256,2-10897046-5.html.csv,sport,count,There are five players from Canada who play as left wingers (LW) in this draft segment.,0,1
+257,2-10897046-5.html.csv,sport,comparative,"Ryan Bourque, a center from the United States, was drafted 21 picks after Reilly Smith, a right winger also from the United States.",1,1
+258,2-10897046-5.html.csv,sport,unique,There are no two players in this draft segment who were selected from the same high school in Minnesota.,1,1
+259,2-10897046-5.html.csv,sport,superlative,"Igor Bobkov, drafted 76th overall, is the highest-drafted goalie from Russia in this draft segment.",1,1
+260,2-18060467-5.html.csv,sport,superlative,Darren Clarke from Northern Ireland achieved the lowest score of 133 at the 1997 Open Championship.,1,1
+261,2-18060467-5.html.csv,sport,count,"There are five players tied for fourth place, all with a total score of 137.",0,1
+262,2-18060467-5.html.csv,sport,comparative,Justin Leonard's score of 135 is better than Jesper Parnevik's score of 136 by 1 stroke.,1,1
+263,2-18060467-5.html.csv,sport,unique,There are five different countries represented in the top ten places at the 1997 Open Championship.,1,0
+264,2-18060467-5.html.csv,sport,aggregation,"The average score of players tied for ninth place is 141, which is 1 under par.",1,1
+265,2-15122771-2.html.csv,sport,superlative,"The Washington Redskins had their highest attendance of the season on October 28, 1962, against the New York Giants with 62,844 spectators.",0,1
+266,2-15122771-2.html.csv,sport,aggregation,The total number of games played by the Washington Redskins in the 1962 season was 14.,1,1
+267,2-15122771-2.html.csv,sport,comparative,"The Washington Redskins scored more points against the Dallas Cowboys on September 16, 1962, compared to their game against them on November 4, 1962.",0,0
+268,2-15122771-2.html.csv,sport,ordinal,The second tie of the season for the Washington Redskins occurred in Week 5 against the St. Louis Cardinals.,1,1
+269,2-15122771-2.html.csv,sport,simple,"On December 8, 1962, the Washington Redskins lost to the Baltimore Colts with a score of 34-21.",1,1
+270,2-12449312-2.html.csv,sport,aggregation,The total number of medals won by Chile across all Pan American Games from 1951 to 2011 is 258.,1,1
+271,2-12449312-2.html.csv,sport,superlative,"Chile achieved its highest medal count in the XVI edition held in Guadalajara in 2011, with a total of 43 medals.",1,1
+272,2-12449312-2.html.csv,sport,comparative,The number of silver medals won by Chile in the 2003 Santo Domingo games (10) is more than the combined silver medals from the 1955 to 1967 editions (8).,1,0
+273,2-12449312-2.html.csv,sport,ordinal,"The second time Winnipeg hosted the Pan American Games, in 1999, Chile won 12 medals.",0,0
+274,2-12449312-2.html.csv,sport,unique,Chile is the only country to have won exactly 40 gold medals across all editions of the Pan American Games listed.,0,0
+275,2-10650028-1.html.csv,sport,superlative,Eric Turner was selected with the lowest overall pick number at 2.,1,1
+276,2-10650028-1.html.csv,sport,count,There are 3 defensive tackles drafted in the 1991 Cleveland Browns season.,1,1
+277,2-10650028-1.html.csv,sport,unique,Henderson State is the only college from which an offensive tackle was selected.,1,1
+278,2-10650028-1.html.csv,sport,comparative,"Shawn Wiggins was drafted in a higher round than Raymond Irvin, despite being picked later overall.",0,1
+279,2-10650028-1.html.csv,sport,simple,Brian Greenfield from Pittsburgh was selected as a punter in the 10th round with the 252nd overall pick.,1,1
+280,2-150343-3.html.csv,culture,superlative,Venezuela has achieved the highest number of Miss World titles with 6.,1,1
+281,2-150343-3.html.csv,culture,aggregation,The total number of semifinalists from all countries is 240.,1,1
+282,2-150343-3.html.csv,culture,negation,Russia has never placed as a runner-up or in the top six positions in the Miss World competition.,1,1
+283,2-150343-3.html.csv,culture,comparative,The United States has more semifinalists (25) than any other country except for the United Kingdom (37).,1,1
+284,2-150343-3.html.csv,culture,simple,India has won 5 Miss World titles and placed as a 1st runner-up once.,1,1
+285,2-17747000-1.html.csv,sport,simple,"In the first round, Stade de Reims (D2) defeated Le Havre AC (D1) with a score of 2 - 0.",1,1
+286,2-17747000-1.html.csv,sport,comparative,"FC Metz (D1) scored more goals in total than FC Mulhouse (D2), with a final score of 3 - 0 over two rounds.",1,1
+287,2-17747000-1.html.csv,sport,count,"There are three matches that ended in draws during the second round, including Toulouse FC vs. OGC Nice, Lille OSC vs. AJ Auxerre, and AEP Bourg sous la Roche vs. Stade Quimpérois.",1,1
+288,2-17747000-1.html.csv,sport,unique,SO Châteaurault (D2) and US Créteil (D3) are the only teams that did not score any goals in both rounds of their match.,1,1
+289,2-17747000-1.html.csv,sport,all,All matches involving a D2 team against a D1 team resulted in at least one goal being scored by either team over the two rounds.,1,0
+290,1-23117208-5.html.csv,mix,superlative,The episode 'About Face' directed by Matthew Penn achieved the highest viewership of 4.25 million.,1,1
+291,1-23117208-5.html.csv,mix,aggregation,The average number of viewers for the episodes listed is approximately 3.91 million.,1,1
+292,1-23117208-5.html.csv,mix,unique,There are no two episodes that have exactly the same number of viewers in millions.,0,1
+293,1-23117208-5.html.csv,mix,simple,"The episode 'Manimal', directed by Mark Feuerstein, had 2.96 million viewers.",1,1
+294,1-23117208-5.html.csv,mix,comparative,The episode 'Dawn of the Med' had more viewers than the episode 'Fools Russian'.,1,1
+295,2-11677760-22.html.csv,sport,superlative,Greg Monroe and Tyler Zeller are the tallest players in the table at 6-10.,1,1
+296,2-11677760-22.html.csv,sport,negation,"Scotty Hopson was not drafted into the NBA, despite being a talented player from Tennessee.",0,0
+297,2-11677760-22.html.csv,sport,comparative,Willie Warren's hometown is further west than Scotty Hopson’s hometown.,1,1
+298,2-11677760-22.html.csv,sport,count,"There are 3 players who attended colleges in the state of North Carolina, Oregon, or Tennessee.",1,1
+299,2-11677760-22.html.csv,sport,all,All of the players listed have attended college before entering the NBA draft.,1,0
+300,2-1035855-1.html.csv,sport,superlative,"Bethlehem Steel F.C. achieved their best regular season performance in the 1926/27 American Soccer League, finishing first.",1,1
+301,2-1035855-1.html.csv,sport,count,"There are four instances where Bethlehem Steel F.C. won the challenge cup without entering a playoff: 1914/15, 1918/19, and 1926/27 American Soccer League.",0,1
+302,2-1035855-1.html.csv,sport,negation,Bethlehem Steel F.C. did not participate in the challenge cup during the 1924/25 season.,1,1
+303,2-1035855-1.html.csv,sport,comparative,"In the 1913/14 and 1914/15 seasons, Bethlehem Steel F.C.'s regular season performance was better than their challenge cup performance.",1,1
+304,2-1035855-1.html.csv,sport,all,All of Bethlehem Steel F.C.'s seasons in the AAFBA league ended with a championship (no playoff).,0,0
+305,2-147235-16.html.csv,mix,superlative,"The largest unit of measurement in this table is 担 (daam3), which has a metric value of 60.478982 kg.",1,0
+306,2-147235-16.html.csv,mix,comparative,The metric value of 兩 (loeng2) is approximately 10 times greater than that of 錢 (cin4).,1,1
+307,2-147235-16.html.csv,mix,count,There are two units in the table with a relative value of 1/1600: 厘 (lei4) and 分 (fan1).,1,1
+308,2-147235-16.html.csv,mix,simple,The imperial value of 斤 (gan1) is approximately 1.3333 pounds.,1,1
+309,2-147235-16.html.csv,mix,unique,"Each unit in the table has a unique metric value, ranging from 37.79931 mg for 厘 (lei4) to 60.478982 kg for 担 (daam3).",1,1
+310,2-1612222-2.html.csv,sport,superlative,Alexandra Stevenson served the most aces (25) in a single match against Alexandra Mueller at Quebec City in 2013.,1,1
+311,2-1612222-2.html.csv,sport,count,"There are three matches where Serena Williams served exactly 24 or more aces, all occurring at Wimbledon and in other major events between 2009 and 2012.",0,0
+312,2-1612222-2.html.csv,sport,unique,The 2012 London Olympics is the only event listed where Julia Görges served exactly 20 aces against Agnieszka Radwańska.,1,1
+313,2-1612222-2.html.csv,sport,comparative,Serena Williams served more aces (24) in her match against Victoria Azarenka at Wimbledon 2012 than Alicia Molik did (22) in her match against Venus Williams at Tokyo 2007.,1,1
+314,2-1612222-2.html.csv,sport,simple,"In the 2008 Tokyo event, Kaia Kanepi served 24 aces and won her match against Lucie Safarova with a score of 4-6, 6-3, 6-4.",1,1
+315,2-18781865-4.html.csv,sport,superlative,Canada achieved the highest total medal count with 2 gold medals in wheelchair basketball at the 2000 Summer Paralympics.,1,1
+316,2-18781865-4.html.csv,sport,negation,Neither Australia nor the Netherlands won a gold medal in wheelchair basketball at the 2000 Summer Paralympics.,1,1
+317,2-18781865-4.html.csv,sport,comparative,The United States and Japan both earned more bronze medals than silver or gold medals in wheelchair basketball at the 2000 Summer Paralympics.,0,0
+318,2-18781865-4.html.csv,sport,count,There are 5 different nations represented in the medal table for wheelchair basketball at the 2000 Summer Paralympics.,0,1
+319,2-18781865-4.html.csv,sport,simple,The Netherlands and Australia both won a single silver medal each in wheelchair basketball at the 2000 Summer Paralympics.,1,1
+320,2-16653153-30.html.csv,sport,superlative,The Gold Coast Blaze had the most losses with 22 in the 2008-09 NBL season.,1,1
+321,2-16653153-30.html.csv,sport,comparative,The South Dragons have a higher winning percentage (73.33%) than the Melbourne Tigers (66.67%).,1,1
+322,2-16653153-30.html.csv,sport,aggregation,"On average, teams won 58% of their home games and 42% of their away games in the 2008-09 NBL season.",1,0
+323,2-16653153-30.html.csv,sport,unique,The South Dragons are the only team with a winning percentage over 70% in the 2008-09 NBL season.,1,1
+324,2-16653153-30.html.csv,sport,simple,"The Sydney Spirit has not won any of their last five games, recording a 0-5 record.",1,1
+325,2-10809351-8.html.csv,sport,superlative,Carlton achieved the highest score of the day with 14.13 (97) against North Melbourne.,0,1
+326,2-10809351-8.html.csv,sport,aggregation,"The average crowd size across all matches played on June 4, 1949, was approximately 15,833 people.",1,1
+327,2-10809351-8.html.csv,sport,negation,Richmond did not win their match against Geelong at Kardinia Park.,0,1
+328,2-10809351-8.html.csv,sport,comparative,"Collingwood scored significantly higher as the home team compared to St Kilda, with a score of 21.22 (148) versus 4.12 (36).",1,1
+329,2-10809351-8.html.csv,sport,unique,"There are 5 different venues used for the matches on June 4, 1949.",1,1
+330,2-171666-1.html.csv,mix,superlative,"Xinjiang is the largest administrative division in China by area, with an area of 1,664,897 square kilometers.",1,1
+331,2-171666-1.html.csv,mix,aggregation,"The total area of all Chinese administrative divisions listed in the table sums up to 9,630,960 square kilometers.",1,1
+332,2-171666-1.html.csv,mix,comparative,"Beijing has a smaller area than Tianjin, with an area of 16,411 square kilometers compared to Tianjin's 11,917 square kilometers.",0,1
+333,2-171666-1.html.csv,mix,unique,"Macau is the smallest administrative division in China by area, covering only 30 square kilometers.",1,1
+334,2-171666-1.html.csv,mix,ordinal,"The third largest administrative division in China is Nei Menggu, with an area of 1,155,092 square kilometers.",0,0
+335,2-18715280-4.html.csv,sport,superlative,Hungary achieved the highest total number of medals with 11.,1,1
+336,2-18715280-4.html.csv,sport,aggregation,"The total number of gold, silver, and bronze medals awarded was 54.",1,0
+337,2-18715280-4.html.csv,sport,unique,Denmark is the only country that won exactly two bronze medals but no other medals.,1,0
+338,2-18715280-4.html.csv,sport,comparative,"Romania has more gold medals (3) than East Germany (2), despite both having the same number of total medals (7).",1,1
+339,2-18715280-4.html.csv,sport,ordinal,"The Soviet Union is ranked second with a total of 10 medals, including 6 silver and 3 bronze.",1,1
+340,2-10809823-14.html.csv,sport,superlative,"Hawthorn achieved the highest score of the season on June 28, 1980, with 21.17 (143) against Fitzroy.",1,1
+341,2-10809823-14.html.csv,sport,comparative,"The crowd at MCG for the Richmond vs Collingwood match was significantly larger than any other match on June 28, 1980.",1,1
+342,2-10809823-14.html.csv,sport,unique,"Princes Park is the only venue where Hawthorn played as the home team in this set of matches from June 28, 1980.",1,1
+343,2-10809823-14.html.csv,sport,aggregation,"A total of 6 matches were played on June 28, 1980, across various venues in the VFL season.",1,1
+344,2-10809823-14.html.csv,sport,all,"All matches on June 28, 1980, had a home team score higher than their away team counterpart except for South Melbourne vs Carlton and St Kilda vs Essendon.",0,1
+345,2-11312764-4.html.csv,sport,superlative,Linda Fratianne from the United States achieved the highest total points with 186.92.,1,1
+346,2-11312764-4.html.csv,sport,count,There are three skaters from West Germany in the top 17 rankings.,1,1
+347,2-11312764-4.html.csv,sport,comparative,"Denise Biellmann of Switzerland had a higher short program and free skate combined score (sp_+_fs) than Anett Pötzsch of East Germany, but ranked lower overall in points.",1,1
+348,2-11312764-4.html.csv,sport,unique,No two skaters from the United States are placed consecutively in the rankings.,0,1
+349,2-11312764-4.html.csv,sport,aggregation,The average total points of the top 5 ranked skaters is approximately 180.612.,1,1
+350,2-1762882-13.html.csv,sport,superlative,"The highest score difference in any match was 5, which occurred on November 19 when Scotland lost to the Netherlands by a score of 0-6.",1,1
+351,2-1762882-13.html.csv,sport,unique,"All matches played at Hampden Park, Glasgow were home games for Scotland.",1,1
+352,2-1762882-13.html.csv,sport,ordinal,"The third match in the ECQG5 competition was held on October 11 at Hampden Park, Glasgow.",0,1
+353,2-1762882-13.html.csv,sport,count,There were a total of 4 friendly matches played by Scotland during the period from August 20 to May 30.,1,1
+354,2-1762882-13.html.csv,sport,simple,"Scotland won their first match in the ECQPO competition against Liechtenstein with a score of 1-0 on November 15 at Hampden Park, Glasgow.",1,1
+355,2-12546630-1.html.csv,sport,count,Alfredo Binda won a total of 6 stages in the 1933 Giro d'Italia.,1,1
+356,2-12546630-1.html.csv,sport,superlative,"Learco Guerra was the rider with the most stage wins (4) at the beginning of the 1933 Giro d'Italia, before Alfredo Binda surpassed him.",1,1
+357,2-12546630-1.html.csv,sport,comparative,Alfredo Binda took more stages than any other rider in the 1933 Giro d'Italia.,1,1
+358,2-12546630-1.html.csv,sport,unique,"There were no rest days where a race leader was not announced, indicating that the leadership was always clear when racing resumed.",0,1
+359,2-12546630-1.html.csv,sport,all,"All stages of the 1933 Giro d'Italia had Italian cities as their starting or ending points, except for the final stage which ended in Milan.",1,0
+360,2-18424482-2.html.csv,culture,superlative,"The longest track on the 'sleepless nights' album is 'Sleepless Nights (featuring Vince Gill)', which runs for 4:21.",1,1
+361,2-18424482-2.html.csv,culture,aggregation,The total number of tracks on the 'sleepless nights' album that were originally released before 1960 is 7.,0,0
+362,2-18424482-2.html.csv,culture,comparative,"The song 'There Stands the Glass' has a shorter length than 'That's All It Took (featuring Jedd Hughes)', despite both being written by multiple writers including Jones.",1,1
+363,2-18424482-2.html.csv,culture,count,"There are 3 tracks on the album that were originally performed by George Jones: 'Why Baby Why', 'He Thinks I Still Care', and 'Color of the Blues'.",1,1
+364,2-18424482-2.html.csv,culture,unique,"All tracks on the 'sleepless nights' album have unique lengths, with no two songs having the same duration.",0,1
+365,2-1877416-2.html.csv,sport,superlative,Rank 1 has achieved the highest total number of medals with 3.,1,1
+366,2-1877416-2.html.csv,sport,aggregation,The total number of gold medals awarded is 3.,0,0
+367,2-1877416-2.html.csv,sport,comparative,"Rank 2 has more gold medals than Rank 3, which only has a silver medal.",0,1
+368,2-1877416-2.html.csv,sport,unique,"There are no two ranks that have the same combination of gold, silver, and bronze medals.",0,1
+369,2-1877416-2.html.csv,sport,simple,Rank 6 has won 1 bronze medal.,1,1
+370,2-14305653-58.html.csv,mix,simple,Yugoslavia won their match against Luxembourg with a score of 5:0 in the 1982 World Cup qualifier.,0,1
+371,2-14305653-58.html.csv,mix,comparative,Yugoslavia scored more goals against Romania in Belgrade (2:0) compared to when they played in Bucharest (1:4).,1,1
+372,2-14305653-58.html.csv,mix,unique,"There is only one match listed where Yugoslavia played an away game in Italy, which was a 1982 World Cup qualifier against Italy.",1,1
+373,2-14305653-58.html.csv,mix,aggregation,The total number of goals scored by Yugoslavia across all friendly matches is 4.,0,0
+374,2-14305653-58.html.csv,mix,ordinal,The first game listed in the table where Yugoslavia played a World Cup qualifier was against Luxembourg on September 10.,1,0
+375,2-10753786-4.html.csv,mix,superlative,Tiger Woods has spent the most weeks (656) as the world number one male golfer.,1,1
+376,2-10753786-4.html.csv,mix,count,There are 4 players from the United States who have been ranked world number one in men's golf.,1,1
+377,2-10753786-4.html.csv,mix,comparative,Nick Faldo has more major titles (6) than Seve Ballesteros (5).,1,1
+378,2-10753786-4.html.csv,mix,ordinal,Bernhard Langer is the first player from West Germany to achieve a world number one ranking.,0,1
+379,2-10753786-4.html.csv,mix,unique,There are 7 different countries represented by players who have been ranked world number one in men's golf.,0,1
+380,2-16474033-6.html.csv,sport,count,Flavio Cipolla played in 16 clay court tournaments.,1,1
+381,2-16474033-6.html.csv,sport,superlative,"The highest number of matches Flavio Cipolla played with the same partner was 5, which was with Marcel Granollers.",1,0
+382,2-16474033-6.html.csv,sport,comparative,"Flavio Cipolla's score against Oliver Marach and Michal Mertiňák (6-3, 2-6) is lower compared to his score against David Marrero and Pablo Santos (7-6(7-2), 6-4).",1,1
+383,2-16474033-6.html.csv,sport,negation,Flavio Cipolla never played a tournament on grass surface according to the given data.,0,1
+384,2-16474033-6.html.csv,sport,unique,There are no two different tournaments where Flavio Cipolla played with Alessandro Motti and faced the same opponents.,1,0
+385,2-15544826-1.html.csv,sport,superlative,Greg Pursley achieved the highest number of wins in the 2011 season with 6 victories.,1,1
+386,2-15544826-1.html.csv,sport,aggregation,The total number of top-5 finishes across all seasons is 33.,1,1
+387,2-15544826-1.html.csv,sport,negation,"Greg Pursley did not win any races in the 1999, 2002, 2007, and 2008 seasons.",1,1
+388,2-15544826-1.html.csv,sport,comparative,"In 2009, Greg Pursley had a lower average finish position (6.3) compared to his starting position (6.5).",0,1
+389,2-15544826-1.html.csv,sport,simple,Greg Pursley's best season rank was 1st in the 2011 season.,1,1
+390,2-1421422-10.html.csv,sport,ordinal,Marcos Baghdatis's first and only appearance in the third round was at the Australian Open in 2013.,1,1
+391,2-1421422-10.html.csv,sport,count,Marcos Baghdatis participated in the Australian Open a total of 4 times between 2006 and 2013.,0,0
+392,2-1421422-10.html.csv,sport,simple,Marcos Baghdatis did not participate in the French Open during any of the years listed.,0,1
+393,2-1421422-10.html.csv,sport,negation,Marcos Baghdatis never advanced past the first round in Wimbledon during the period from 2006 to 2013.,1,1
+394,2-1421422-10.html.csv,sport,comparative,Marcos Baghdatis performed better at the Australian Open in 2013 compared to his performance in 2006 and 2007.,1,1
+395,2-14895621-2.html.csv,sport,simple,"Hwang Sun won 3 medals in the women's doubles (WD) event at the World Championships in Calgary, Canada in 1985.",1,1
+396,2-14895621-2.html.csv,sport,count,"There are 2 different venues where Hwang Sun won medals: Calgary, Canada and New Delhi, India.",1,1
+397,2-14895621-2.html.csv,sport,superlative,Hwang Sun achieved her best outcome at the World Championships in 1985 with a score of 3.,1,1
+398,2-14895621-2.html.csv,sport,comparative,"Hwang Sun's performance at the Asian Games in 1982 was better than her performance at the India Open in 1985, as she won 1 medal in both but the Asian Games is a higher-profile event.",1,1
+399,2-14895621-2.html.csv,sport,negation,Hwang Sun did not win any medals in events other than women's doubles (WD).,0,0
+400,2-10826385-15.html.csv,sport,superlative,Carlton achieved the highest score of 128 against South Melbourne at Princes Park.,1,1
+401,2-10826385-15.html.csv,sport,aggregation,"The total crowd attendance for all games played on 15 July 1972 was 106,646.",1,1
+402,2-10826385-15.html.csv,sport,comparative,Richmond scored more points than Essendon in their match at Windy Hill.,1,1
+403,2-10826385-15.html.csv,sport,unique,Hawthorn and Carlton are the only teams that scored exactly 128 points on 15 July 1972.,1,1
+404,2-10826385-15.html.csv,sport,all,"All games listed in this table were played on the same date, 15 July 1972.",1,1
+405,2-16620096-1.html.csv,mix,unique,"Émile Krieps is the only minister who served under two different prime ministers, Pierre Werner and Gaston Thorn.",1,1
+406,2-16620096-1.html.csv,mix,count,"There are three ministers of police force from the LSAP party: Jacques Poos, Alex Bodry (served twice).",1,1
+407,2-16620096-1.html.csv,mix,comparative,Marc Fischbach served a longer term as minister compared to his predecessor Émile Krieps.,0,1
+408,2-16620096-1.html.csv,mix,superlative,"Eugène Schaus had the longest single term of any minister listed, serving from 6 February 1969 to 15 June 1974.",1,1
+409,2-16620096-1.html.csv,mix,ordinal,Alex Bodry is the third minister in sequence who served under Prime Minister Jacques Santer.,0,0
+410,2-10866507-1.html.csv,sport,simple,Perth Glory played their home game against Melbourne Victory at Darwin Football Stadium on 28 July 2007.,1,1
+411,2-10866507-1.html.csv,sport,superlative,"The match with the highest crowd attendance was the Grand Final between Adelaide United and Perth Glory, which had 9,606 spectators.",1,1
+412,2-10866507-1.html.csv,sport,count,Perth Glory played a total of 2 away games in the table.,0,1
+413,2-10866507-1.html.csv,sport,comparative,The crowd at the Grand Final was larger than the combined crowds of the first two rounds.,0,1
+414,2-10866507-1.html.csv,sport,unique,There are no duplicate stadiums listed in the matches involving Perth Glory.,0,1
+415,2-17340355-10.html.csv,sport,superlative,"The Phoenix Suns achieved their best record of the season, 46-36, after winning against Golden State on April 15.",1,1
+416,2-17340355-10.html.csv,sport,count,There were 4 games played at US Airways Center during this period of the 2008-09 Phoenix Suns season.,1,1
+417,2-17340355-10.html.csv,sport,comparative,"The game against Dallas had a higher attendance (20,301) compared to any other game listed in the table.",1,1
+418,2-17340355-10.html.csv,sport,ordinal,The second-to-last game of the season was played against Memphis on April 13 at US Airways Center.,1,0
+419,2-17340355-10.html.csv,sport,all,"All games listed were part of the Phoenix Suns' home or away schedule, with no neutral site games mentioned.",0,1
+420,2-16225902-4.html.csv,sport,count,There are 5 players tied for third place with a score of 68.,1,1
+421,2-16225902-4.html.csv,sport,comparative,Tiger Woods has a lower to_par score than Mark Hensby by 1 point.,0,0
+422,2-16225902-4.html.csv,sport,superlative,Tiger Woods achieved the lowest to_par score of 6 in the tournament.,1,1
+423,2-16225902-4.html.csv,sport,unique,There are players from 8 different countries represented in the top places of this tournament.,1,1
+424,2-16225902-4.html.csv,sport,simple,"Fred Couples, Luke Donald, and Peter Lonard all share the third place with a score of 68.",1,1
+425,2-10790099-5.html.csv,sport,superlative,"Geelong achieved the highest score in the 1932 VFL season among the given matches, with a total of 130 points against Fitzroy.",1,1
+426,2-10790099-5.html.csv,sport,aggregation,"The average crowd size across all the matches played on May 28, 1932, was approximately 17,667 people.",1,1
+427,2-10790099-5.html.csv,sport,negation,St Kilda did not win their match against Footscray in the 1932 VFL season.,1,0
+428,2-10790099-5.html.csv,sport,comparative,"North Melbourne scored more points than Melbourne, with a final score of 118 to 88 at Arden Street Oval on May 28, 1932.",1,1
+429,2-10790099-5.html.csv,sport,ordinal,"The match between Carlton and Collingwood was the third game played on May 28, 1932, with the largest crowd of 32,000 people at Princes Park.",1,0
+430,2-1226543-6.html.csv,sport,comparative,Raul Boesel had a better finish position in 1988 (7th) compared to his start position (20th).,1,1
+431,2-1226543-6.html.csv,sport,count,"Raul Boesel raced with the Lola chassis for 5 different years (1988, 1989, 1992, 1993, and 1994).",1,1
+432,2-1226543-6.html.csv,sport,negation,Raul Boesel did not finish in the top 5 in any of his races listed in the table.,0,1
+433,2-1226543-6.html.csv,sport,superlative,"Raul Boesel's best start position was 2nd, which occurred in 1994 with Lola T94/00 and Ford XB engine.",1,1
+434,2-1226543-6.html.csv,sport,unique,There are no two different teams listed for Raul Boesel in the year 2001; he raced for Treadway that year.,0,1
+435,2-18078622-1.html.csv,culture,superlative,The album 'Pacific Ocean Blue' by Dennis Wilson has the longest time span between its first release in 1977 and its last reissue in 2008.,1,1
+436,2-18078622-1.html.csv,culture,count,"There are 3 different formats of the album 'Ten Years of Harmony' by The Beach Boys, including LP, 2LP, and 2CD.",1,1
+437,2-18078622-1.html.csv,culture,negation,None of Carl Wilson's albums were released in Canada according to the discography.,1,0
+438,2-18078622-1.html.csv,culture,comparative,The Beach Boys' album 'Keepin' the Summer Alive' was released on CD 11 years after its initial LP release.,0,1
+439,2-18078622-1.html.csv,culture,simple,Matthew Moore's album 'Winged Horses' was released in 1978 with the catalog number JZ 35611 in LP format.,1,1
+440,2-17486851-1.html.csv,sport,superlative,Christou from AEK Larnaca had the highest transfer fee of 120k among all players in the 2008-09 season.,1,1
+441,2-17486851-1.html.csv,sport,count,There are 5 players who joined APOEL F.C. on a free transfer during the summer window of 2010.,1,1
+442,2-17486851-1.html.csv,sport,comparative,The transfer fee for Onwuachi from Ionikos is higher than the transfer fee for Christou from AEK Larnaca in the 2008-09 season.,1,0
+443,2-17486851-1.html.csv,sport,unique,There are no two players listed as moving to APOEL F.C. on a loan return with a specified transfer fee.,1,1
+444,2-17486851-1.html.csv,sport,all,"All of the players who joined APOEL F.C. during the winter transfer window were on loan deals, not permanent transfers.",1,0
+445,2-11364514-2.html.csv,culture,count,There are 5 categories in which 'Lord of the Rings (musical)' received nominations at the Laurence Olivier Awards in 2008.,1,1
+446,2-11364514-2.html.csv,culture,negation,'Lord of the Rings (musical)' did not win any awards at the Laurence Olivier Awards in 2008.,1,1
+447,2-11364514-2.html.csv,culture,unique,Rob Howell is the only nominee who received two nominations for 'Lord of the Rings (musical)' at the Laurence Olivier Awards in 2008.,1,1
+448,2-11364514-2.html.csv,culture,all,All nominees for 'Lord of the Rings (musical)' were nominated but did not win their respective categories at the Laurence Olivier Awards in 2008.,1,1
+449,2-11364514-2.html.csv,culture,simple,Simon Baker was nominated for Best Sound Design for 'Lord of the Rings (musical)' at the Laurence Olivier Awards in 2008.,1,1
+450,2-1570558-1.html.csv,sport,superlative,Sherdrick Bonner achieved his highest passer rating of 126.5 in the 2003 season.,1,1
+451,2-1570558-1.html.csv,sport,aggregation,The total number of touchdowns thrown by Sherdrick Bonner over his career is 845.,1,1
+452,2-1570558-1.html.csv,sport,comparative,Sherdrick Bonner had a higher completion percentage in the 2003 season (67.1%) compared to the 1994 season (57.3%).,1,1
+453,2-1570558-1.html.csv,sport,ordinal,"The second-highest number of touchdowns thrown by Sherdrick Bonner in a single season was 83, achieved in both the 2006 and 2007 seasons.",1,0
+454,2-1570558-1.html.csv,sport,all,All of Sherdrick Bonner's seasons from 1994 to 2008 had a passer rating above 50.,1,1
+455,2-18096431-7.html.csv,sport,count,There are 5 players from the United States in the top 8 of the 1996 PGA Championship.,1,1
+456,2-18096431-7.html.csv,sport,superlative,"Mark Brooks achieved the lowest score and won the most money at the 1996 PGA Championship with a total prize of $430,000.",1,0
+457,2-18096431-7.html.csv,sport,comparative,Kenny Perry had the same total score as Mark Brooks but placed second because of a lower final round score.,0,1
+458,2-18096431-7.html.csv,sport,aggregation,"The total prize money awarded to players who finished in a tie for 8th place was $345,000.",1,0
+459,2-18096431-7.html.csv,sport,unique,There are 6 different countries represented among the top 8 players in the 1996 PGA Championship.,1,1
+460,2-18169845-3.html.csv,culture,unique,"The set design by Phelim McDermott, Julian Crouch, and Basil Twist won the Drama Desk Award, making it a unique win among all nominations for The Addams Family (musical) in 2010.",0,1
+461,2-18169845-3.html.csv,culture,count,There were 5 different categories where Nathan Lane was nominated or won an award for his performance in The Addams Family (musical) in 2010.,1,0
+462,2-18169845-3.html.csv,culture,comparative,"Nathan Lane had more successful outcomes than Bebe Neuwirth, as he won the Drama League Award for Distinguished Achievement in Musical Theatre while Bebe Neuwirth won only one award, the Distinguished Performance.",1,1
+463,2-18169845-3.html.csv,culture,superlative,The Addams Family (musical) received the highest number of nominations in the Drama Desk Awards category compared to other awards it was nominated for in 2010.,1,1
+464,2-18169845-3.html.csv,culture,simple,Kevin Chamberlin was nominated for both a Tony Award and an Outer Critics Circle Award for his performance in The Addams Family (musical) in 2010.,1,1
+465,2-13312898-28.html.csv,sport,superlative,Curtis Dickey was selected with the highest overall pick (5th) by the Indianapolis Colts in this draft.,1,1
+466,2-13312898-28.html.csv,sport,count,There are 3 players from USC drafted by the Indianapolis Colts in this draft history.,1,1
+467,2-13312898-28.html.csv,sport,unique,Randy Bielski is the only placekicker selected by the Indianapolis Colts in this draft.,1,1
+468,2-13312898-28.html.csv,sport,aggregation,The total number of rounds in which the Indianapolis Colts made a selection in this draft is 8.,1,0
+469,2-13312898-28.html.csv,sport,comparative,Derrick Hatchett was selected with a higher overall pick (24th) than Ray Donaldson (32nd).,1,1
+470,2-11513647-4.html.csv,sport,superlative,"The Colorado Rockies achieved their highest attendance on June 30 against the Mariners with 45,928 spectators.",0,0
+471,2-11513647-4.html.csv,sport,aggregation,The total number of games played by the Colorado Rockies in June 2002 was 29.,1,1
+472,2-11513647-4.html.csv,sport,negation,"The Colorado Rockies did not win any game against the Yankees in June 2002, losing all three matches.",0,1
+473,2-11513647-4.html.csv,sport,comparative,"The Rockies' record improved from 31-29 to 38-38 between June 5 and June 24, showing a significant increase in their performance during this period.",1,1
+474,2-11513647-4.html.csv,sport,unique,"There are no duplicate attendance figures for the games played by the Rockies in June 2002, indicating each game had a unique number of spectators.",1,0
+475,2-18178551-1.html.csv,sport,simple,"England played against Ireland on February 5, 2000 at Twickenham, London.",1,1
+476,2-18178551-1.html.csv,sport,aggregation,The total number of points scored against England in the Six Nations matches during 2000 was 71.,1,0
+477,2-18178551-1.html.csv,sport,unique,Argentina is the only team that did not score any points against England in 2000.,1,1
+478,2-18178551-1.html.csv,sport,superlative,"South Africa scored the most points (18) against England in a single match on June 17, 2000 at Loftus Versfeld, Pretoria.",1,1
+479,2-18178551-1.html.csv,sport,comparative,France scored fewer points against England than Wales did during their respective Six Nations matches in 2000.,1,1
+480,1-23466021-4.html.csv,sport,superlative,"The highest-scoring game of the season was Week 6 against the Roughriders at Skydome, where the Argonauts won with a score of 62-10.",1,1
+481,1-23466021-4.html.csv,sport,aggregation,"The average attendance across all home games played at Skydome during the season was approximately 35,792 people.",1,1
+482,1-23466021-4.html.csv,sport,comparative,The Argonauts scored more points in their Week 6 game against the Roughriders than they did in any other single game of the season.,1,1
+483,1-23466021-4.html.csv,sport,count,There were a total of 5 games where the final score was decided by 7 points or less during the 1991 Toronto Argonauts season.,0,0
+484,1-23466021-4.html.csv,sport,all,"All of the away games played by the Toronto Argonauts in the 1991 season were losses, except for the Week 5 game against the Roughriders at Taylor Field.",1,1
+485,2-11173692-2.html.csv,culture,superlative,Kalomira achieved the highest score with 156 points in the Eurovision Song Contest 2008.,1,1
+486,2-11173692-2.html.csv,culture,count,There are 7 songs performed entirely or partially in English in the Eurovision Song Contest 2008.,1,1
+487,2-11173692-2.html.csv,culture,unique,Ishtar is the only artist to perform a song in an imaginary language at the Eurovision Song Contest 2008.,1,1
+488,2-11173692-2.html.csv,culture,comparative,"Boaz Ma'uda scored more points than Stefan Filipović, with 104 points compared to 23 points, respectively.",1,1
+489,2-11173692-2.html.csv,culture,ordinal,Dima Bilan placed third in the Eurovision Song Contest 2008 with a score of 135 points.,1,1
+490,1-25551880-2.html.csv,sport,superlative,"Mark Cavendish won the most stages in the 2010 Vuelta a España, totaling 5 victories.",1,1
+491,1-25551880-2.html.csv,sport,aggregation,"The team Caisse d'Epargne led the team classification for the longest period during the 2010 Vuelta a España, maintaining it from stage 8 to stage 20.",0,0
+492,1-25551880-2.html.csv,sport,negation,David Moncoutié never won any stage in the 2010 Vuelta a España despite leading the mountains classification for multiple stages.,0,1
+493,1-25551880-2.html.csv,sport,comparative,"Philippe Gilbert led the general classification longer than Igor Antón, holding it from stage 3 to stage 8 while Antón held it from stage 9 to stage 14.",0,0
+494,1-25551880-2.html.csv,sport,unique,"There are no two different winners for the combination classification in the 2010 Vuelta a España; only Philippe Gilbert, Serafín Martínez, and Igor Antón held this position at various stages.",0,0
+495,2-14860855-3.html.csv,sport,aggregation,Reinhold Roth accumulated a total of 470 points across all his racing seasons.,1,0
+496,2-14860855-3.html.csv,sport,superlative,"In the 1989 season, Reinhold Roth achieved his highest point score with 190 points in the 250cc class.",1,1
+497,2-14860855-3.html.csv,sport,count,"Reinhold Roth raced for a total of four different teams throughout his career: Yamaha, Suzuki, Honda, and HB-Honda.",1,1
+498,2-14860855-3.html.csv,sport,negation,"Reinhold Roth never won any races in the 500cc class despite competing in multiple seasons (1982, 1984).",1,1
+499,2-14860855-3.html.csv,sport,simple,"In 1987, Reinhold Roth scored 108 points and secured his first win while racing for HB-Honda in the 250cc class.",1,1
