@@ -1,0 +1,46 @@
+{
+    "id": "t2t-freshtab-july",
+    "mode": "crowdsourcing",
+    "config": {
+        "annotator_instructions": "In this task, you will annotate outputs of an automatic text generation system. For each example, you will see a **table** on the left side and a corresponding generated **claim about the table** on the right side.\n<br>\n\nYour first task is to **mark factual errors in the claim**. Check closely the validity of the claim **with respect to the table**.\n\nThere are four types of errors that you can mark in the generated text:\n\n- <span style=\"color: rgb(214, 39, 40); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\"><b>Incorrect</b></span>: The fact in the text contradicts information in the table.\n- <span style=\"color: rgb(148, 103, 189); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\"><b>Not checkable</b></span>: The fact in the text cannot be checked given the table.\n- <span style=\"color: rgb(230, 171, 2); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\"><b>Misleading</b></span>: The fact in the text is misleading in the given context.\n- <span style=\"color: rgb(100, 100, 100); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\"><b>Other</b></span>: There\u2019s some other problem (grammar, style, relevance, repetitiveness etc.).\n<br>\n\nMark the errors by clicking the appropriate error category and dragging your mouse over the text, **highlighting the error span**. You can remove highlights by right-clicking them, if needed.\n<br>\n\nAdditionally, **disregarding the errors you found, mark the depth of the claim** by checking the appropriate box:\n\n* Claim is **poor quality**: The claim is hard to understand or nonsensical.\n* Claim is **boring**: The claim states an obvious thing you would know by just glancing at the table.\n* Claim is **informative**: You learned something relatively basic from the table.\n* Claim is **insightful**: The claim is non-trivial and does some reasoning over the table.\n<br><br>\n\n<div style=\"background-color: rgb(240, 240, 240);\"><div style=\"background-color: rgb(196, 196, 196);\"><b>Example:</b></div>\n\n<br><i>2024 Summer Olympics medal table</i>\n\n<table style=\"width: 33em; border: 1px solid black;\"><tr><th style=\"border-top: 1px solid black; border-bottom: 1px solid black;\"> <i>Rank</i></th><th style=\"border-top: 1px solid black; border-bottom: 1px solid black;\"><i>NOC</i></th><th style=\"border-top: 1px solid black; border-bottom: 1px solid black;\"><i>Gold</i></th><th style=\"border-top: 1px solid black; border-bottom: 1px solid black;\"><i>Silver</i></th><th style=\"border-top: 1px solid black; border-bottom: 1px solid black;\"><i>Bronze</i></th><th style=\"border-top: 1px solid black; border-bottom: 1px solid black;\"><i>Total</i> </th></tr><tr><td> <i>1</i></td><td><i>United States</i></td><td><i>40</i></td><td><i>44</i></td><td><i>42</i></td><td><i>126</i> </td></tr><tr><td> <i>2</i></td><td><i>China</i></td><td><i>40</i></td><td><i>27</i></td><td><i>24</i></td><td><i>91</i> </td></tr><tr><td style=\"border-bottom: 1px solid black;\"> <i>3</i></td><td style=\"border-bottom: 1px solid black;\"><i>Japan</i></td><td style=\"border-bottom: 1px solid black;\"><i>20</i></td><td style=\"border-bottom: 1px solid black;\"><i>12</i></td><td style=\"border-bottom: 1px solid black;\"><i>13</i></td><td style=\"border-bottom: 1px solid black;\"><i>45</i> </td></tr></table><br>\n\n<i>At the 2024 Olympics <span style=\"color: rgb(148, 103, 189); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\">in Paris</span>, <span style=\"color: rgb(230, 171, 2); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\">China got the most gold medals</span> and placed <span style=\"color: rgb(214, 39, 40); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\">first</span> in the <span style=\"color: rgb(100, 100, 100); text-decoration: underline; text-decoration-thickness: 4px; text-decoration-skip-ink: none\">the</span> overall country ranking.</i>\n\n<i><br><br>[<i>x</i>] Claim is insightful</i>\n\n&nbsp;</div>\n<br>\n\nOnce you\u2019re done with both tasks, click the **Mark example as complete** button (you can still update the annotation later).\n\nYou can submit your annotations once they are all marked as complete.",
+        "final_message": "Your annotations have been submitted.\n\nYour Prolific completion code is **CK388WFU**\n\nYou can return directly to Prolific using this URL: [https://app.prolific.com/submissions/complete?cc=CK388WFU](https://app.prolific.com/submissions/complete?cc=CK388WFU)",
+        "examples_per_batch": 63,
+        "annotators_per_example": 1,
+        "idle_time": 120,
+        "annotation_granularity": "words",
+        "annotation_overlap_allowed": true,
+        "service": "prolific",
+        "sort_order": "sort-example-ids-shuffle-setups",
+        "annotation_span_categories": [
+            {
+                "name": "Incorrect",
+                "color": "rgb(214, 39, 40)",
+                "description": "The fact in the text contradicts the data."
+            },
+            {
+                "name": "Not checkable",
+                "color": "rgb(148, 103, 189)",
+                "description": "The fact in the text cannot be checked given the data."
+            },
+            {
+                "name": "Misleading",
+                "color": "rgb(230, 171, 2)",
+                "description": "The fact in the text is misleading in the given context."
+            },
+            {
+                "name": "Other",
+                "color": "rgb(127, 127, 127)",
+                "description": "There\u2019s some other problem (grammar, style, relevance, repetitiveness etc.)."
+            }
+        ],
+        "flags": [
+            "Claim is <b>poor quality</b>: The claim is hard to understand or nonsensical.",
+            "Claim is <b>boring</b>: The claim states an obvious thing you would know by just glancing at the table.",
+            "Claim is <b>informative</b>: You learned something relatively basic from the table.",
+            "Claim is <b>insightful</b>: The claim is non-trivial and does some reasoning over the table."
+        ],
+        "options": [],
+        "text_fields": []
+    },
+    "created": "2025-07-17 16:59:24"
+}
