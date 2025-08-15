@@ -1,0 +1,50 @@
+{
+    "349": {
+        "title": "Terremoto de Myanmar de 2025",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://es.wikipedia.org/wiki/Terremoto_de_Sagaing_de_2025",
+        "date": "2025-03-28T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q133574091_349.csv",
+        "QID": "Q133574091",
+        "table": [
+            [
+                "país",
+                "fallecidos",
+                "lesiones",
+                "desaparecidos"
+            ],
+            [
+                "Birmania",
+                "5352",
+                "11366",
+                "538"
+            ],
+            [
+                "Tailandia",
+                "103",
+                "34",
+                "47"
+            ],
+            [
+                "China",
+                "0",
+                "2",
+                "0"
+            ],
+            [
+                "Vietnam",
+                "1",
+                "0",
+                "0"
+            ],
+            [
+                "Total",
+                "5456",
+                "11402",
+                "585"
+            ]
+        ],
+        "table_text": "país | fallecidos | lesiones | desaparecidos<br>Birmania | 5352 | 11366 | 538<br>Tailandia | 103 | 34 | 47<br>China | 0 | 2 | 0<br>Vietnam | 1 | 0 | 0<br>Total | 5456 | 11402 | 585"
+    }
+}

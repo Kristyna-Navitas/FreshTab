@@ -1,0 +1,1697 @@
+{
+    "0": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_0.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "land",
+                "tv-bolag",
+                "artist",
+                "bidrag",
+                "språk",
+                "låtskrivare"
+            ],
+            [
+                "Albanien",
+                "RTSH",
+                "Shkodra Elektronike",
+                "Zjerm",
+                "Albanska",
+                "Lekë Gjeloshi, Beatriçe Gjergji, Kolë Laca"
+            ],
+            [
+                "Armenien",
+                "ARMTV",
+                "Parg",
+                "Survivor",
+                "Engelska, armeniska",
+                "None"
+            ],
+            [
+                "Australien",
+                "SBS",
+                "Go-Jo",
+                "Milkshake Man",
+                "Engelska",
+                "Jason Bovino, Amy Sheppard, George Sheppard, Marty Zambotto"
+            ],
+            [
+                "Azerbajdzjan",
+                "İTV",
+                "Mamagama",
+                "Run with U",
+                "Engelska",
+                "Hasan Hayadar, Sefael Mishiyev, Roman Zee"
+            ],
+            [
+                "Belgien",
+                "VRT",
+                "Red Sebastian",
+                "Strobe Lights",
+                "Engelska",
+                "Billie Bentein, Seppe Herreman, Astrid Roelants, Willem Vanderstichele"
+            ],
+            [
+                "Cypern",
+                "CyBC",
+                "Theo Evan",
+                "Shh",
+                "Engelska",
+                "Linda Dale, Dimitris Kontopoulos, Lasse Nymann, Elsa Søllesvik, Elke Tiel"
+            ],
+            [
+                "Danmark",
+                "DR",
+                "Sissal",
+                "Hallucination",
+                "Engelska",
+                "Linnea Deb, Melanie Hayrapetian, Malthe Johansen, Sissal Jóhanna Norðberg Niclasen, Chris Rohde-Frisk, Lina Spangsberg, Marcus Winther-John"
+            ],
+            [
+                "Estland",
+                "ERR",
+                "Tommy Cash",
+                "Espresso Macchiato",
+                "Engelska, italienska",
+                "Johannes Naukkarinen, Tomas Tammemets"
+            ],
+            [
+                "Finland",
+                "YLE",
+                "Erika Vikman",
+                "Ich komme",
+                "Finska, tyska",
+                "Christel Roosberg, Jori Roosberg"
+            ],
+            [
+                "Frankrike",
+                "France Télévisions",
+                "Louane",
+                "Maman",
+                "Franska",
+                "Anne Peichert, Tristan Salvati"
+            ],
+            [
+                "Georgien",
+                "GPB",
+                "Mariam Shengelia",
+                "Freedom",
+                "Georgiska, engelska",
+                "Keti Gabisiani, Buka Kartozia"
+            ],
+            [
+                "Grekland",
+                "ERT",
+                "Klavdia",
+                "Asteromata",
+                "Grekiska",
+                "Arcade, Klavdia Papadopoulou"
+            ],
+            [
+                "Irland",
+                "RTÈ",
+                "Emmy",
+                "Laika Party",
+                "Engelska",
+                "Truls Marius Aarra, Emmy Kristine Guttulsrud Kristiansen, Erlend Guttulsrud Kristiansen, Henrik Østlund, Larissa Tormey"
+            ],
+            [
+                "Island",
+                "RÚV",
+                "Væb",
+                "Róa",
+                "Isländska",
+                "Gunnar Björn Gunnarsson, Hálfdán Helgi Matthíasson, Ingi Þór Garðarsson, Matthías Davíð Matthíasson"
+            ],
+            [
+                "Israel",
+                "KAN",
+                "Yuval Raphael",
+                "New Day Will Rise",
+                "Engelska, franska, hebreiska",
+                "Keren Peles"
+            ],
+            [
+                "Italien",
+                "RAI",
+                "Lucio Corsi",
+                "Volevo essere un duro",
+                "Italienska",
+                "Lucio Corsi, Tommaso Ottomano"
+            ],
+            [
+                "Kroatien",
+                "HRT",
+                "Marko Bošnjak",
+                "Poison Cake",
+                "Engelska",
+                "Marko Bošnjak, Emma Gale, Ben Pyne, Bas Wissink"
+            ],
+            [
+                "Lettland",
+                "LSM",
+                "Tautumeitas",
+                "Bur man laimi",
+                "Lettiska",
+                "Laura Līcīte, Elvis Lintiņš, Asnate Rancāne, Aurēlija Rancāne, Gabriēla Zvaigznīte"
+            ],
+            [
+                "Litauen",
+                "LRT",
+                "Katarsis",
+                "Tavo akys",
+                "Litauiska",
+                "Lukas Radzevičius"
+            ],
+            [
+                "Luxemburg",
+                "RTL",
+                "Laura Thorn",
+                "La Poupée Monte Le Son",
+                "Franska",
+                "Christophe Houssin, Julien Salvia, Ludovic-Alexandre Vidal"
+            ],
+            [
+                "Malta",
+                "PBS",
+                "Miriana Conte",
+                "Serving",
+                "Engelska",
+                "Miriana Conte, Sarah Evelyn Fullerton, Matthew Mercieca, Benjamin Schmid"
+            ],
+            [
+                "Montenegro",
+                "RTCG",
+                "Nina Žižić",
+                "Dobrodošli",
+                "Montenegrinska",
+                "Darko Dimitrov, Violeta Mihajlovska Milić, Boris Subotić"
+            ],
+            [
+                "Nederländerna",
+                "AVROTROS",
+                "Claude",
+                "C'est la vie",
+                "Franska, engelska",
+                "Claude Kiambe, Arno Krabman, Léon Paul Palmen, Joren van der Voort"
+            ],
+            [
+                "Norge",
+                "NRK",
+                "Kyle Alessandro",
+                "Lighter",
+                "Engelska",
+                "Adam Allskog, Kyle Alessandro Helgesen Villalobos"
+            ],
+            [
+                "Polen",
+                "TVP",
+                "Justyna Steczkowska",
+                "Gaja",
+                "Polska, engelska",
+                "Dominic Buczkowski-Wojtaszek, Patryk Kumór, Justyna Steczkowska, Emilian Waluchowski"
+            ],
+            [
+                "Portugal",
+                "RTP",
+                "Napa",
+                "Deslocado",
+                "Portugisiska",
+                "Diogo Góis, Guilherme Gomes, João Lourenço Gomes, João Rodrigues, André Santos, Francisco Sousa"
+            ],
+            [
+                "San Marino",
+                "SMRTV",
+                "Gabry Ponte[a]",
+                "Tutta l'Italia",
+                "Italienska",
+                "Andrea Bonomo, Gabriele Ponte, Edwyn Roberts"
+            ],
+            [
+                "Schweiz",
+                "SRG SSR",
+                "Zoë Më",
+                "Voyage",
+                "Franska",
+                "Zoë Kressler, Emily Middlemas, Tom Oehler"
+            ],
+            [
+                "Serbien",
+                "RTS",
+                "Princ",
+                "Mila",
+                "Serbiska",
+                "Dušan Bačić"
+            ],
+            [
+                "Slovenien",
+                "RTVSLO",
+                "Klemen",
+                "How Much Time Do We Have Left",
+                "Engelska",
+                "Klemen Slakonja"
+            ],
+            [
+                "Spanien",
+                "RTVE",
+                "Melody",
+                "Esa diva",
+                "Spanska",
+                "Alberto Lorite, Melodía Ruiz Gutiérrez"
+            ],
+            [
+                "Storbritannien",
+                "BBC",
+                "Remember Monday",
+                "What the Hell Just Happened?",
+                "Engelska",
+                "Julie Aagaard, Sam Brennan, Lauren Byrne, Tom Hollings, Holly-Anne HullKes Kamara, Charlotte Steele, Thomas Stengaard"
+            ],
+            [
+                "Sverige",
+                "SVT",
+                "KAJ",
+                "Bara bada bastu",
+                "Svenska",
+                "Anderz Wrethov, Axel Åhman, Jakob Norrgård, Kevin Holmström, Kristofer Strandberg, Robert Skowronski"
+            ],
+            [
+                "Tjeckien",
+                "ČT",
+                "Adonxs",
+                "Kiss Kiss Goodbye",
+                "Engelska",
+                "Lorenzo Calvo, Michaela Charvátová, Inés Coulon, Ronald Janeček, George Masters-Clark, Adam Pavlovčin, Adriano Lopes da Silva"
+            ],
+            [
+                "Tyskland",
+                "NDR[b]",
+                "Abor & Tynna",
+                "Baller",
+                "Tyska",
+                "Attila Bornemisza, Tünde Bornemisza, Alexander Hauer"
+            ],
+            [
+                "Ukraina",
+                "Suspilne",
+                "Ziferblat",
+                "Bird of Pray",
+                "Ukrainska, engelska",
+                "Fedir Khodakov, Danylo Leshchynskyi, Valentyn Leshchynskyi"
+            ],
+            [
+                "Österrike",
+                "ORF",
+                "JJ",
+                "Wasted Love",
+                "Engelska",
+                "Johannes Pietsch, Teodora Špirić, Thomas Thurner"
+            ]
+        ],
+        "table_text": "land | tv-bolag | artist | bidrag | språk | låtskrivare<br>Albanien | RTSH | Shkodra Elektronike | Zjerm | Albanska | Lekë Gjeloshi, Beatriçe Gjergji, Kolë Laca<br>Armenien | ARMTV | Parg | Survivor | Engelska, armeniska | None<br>Australien | SBS | Go-Jo | Milkshake Man | Engelska | Jason Bovino, Amy Sheppard, George Sheppard, Marty Zambotto<br>Azerbajdzjan | İTV | Mamagama | Run with U | Engelska | Hasan Hayadar, Sefael Mishiyev, Roman Zee<br>Belgien | VRT | Red Sebastian | Strobe Lights | Engelska | Billie Bentein, Seppe Herreman, Astrid Roelants, Willem Vanderstichele<br>Cypern | CyBC | Theo Evan | Shh | Engelska | Linda Dale, Dimitris Kontopoulos, Lasse Nymann, Elsa Søllesvik, Elke Tiel<br>Danmark | DR | Sissal | Hallucination | Engelska | Linnea Deb, Melanie Hayrapetian, Malthe Johansen, Sissal Jóhanna Norðberg Niclasen, Chris Rohde-Frisk, Lina Spangsberg, Marcus Winther-John<br>Estland | ERR | Tommy Cash | Espresso Macchiato | Engelska, italienska | Johannes Naukkarinen, Tomas Tammemets<br>Finland | YLE | Erika Vikman | Ich komme | Finska, tyska | Christel Roosberg, Jori Roosberg<br>Frankrike | France Télévisions | Louane | Maman | Franska | Anne Peichert, Tristan Salvati<br>Georgien | GPB | Mariam Shengelia | Freedom | Georgiska, engelska | Keti Gabisiani, Buka Kartozia<br>Grekland | ERT | Klavdia | Asteromata | Grekiska | Arcade, Klavdia Papadopoulou<br>Irland | RTÈ | Emmy | Laika Party | Engelska | Truls Marius Aarra, Emmy Kristine Guttulsrud Kristiansen, Erlend Guttulsrud Kristiansen, Henrik Østlund, Larissa Tormey<br>Island | RÚV | Væb | Róa | Isländska | Gunnar Björn Gunnarsson, Hálfdán Helgi Matthíasson, Ingi Þór Garðarsson, Matthías Davíð Matthíasson<br>Israel | KAN | Yuval Raphael | New Day Will Rise | Engelska, franska, hebreiska | Keren Peles<br>Italien | RAI | Lucio Corsi | Volevo essere un duro | Italienska | Lucio Corsi, Tommaso Ottomano<br>Kroatien | HRT | Marko Bošnjak | Poison Cake | Engelska | Marko Bošnjak, Emma Gale, Ben Pyne, Bas Wissink<br>Lettland | LSM | Tautumeitas | Bur man laimi | Lettiska | Laura Līcīte, Elvis Lintiņš, Asnate Rancāne, Aurēlija Rancāne, Gabriēla Zvaigznīte<br>Litauen | LRT | Katarsis | Tavo akys | Litauiska | Lukas Radzevičius<br>Luxemburg | RTL | Laura Thorn | La Poupée Monte Le Son | Franska | Christophe Houssin, Julien Salvia, Ludovic-Alexandre Vidal<br>Malta | PBS | Miriana Conte | Serving | Engelska | Miriana Conte, Sarah Evelyn Fullerton, Matthew Mercieca, Benjamin Schmid<br>Montenegro | RTCG | Nina Žižić | Dobrodošli | Montenegrinska | Darko Dimitrov, Violeta Mihajlovska Milić, Boris Subotić<br>Nederländerna | AVROTROS | Claude | C'est la vie | Franska, engelska | Claude Kiambe, Arno Krabman, Léon Paul Palmen, Joren van der Voort<br>Norge | NRK | Kyle Alessandro | Lighter | Engelska | Adam Allskog, Kyle Alessandro Helgesen Villalobos<br>Polen | TVP | Justyna Steczkowska | Gaja | Polska, engelska | Dominic Buczkowski-Wojtaszek, Patryk Kumór, Justyna Steczkowska, Emilian Waluchowski<br>Portugal | RTP | Napa | Deslocado | Portugisiska | Diogo Góis, Guilherme Gomes, João Lourenço Gomes, João Rodrigues, André Santos, Francisco Sousa<br>San Marino | SMRTV | Gabry Ponte[a] | Tutta l'Italia | Italienska | Andrea Bonomo, Gabriele Ponte, Edwyn Roberts<br>Schweiz | SRG SSR | Zoë Më | Voyage | Franska | Zoë Kressler, Emily Middlemas, Tom Oehler<br>Serbien | RTS | Princ | Mila | Serbiska | Dušan Bačić<br>Slovenien | RTVSLO | Klemen | How Much Time Do We Have Left | Engelska | Klemen Slakonja<br>Spanien | RTVE | Melody | Esa diva | Spanska | Alberto Lorite, Melodía Ruiz Gutiérrez<br>Storbritannien | BBC | Remember Monday | What the Hell Just Happened? | Engelska | Julie Aagaard, Sam Brennan, Lauren Byrne, Tom Hollings, Holly-Anne HullKes Kamara, Charlotte Steele, Thomas Stengaard<br>Sverige | SVT | KAJ | Bara bada bastu | Svenska | Anderz Wrethov, Axel Åhman, Jakob Norrgård, Kevin Holmström, Kristofer Strandberg, Robert Skowronski<br>Tjeckien | ČT | Adonxs | Kiss Kiss Goodbye | Engelska | Lorenzo Calvo, Michaela Charvátová, Inés Coulon, Ronald Janeček, George Masters-Clark, Adam Pavlovčin, Adriano Lopes da Silva<br>Tyskland | NDR[b] | Abor & Tynna | Baller | Tyska | Attila Bornemisza, Tünde Bornemisza, Alexander Hauer<br>Ukraina | Suspilne | Ziferblat | Bird of Pray | Ukrainska, engelska | Fedir Khodakov, Danylo Leshchynskyi, Valentyn Leshchynskyi<br>Österrike | ORF | JJ | Wasted Love | Engelska | Johannes Pietsch, Teodora Špirić, Thomas Thurner"
+    },
+    "1": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_1.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "nr",
+                "land",
+                "artist",
+                "bidrag",
+                "språk",
+                "plats",
+                "poäng"
+            ],
+            [
+                "1",
+                "Island",
+                "Væb",
+                "Róa",
+                "Isländska",
+                "6",
+                "97"
+            ],
+            [
+                "2",
+                "Polen",
+                "Justyna Steczkowska",
+                "Gaja",
+                "Polska, engelska",
+                "7",
+                "85"
+            ],
+            [
+                "3",
+                "Slovenien",
+                "Klemen",
+                "How Much Time Do We Have Left",
+                "Engelska",
+                "13",
+                "23"
+            ],
+            [
+                "4",
+                "Estland",
+                "Tommy Cash",
+                "Espresso Macchiato",
+                "Engelska, italienska",
+                "5",
+                "113"
+            ],
+            [
+                "#",
+                "Spanien",
+                "Melody",
+                "Esa diva",
+                "Spanska",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "5",
+                "Ukraina",
+                "Ziferblat",
+                "Bird of Pray",
+                "Engelska, ukrainska",
+                "1",
+                "137"
+            ],
+            [
+                "6",
+                "Sverige",
+                "KAJ",
+                "Bara bada bastu",
+                "Svenska",
+                "4",
+                "118"
+            ],
+            [
+                "7",
+                "Portugal",
+                "Napa",
+                "Deslocado",
+                "Portugisiska",
+                "9",
+                "56"
+            ],
+            [
+                "8",
+                "Norge",
+                "Kyle Alessandro",
+                "Lighter",
+                "Engelska",
+                "8",
+                "82"
+            ],
+            [
+                "9",
+                "Belgien",
+                "Red Sebastian",
+                "Strobe Lights",
+                "Engelska",
+                "14",
+                "23"
+            ],
+            [
+                "#",
+                "Italien",
+                "Lucio Corsi",
+                "Volevo essere un duro",
+                "Italienska",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "10",
+                "Azerbajdzjan",
+                "Mamagama",
+                "Run with U",
+                "Engelska",
+                "15",
+                "7"
+            ],
+            [
+                "11",
+                "San Marino",
+                "Gabry Ponte[a]",
+                "Tutta l'Italia",
+                "Italienska",
+                "10",
+                "46"
+            ],
+            [
+                "12",
+                "Albanien",
+                "Shkodra Elektronike",
+                "Zjerm",
+                "Albanska",
+                "2",
+                "122"
+            ],
+            [
+                "13",
+                "Nederländerna",
+                "Claude",
+                "C'est la vie",
+                "Franska, engelska",
+                "3",
+                "121"
+            ],
+            [
+                "14",
+                "Kroatien",
+                "Marko Bošnjak",
+                "Poison Cake",
+                "Engelska",
+                "12",
+                "28"
+            ],
+            [
+                "#",
+                "Schweiz",
+                "Zoë Më",
+                "Voyage",
+                "Franska",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "15",
+                "Cypern",
+                "Theo Evan",
+                "Shh",
+                "Engelska",
+                "11",
+                "44"
+            ]
+        ],
+        "table_text": "nr | land | artist | bidrag | språk | plats | poäng<br>1 | Island | Væb | Róa | Isländska | 6 | 97<br>2 | Polen | Justyna Steczkowska | Gaja | Polska, engelska | 7 | 85<br>3 | Slovenien | Klemen | How Much Time Do We Have Left | Engelska | 13 | 23<br>4 | Estland | Tommy Cash | Espresso Macchiato | Engelska, italienska | 5 | 113<br># | Spanien | Melody | Esa diva | Spanska | <NA> | <NA><br>5 | Ukraina | Ziferblat | Bird of Pray | Engelska, ukrainska | 1 | 137<br>6 | Sverige | KAJ | Bara bada bastu | Svenska | 4 | 118<br>7 | Portugal | Napa | Deslocado | Portugisiska | 9 | 56<br>8 | Norge | Kyle Alessandro | Lighter | Engelska | 8 | 82<br>9 | Belgien | Red Sebastian | Strobe Lights | Engelska | 14 | 23<br># | Italien | Lucio Corsi | Volevo essere un duro | Italienska | <NA> | <NA><br>10 | Azerbajdzjan | Mamagama | Run with U | Engelska | 15 | 7<br>11 | San Marino | Gabry Ponte[a] | Tutta l'Italia | Italienska | 10 | 46<br>12 | Albanien | Shkodra Elektronike | Zjerm | Albanska | 2 | 122<br>13 | Nederländerna | Claude | C'est la vie | Franska, engelska | 3 | 121<br>14 | Kroatien | Marko Bošnjak | Poison Cake | Engelska | 12 | 28<br># | Schweiz | Zoë Më | Voyage | Franska | <NA> | <NA><br>15 | Cypern | Theo Evan | Shh | Engelska | 11 | 44"
+    },
+    "2": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_2.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "nr",
+                "land",
+                "artist",
+                "bidrag",
+                "språk",
+                "plats",
+                "poäng"
+            ],
+            [
+                "1",
+                "Australien",
+                "Go-Jo",
+                "Milkshake Man",
+                "Engelska",
+                "11",
+                "41"
+            ],
+            [
+                "2",
+                "Montenegro",
+                "Nina Žižić",
+                "Dobrodošli",
+                "Montenegrinska",
+                "16",
+                "12"
+            ],
+            [
+                "3",
+                "Irland",
+                "Emmy",
+                "Laika Party",
+                "Engelska",
+                "13",
+                "28"
+            ],
+            [
+                "4",
+                "Lettland",
+                "Tautumeitas",
+                "Bur man laimi",
+                "Lettiska",
+                "2",
+                "130"
+            ],
+            [
+                "5",
+                "Armenien",
+                "Parg",
+                "Survivor",
+                "Engelska, armeniska",
+                "10",
+                "51"
+            ],
+            [
+                "6",
+                "Österrike",
+                "JJ",
+                "Wasted Love",
+                "Engelska",
+                "5",
+                "104"
+            ],
+            [
+                "#",
+                "Storbritannien",
+                "Remember Monday",
+                "What the Hell Just Happened?",
+                "Engelska",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "7",
+                "Grekland",
+                "Klavdia",
+                "Asteromata",
+                "Grekiska",
+                "4",
+                "112"
+            ],
+            [
+                "8",
+                "Litauen",
+                "Katarsis",
+                "Tavo akys",
+                "Litauiska",
+                "6",
+                "103"
+            ],
+            [
+                "9",
+                "Malta",
+                "Miriana Conte",
+                "Serving",
+                "Engelska",
+                "9",
+                "53"
+            ],
+            [
+                "10",
+                "Georgien",
+                "Mariam Shengelia",
+                "Freedom",
+                "Georgiska, engelska",
+                "15",
+                "28"
+            ],
+            [
+                "#",
+                "Frankrike",
+                "Louane",
+                "Maman",
+                "Franska",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "11",
+                "Danmark",
+                "Sissal",
+                "Hallucination",
+                "Engelska",
+                "8",
+                "61"
+            ],
+            [
+                "12",
+                "Tjeckien",
+                "Adonxs",
+                "Kiss Kiss Goodbye",
+                "Engelska",
+                "12",
+                "29"
+            ],
+            [
+                "13",
+                "Luxemburg",
+                "Laura Thorn",
+                "La Poupée Monte Le Son",
+                "Franska",
+                "7",
+                "62"
+            ],
+            [
+                "14",
+                "Israel",
+                "Yuval Raphael",
+                "New Day Will Rise",
+                "Engelska, franska, hebreiska",
+                "1",
+                "203"
+            ],
+            [
+                "#",
+                "Tyskland",
+                "Abor & Tynna",
+                "Baller",
+                "Tyska",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "15",
+                "Serbien",
+                "Princ",
+                "Mila",
+                "Serbiska",
+                "14",
+                "28"
+            ],
+            [
+                "16",
+                "Finland",
+                "Erika Vikman",
+                "Ich komme",
+                "Finska",
+                "3",
+                "115"
+            ]
+        ],
+        "table_text": "nr | land | artist | bidrag | språk | plats | poäng<br>1 | Australien | Go-Jo | Milkshake Man | Engelska | 11 | 41<br>2 | Montenegro | Nina Žižić | Dobrodošli | Montenegrinska | 16 | 12<br>3 | Irland | Emmy | Laika Party | Engelska | 13 | 28<br>4 | Lettland | Tautumeitas | Bur man laimi | Lettiska | 2 | 130<br>5 | Armenien | Parg | Survivor | Engelska, armeniska | 10 | 51<br>6 | Österrike | JJ | Wasted Love | Engelska | 5 | 104<br># | Storbritannien | Remember Monday | What the Hell Just Happened? | Engelska | <NA> | <NA><br>7 | Grekland | Klavdia | Asteromata | Grekiska | 4 | 112<br>8 | Litauen | Katarsis | Tavo akys | Litauiska | 6 | 103<br>9 | Malta | Miriana Conte | Serving | Engelska | 9 | 53<br>10 | Georgien | Mariam Shengelia | Freedom | Georgiska, engelska | 15 | 28<br># | Frankrike | Louane | Maman | Franska | <NA> | <NA><br>11 | Danmark | Sissal | Hallucination | Engelska | 8 | 61<br>12 | Tjeckien | Adonxs | Kiss Kiss Goodbye | Engelska | 12 | 29<br>13 | Luxemburg | Laura Thorn | La Poupée Monte Le Son | Franska | 7 | 62<br>14 | Israel | Yuval Raphael | New Day Will Rise | Engelska, franska, hebreiska | 1 | 203<br># | Tyskland | Abor & Tynna | Baller | Tyska | <NA> | <NA><br>15 | Serbien | Princ | Mila | Serbiska | 14 | 28<br>16 | Finland | Erika Vikman | Ich komme | Finska | 3 | 115"
+    },
+    "3": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_3.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "fördelning_mellan_jury-_och_teleröstningsresultat_finalen_plac.",
+                "fördelning_mellan_jury-_och_teleröstningsresultat_finalen_teleröstning",
+                "fördelning_mellan_jury-_och_teleröstningsresultat_finalen_poäng",
+                "fördelning_mellan_jury-_och_teleröstningsresultat_finalen_jury",
+                "fördelning_mellan_jury-_och_teleröstningsresultat_finalen_poäng.1"
+            ],
+            [
+                "1",
+                "Israel",
+                "297",
+                "Österrike",
+                "258"
+            ],
+            [
+                "2",
+                "Estland",
+                "258",
+                "Schweiz",
+                "214"
+            ],
+            [
+                "3",
+                "Sverige",
+                "195",
+                "Frankrike",
+                "180"
+            ],
+            [
+                "4",
+                "Österrike",
+                "178",
+                "Italien",
+                "159"
+            ],
+            [
+                "5",
+                "Albanien",
+                "173",
+                "Nederländerna",
+                "133"
+            ],
+            [
+                "6",
+                "Ukraina",
+                "158",
+                "Sverige",
+                "126"
+            ],
+            [
+                "7",
+                "Polen",
+                "139",
+                "Lettland",
+                "116"
+            ],
+            [
+                "8",
+                "Grekland",
+                "126",
+                "Grekland",
+                "105"
+            ],
+            [
+                "9",
+                "Finland",
+                "108",
+                "Estland",
+                "98"
+            ],
+            [
+                "10",
+                "Italien",
+                "97",
+                "Storbritannien",
+                "88"
+            ],
+            [
+                "11",
+                "Tyskland",
+                "74",
+                "Finland",
+                "88"
+            ],
+            [
+                "12",
+                "Norge",
+                "67",
+                "Malta",
+                "83"
+            ],
+            [
+                "13",
+                "Litauen",
+                "62",
+                "Tyskland",
+                "77"
+            ],
+            [
+                "14",
+                "Frankrike",
+                "50",
+                "Ukraina",
+                "60"
+            ],
+            [
+                "15",
+                "Nederländerna",
+                "42",
+                "Israel",
+                "60"
+            ],
+            [
+                "16",
+                "Lettland",
+                "42",
+                "Albanien",
+                "45"
+            ],
+            [
+                "17",
+                "Island",
+                "33",
+                "Danmark",
+                "45"
+            ],
+            [
+                "18",
+                "Armenien",
+                "30",
+                "Armenien",
+                "42"
+            ],
+            [
+                "19",
+                "Luxemburg",
+                "24",
+                "Portugal",
+                "37"
+            ],
+            [
+                "20",
+                "San Marino",
+                "18",
+                "Litauen",
+                "34"
+            ],
+            [
+                "21",
+                "Portugal",
+                "13",
+                "Spanien",
+                "27"
+            ],
+            [
+                "22",
+                "Spanien",
+                "10",
+                "Luxemburg",
+                "23"
+            ],
+            [
+                "23",
+                "Malta",
+                "8",
+                "Norge",
+                "22"
+            ],
+            [
+                "24",
+                "Danmark",
+                "2",
+                "Polen",
+                "17"
+            ],
+            [
+                "25",
+                "Storbritannien",
+                "0",
+                "San Marino",
+                "9"
+            ],
+            [
+                "26",
+                "Schweiz",
+                "0",
+                "Island",
+                "0"
+            ]
+        ],
+        "table_text": "fördelning_mellan_jury-_och_teleröstningsresultat_finalen_plac. | fördelning_mellan_jury-_och_teleröstningsresultat_finalen_teleröstning | fördelning_mellan_jury-_och_teleröstningsresultat_finalen_poäng | fördelning_mellan_jury-_och_teleröstningsresultat_finalen_jury | fördelning_mellan_jury-_och_teleröstningsresultat_finalen_poäng.1<br>1 | Israel | 297 | Österrike | 258<br>2 | Estland | 258 | Schweiz | 214<br>3 | Sverige | 195 | Frankrike | 180<br>4 | Österrike | 178 | Italien | 159<br>5 | Albanien | 173 | Nederländerna | 133<br>6 | Ukraina | 158 | Sverige | 126<br>7 | Polen | 139 | Lettland | 116<br>8 | Grekland | 126 | Grekland | 105<br>9 | Finland | 108 | Estland | 98<br>10 | Italien | 97 | Storbritannien | 88<br>11 | Tyskland | 74 | Finland | 88<br>12 | Norge | 67 | Malta | 83<br>13 | Litauen | 62 | Tyskland | 77<br>14 | Frankrike | 50 | Ukraina | 60<br>15 | Nederländerna | 42 | Israel | 60<br>16 | Lettland | 42 | Albanien | 45<br>17 | Island | 33 | Danmark | 45<br>18 | Armenien | 30 | Armenien | 42<br>19 | Luxemburg | 24 | Portugal | 37<br>20 | San Marino | 18 | Litauen | 34<br>21 | Portugal | 13 | Spanien | 27<br>22 | Spanien | 10 | Luxemburg | 23<br>23 | Malta | 8 | Norge | 22<br>24 | Danmark | 2 | Polen | 17<br>25 | Storbritannien | 0 | San Marino | 9<br>26 | Schweiz | 0 | Island | 0"
+    },
+    "4": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_4.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "nr",
+                "land",
+                "artist",
+                "bidrag",
+                "språk",
+                "plats",
+                "poäng"
+            ],
+            [
+                "1",
+                "Norge",
+                "Kyle Alessandro",
+                "Lighter",
+                "Engelska",
+                "18",
+                "89"
+            ],
+            [
+                "2",
+                "Luxemburg",
+                "Laura Thorn",
+                "La Poupée Monte Le Son",
+                "Franska",
+                "22",
+                "47"
+            ],
+            [
+                "3",
+                "Estland",
+                "Tommy Cash",
+                "Espresso Macchiato",
+                "Engelska, italienska",
+                "3",
+                "356"
+            ],
+            [
+                "4",
+                "Israel",
+                "Yuval Raphael",
+                "New Day Will Rise",
+                "Engelska, franska, hebreiska",
+                "2",
+                "357"
+            ],
+            [
+                "5",
+                "Litauen",
+                "Katarsis",
+                "Tavo akys",
+                "Litauiska",
+                "16",
+                "96"
+            ],
+            [
+                "6",
+                "Spanien",
+                "Melody",
+                "Esa diva",
+                "Spanska",
+                "24",
+                "37"
+            ],
+            [
+                "7",
+                "Ukraina",
+                "Ziferblat",
+                "Bird of Pray",
+                "Engelska, ukrainska",
+                "9",
+                "218"
+            ],
+            [
+                "8",
+                "Storbritannien",
+                "Remember Monday",
+                "What the Hell Just Happened?",
+                "Engelska",
+                "19",
+                "88"
+            ],
+            [
+                "9",
+                "Österrike",
+                "JJ",
+                "Wasted Love",
+                "Engelska",
+                "1",
+                "436"
+            ],
+            [
+                "10",
+                "Island",
+                "Væb",
+                "Róa",
+                "Isländska",
+                "25",
+                "33"
+            ],
+            [
+                "11",
+                "Lettland",
+                "Tautumeitas",
+                "Bur man laimi",
+                "Lettiska",
+                "13",
+                "158"
+            ],
+            [
+                "12",
+                "Nederländerna",
+                "Claude",
+                "C'est la vie",
+                "Franska, engelska",
+                "12",
+                "175"
+            ],
+            [
+                "13",
+                "Finland",
+                "Erika Vikman",
+                "Ich komme",
+                "Finska",
+                "11",
+                "196"
+            ],
+            [
+                "14",
+                "Italien",
+                "Lucio Corsi",
+                "Volevo essere un duro",
+                "Italienska",
+                "5",
+                "256"
+            ],
+            [
+                "15",
+                "Polen",
+                "Justyna Steczkowska",
+                "Gaja",
+                "Polska, engelska",
+                "14",
+                "156"
+            ],
+            [
+                "16",
+                "Tyskland",
+                "Abor & Tynna",
+                "Baller",
+                "Tyska",
+                "15",
+                "151"
+            ],
+            [
+                "17",
+                "Grekland",
+                "Klavdia",
+                "Asteromata",
+                "Grekiska",
+                "6",
+                "231"
+            ],
+            [
+                "18",
+                "Armenien",
+                "Parg",
+                "Survivor",
+                "Engelska, armeniska",
+                "20",
+                "72"
+            ],
+            [
+                "19",
+                "Schweiz",
+                "Zoë Më",
+                "Voyage",
+                "Franska",
+                "10",
+                "214"
+            ],
+            [
+                "20",
+                "Malta",
+                "Miriana Conte",
+                "Serving",
+                "Engelska",
+                "17",
+                "91"
+            ],
+            [
+                "21",
+                "Portugal",
+                "Napa",
+                "Deslocado",
+                "Portugisiska",
+                "21",
+                "50"
+            ],
+            [
+                "22",
+                "Danmark",
+                "Sissal",
+                "Hallucination",
+                "Engelska",
+                "23",
+                "47"
+            ],
+            [
+                "23",
+                "Sverige",
+                "KAJ",
+                "Bara bada bastu",
+                "Svenska",
+                "4",
+                "321"
+            ],
+            [
+                "24",
+                "Frankrike",
+                "Louane",
+                "Maman",
+                "Franska",
+                "7",
+                "230"
+            ],
+            [
+                "25",
+                "San Marino",
+                "Gabry Ponte[a]",
+                "Tutta l'Italia",
+                "Italienska",
+                "26",
+                "27"
+            ],
+            [
+                "26",
+                "Albanien",
+                "Shkodra Elektronike",
+                "Zjerm",
+                "Albanska",
+                "8",
+                "218"
+            ]
+        ],
+        "table_text": "nr | land | artist | bidrag | språk | plats | poäng<br>1 | Norge | Kyle Alessandro | Lighter | Engelska | 18 | 89<br>2 | Luxemburg | Laura Thorn | La Poupée Monte Le Son | Franska | 22 | 47<br>3 | Estland | Tommy Cash | Espresso Macchiato | Engelska, italienska | 3 | 356<br>4 | Israel | Yuval Raphael | New Day Will Rise | Engelska, franska, hebreiska | 2 | 357<br>5 | Litauen | Katarsis | Tavo akys | Litauiska | 16 | 96<br>6 | Spanien | Melody | Esa diva | Spanska | 24 | 37<br>7 | Ukraina | Ziferblat | Bird of Pray | Engelska, ukrainska | 9 | 218<br>8 | Storbritannien | Remember Monday | What the Hell Just Happened? | Engelska | 19 | 88<br>9 | Österrike | JJ | Wasted Love | Engelska | 1 | 436<br>10 | Island | Væb | Róa | Isländska | 25 | 33<br>11 | Lettland | Tautumeitas | Bur man laimi | Lettiska | 13 | 158<br>12 | Nederländerna | Claude | C'est la vie | Franska, engelska | 12 | 175<br>13 | Finland | Erika Vikman | Ich komme | Finska | 11 | 196<br>14 | Italien | Lucio Corsi | Volevo essere un duro | Italienska | 5 | 256<br>15 | Polen | Justyna Steczkowska | Gaja | Polska, engelska | 14 | 156<br>16 | Tyskland | Abor & Tynna | Baller | Tyska | 15 | 151<br>17 | Grekland | Klavdia | Asteromata | Grekiska | 6 | 231<br>18 | Armenien | Parg | Survivor | Engelska, armeniska | 20 | 72<br>19 | Schweiz | Zoë Më | Voyage | Franska | 10 | 214<br>20 | Malta | Miriana Conte | Serving | Engelska | 17 | 91<br>21 | Portugal | Napa | Deslocado | Portugisiska | 21 | 50<br>22 | Danmark | Sissal | Hallucination | Engelska | 23 | 47<br>23 | Sverige | KAJ | Bara bada bastu | Svenska | 4 | 321<br>24 | Frankrike | Louane | Maman | Franska | 7 | 230<br>25 | San Marino | Gabry Ponte[a] | Tutta l'Italia | Italienska | 26 | 27<br>26 | Albanien | Shkodra Elektronike | Zjerm | Albanska | 8 | 218"
+    },
+    "5": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_5.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "nr",
+                "land",
+                "poängutdelare"
+            ],
+            [
+                "1",
+                "Sverige",
+                "Keyyo"
+            ],
+            [
+                "2",
+                "Azerbajdzjan",
+                "Safura Alizadeh"
+            ],
+            [
+                "3",
+                "Malta",
+                "Ingrid Sammut"
+            ],
+            [
+                "4",
+                "Nederländerna",
+                "Chantal Janzen"
+            ],
+            [
+                "5",
+                "Slovenien",
+                "Lorella Fiego"
+            ],
+            [
+                "6",
+                "Armenien",
+                "Lushine Tovmasyan"
+            ],
+            [
+                "7",
+                "Luxemburg",
+                "Fabienne Zwally"
+            ],
+            [
+                "8",
+                "San Marino",
+                "Senhit"
+            ],
+            [
+                "9",
+                "Ukraina",
+                "Jerry Heil"
+            ],
+            [
+                "10",
+                "Norge",
+                "Tom Hugo"
+            ],
+            [
+                "11",
+                "Österrike",
+                "Philipp Hansa"
+            ],
+            [
+                "12",
+                "Frankrike",
+                "Èmilie Mazoyer"
+            ],
+            [
+                "13",
+                "Italien",
+                "Topo Gigio"
+            ],
+            [
+                "14",
+                "Portugal",
+                "iolanda"
+            ],
+            [
+                "15",
+                "Danmark",
+                "Sara Bro"
+            ],
+            [
+                "16",
+                "Kroatien",
+                "Doris Pinčić"
+            ],
+            [
+                "17",
+                "Lettland",
+                "Dons"
+            ],
+            [
+                "18",
+                "Irland",
+                "Nicky Byrne"
+            ],
+            [
+                "19",
+                "Polen",
+                "Aleksandra Budka"
+            ]
+        ],
+        "table_text": "nr | land | poängutdelare<br>1 | Sverige | Keyyo<br>2 | Azerbajdzjan | Safura Alizadeh<br>3 | Malta | Ingrid Sammut<br>4 | Nederländerna | Chantal Janzen<br>5 | Slovenien | Lorella Fiego<br>6 | Armenien | Lushine Tovmasyan<br>7 | Luxemburg | Fabienne Zwally<br>8 | San Marino | Senhit<br>9 | Ukraina | Jerry Heil<br>10 | Norge | Tom Hugo<br>11 | Österrike | Philipp Hansa<br>12 | Frankrike | Èmilie Mazoyer<br>13 | Italien | Topo Gigio<br>14 | Portugal | iolanda<br>15 | Danmark | Sara Bro<br>16 | Kroatien | Doris Pinčić<br>17 | Lettland | Dons<br>18 | Irland | Nicky Byrne<br>19 | Polen | Aleksandra Budka"
+    },
+    "6": {
+        "title": "Eurovision Song Contest 2025",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Eurovision_Song_Contest_2025",
+        "date": "2025-05-01T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q118421125_6.csv",
+        "QID": "Q118421125",
+        "table": [
+            [
+                "nr",
+                "land",
+                "poängutdelare"
+            ],
+            [
+                "20",
+                "Montenegro",
+                "Marko Vukčević"
+            ],
+            [
+                "21",
+                "Grekland",
+                "Jenny Theona"
+            ],
+            [
+                "22",
+                "Serbien",
+                "Dragana Kosjerina"
+            ],
+            [
+                "23",
+                "Tjeckien",
+                "Radka Rosická"
+            ],
+            [
+                "24",
+                "Storbritannien",
+                "Sophie Ellis-Bextor"
+            ],
+            [
+                "25",
+                "Spanien",
+                "Chanel"
+            ],
+            [
+                "26",
+                "Finland",
+                "Jasmin Beloued"
+            ],
+            [
+                "27",
+                "Australien",
+                "Silia Kapsis"
+            ],
+            [
+                "28",
+                "Tyskland",
+                "Michael Schulte"
+            ],
+            [
+                "29",
+                "Belgien",
+                "Manu Van Acker"
+            ],
+            [
+                "30",
+                "Israel",
+                "Eden Golan"
+            ],
+            [
+                "31",
+                "Albanien",
+                "Andri Xhahu"
+            ],
+            [
+                "32",
+                "Litauen",
+                "Silvester Belt"
+            ],
+            [
+                "33",
+                "Island",
+                "Hera Björk"
+            ],
+            [
+                "34",
+                "Georgien",
+                "Nutsa Buzaladze"
+            ],
+            [
+                "35",
+                "Cypern",
+                "Loukas Hamatsos"
+            ],
+            [
+                "36",
+                "Estland",
+                "Kristjan Jakobson"
+            ],
+            [
+                "37",
+                "Schweiz",
+                "Mélanie Freymond & Sven Epiney"
+            ]
+        ],
+        "table_text": "nr | land | poängutdelare<br>20 | Montenegro | Marko Vukčević<br>21 | Grekland | Jenny Theona<br>22 | Serbien | Dragana Kosjerina<br>23 | Tjeckien | Radka Rosická<br>24 | Storbritannien | Sophie Ellis-Bextor<br>25 | Spanien | Chanel<br>26 | Finland | Jasmin Beloued<br>27 | Australien | Silia Kapsis<br>28 | Tyskland | Michael Schulte<br>29 | Belgien | Manu Van Acker<br>30 | Israel | Eden Golan<br>31 | Albanien | Andri Xhahu<br>32 | Litauen | Silvester Belt<br>33 | Island | Hera Björk<br>34 | Georgien | Nutsa Buzaladze<br>35 | Cypern | Loukas Hamatsos<br>36 | Estland | Kristjan Jakobson<br>37 | Schweiz | Mélanie Freymond & Sven Epiney"
+    },
+    "7": {
+        "title": "Snövit",
+        "category": "culture | audiovisual work",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Sn%C3%B6vit_(film,_2025)",
+        "date": "2025-03-20T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q27660145_7.csv",
+        "QID": "Q27660145",
+        "table": [
+            [
+                "karaktär",
+                "skådespelare",
+                "svensk_röst"
+            ],
+            [
+                "Snövit",
+                "Rachel Zegler",
+                "Amelie Eiding"
+            ],
+            [
+                "Onda drottningen",
+                "Gal Gadot",
+                "Frida Modén Treichl"
+            ],
+            [
+                "Jonathan (en ny karaktär för filmen)",
+                "Andrew Burnap",
+                "David Alvefjord"
+            ],
+            [
+                "Jägaren",
+                "Ansu Kabia",
+                "John Alexander Eriksson"
+            ],
+            [
+                "Den magiska spegeln",
+                "Patrick Page (röst)",
+                "Johan Schinkler"
+            ],
+            [
+                "Kloker",
+                "Jeremy Swift (röst)",
+                "Magnus Rongedal"
+            ],
+            [
+                "Blyger",
+                "Tituss Burgess (röst)",
+                "Joakim Tidermark"
+            ],
+            [
+                "Toker",
+                "Andrew Barth Feldman (röst, även berättarröst)",
+                "Carlos Romero"
+            ],
+            [
+                "Butter",
+                "Martin Klebba (röst)",
+                "Roger Storm"
+            ],
+            [
+                "Prosit",
+                "Jason Kravits (röst)",
+                "Anton Olofson Raeder"
+            ],
+            [
+                "Glader",
+                "George Salazar (röst)",
+                "Pablo Cepeda"
+            ],
+            [
+                "Trötter",
+                "Andy Grotelueschen (röst)",
+                "Joakim Jennefors"
+            ]
+        ],
+        "table_text": "karaktär | skådespelare | svensk_röst<br>Snövit | Rachel Zegler | Amelie Eiding<br>Onda drottningen | Gal Gadot | Frida Modén Treichl<br>Jonathan (en ny karaktär för filmen) | Andrew Burnap | David Alvefjord<br>Jägaren | Ansu Kabia | John Alexander Eriksson<br>Den magiska spegeln | Patrick Page (röst) | Johan Schinkler<br>Kloker | Jeremy Swift (röst) | Magnus Rongedal<br>Blyger | Tituss Burgess (röst) | Joakim Tidermark<br>Toker | Andrew Barth Feldman (röst, även berättarröst) | Carlos Romero<br>Butter | Martin Klebba (röst) | Roger Storm<br>Prosit | Jason Kravits (röst) | Anton Olofson Raeder<br>Glader | George Salazar (röst) | Pablo Cepeda<br>Trötter | Andy Grotelueschen (röst) | Joakim Jennefors"
+    },
+    "8": {
+        "title": "Sauna Tour",
+        "category": "culture | work of art | performing arts production",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Sauna_Tour",
+        "date": "2025-05-24T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q134596881_8.csv",
+        "QID": "Q134596881",
+        "table": [
+            [
+                "datum",
+                "stad",
+                "spelplats",
+                "land"
+            ],
+            [
+                "24 maj 2025",
+                "Stockholm",
+                "Gröna Lund",
+                "Sverige"
+            ],
+            [
+                "25 maj 2025",
+                "Furuvik",
+                "Furuviksparken",
+                "Sverige"
+            ],
+            [
+                "26 maj 2025",
+                "Skellefteå",
+                "Sara Kulturhus",
+                "Sverige"
+            ],
+            [
+                "29 maj 2025",
+                "Göteborg",
+                "Liseberg",
+                "Sverige"
+            ],
+            [
+                "30 maj 2025",
+                "Glanshammar",
+                "Humlehagen",
+                "Sverige"
+            ],
+            [
+                "31 maj 2025",
+                "Umeå",
+                "Skeppsbron",
+                "Sverige"
+            ],
+            [
+                "13 juni 2025",
+                "Tammerfors",
+                "Radio Nova Festival",
+                "Finland"
+            ],
+            [
+                "26 juni 2025",
+                "Björneborg",
+                "Suomiareena",
+                "Finland"
+            ],
+            [
+                "27 juni 2025",
+                "Karleby",
+                "Mustakari Memories",
+                "Finland"
+            ],
+            [
+                "28 juni 2025",
+                "Seinäjoki",
+                "Provinssirock",
+                "Finland"
+            ],
+            [
+                "2 juli 2025",
+                "Helsingfors",
+                "Nordis Live",
+                "Finland"
+            ],
+            [
+                "4 juli 2025",
+                "Åbo",
+                "Ruisrock",
+                "Finland"
+            ],
+            [
+                "5 juli 2025",
+                "Vasa",
+                "Drömmen",
+                "Finland"
+            ],
+            [
+                "6 juli 2025",
+                "Aitoo",
+                "Aitoon Kirkastusjuhlat",
+                "Finland"
+            ],
+            [
+                "9 juli 2025",
+                "Rättvik",
+                "Dalhalla",
+                "Sverige"
+            ],
+            [
+                "10 juli 2025",
+                "Gotland",
+                "Grå Gåsen",
+                "Sverige"
+            ],
+            [
+                "11 juli 2025",
+                "Kristianstad",
+                "Tivoliparken",
+                "Sverige"
+            ],
+            [
+                "12 juli 2025",
+                "Hasslö",
+                "Hasslöfestivalen",
+                "Sverige"
+            ],
+            [
+                "12 juli 2025",
+                "Båstad",
+                "Norrvikens trädgårdar",
+                "Sverige"
+            ],
+            [
+                "18 juli 2025",
+                "Malmö",
+                "Pildammsparken",
+                "Sverige"
+            ],
+            [
+                "19 juli 2025",
+                "Borgholm",
+                "Solliden",
+                "Sverige"
+            ],
+            [
+                "20 juli 2025",
+                "Borgholm",
+                "Solliden",
+                "Sverige"
+            ],
+            [
+                "24 juli 2025",
+                "Piteå",
+                "PDOL, Kitteltältet",
+                "Sverige"
+            ],
+            [
+                "25 juli 2025",
+                "Mariehamn",
+                "Rockoff",
+                "Finland"
+            ],
+            [
+                "25 juli 2025",
+                "Uleåborg",
+                "Qstock",
+                "Finland"
+            ],
+            [
+                "26 juli 2025",
+                "Helsingborg",
+                "Ångfärjeparken",
+                "Sverige"
+            ],
+            [
+                "27 juli 2025",
+                "Vadstena",
+                "Vadstena slott",
+                "Sverige"
+            ],
+            [
+                "1 augusti 2025",
+                "Arvika",
+                "Arvika hamnfest",
+                "Sverige"
+            ],
+            [
+                "7 augusti 2025",
+                "Borgå",
+                "Konstfabriken",
+                "Finland"
+            ],
+            [
+                "9 augusti 2025",
+                "Rovaniemi",
+                "Simerock",
+                "Finland"
+            ],
+            [
+                "9 augusti 2025",
+                "Malax",
+                "Åminne Folkpark",
+                "Finland"
+            ],
+            [
+                "15 augusti 2025",
+                "Jakobstad",
+                "Project Liv Arena",
+                "Finland"
+            ],
+            [
+                "16 augusti 2025",
+                "Ekenäs",
+                "Raseborg Summerfest",
+                "Finland"
+            ],
+            [
+                "17 augusti 2025",
+                "Esbo",
+                "Supersunnuntai",
+                "Finland"
+            ],
+            [
+                "19 augusti 2025",
+                "Kiruna",
+                "Stadshustorget",
+                "Sverige"
+            ],
+            [
+                "20 augusti 2025",
+                "Åbo",
+                "Logomon Terassikesä",
+                "Finland"
+            ],
+            [
+                "22 augusti 2025",
+                "Djurö",
+                "Folkparken Djurönäset",
+                "Sverige"
+            ],
+            [
+                "23 augusti 2025",
+                "Kumla",
+                "Sommar i Kumla",
+                "Sverige"
+            ],
+            [
+                "24 augusti 2025",
+                "Uppsala",
+                "Parksnäckan",
+                "Sverige"
+            ]
+        ],
+        "table_text": "datum | stad | spelplats | land<br>24 maj 2025 | Stockholm | Gröna Lund | Sverige<br>25 maj 2025 | Furuvik | Furuviksparken | Sverige<br>26 maj 2025 | Skellefteå | Sara Kulturhus | Sverige<br>29 maj 2025 | Göteborg | Liseberg | Sverige<br>30 maj 2025 | Glanshammar | Humlehagen | Sverige<br>31 maj 2025 | Umeå | Skeppsbron | Sverige<br>13 juni 2025 | Tammerfors | Radio Nova Festival | Finland<br>26 juni 2025 | Björneborg | Suomiareena | Finland<br>27 juni 2025 | Karleby | Mustakari Memories | Finland<br>28 juni 2025 | Seinäjoki | Provinssirock | Finland<br>2 juli 2025 | Helsingfors | Nordis Live | Finland<br>4 juli 2025 | Åbo | Ruisrock | Finland<br>5 juli 2025 | Vasa | Drömmen | Finland<br>6 juli 2025 | Aitoo | Aitoon Kirkastusjuhlat | Finland<br>9 juli 2025 | Rättvik | Dalhalla | Sverige<br>10 juli 2025 | Gotland | Grå Gåsen | Sverige<br>11 juli 2025 | Kristianstad | Tivoliparken | Sverige<br>12 juli 2025 | Hasslö | Hasslöfestivalen | Sverige<br>12 juli 2025 | Båstad | Norrvikens trädgårdar | Sverige<br>18 juli 2025 | Malmö | Pildammsparken | Sverige<br>19 juli 2025 | Borgholm | Solliden | Sverige<br>20 juli 2025 | Borgholm | Solliden | Sverige<br>24 juli 2025 | Piteå | PDOL, Kitteltältet | Sverige<br>25 juli 2025 | Mariehamn | Rockoff | Finland<br>25 juli 2025 | Uleåborg | Qstock | Finland<br>26 juli 2025 | Helsingborg | Ångfärjeparken | Sverige<br>27 juli 2025 | Vadstena | Vadstena slott | Sverige<br>1 augusti 2025 | Arvika | Arvika hamnfest | Sverige<br>7 augusti 2025 | Borgå | Konstfabriken | Finland<br>9 augusti 2025 | Rovaniemi | Simerock | Finland<br>9 augusti 2025 | Malax | Åminne Folkpark | Finland<br>15 augusti 2025 | Jakobstad | Project Liv Arena | Finland<br>16 augusti 2025 | Ekenäs | Raseborg Summerfest | Finland<br>17 augusti 2025 | Esbo | Supersunnuntai | Finland<br>19 augusti 2025 | Kiruna | Stadshustorget | Sverige<br>20 augusti 2025 | Åbo | Logomon Terassikesä | Finland<br>22 augusti 2025 | Djurö | Folkparken Djurönäset | Sverige<br>23 augusti 2025 | Kumla | Sommar i Kumla | Sverige<br>24 augusti 2025 | Uppsala | Parksnäckan | Sverige"
+    }
+}

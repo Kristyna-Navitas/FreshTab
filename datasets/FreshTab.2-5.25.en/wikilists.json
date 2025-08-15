@@ -1,0 +1,1831 @@
+{
+    "999": {
+        "title": "list of airports in the State of Palestine",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_airports_in_the_State_of_Palestine",
+        "date": "2025-02-06T21:59:42Z",
+        "csv_id": "Q774261_0.csv",
+        "QID": "Q774261",
+        "table": [
+            [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            [
+                "Territory",
+                "Location",
+                "ICAO",
+                "IATA",
+                "Airport name",
+                "Fate"
+            ],
+            [
+                "Gaza Strip",
+                "Rafah",
+                "LVGZ",
+                "GZA",
+                "Yasser Arafat International Airport",
+                "Defunct, 2000"
+            ],
+            [
+                "Gaza Strip",
+                "Khan Yunis",
+                "LLAZ",
+                "GHK",
+                "Gush Katif Airport",
+                "Defunct, 2004"
+            ],
+            [
+                "West Bank",
+                "Ramallah",
+                "OJJR / LLJR",
+                "JRS",
+                "Jerusalem Atarot Airport",
+                "Disused 2000 onwards"
+            ],
+            [
+                "West Bank",
+                "Jenin",
+                "--",
+                "--",
+                "Muqeible Airfield",
+                "Defunct, post-WW2"
+            ]
+        ],
+        "table_text": "0 | 1 | 2 | 3 | 4 | 5<br>Territory | Location | ICAO | IATA | Airport name | Fate<br>Gaza Strip | Rafah | LVGZ | GZA | Yasser Arafat International Airport | Defunct, 2000<br>Gaza Strip | Khan Yunis | LLAZ | GHK | Gush Katif Airport | Defunct, 2004<br>West Bank | Ramallah | OJJR / LLJR | JRS | Jerusalem Atarot Airport | Disused 2000 onwards<br>West Bank | Jenin | -- | -- | Muqeible Airfield | Defunct, post-WW2"
+    },
+    "1000": {
+        "title": "list of Italian Ministers of Foreign Affairs",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_Foreign_Ministers_of_Italy",
+        "date": "2025-05-21T14:17:45Z",
+        "csv_id": "Q1321872_1.csv",
+        "QID": "Q1321872",
+        "table": [
+            [
+                "name_(born–died)_name_(born–died)_minister_of_foreign_affairs",
+                "term_of_office_took_office_minister_of_foreign_affairs",
+                "term_of_office_left_office_minister_of_foreign_affairs",
+                "term_of_office_time_in_office_minister_of_foreign_affairs",
+                "party_party_minister_of_foreign_affairs.1",
+                "government_government_minister_of_foreign_affairs"
+            ],
+            [
+                "Camillo Benso Count of Cavour (1810–1861) As Prime Minister",
+                "23 March 1861",
+                "6 June 1861",
+                "75 days",
+                "Historical Right",
+                "Cavour IV"
+            ],
+            [
+                "Bettino Ricasoli (1809–1880) As Prime Minister",
+                "12 June 1861",
+                "3 March 1862",
+                "264 days",
+                "Historical Right",
+                "Ricasoli I"
+            ],
+            [
+                "Urbano Rattazzi (1808–1873) As Prime Minister",
+                "3 March 1862",
+                "31 March 1862",
+                "28 days",
+                "Historical Left",
+                "Rattazzi I"
+            ],
+            [
+                "Giacomo Durando (1807–1894)",
+                "31 March 1862",
+                "8 December 1862",
+                "252 days",
+                "Military",
+                "Rattazzi I"
+            ],
+            [
+                "Giuseppe Pasolini (1815–1876)",
+                "8 December 1862",
+                "24 March 1863",
+                "106 days",
+                "Historical Right",
+                "Farini"
+            ],
+            [
+                "Emilio Visconti Venosta (1829–1914)",
+                "24 March 1863",
+                "28 September 1864",
+                "1 year, 188 days",
+                "Historical Right",
+                "Minghetti I"
+            ],
+            [
+                "Alfonso Ferrero La Marmora (1804–1878) As Prime Minister",
+                "28 September 1864",
+                "20 June 1866",
+                "1 year, 265 days",
+                "Military",
+                "La Marmora II·III"
+            ],
+            [
+                "Bettino Ricasoli (1809–1880) As Prime Minister",
+                "20 June 1866",
+                "28 June 1866",
+                "8 days",
+                "Historical Right",
+                "Ricasoli II"
+            ],
+            [
+                "Emilio Visconti Venosta (1829–1914)",
+                "28 June 1866",
+                "10 April 1867",
+                "286 days",
+                "Historical Right",
+                "Ricasoli II"
+            ],
+            [
+                "Federico Pescetto (1817–1882)",
+                "10 April 1867",
+                "12 April 1867",
+                "2 days",
+                "Historical Right",
+                "Rattazzi II"
+            ],
+            [
+                "Pompeo Di Campello (1803–1884)",
+                "12 April 1867",
+                "27 October 1867",
+                "198 days",
+                "Historical Left",
+                "Rattazzi II"
+            ],
+            [
+                "Luigi Federico Menabrea (1809–1896) As Prime Minister",
+                "27 October 1867",
+                "14 December 1869",
+                "2 years, 48 days",
+                "Historical Right",
+                "Menabrea I·II·III"
+            ],
+            [
+                "Emilio Visconti Venosta (1829–1914)",
+                "14 December 1869",
+                "20 November 1876",
+                "6 years, 342 days",
+                "Historical Right",
+                "Lanza Minghetti II"
+            ],
+            [
+                "Luigi Amedeo Melegari (1805–1881)",
+                "20 November 1876",
+                "28 December 1877",
+                "1 year, 38 days",
+                "Historical Left",
+                "Depretis I"
+            ],
+            [
+                "Agostino Depretis (1813–1887) As Prime Minister",
+                "28 December 1877",
+                "24 March 1878",
+                "86 days",
+                "Historical Left",
+                "Depretis II"
+            ],
+            [
+                "Luigi Corti (1823–1888)",
+                "24 March 1878",
+                "24 October 1878",
+                "214 days",
+                "Historical Left",
+                "Cairoli I"
+            ],
+            [
+                "Benedetto Cairoli (1825–1889) As Prime Minister",
+                "24 October 1878",
+                "19 December 1878",
+                "56 days",
+                "Historical Left",
+                "Cairoli I"
+            ],
+            [
+                "Agostino Depretis (1813–1887) As Prime Minister",
+                "19 December 1878",
+                "14 July 1879",
+                "207 days",
+                "Historical Left",
+                "Depretis III"
+            ],
+            [
+                "Benedetto Cairoli (1825–1889) As Prime Minister",
+                "14 July 1879",
+                "29 May 1881",
+                "1 year, 319 days",
+                "Historical Left",
+                "Cairoli II·III"
+            ],
+            [
+                "Pasquale Stanislao Mancini (1817–1888)",
+                "29 May 1881",
+                "29 June 1885",
+                "4 years, 31 days",
+                "Historical Left",
+                "Depretis IV·V·VI"
+            ],
+            [
+                "Agostino Depretis (1813–1887) As Prime Minister",
+                "29 June 1885",
+                "6 October 1885",
+                "99 days",
+                "Historical Left",
+                "Depretis VII"
+            ],
+            [
+                "Carlo Felice Nicolis, Count of Robilant (1826–1887)",
+                "6 October 1885",
+                "4 April 1887",
+                "1 year, 180 days",
+                "Military",
+                "Depretis VII"
+            ],
+            [
+                "Agostino Depretis (1813–1887) As Prime Minister",
+                "4 April 1887",
+                "29 July 1887",
+                "116 days",
+                "Historical Left",
+                "Depretis VIII"
+            ],
+            [
+                "Francesco Crispi (1818–1901) As Prime Minister",
+                "29 July 1887",
+                "6 February 1891",
+                "3 years, 192 days",
+                "Historical Left",
+                "Crispi I·II"
+            ],
+            [
+                "Antonio Starabba di Rudinì (1839–1908) As Prime Minister",
+                "6 February 1891",
+                "15 May 1892",
+                "1 year, 99 days",
+                "Historical Right",
+                "Di Rudinì I"
+            ],
+            [
+                "Benedetto Brin (1833–1898)",
+                "15 May 1892",
+                "15 December 1893",
+                "1 year, 214 days",
+                "Military",
+                "Giolitti I"
+            ],
+            [
+                "Alberto Blanc (1835–1904)",
+                "15 December 1893",
+                "10 March 1896",
+                "2 years, 86 days",
+                "Historical Left",
+                "Crispi III·IV"
+            ],
+            [
+                "Onorato Caetani (1842–1917)",
+                "10 March 1896",
+                "11 July 1896",
+                "123 days",
+                "Historical Right",
+                "Di Rudinì II"
+            ],
+            [
+                "Emilio Visconti Venosta (1829–1914)",
+                "11 July 1896",
+                "1 June 1898",
+                "1 year, 325 days",
+                "Historical Right",
+                "Di Rudinì III·IV"
+            ],
+            [
+                "Raffaele Cappelli (1848–1921)",
+                "1 June 1898",
+                "29 June 1898",
+                "28 days",
+                "Historical Right",
+                "Di Rudinì V"
+            ],
+            [
+                "Felice Napoleone Canevaro (1838–1926)",
+                "29 June 1898",
+                "14 May 1899",
+                "319 days",
+                "Military",
+                "Pelloux I"
+            ],
+            [
+                "Emilio Visconti Venosta (1829–1914)",
+                "14 May 1899",
+                "15 February 1901",
+                "1 year, 277 days",
+                "Historical Right",
+                "Pelloux II Saracco"
+            ],
+            [
+                "Giulio Prinetti (1851–1908)",
+                "15 February 1901",
+                "9 February 1903",
+                "1 year, 359 days",
+                "Historical Right",
+                "Zanardelli"
+            ],
+            [
+                "Enrico Morin (1841–1910)",
+                "9 February 1903",
+                "3 September 1903",
+                "206 days",
+                "Military",
+                "Zanardelli"
+            ],
+            [
+                "Tommaso Tittoni (1855–1931)",
+                "3 September 1903",
+                "27 March 1905",
+                "1 year, 205 days",
+                "Historical Right",
+                "Giolitti II Tittoni"
+            ],
+            [
+                "Alessandro Fortis (1842–1909) As Prime Minister",
+                "27 March 1905",
+                "24 December 1905",
+                "272 days",
+                "Historical Left",
+                "Fortis I"
+            ],
+            [
+                "Antonio Paternò Castello di San Giuliano (1852–1914)",
+                "24 December 1905",
+                "8 February 1906",
+                "46 days",
+                "Historical Right",
+                "Fortis II"
+            ],
+            [
+                "Francesco Guicciardini (1851–1915)",
+                "8 February 1906",
+                "29 May 1906",
+                "110 days",
+                "Historical Right",
+                "Sonnino I"
+            ],
+            [
+                "Tommaso Tittoni (1855–1931)",
+                "29 May 1906",
+                "10 December 1909",
+                "3 years, 195 days",
+                "Historical Right",
+                "Giolitti III"
+            ],
+            [
+                "Francesco Guicciardini (1851–1915)",
+                "11 December 1909",
+                "31 March 1910",
+                "110 days",
+                "Historical Right",
+                "Sonnino II"
+            ],
+            [
+                "Antonio Paternò Castello di San Giuliano (1852–1914)",
+                "31 March 1910",
+                "17 October 1914",
+                "4 years, 210 days",
+                "Historical Right / Liberal Union",
+                "Luzzatti"
+            ],
+            [
+                "Antonio Paternò Castello di San Giuliano (1852–1914)",
+                "31 March 1910",
+                "17 October 1914",
+                "4 years, 210 days",
+                "Historical Right / Liberal Union",
+                "Giolitti IV Salandra I"
+            ],
+            [
+                "Antonio Salandra (1853–1931) As Prime Minister",
+                "17 October 1914",
+                "31 October 1914",
+                "14 days",
+                "Liberal Union",
+                "Salandra I"
+            ],
+            [
+                "Sidney Sonnino (1847–1922)",
+                "31 October 1914",
+                "23 June 1919",
+                "4 years, 235 days",
+                "Liberal Union",
+                "Salandra III Boselli Orlando"
+            ],
+            [
+                "Tommaso Tittoni (1855–1931)",
+                "23 June 1919",
+                "26 June 1919",
+                "3 days",
+                "Liberal Union",
+                "Nitti I"
+            ],
+            [
+                "Francesco Nitti (1868–1953) As Prime Minister",
+                "26 June 1919",
+                "26 September 1919",
+                "92 days",
+                "Italian Radical Party",
+                "Nitti I"
+            ],
+            [
+                "Vittorio Scialoja (1856–1933)",
+                "26 September 1919",
+                "15 June 1920",
+                "263 days",
+                "Liberal Union",
+                "Nitti I·II"
+            ],
+            [
+                "Carlo Sforza (1872–1952)",
+                "15 June 1920",
+                "4 July 1921",
+                "1 year, 19 days",
+                "Democratic Liberal Party",
+                "Giolitti V"
+            ],
+            [
+                "Pietro Tomasi della Torretta (1873–1962)",
+                "4 July 1921",
+                "22 February 1922",
+                "233 days",
+                "Independent",
+                "Bonomi I"
+            ],
+            [
+                "Carlo Schanzer (1865–1953)",
+                "26 February 1922",
+                "31 October 1922",
+                "251 days",
+                "Democratic Liberal Party",
+                "Facta I·II"
+            ]
+        ],
+        "table_text": "name_(born–died)_name_(born–died)_minister_of_foreign_affairs | term_of_office_took_office_minister_of_foreign_affairs | term_of_office_left_office_minister_of_foreign_affairs | term_of_office_time_in_office_minister_of_foreign_affairs | party_party_minister_of_foreign_affairs.1 | government_government_minister_of_foreign_affairs<br>Camillo Benso Count of Cavour (1810–1861) As Prime Minister | 23 March 1861 | 6 June 1861 | 75 days | Historical Right | Cavour IV<br>Bettino Ricasoli (1809–1880) As Prime Minister | 12 June 1861 | 3 March 1862 | 264 days | Historical Right | Ricasoli I<br>Urbano Rattazzi (1808–1873) As Prime Minister | 3 March 1862 | 31 March 1862 | 28 days | Historical Left | Rattazzi I<br>Giacomo Durando (1807–1894) | 31 March 1862 | 8 December 1862 | 252 days | Military | Rattazzi I<br>Giuseppe Pasolini (1815–1876) | 8 December 1862 | 24 March 1863 | 106 days | Historical Right | Farini<br>Emilio Visconti Venosta (1829–1914) | 24 March 1863 | 28 September 1864 | 1 year, 188 days | Historical Right | Minghetti I<br>Alfonso Ferrero La Marmora (1804–1878) As Prime Minister | 28 September 1864 | 20 June 1866 | 1 year, 265 days | Military | La Marmora II·III<br>Bettino Ricasoli (1809–1880) As Prime Minister | 20 June 1866 | 28 June 1866 | 8 days | Historical Right | Ricasoli II<br>Emilio Visconti Venosta (1829–1914) | 28 June 1866 | 10 April 1867 | 286 days | Historical Right | Ricasoli II<br>Federico Pescetto (1817–1882) | 10 April 1867 | 12 April 1867 | 2 days | Historical Right | Rattazzi II<br>Pompeo Di Campello (1803–1884) | 12 April 1867 | 27 October 1867 | 198 days | Historical Left | Rattazzi II<br>Luigi Federico Menabrea (1809–1896) As Prime Minister | 27 October 1867 | 14 December 1869 | 2 years, 48 days | Historical Right | Menabrea I·II·III<br>Emilio Visconti Venosta (1829–1914) | 14 December 1869 | 20 November 1876 | 6 years, 342 days | Historical Right | Lanza Minghetti II<br>Luigi Amedeo Melegari (1805–1881) | 20 November 1876 | 28 December 1877 | 1 year, 38 days | Historical Left | Depretis I<br>Agostino Depretis (1813–1887) As Prime Minister | 28 December 1877 | 24 March 1878 | 86 days | Historical Left | Depretis II<br>Luigi Corti (1823–1888) | 24 March 1878 | 24 October 1878 | 214 days | Historical Left | Cairoli I<br>Benedetto Cairoli (1825–1889) As Prime Minister | 24 October 1878 | 19 December 1878 | 56 days | Historical Left | Cairoli I<br>Agostino Depretis (1813–1887) As Prime Minister | 19 December 1878 | 14 July 1879 | 207 days | Historical Left | Depretis III<br>Benedetto Cairoli (1825–1889) As Prime Minister | 14 July 1879 | 29 May 1881 | 1 year, 319 days | Historical Left | Cairoli II·III<br>Pasquale Stanislao Mancini (1817–1888) | 29 May 1881 | 29 June 1885 | 4 years, 31 days | Historical Left | Depretis IV·V·VI<br>Agostino Depretis (1813–1887) As Prime Minister | 29 June 1885 | 6 October 1885 | 99 days | Historical Left | Depretis VII<br>Carlo Felice Nicolis, Count of Robilant (1826–1887) | 6 October 1885 | 4 April 1887 | 1 year, 180 days | Military | Depretis VII<br>Agostino Depretis (1813–1887) As Prime Minister | 4 April 1887 | 29 July 1887 | 116 days | Historical Left | Depretis VIII<br>Francesco Crispi (1818–1901) As Prime Minister | 29 July 1887 | 6 February 1891 | 3 years, 192 days | Historical Left | Crispi I·II<br>Antonio Starabba di Rudinì (1839–1908) As Prime Minister | 6 February 1891 | 15 May 1892 | 1 year, 99 days | Historical Right | Di Rudinì I<br>Benedetto Brin (1833–1898) | 15 May 1892 | 15 December 1893 | 1 year, 214 days | Military | Giolitti I<br>Alberto Blanc (1835–1904) | 15 December 1893 | 10 March 1896 | 2 years, 86 days | Historical Left | Crispi III·IV<br>Onorato Caetani (1842–1917) | 10 March 1896 | 11 July 1896 | 123 days | Historical Right | Di Rudinì II<br>Emilio Visconti Venosta (1829–1914) | 11 July 1896 | 1 June 1898 | 1 year, 325 days | Historical Right | Di Rudinì III·IV<br>Raffaele Cappelli (1848–1921) | 1 June 1898 | 29 June 1898 | 28 days | Historical Right | Di Rudinì V<br>Felice Napoleone Canevaro (1838–1926) | 29 June 1898 | 14 May 1899 | 319 days | Military | Pelloux I<br>Emilio Visconti Venosta (1829–1914) | 14 May 1899 | 15 February 1901 | 1 year, 277 days | Historical Right | Pelloux II Saracco<br>Giulio Prinetti (1851–1908) | 15 February 1901 | 9 February 1903 | 1 year, 359 days | Historical Right | Zanardelli<br>Enrico Morin (1841–1910) | 9 February 1903 | 3 September 1903 | 206 days | Military | Zanardelli<br>Tommaso Tittoni (1855–1931) | 3 September 1903 | 27 March 1905 | 1 year, 205 days | Historical Right | Giolitti II Tittoni<br>Alessandro Fortis (1842–1909) As Prime Minister | 27 March 1905 | 24 December 1905 | 272 days | Historical Left | Fortis I<br>Antonio Paternò Castello di San Giuliano (1852–1914) | 24 December 1905 | 8 February 1906 | 46 days | Historical Right | Fortis II<br>Francesco Guicciardini (1851–1915) | 8 February 1906 | 29 May 1906 | 110 days | Historical Right | Sonnino I<br>Tommaso Tittoni (1855–1931) | 29 May 1906 | 10 December 1909 | 3 years, 195 days | Historical Right | Giolitti III<br>Francesco Guicciardini (1851–1915) | 11 December 1909 | 31 March 1910 | 110 days | Historical Right | Sonnino II<br>Antonio Paternò Castello di San Giuliano (1852–1914) | 31 March 1910 | 17 October 1914 | 4 years, 210 days | Historical Right / Liberal Union | Luzzatti<br>Antonio Paternò Castello di San Giuliano (1852–1914) | 31 March 1910 | 17 October 1914 | 4 years, 210 days | Historical Right / Liberal Union | Giolitti IV Salandra I<br>Antonio Salandra (1853–1931) As Prime Minister | 17 October 1914 | 31 October 1914 | 14 days | Liberal Union | Salandra I<br>Sidney Sonnino (1847–1922) | 31 October 1914 | 23 June 1919 | 4 years, 235 days | Liberal Union | Salandra III Boselli Orlando<br>Tommaso Tittoni (1855–1931) | 23 June 1919 | 26 June 1919 | 3 days | Liberal Union | Nitti I<br>Francesco Nitti (1868–1953) As Prime Minister | 26 June 1919 | 26 September 1919 | 92 days | Italian Radical Party | Nitti I<br>Vittorio Scialoja (1856–1933) | 26 September 1919 | 15 June 1920 | 263 days | Liberal Union | Nitti I·II<br>Carlo Sforza (1872–1952) | 15 June 1920 | 4 July 1921 | 1 year, 19 days | Democratic Liberal Party | Giolitti V<br>Pietro Tomasi della Torretta (1873–1962) | 4 July 1921 | 22 February 1922 | 233 days | Independent | Bonomi I<br>Carlo Schanzer (1865–1953) | 26 February 1922 | 31 October 1922 | 251 days | Democratic Liberal Party | Facta I·II"
+    },
+    "1001": {
+        "title": "list of Italian Ministers of Foreign Affairs",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_Foreign_Ministers_of_Italy",
+        "date": "2025-05-21T14:17:45Z",
+        "csv_id": "Q1321872_2.csv",
+        "QID": "Q1321872",
+        "table": [
+            [
+                "name_(born–died)_name_(born–died)_minister_of_foreign_affairs",
+                "term_of_office_took_office_minister_of_foreign_affairs",
+                "term_of_office_left_office_minister_of_foreign_affairs",
+                "term_of_office_time_in_office_minister_of_foreign_affairs",
+                "party_party_minister_of_foreign_affairs.1",
+                "government_government_minister_of_foreign_affairs"
+            ],
+            [
+                "Alcide De Gasperi (1881–1954) As Prime Minister",
+                "13 July 1946",
+                "18 October 1946",
+                "97 days",
+                "Christian Democracy",
+                "De Gasperi II"
+            ],
+            [
+                "Pietro Nenni (1891–1980)",
+                "18 October 1946",
+                "2 February 1947",
+                "107 days",
+                "Italian Socialist Party",
+                "De Gasperi II"
+            ],
+            [
+                "Carlo Sforza (1872–1952)",
+                "2 February 1947",
+                "26 July 1951",
+                "4 years, 174 days",
+                "Italian Republican Party",
+                "De Gasperi III"
+            ],
+            [
+                "Carlo Sforza (1872–1952)",
+                "2 February 1947",
+                "26 July 1951",
+                "4 years, 174 days",
+                "Italian Republican Party",
+                "De Gasperi IV·V·VI"
+            ],
+            [
+                "Alcide De Gasperi (1881–1954) As Prime Minister",
+                "26 July 1951",
+                "17 August 1953",
+                "2 years, 22 days",
+                "Christian Democracy",
+                "De Gasperi VII·VIII"
+            ],
+            [
+                "Giuseppe Pella (1902–1981) As Prime Minister",
+                "17 August 1953",
+                "18 January 1954",
+                "154 days",
+                "Christian Democracy",
+                "Pella"
+            ],
+            [
+                "Attilio Piccioni (1892–1976)",
+                "18 January 1954",
+                "16 September 1954",
+                "241 days",
+                "Christian Democracy",
+                "Fanfani I Scelba"
+            ],
+            [
+                "Gaetano Martino (1900–1967)",
+                "16 September 1954",
+                "19 May 1957",
+                "2 years, 245 days",
+                "Italian Liberal Party",
+                "Scelba Segni I"
+            ],
+            [
+                "Giuseppe Pella (1902–1981)",
+                "19 May 1957",
+                "1 July 1958",
+                "1 year, 43 days",
+                "Christian Democracy",
+                "Zoli"
+            ],
+            [
+                "Amintore Fanfani (1908–1999) As Prime Minister",
+                "1 July 1958",
+                "16 February 1959",
+                "230 days",
+                "Christian Democracy",
+                "Fanfani II"
+            ],
+            [
+                "Giuseppe Pella (1902–1981)",
+                "16 February 1959",
+                "25 March 1960",
+                "1 year, 38 days",
+                "Christian Democracy",
+                "Segni II"
+            ],
+            [
+                "Antonio Segni (1891–1972)",
+                "25 March 1960",
+                "7 May 1962",
+                "2 years, 43 days",
+                "Christian Democracy",
+                "Tambroni Fanfani III·IV"
+            ],
+            [
+                "Amintore Fanfani (1908–1999) As Prime Minister",
+                "7 May 1962",
+                "29 May 1962",
+                "22 days",
+                "Christian Democracy",
+                "Fanfani IV"
+            ],
+            [
+                "Attilio Piccioni (1892–1976)",
+                "29 May 1962",
+                "4 December 1963",
+                "1 year, 189 days",
+                "Christian Democracy",
+                "Fanfani IV Leone I"
+            ],
+            [
+                "Giuseppe Saragat (1898–1988)",
+                "4 December 1963",
+                "28 December 1964",
+                "1 year, 24 days",
+                "Italian Democratic Socialist Party",
+                "Moro I·II"
+            ],
+            [
+                "Aldo Moro (1916–1978) As Prime Minister",
+                "28 December 1964",
+                "5 March 1965",
+                "67 days",
+                "Christian Democracy",
+                "Moro II"
+            ],
+            [
+                "Amintore Fanfani (1908–1999)",
+                "5 March 1965",
+                "30 December 1965",
+                "300 days",
+                "Christian Democracy",
+                "Moro II"
+            ],
+            [
+                "Aldo Moro (1916–1978) As Prime Minister",
+                "30 December 1965",
+                "23 February 1966",
+                "55 days",
+                "Christian Democracy",
+                "Moro II"
+            ],
+            [
+                "Amintore Fanfani (1908–1999)",
+                "23 February 1966",
+                "24 June 1968",
+                "2 years, 122 days",
+                "Christian Democracy",
+                "Moro III"
+            ],
+            [
+                "Giuseppe Medici (1907–2000)",
+                "24 June 1968",
+                "12 December 1968",
+                "171 days",
+                "Christian Democracy",
+                "Leone II"
+            ],
+            [
+                "Pietro Nenni (1891–1980)",
+                "12 December 1968",
+                "5 August 1969",
+                "236 days",
+                "Italian Socialist Party",
+                "Rumor I"
+            ],
+            [
+                "Aldo Moro (1916–1978)",
+                "5 August 1969",
+                "26 June 1972",
+                "2 years, 326 days",
+                "Christian Democracy",
+                "Rumor II"
+            ],
+            [
+                "Aldo Moro (1916–1978)",
+                "5 August 1969",
+                "26 June 1972",
+                "2 years, 326 days",
+                "Christian Democracy",
+                "Rumor III Colombo"
+            ],
+            [
+                "Aldo Moro (1916–1978)",
+                "5 August 1969",
+                "26 June 1972",
+                "2 years, 326 days",
+                "Christian Democracy",
+                "Andreotti I"
+            ],
+            [
+                "Giuseppe Medici (1907–2000)",
+                "26 July 1972",
+                "7 July 1973",
+                "346 days",
+                "Christian Democracy",
+                "Andreotti II"
+            ],
+            [
+                "Aldo Moro (1916–1978)",
+                "7 July 1973",
+                "23 November 1974",
+                "1 year, 139 days",
+                "Christian Democracy",
+                "Rumor IV·V"
+            ],
+            [
+                "Mariano Rumor (1915–1990)",
+                "23 November 1974",
+                "29 July 1976",
+                "1 year, 249 days",
+                "Christian Democracy",
+                "Moro IV·V"
+            ],
+            [
+                "Arnaldo Forlani (1925–2023)",
+                "29 July 1976",
+                "4 August 1979",
+                "3 years, 6 days",
+                "Christian Democracy",
+                "Andreotti III·IV·V"
+            ],
+            [
+                "Franco Maria Malfatti (1927–1991)",
+                "4 August 1979",
+                "15 January 1980",
+                "195 days",
+                "Christian Democracy",
+                "Cossiga I"
+            ],
+            [
+                "Attilio Ruffini (1925–2011)",
+                "15 January 1980",
+                "4 April 1980",
+                "80 days",
+                "Christian Democracy",
+                "Cossiga I"
+            ],
+            [
+                "Emilio Colombo (1920–2013)",
+                "4 April 1980",
+                "4 August 1983",
+                "3 years, 122 days",
+                "Christian Democracy",
+                "Cossiga II Forlani"
+            ],
+            [
+                "Emilio Colombo (1920–2013)",
+                "4 April 1980",
+                "4 August 1983",
+                "3 years, 122 days",
+                "Christian Democracy",
+                "Spadolini I·II Fanfani V"
+            ],
+            [
+                "Giulio Andreotti (1919–2013)",
+                "4 August 1983",
+                "22 July 1989",
+                "5 years, 352 days",
+                "Christian Democracy",
+                "Craxi I·II"
+            ],
+            [
+                "Giulio Andreotti (1919–2013)",
+                "4 August 1983",
+                "22 July 1989",
+                "5 years, 352 days",
+                "Christian Democracy",
+                "Fanfani VI"
+            ],
+            [
+                "Giulio Andreotti (1919–2013)",
+                "4 August 1983",
+                "22 July 1989",
+                "5 years, 352 days",
+                "Christian Democracy",
+                "Goria De Mita"
+            ],
+            [
+                "Gianni De Michelis (1940–2019)",
+                "22 July 1989",
+                "28 June 1992",
+                "2 years, 342 days",
+                "Italian Socialist Party",
+                "Andreotti VI·VII"
+            ],
+            [
+                "Vincenzo Scotti (1933– )",
+                "28 June 1992",
+                "29 July 1992",
+                "31 days",
+                "Christian Democracy",
+                "Amato I"
+            ],
+            [
+                "Giuliano Amato (1938– ) As Prime Minister",
+                "29 July 1992",
+                "1 August 1992",
+                "3 days",
+                "Italian Socialist Party",
+                "Amato I"
+            ],
+            [
+                "Emilio Colombo (1920–2013)",
+                "1 August 1992",
+                "28 April 1993",
+                "270 days",
+                "Christian Democracy",
+                "Amato I"
+            ],
+            [
+                "Beniamino Andreatta (1928–2007)",
+                "28 April 1993",
+                "19 April 1994",
+                "356 days",
+                "Christian Democracy / Italian People's Party",
+                "Ciampi"
+            ],
+            [
+                "Leopoldo Elia (1925–2008)",
+                "19 April 1994",
+                "10 May 1994",
+                "22 days",
+                "Italian People's Party",
+                "Ciampi"
+            ],
+            [
+                "Antonio Martino (1942–2022)",
+                "10 May 1994",
+                "17 January 1995",
+                "252 days",
+                "Forza Italia",
+                "Berlusconi I"
+            ],
+            [
+                "Susanna Agnelli (1922–2009)",
+                "17 January 1995",
+                "17 May 1996",
+                "1 year, 121 days",
+                "Independent",
+                "Dini"
+            ],
+            [
+                "Lamberto Dini (1931– )",
+                "17 May 1996",
+                "6 June 2001",
+                "5 years, 20 days",
+                "Italian Renewal",
+                "Prodi I D'Alema I·II Amato II"
+            ],
+            [
+                "Giuliano Amato (1938– ) As Prime Minister",
+                "6 June 2001",
+                "11 June 2001",
+                "5 days",
+                "Independent",
+                "Amato II"
+            ],
+            [
+                "Renato Ruggiero (1930–2013)",
+                "11 June 2001",
+                "6 January 2002",
+                "209 days",
+                "Independent",
+                "Berlusconi II"
+            ],
+            [
+                "Silvio Berlusconi (1936–2023) As Prime Minister",
+                "6 January 2002",
+                "14 June 2002",
+                "159 days",
+                "Forza Italia",
+                "Berlusconi II"
+            ],
+            [
+                "Franco Frattini (1957–2022)",
+                "14 June 2002",
+                "18 November 2004",
+                "2 years, 157 days",
+                "Forza Italia",
+                "Berlusconi II"
+            ],
+            [
+                "Gianfranco Fini (1952– )",
+                "18 November 2004",
+                "17 May 2006",
+                "1 year, 180 days",
+                "National Alliance",
+                "Berlusconi II·III"
+            ],
+            [
+                "Massimo D'Alema (1949– )",
+                "17 May 2006",
+                "8 May 2008",
+                "1 year, 357 days",
+                "Democrats of the Left / Democratic Party",
+                "Prodi II"
+            ]
+        ],
+        "table_text": "name_(born–died)_name_(born–died)_minister_of_foreign_affairs | term_of_office_took_office_minister_of_foreign_affairs | term_of_office_left_office_minister_of_foreign_affairs | term_of_office_time_in_office_minister_of_foreign_affairs | party_party_minister_of_foreign_affairs.1 | government_government_minister_of_foreign_affairs<br>Alcide De Gasperi (1881–1954) As Prime Minister | 13 July 1946 | 18 October 1946 | 97 days | Christian Democracy | De Gasperi II<br>Pietro Nenni (1891–1980) | 18 October 1946 | 2 February 1947 | 107 days | Italian Socialist Party | De Gasperi II<br>Carlo Sforza (1872–1952) | 2 February 1947 | 26 July 1951 | 4 years, 174 days | Italian Republican Party | De Gasperi III<br>Carlo Sforza (1872–1952) | 2 February 1947 | 26 July 1951 | 4 years, 174 days | Italian Republican Party | De Gasperi IV·V·VI<br>Alcide De Gasperi (1881–1954) As Prime Minister | 26 July 1951 | 17 August 1953 | 2 years, 22 days | Christian Democracy | De Gasperi VII·VIII<br>Giuseppe Pella (1902–1981) As Prime Minister | 17 August 1953 | 18 January 1954 | 154 days | Christian Democracy | Pella<br>Attilio Piccioni (1892–1976) | 18 January 1954 | 16 September 1954 | 241 days | Christian Democracy | Fanfani I Scelba<br>Gaetano Martino (1900–1967) | 16 September 1954 | 19 May 1957 | 2 years, 245 days | Italian Liberal Party | Scelba Segni I<br>Giuseppe Pella (1902–1981) | 19 May 1957 | 1 July 1958 | 1 year, 43 days | Christian Democracy | Zoli<br>Amintore Fanfani (1908–1999) As Prime Minister | 1 July 1958 | 16 February 1959 | 230 days | Christian Democracy | Fanfani II<br>Giuseppe Pella (1902–1981) | 16 February 1959 | 25 March 1960 | 1 year, 38 days | Christian Democracy | Segni II<br>Antonio Segni (1891–1972) | 25 March 1960 | 7 May 1962 | 2 years, 43 days | Christian Democracy | Tambroni Fanfani III·IV<br>Amintore Fanfani (1908–1999) As Prime Minister | 7 May 1962 | 29 May 1962 | 22 days | Christian Democracy | Fanfani IV<br>Attilio Piccioni (1892–1976) | 29 May 1962 | 4 December 1963 | 1 year, 189 days | Christian Democracy | Fanfani IV Leone I<br>Giuseppe Saragat (1898–1988) | 4 December 1963 | 28 December 1964 | 1 year, 24 days | Italian Democratic Socialist Party | Moro I·II<br>Aldo Moro (1916–1978) As Prime Minister | 28 December 1964 | 5 March 1965 | 67 days | Christian Democracy | Moro II<br>Amintore Fanfani (1908–1999) | 5 March 1965 | 30 December 1965 | 300 days | Christian Democracy | Moro II<br>Aldo Moro (1916–1978) As Prime Minister | 30 December 1965 | 23 February 1966 | 55 days | Christian Democracy | Moro II<br>Amintore Fanfani (1908–1999) | 23 February 1966 | 24 June 1968 | 2 years, 122 days | Christian Democracy | Moro III<br>Giuseppe Medici (1907–2000) | 24 June 1968 | 12 December 1968 | 171 days | Christian Democracy | Leone II<br>Pietro Nenni (1891–1980) | 12 December 1968 | 5 August 1969 | 236 days | Italian Socialist Party | Rumor I<br>Aldo Moro (1916–1978) | 5 August 1969 | 26 June 1972 | 2 years, 326 days | Christian Democracy | Rumor II<br>Aldo Moro (1916–1978) | 5 August 1969 | 26 June 1972 | 2 years, 326 days | Christian Democracy | Rumor III Colombo<br>Aldo Moro (1916–1978) | 5 August 1969 | 26 June 1972 | 2 years, 326 days | Christian Democracy | Andreotti I<br>Giuseppe Medici (1907–2000) | 26 July 1972 | 7 July 1973 | 346 days | Christian Democracy | Andreotti II<br>Aldo Moro (1916–1978) | 7 July 1973 | 23 November 1974 | 1 year, 139 days | Christian Democracy | Rumor IV·V<br>Mariano Rumor (1915–1990) | 23 November 1974 | 29 July 1976 | 1 year, 249 days | Christian Democracy | Moro IV·V<br>Arnaldo Forlani (1925–2023) | 29 July 1976 | 4 August 1979 | 3 years, 6 days | Christian Democracy | Andreotti III·IV·V<br>Franco Maria Malfatti (1927–1991) | 4 August 1979 | 15 January 1980 | 195 days | Christian Democracy | Cossiga I<br>Attilio Ruffini (1925–2011) | 15 January 1980 | 4 April 1980 | 80 days | Christian Democracy | Cossiga I<br>Emilio Colombo (1920–2013) | 4 April 1980 | 4 August 1983 | 3 years, 122 days | Christian Democracy | Cossiga II Forlani<br>Emilio Colombo (1920–2013) | 4 April 1980 | 4 August 1983 | 3 years, 122 days | Christian Democracy | Spadolini I·II Fanfani V<br>Giulio Andreotti (1919–2013) | 4 August 1983 | 22 July 1989 | 5 years, 352 days | Christian Democracy | Craxi I·II<br>Giulio Andreotti (1919–2013) | 4 August 1983 | 22 July 1989 | 5 years, 352 days | Christian Democracy | Fanfani VI<br>Giulio Andreotti (1919–2013) | 4 August 1983 | 22 July 1989 | 5 years, 352 days | Christian Democracy | Goria De Mita<br>Gianni De Michelis (1940–2019) | 22 July 1989 | 28 June 1992 | 2 years, 342 days | Italian Socialist Party | Andreotti VI·VII<br>Vincenzo Scotti (1933– ) | 28 June 1992 | 29 July 1992 | 31 days | Christian Democracy | Amato I<br>Giuliano Amato (1938– ) As Prime Minister | 29 July 1992 | 1 August 1992 | 3 days | Italian Socialist Party | Amato I<br>Emilio Colombo (1920–2013) | 1 August 1992 | 28 April 1993 | 270 days | Christian Democracy | Amato I<br>Beniamino Andreatta (1928–2007) | 28 April 1993 | 19 April 1994 | 356 days | Christian Democracy / Italian People's Party | Ciampi<br>Leopoldo Elia (1925–2008) | 19 April 1994 | 10 May 1994 | 22 days | Italian People's Party | Ciampi<br>Antonio Martino (1942–2022) | 10 May 1994 | 17 January 1995 | 252 days | Forza Italia | Berlusconi I<br>Susanna Agnelli (1922–2009) | 17 January 1995 | 17 May 1996 | 1 year, 121 days | Independent | Dini<br>Lamberto Dini (1931– ) | 17 May 1996 | 6 June 2001 | 5 years, 20 days | Italian Renewal | Prodi I D'Alema I·II Amato II<br>Giuliano Amato (1938– ) As Prime Minister | 6 June 2001 | 11 June 2001 | 5 days | Independent | Amato II<br>Renato Ruggiero (1930–2013) | 11 June 2001 | 6 January 2002 | 209 days | Independent | Berlusconi II<br>Silvio Berlusconi (1936–2023) As Prime Minister | 6 January 2002 | 14 June 2002 | 159 days | Forza Italia | Berlusconi II<br>Franco Frattini (1957–2022) | 14 June 2002 | 18 November 2004 | 2 years, 157 days | Forza Italia | Berlusconi II<br>Gianfranco Fini (1952– ) | 18 November 2004 | 17 May 2006 | 1 year, 180 days | National Alliance | Berlusconi II·III<br>Massimo D'Alema (1949– ) | 17 May 2006 | 8 May 2008 | 1 year, 357 days | Democrats of the Left / Democratic Party | Prodi II"
+    },
+    "1002": {
+        "title": "list of tallest buildings in the European Union",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_the_European_Union",
+        "date": "2025-03-08T22:27:19Z",
+        "csv_id": "Q1431703_3.csv",
+        "QID": "Q1431703",
+        "table": [
+            [
+                "rank",
+                "name",
+                "city",
+                "height_in_m_(ft)",
+                "floors",
+                "year_built"
+            ],
+            [
+                "1",
+                "Varso Tower",
+                "Warsaw",
+                "310 m (1,017 ft)",
+                "53",
+                "2022"
+            ],
+            [
+                "2",
+                "Commerzbank Tower",
+                "Frankfurt",
+                "259 m (850 ft)",
+                "56",
+                "1997"
+            ],
+            [
+                "3",
+                "Messeturm",
+                "Frankfurt",
+                "256.4 m (841 ft)",
+                "64",
+                "1990"
+            ],
+            [
+                "4",
+                "Torre de Cristal",
+                "Madrid",
+                "249 m (817 ft)",
+                "52",
+                "2009"
+            ],
+            [
+                "5",
+                "Torre Cepsa",
+                "Madrid",
+                "248.3 m (815 ft)",
+                "45",
+                "2008"
+            ],
+            [
+                "6",
+                "Karlatornet",
+                "Gothenburg",
+                "246 m (807 ft)",
+                "74",
+                "2024"
+            ],
+            [
+                "7",
+                "Palace of Culture and Science",
+                "Warsaw",
+                "237 m (778 ft)",
+                "42",
+                "1955"
+            ],
+            [
+                "8",
+                "Torre PwC",
+                "Madrid",
+                "236 m (774 ft)",
+                "52",
+                "2008"
+            ],
+            [
+                "9",
+                "Tour First",
+                "Paris",
+                "231 m (758 ft)",
+                "52",
+                "2011"
+            ],
+            [
+                "10",
+                "Torre Emperador",
+                "Madrid",
+                "224.2 m (736 ft)",
+                "57",
+                "2008"
+            ],
+            [
+                "11",
+                "Warsaw Spire",
+                "Warsaw",
+                "220 m (722 ft)",
+                "49",
+                "2016"
+            ],
+            [
+                "11",
+                "DC Towers",
+                "Vienna",
+                "220 m (722 ft)",
+                "60",
+                "2013"
+            ],
+            [
+                "11",
+                "Tour Hekla",
+                "Paris",
+                "220 m (722 ft)",
+                "48",
+                "2022"
+            ],
+            [
+                "14",
+                "UniCredit Tower",
+                "Milan",
+                "217.7 m (714 ft)",
+                "35",
+                "2011"
+            ],
+            [
+                "14",
+                "De Zalmhaven",
+                "Rotterdam",
+                "215 m (705 ft)",
+                "58",
+                "2021"
+            ],
+            [
+                "15",
+                "Sky Tower",
+                "Wrocław",
+                "212 m (696 ft)",
+                "50",
+                "2012"
+            ],
+            [
+                "16",
+                "Allianz Tower",
+                "Milan",
+                "209 m (686 ft)",
+                "50",
+                "2014"
+            ],
+            [
+                "17",
+                "Tour Montparnasse",
+                "Paris",
+                "209 m (686 ft)",
+                "59",
+                "1972"
+            ],
+            [
+                "17",
+                "Piedmont Region Headquarters",
+                "Turin",
+                "209 m (686 ft)",
+                "42",
+                "2021"
+            ],
+            [
+                "19",
+                "Westendstraße 1",
+                "Frankfurt",
+                "208 m (682 ft)",
+                "53",
+                "1993"
+            ],
+            [
+                "19",
+                "Warsaw Trade Tower",
+                "Warsaw",
+                "208 m (682 ft)",
+                "43",
+                "1999"
+            ],
+            [
+                "21",
+                "Millennium Tower",
+                "Vienna",
+                "202 m (663 ft)",
+                "50",
+                "1999"
+            ],
+            [
+                "21",
+                "Warsaw Unit",
+                "Warsaw",
+                "200.7 m (658 ft)",
+                "46",
+                "2021"
+            ],
+            [
+                "23",
+                "Main Tower",
+                "Frankfurt",
+                "200 m (656 ft)",
+                "55",
+                "1999"
+            ],
+            [
+                "23",
+                "Tower 185",
+                "Frankfurt",
+                "200 m (656 ft)",
+                "55",
+                "2011"
+            ],
+            [
+                "23",
+                "Tour Incity",
+                "Lyon",
+                "200 m (656 ft)",
+                "39",
+                "2015"
+            ],
+            [
+                "26",
+                "Skyliner",
+                "Warsaw",
+                "195 m (640 ft)",
+                "45",
+                "2021"
+            ],
+            [
+                "27",
+                "Tour Majunga",
+                "Paris",
+                "194 m (636 ft)",
+                "45",
+                "2014"
+            ],
+            [
+                "28",
+                "Złota 44",
+                "Warsaw",
+                "192 m (630 ft)",
+                "54",
+                "2012"
+            ],
+            [
+                "29",
+                "ONE",
+                "Frankfurt",
+                "191 m (627 ft)",
+                "49",
+                "2022"
+            ],
+            [
+                "30",
+                "Turning Torso",
+                "Malmö",
+                "190 m (623 ft)",
+                "54",
+                "2005"
+            ],
+            [
+                "31",
+                "Omniturm",
+                "Frankfurt",
+                "189.9 m (623 ft)",
+                "45",
+                "2019"
+            ],
+            [
+                "32",
+                "Intempo",
+                "Benidorm",
+                "202.5 m (664 ft)",
+                "55",
+                "2021"
+            ],
+            [
+                "33",
+                "Trianon",
+                "Frankfurt",
+                "186 m (610 ft)",
+                "45",
+                "1993"
+            ],
+            [
+                "33",
+                "Gran Hotel Bali",
+                "Benidorm",
+                "186 m (610 ft)",
+                "52",
+                "2002"
+            ],
+            [
+                "35",
+                "Tour GDF Suez",
+                "Paris",
+                "185 m (607 ft)",
+                "37",
+                "2008"
+            ],
+            [
+                "35",
+                "European Central Bank Headquarters",
+                "Frankfurt",
+                "185 m (607 ft)",
+                "45",
+                "2014"
+            ],
+            [
+                "37",
+                "Tour Granite",
+                "Paris",
+                "183 m (600 ft)",
+                "35",
+                "2008"
+            ],
+            [
+                "38",
+                "Caleido Tower",
+                "Madrid",
+                "181 m (594 ft)",
+                "38",
+                "2020"
+            ],
+            [
+                "39",
+                "Olivia Star",
+                "Gdańsk",
+                "180.6 m (593 ft)",
+                "47",
+                "2018"
+            ],
+            [
+                "40",
+                "Sevilla Tower",
+                "Seville",
+                "180.5 m (592 ft)",
+                "40",
+                "2016"
+            ],
+            [
+                "41",
+                "Grand Tower",
+                "Frankfurt",
+                "180 m (591 ft)",
+                "47",
+                "2019"
+            ],
+            [
+                "42",
+                "Tours Duo 1",
+                "Paris",
+                "180 m (591 ft)",
+                "39",
+                "2021"
+            ],
+            [
+                "43",
+                "Tour Total",
+                "Paris",
+                "179 m (587 ft)",
+                "48",
+                "1985"
+            ],
+            [
+                "44",
+                "Tour Areva",
+                "Paris",
+                "178 m (584 ft)",
+                "44",
+                "1974"
+            ],
+            [
+                "45",
+                "Tour Saint-Gobain",
+                "Paris",
+                "178 m (584 ft)",
+                "39",
+                "2019"
+            ],
+            [
+                "46",
+                "Generali Tower",
+                "Milan",
+                "177.4 m (582 ft)",
+                "44",
+                "2017"
+            ],
+            [
+                "47",
+                "Libeskind Tower",
+                "Milan",
+                "175.5 m (576 ft)",
+                "34",
+                "2021"
+            ],
+            [
+                "48",
+                "Tour D2",
+                "Paris",
+                "171 m (561 ft)",
+                "37",
+                "2014"
+            ],
+            [
+                "49",
+                "Opernturm",
+                "Frankfurt",
+                "170 m (558 ft)",
+                "42",
+                "2010"
+            ]
+        ],
+        "table_text": "rank | name | city | height_in_m_(ft) | floors | year_built<br>1 | Varso Tower | Warsaw | 310 m (1,017 ft) | 53 | 2022<br>2 | Commerzbank Tower | Frankfurt | 259 m (850 ft) | 56 | 1997<br>3 | Messeturm | Frankfurt | 256.4 m (841 ft) | 64 | 1990<br>4 | Torre de Cristal | Madrid | 249 m (817 ft) | 52 | 2009<br>5 | Torre Cepsa | Madrid | 248.3 m (815 ft) | 45 | 2008<br>6 | Karlatornet | Gothenburg | 246 m (807 ft) | 74 | 2024<br>7 | Palace of Culture and Science | Warsaw | 237 m (778 ft) | 42 | 1955<br>8 | Torre PwC | Madrid | 236 m (774 ft) | 52 | 2008<br>9 | Tour First | Paris | 231 m (758 ft) | 52 | 2011<br>10 | Torre Emperador | Madrid | 224.2 m (736 ft) | 57 | 2008<br>11 | Warsaw Spire | Warsaw | 220 m (722 ft) | 49 | 2016<br>11 | DC Towers | Vienna | 220 m (722 ft) | 60 | 2013<br>11 | Tour Hekla | Paris | 220 m (722 ft) | 48 | 2022<br>14 | UniCredit Tower | Milan | 217.7 m (714 ft) | 35 | 2011<br>14 | De Zalmhaven | Rotterdam | 215 m (705 ft) | 58 | 2021<br>15 | Sky Tower | Wrocław | 212 m (696 ft) | 50 | 2012<br>16 | Allianz Tower | Milan | 209 m (686 ft) | 50 | 2014<br>17 | Tour Montparnasse | Paris | 209 m (686 ft) | 59 | 1972<br>17 | Piedmont Region Headquarters | Turin | 209 m (686 ft) | 42 | 2021<br>19 | Westendstraße 1 | Frankfurt | 208 m (682 ft) | 53 | 1993<br>19 | Warsaw Trade Tower | Warsaw | 208 m (682 ft) | 43 | 1999<br>21 | Millennium Tower | Vienna | 202 m (663 ft) | 50 | 1999<br>21 | Warsaw Unit | Warsaw | 200.7 m (658 ft) | 46 | 2021<br>23 | Main Tower | Frankfurt | 200 m (656 ft) | 55 | 1999<br>23 | Tower 185 | Frankfurt | 200 m (656 ft) | 55 | 2011<br>23 | Tour Incity | Lyon | 200 m (656 ft) | 39 | 2015<br>26 | Skyliner | Warsaw | 195 m (640 ft) | 45 | 2021<br>27 | Tour Majunga | Paris | 194 m (636 ft) | 45 | 2014<br>28 | Złota 44 | Warsaw | 192 m (630 ft) | 54 | 2012<br>29 | ONE | Frankfurt | 191 m (627 ft) | 49 | 2022<br>30 | Turning Torso | Malmö | 190 m (623 ft) | 54 | 2005<br>31 | Omniturm | Frankfurt | 189.9 m (623 ft) | 45 | 2019<br>32 | Intempo | Benidorm | 202.5 m (664 ft) | 55 | 2021<br>33 | Trianon | Frankfurt | 186 m (610 ft) | 45 | 1993<br>33 | Gran Hotel Bali | Benidorm | 186 m (610 ft) | 52 | 2002<br>35 | Tour GDF Suez | Paris | 185 m (607 ft) | 37 | 2008<br>35 | European Central Bank Headquarters | Frankfurt | 185 m (607 ft) | 45 | 2014<br>37 | Tour Granite | Paris | 183 m (600 ft) | 35 | 2008<br>38 | Caleido Tower | Madrid | 181 m (594 ft) | 38 | 2020<br>39 | Olivia Star | Gdańsk | 180.6 m (593 ft) | 47 | 2018<br>40 | Sevilla Tower | Seville | 180.5 m (592 ft) | 40 | 2016<br>41 | Grand Tower | Frankfurt | 180 m (591 ft) | 47 | 2019<br>42 | Tours Duo 1 | Paris | 180 m (591 ft) | 39 | 2021<br>43 | Tour Total | Paris | 179 m (587 ft) | 48 | 1985<br>44 | Tour Areva | Paris | 178 m (584 ft) | 44 | 1974<br>45 | Tour Saint-Gobain | Paris | 178 m (584 ft) | 39 | 2019<br>46 | Generali Tower | Milan | 177.4 m (582 ft) | 44 | 2017<br>47 | Libeskind Tower | Milan | 175.5 m (576 ft) | 34 | 2021<br>48 | Tour D2 | Paris | 171 m (561 ft) | 37 | 2014<br>49 | Opernturm | Frankfurt | 170 m (558 ft) | 42 | 2010"
+    },
+    "1003": {
+        "title": "list of tallest buildings in the European Union",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_the_European_Union",
+        "date": "2025-03-08T22:27:19Z",
+        "csv_id": "Q1431703_4.csv",
+        "QID": "Q1431703",
+        "table": [
+            [
+                "name",
+                "city",
+                "height_in_m_(ft)",
+                "floors",
+                "completed"
+            ],
+            [
+                "Varso Tower",
+                "Warsaw",
+                "310 m (1,017 ft)",
+                "53",
+                "2021"
+            ],
+            [
+                "Commerzbank Tower†",
+                "Frankfurt",
+                "300 m (984 ft)",
+                "56",
+                "1997"
+            ],
+            [
+                "Allianz Tower†",
+                "Milan",
+                "259 m (850 ft)",
+                "50",
+                "2014"
+            ],
+            [
+                "Messeturm",
+                "Frankfurt",
+                "256.5 m (842 ft)",
+                "55",
+                "1990"
+            ],
+            [
+                "DC Towers†",
+                "Vienna",
+                "250 m (820 ft)",
+                "60",
+                "2013"
+            ],
+            [
+                "Torre de Cristal†",
+                "Madrid",
+                "250 m (820 ft)",
+                "45",
+                "2007"
+            ],
+            [
+                "Torre Cepsa",
+                "Madrid",
+                "248.3 m (815 ft)",
+                "45",
+                "2008"
+            ],
+            [
+                "Main Tower†",
+                "Frankfurt",
+                "240 m (787 ft)",
+                "55",
+                "1999"
+            ],
+            [
+                "Palace of Culture and Science",
+                "Warsaw",
+                "237 m (778 ft)",
+                "44",
+                "1955"
+            ],
+            [
+                "Torre PwC",
+                "Madrid",
+                "236 m (774 ft)",
+                "52",
+                "2007"
+            ],
+            [
+                "Tour First",
+                "Paris",
+                "231 m (758 ft)",
+                "56",
+                "2010"
+            ],
+            [
+                "Unicredit Tower",
+                "Milan",
+                "231 m (758 ft)",
+                "35",
+                "2011"
+            ],
+            [
+                "Torre Espacio†",
+                "Madrid",
+                "230 m (755 ft)",
+                "57",
+                "2007"
+            ],
+            [
+                "Warsaw Spire",
+                "Warsaw",
+                "220 m (722 ft)",
+                "49",
+                "2016"
+            ],
+            [
+                "European Central Bank Headquarters†",
+                "Frankfurt",
+                "217.3 m (713 ft)",
+                "45",
+                "2014"
+            ],
+            [
+                "De Zalmhaven I",
+                "Rotterdam",
+                "215 m (705 ft)",
+                "58",
+                "2022"
+            ],
+            [
+                "Sky Tower",
+                "Wrocław",
+                "212 m (696 ft)",
+                "50",
+                "2012"
+            ],
+            [
+                "Gran Hotel Bali†",
+                "Benidorm",
+                "210 m (689 ft)",
+                "52",
+                "2002"
+            ],
+            [
+                "Tour Montparnasse",
+                "Paris",
+                "209 m (686 ft)",
+                "59",
+                "1972"
+            ],
+            [
+                "Piedmont Region Headquarters",
+                "Turin",
+                "209 m (686 ft)",
+                "42",
+                "2017"
+            ],
+            [
+                "Westendstrasse 1",
+                "Frankfurt",
+                "208 m (682 ft)",
+                "53",
+                "1993"
+            ],
+            [
+                "Warsaw Trade Tower†",
+                "Warsaw",
+                "208 m (682 ft)",
+                "43",
+                "1999"
+            ],
+            [
+                "Millennium Tower",
+                "Vienna",
+                "202 m (663 ft)",
+                "51",
+                "1999"
+            ],
+            [
+                "Tour Incity†",
+                "Lyon",
+                "202 m (663 ft)",
+                "39",
+                "2015"
+            ],
+            [
+                "Warsaw Unit",
+                "Warsaw",
+                "200.7 m (658 ft)",
+                "46",
+                "2021"
+            ],
+            [
+                "Tower 185",
+                "Frankfurt",
+                "200 m (656 ft)",
+                "51",
+                "2011"
+            ],
+            [
+                "Intempo†",
+                "Benidorm",
+                "200 m (656 ft)",
+                "55",
+                "2014"
+            ],
+            [
+                "Tour Majunga",
+                "Paris",
+                "194 m (636 ft)",
+                "45",
+                "2014"
+            ],
+            [
+                "Złota 44",
+                "Warsaw",
+                "192 m (630 ft)",
+                "54",
+                "2012"
+            ],
+            [
+                "Generali Tower†",
+                "Milan",
+                "191.5 m (628 ft)",
+                "44",
+                "2017"
+            ],
+            [
+                "Turning Torso",
+                "Malmö",
+                "190 m (623 ft)",
+                "54",
+                "2005"
+            ],
+            [
+                "Omniturm",
+                "Frankfurt",
+                "189.9 m (623 ft)",
+                "45",
+                "2019"
+            ],
+            [
+                "Grand Tower†",
+                "Frankfurt",
+                "187 m (614 ft)",
+                "47",
+                "2019"
+            ],
+            [
+                "Trianon",
+                "Frankfurt",
+                "186 m (610 ft)",
+                "45",
+                "1993"
+            ],
+            [
+                "Tour GDF Suez",
+                "Paris",
+                "185 m (607 ft)",
+                "37",
+                "2008"
+            ],
+            [
+                "Tour Granite",
+                "Paris",
+                "183 m (600 ft)",
+                "35",
+                "2008"
+            ],
+            [
+                "Sevilla Tower",
+                "Seville",
+                "180.5 m (592 ft)",
+                "40",
+                "2016"
+            ],
+            [
+                "many lower buildings",
+                "many lower buildings",
+                "many lower buildings",
+                "many lower buildings",
+                "many lower buildings"
+            ]
+        ],
+        "table_text": "name | city | height_in_m_(ft) | floors | completed<br>Varso Tower | Warsaw | 310 m (1,017 ft) | 53 | 2021<br>Commerzbank Tower† | Frankfurt | 300 m (984 ft) | 56 | 1997<br>Allianz Tower† | Milan | 259 m (850 ft) | 50 | 2014<br>Messeturm | Frankfurt | 256.5 m (842 ft) | 55 | 1990<br>DC Towers† | Vienna | 250 m (820 ft) | 60 | 2013<br>Torre de Cristal† | Madrid | 250 m (820 ft) | 45 | 2007<br>Torre Cepsa | Madrid | 248.3 m (815 ft) | 45 | 2008<br>Main Tower† | Frankfurt | 240 m (787 ft) | 55 | 1999<br>Palace of Culture and Science | Warsaw | 237 m (778 ft) | 44 | 1955<br>Torre PwC | Madrid | 236 m (774 ft) | 52 | 2007<br>Tour First | Paris | 231 m (758 ft) | 56 | 2010<br>Unicredit Tower | Milan | 231 m (758 ft) | 35 | 2011<br>Torre Espacio† | Madrid | 230 m (755 ft) | 57 | 2007<br>Warsaw Spire | Warsaw | 220 m (722 ft) | 49 | 2016<br>European Central Bank Headquarters† | Frankfurt | 217.3 m (713 ft) | 45 | 2014<br>De Zalmhaven I | Rotterdam | 215 m (705 ft) | 58 | 2022<br>Sky Tower | Wrocław | 212 m (696 ft) | 50 | 2012<br>Gran Hotel Bali† | Benidorm | 210 m (689 ft) | 52 | 2002<br>Tour Montparnasse | Paris | 209 m (686 ft) | 59 | 1972<br>Piedmont Region Headquarters | Turin | 209 m (686 ft) | 42 | 2017<br>Westendstrasse 1 | Frankfurt | 208 m (682 ft) | 53 | 1993<br>Warsaw Trade Tower† | Warsaw | 208 m (682 ft) | 43 | 1999<br>Millennium Tower | Vienna | 202 m (663 ft) | 51 | 1999<br>Tour Incity† | Lyon | 202 m (663 ft) | 39 | 2015<br>Warsaw Unit | Warsaw | 200.7 m (658 ft) | 46 | 2021<br>Tower 185 | Frankfurt | 200 m (656 ft) | 51 | 2011<br>Intempo† | Benidorm | 200 m (656 ft) | 55 | 2014<br>Tour Majunga | Paris | 194 m (636 ft) | 45 | 2014<br>Złota 44 | Warsaw | 192 m (630 ft) | 54 | 2012<br>Generali Tower† | Milan | 191.5 m (628 ft) | 44 | 2017<br>Turning Torso | Malmö | 190 m (623 ft) | 54 | 2005<br>Omniturm | Frankfurt | 189.9 m (623 ft) | 45 | 2019<br>Grand Tower† | Frankfurt | 187 m (614 ft) | 47 | 2019<br>Trianon | Frankfurt | 186 m (610 ft) | 45 | 1993<br>Tour GDF Suez | Paris | 185 m (607 ft) | 37 | 2008<br>Tour Granite | Paris | 183 m (600 ft) | 35 | 2008<br>Sevilla Tower | Seville | 180.5 m (592 ft) | 40 | 2016<br>many lower buildings | many lower buildings | many lower buildings | many lower buildings | many lower buildings"
+    },
+    "1004": {
+        "title": "list of tallest buildings in the European Union",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_the_European_Union",
+        "date": "2025-03-08T22:27:19Z",
+        "csv_id": "Q1431703_5.csv",
+        "QID": "Q1431703",
+        "table": [
+            [
+                "name",
+                "city",
+                "metres",
+                "feet",
+                "floors",
+                "planned_completion"
+            ],
+            [
+                "Karlatornet",
+                "Gothenburg",
+                "245",
+                "804",
+                "73",
+                "2023"
+            ],
+            [
+                "Elbtower",
+                "Hamburg",
+                "245",
+                "804",
+                "64",
+                "2025"
+            ],
+            [
+                "The Link",
+                "Paris",
+                "244",
+                "801",
+                "52",
+                "2024"
+            ],
+            [
+                "Four Frankfurt 1",
+                "Frankfurt",
+                "233",
+                "765",
+                "59",
+                "2023"
+            ],
+            [
+                "Tour Hekla",
+                "Paris",
+                "220",
+                "722",
+                "51",
+                "2022"
+            ],
+            [
+                "Danube Flats",
+                "Vienna",
+                "180",
+                "590",
+                "48",
+                "2023"
+            ],
+            [
+                "DC-Tower 2",
+                "Vienna",
+                "180",
+                "590",
+                "53",
+                "2025"
+            ],
+            [
+                "Estrel Tower",
+                "Berlin",
+                "176",
+                "577",
+                "45",
+                "2024"
+            ],
+            [
+                "Four Frankfurt 2",
+                "Frankfurt",
+                "173",
+                "568",
+                "50",
+                "2023"
+            ],
+            [
+                "Eurovea Tower",
+                "Bratislava",
+                "168",
+                "552",
+                "46",
+                "2023"
+            ],
+            [
+                "Trilogy East Tower",
+                "Limassol",
+                "165",
+                "541",
+                "37",
+                "2022"
+            ],
+            [
+                "Trilogy West Tower",
+                "Limassol",
+                "161",
+                "528",
+                "39",
+                "2022"
+            ],
+            [
+                "Olszynki Park",
+                "Rzeszów",
+                "161",
+                "509",
+                "36",
+                "2022"
+            ],
+            [
+                "Skysawa",
+                "Warsaw",
+                "155",
+                "509",
+                "36",
+                "2022"
+            ],
+            [
+                "Forum Donaustadt",
+                "Vienna",
+                "153",
+                "502",
+                "42",
+                "2022"
+            ]
+        ],
+        "table_text": "name | city | metres | feet | floors | planned_completion<br>Karlatornet | Gothenburg | 245 | 804 | 73 | 2023<br>Elbtower | Hamburg | 245 | 804 | 64 | 2025<br>The Link | Paris | 244 | 801 | 52 | 2024<br>Four Frankfurt 1 | Frankfurt | 233 | 765 | 59 | 2023<br>Tour Hekla | Paris | 220 | 722 | 51 | 2022<br>Danube Flats | Vienna | 180 | 590 | 48 | 2023<br>DC-Tower 2 | Vienna | 180 | 590 | 53 | 2025<br>Estrel Tower | Berlin | 176 | 577 | 45 | 2024<br>Four Frankfurt 2 | Frankfurt | 173 | 568 | 50 | 2023<br>Eurovea Tower | Bratislava | 168 | 552 | 46 | 2023<br>Trilogy East Tower | Limassol | 165 | 541 | 37 | 2022<br>Trilogy West Tower | Limassol | 161 | 528 | 39 | 2022<br>Olszynki Park | Rzeszów | 161 | 509 | 36 | 2022<br>Skysawa | Warsaw | 155 | 509 | 36 | 2022<br>Forum Donaustadt | Vienna | 153 | 502 | 42 | 2022"
+    },
+    "1005": {
+        "title": "list of tallest buildings in the European Union",
+        "category": "mix | wikilists",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_the_European_Union",
+        "date": "2025-03-08T22:27:19Z",
+        "csv_id": "Q1431703_6.csv",
+        "QID": "Q1431703",
+        "table": [
+            [
+                "name",
+                "city",
+                "years_as_tallest",
+                "metres",
+                "feet",
+                "floors"
+            ],
+            [
+                "Varso Tower",
+                "Warsaw",
+                "2021–present",
+                "310",
+                "1017",
+                "53"
+            ],
+            [
+                "Commerzbank Tower",
+                "Frankfurt",
+                "2020–2021",
+                "259",
+                "850",
+                "56"
+            ],
+            [
+                "The Shard",
+                "London",
+                "2011–2020",
+                "306[a]",
+                "1004",
+                "73"
+            ],
+            [
+                "Commerzbank Tower",
+                "Frankfurt",
+                "1997–2011",
+                "259",
+                "850",
+                "56"
+            ],
+            [
+                "Messeturm",
+                "Frankfurt",
+                "1990–1997",
+                "257",
+                "843",
+                "55"
+            ],
+            [
+                "Tour Montparnasse",
+                "Paris",
+                "1972–1990",
+                "210",
+                "689",
+                "59"
+            ],
+            [
+                "Tour du Midi / Zuidertoren",
+                "Brussels",
+                "1966–1972",
+                "150",
+                "492",
+                "38"
+            ],
+            [
+                "Pirelli Tower",
+                "Milan",
+                "1958–1966",
+                "127",
+                "416",
+                "32"
+            ]
+        ],
+        "table_text": "name | city | years_as_tallest | metres | feet | floors<br>Varso Tower | Warsaw | 2021–present | 310 | 1017 | 53<br>Commerzbank Tower | Frankfurt | 2020–2021 | 259 | 850 | 56<br>The Shard | London | 2011–2020 | 306[a] | 1004 | 73<br>Commerzbank Tower | Frankfurt | 1997–2011 | 259 | 850 | 56<br>Messeturm | Frankfurt | 1990–1997 | 257 | 843 | 55<br>Tour Montparnasse | Paris | 1972–1990 | 210 | 689 | 59<br>Tour du Midi / Zuidertoren | Brussels | 1966–1972 | 150 | 492 | 38<br>Pirelli Tower | Milan | 1958–1966 | 127 | 416 | 32"
+    }
+}

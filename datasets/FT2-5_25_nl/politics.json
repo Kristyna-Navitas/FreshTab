@@ -1,0 +1,640 @@
+{
+    "17": {
+        "title": "Surinaamse parlementsverkiezingen 2025",
+        "category": "politics | public election",
+        "type": "",
+        "url": "https://nl.wikipedia.org/wiki/Surinaamse_parlementsverkiezingen_2025",
+        "date": "2025-05-25T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q131362330_17.csv",
+        "QID": "Q131362330",
+        "table": [
+            [
+                "vlg.",
+                "partij",
+                "afkorting",
+                "lijsttrekker"
+            ],
+            [
+                "1.0",
+                "Broederschap en Eenheid in de Politiek",
+                "BEP",
+                "Ronny Asabina"
+            ],
+            [
+                "2.0",
+                "Alternatief 2020 Democratie en Ontwikkeling in Eenheid (DOE) Partij voor Recht en Ontwikkeling (PRO)",
+                "A20",
+                "Andrew Baasaron"
+            ],
+            [
+                "3.0",
+                "Nationale Partij Suriname Surinaamse Partij van de Arbeid (SPA)",
+                "NPS",
+                "Gregory Rusland"
+            ],
+            [
+                "4.0",
+                "None",
+                "ABOP",
+                "Ronny Brunswijk"
+            ],
+            [
+                "5.0",
+                "De Nieuwe Leeuw KTPI",
+                "DNL",
+                "Dharm Mungra"
+            ],
+            [
+                "6.0",
+                "Partij Van Communicatie",
+                "PVC",
+                "Elta Misiedjan"
+            ],
+            [
+                "7.0",
+                "None",
+                "OPTSU",
+                "Imran Taus"
+            ],
+            [
+                "8.0",
+                "Vooruitstrevende Hervormings Partij",
+                "VHP",
+                "Chan Santokhi"
+            ],
+            [
+                "9.0",
+                "Nationale Democratische Partij Hervormings- en Vernieuwingsbeweging (HVB) Platform Progressief Alternatief Plus (PA+)",
+                "NDP",
+                "Jennifer Geerlings-Simons"
+            ],
+            [
+                "10.0",
+                "Democratisch Alternatief '91",
+                "DA'91",
+                "Angelic del Castilho"
+            ],
+            [
+                "11.0",
+                "Arena Politieke Partij",
+                "APP",
+                "Firosh Abdoelaziz"
+            ],
+            [
+                "12.0",
+                "Volkspartij Leefbaar Suriname",
+                "VLS",
+                "Robert Vishnudatt"
+            ],
+            [
+                "13.0",
+                "Democratische Unie Suriname",
+                "DUS",
+                "Hugo Lienga"
+            ],
+            [
+                "14.0",
+                "Pertjajah Luhur",
+                "PL",
+                "Bronto Somohardjo"
+            ]
+        ],
+        "table_text": "vlg. | partij | afkorting | lijsttrekker<br>1.0 | Broederschap en Eenheid in de Politiek | BEP | Ronny Asabina<br>2.0 | Alternatief 2020 Democratie en Ontwikkeling in Eenheid (DOE) Partij voor Recht en Ontwikkeling (PRO) | A20 | Andrew Baasaron<br>3.0 | Nationale Partij Suriname Surinaamse Partij van de Arbeid (SPA) | NPS | Gregory Rusland<br>4.0 | None | ABOP | Ronny Brunswijk<br>5.0 | De Nieuwe Leeuw KTPI | DNL | Dharm Mungra<br>6.0 | Partij Van Communicatie | PVC | Elta Misiedjan<br>7.0 | None | OPTSU | Imran Taus<br>8.0 | Vooruitstrevende Hervormings Partij | VHP | Chan Santokhi<br>9.0 | Nationale Democratische Partij Hervormings- en Vernieuwingsbeweging (HVB) Platform Progressief Alternatief Plus (PA+) | NDP | Jennifer Geerlings-Simons<br>10.0 | Democratisch Alternatief '91 | DA'91 | Angelic del Castilho<br>11.0 | Arena Politieke Partij | APP | Firosh Abdoelaziz<br>12.0 | Volkspartij Leefbaar Suriname | VLS | Robert Vishnudatt<br>13.0 | Democratische Unie Suriname | DUS | Hugo Lienga<br>14.0 | Pertjajah Luhur | PL | Bronto Somohardjo"
+    },
+    "18": {
+        "title": "Surinaamse parlementsverkiezingen 2025",
+        "category": "politics | public election",
+        "type": "",
+        "url": "https://nl.wikipedia.org/wiki/Surinaamse_parlementsverkiezingen_2025",
+        "date": "2025-05-25T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q131362330_18.csv",
+        "QID": "Q131362330",
+        "table": [
+            [
+                "naam",
+                "afkorting",
+                "stemmen",
+                "%",
+                "zetels"
+            ],
+            [
+                "Nationale Democratische Partij",
+                "NDP",
+                "93.545",
+                "3417.0",
+                "18"
+            ],
+            [
+                "Vooruitstrevende Hervormings Partij",
+                "VHP",
+                "87.032",
+                "3179.0",
+                "17"
+            ],
+            [
+                "Algemene Bevrijdings- en Ontwikkelingspartij",
+                "ABOP",
+                "31.804",
+                "1173.0",
+                "6"
+            ],
+            [
+                "Nationale Partij Suriname",
+                "NPS",
+                "31.285",
+                "1143.0",
+                "6"
+            ],
+            [
+                "Pertjajah Luhur",
+                "PL",
+                "10.317",
+                "377.0",
+                "2"
+            ],
+            [
+                "Alternatief 2020",
+                "A20",
+                "7.473",
+                "273.0",
+                "1"
+            ],
+            [
+                "Broederschap en Eenheid in de Politiek",
+                "BEP",
+                "7.128",
+                "260.0",
+                "1"
+            ],
+            [
+                "Optie voor Suriname",
+                "OPTSU",
+                "1.636",
+                "60.0",
+                "<NA>"
+            ],
+            [
+                "Democratisch Alternatief '91",
+                "DA'91",
+                "1.542",
+                "56.0",
+                "<NA>"
+            ],
+            [
+                "De Nieuwe Leeuw",
+                "D.N.L.",
+                "650.0",
+                "24.0",
+                "<NA>"
+            ],
+            [
+                "Arena Politieke Partij",
+                "APP",
+                "523.0",
+                "19.0",
+                "<NA>"
+            ],
+            [
+                "Democratische Unie Suriname",
+                "D.U.S.",
+                "344.0",
+                "13.0",
+                "<NA>"
+            ],
+            [
+                "Volkspartij Leefbaar Suriname",
+                "VLS 2023",
+                "337.0",
+                "12.0",
+                "<NA>"
+            ],
+            [
+                "Partij Van Communicatie",
+                "PVC",
+                "160.0",
+                "6.0",
+                "<NA>"
+            ],
+            [
+                "Totaal",
+                "<NA>",
+                "273.776",
+                "100.0",
+                "51"
+            ],
+            [
+                "Ongeldig",
+                "<NA>",
+                "3502.0",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Totaal uitgebracht",
+                "<NA>",
+                "276.507",
+                "<NA>",
+                "<NA>"
+            ]
+        ],
+        "table_text": "naam | afkorting | stemmen | % | zetels<br>Nationale Democratische Partij | NDP | 93.545 | 3417.0 | 18<br>Vooruitstrevende Hervormings Partij | VHP | 87.032 | 3179.0 | 17<br>Algemene Bevrijdings- en Ontwikkelingspartij | ABOP | 31.804 | 1173.0 | 6<br>Nationale Partij Suriname | NPS | 31.285 | 1143.0 | 6<br>Pertjajah Luhur | PL | 10.317 | 377.0 | 2<br>Alternatief 2020 | A20 | 7.473 | 273.0 | 1<br>Broederschap en Eenheid in de Politiek | BEP | 7.128 | 260.0 | 1<br>Optie voor Suriname | OPTSU | 1.636 | 60.0 | <NA><br>Democratisch Alternatief '91 | DA'91 | 1.542 | 56.0 | <NA><br>De Nieuwe Leeuw | D.N.L. | 650.0 | 24.0 | <NA><br>Arena Politieke Partij | APP | 523.0 | 19.0 | <NA><br>Democratische Unie Suriname | D.U.S. | 344.0 | 13.0 | <NA><br>Volkspartij Leefbaar Suriname | VLS 2023 | 337.0 | 12.0 | <NA><br>Partij Van Communicatie | PVC | 160.0 | 6.0 | <NA><br>Totaal | <NA> | 273.776 | 100.0 | 51<br>Ongeldig | <NA> | 3502.0 | <NA> | <NA><br>Totaal uitgebracht | <NA> | 276.507 | <NA> | <NA>"
+    },
+    "19": {
+        "title": "Surinaamse parlementsverkiezingen 2025",
+        "category": "politics | public election",
+        "type": "",
+        "url": "https://nl.wikipedia.org/wiki/Surinaamse_parlementsverkiezingen_2025",
+        "date": "2025-05-25T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q131362330_19.csv",
+        "QID": "Q131362330",
+        "table": [
+            [
+                "partij",
+                "2020_(reëel)",
+                "2020_(herberkend)",
+                "2025"
+            ],
+            [
+                "NDP",
+                "16",
+                "14",
+                "18"
+            ],
+            [
+                "VHP",
+                "20",
+                "22",
+                "17"
+            ],
+            [
+                "ABOP",
+                "9",
+                "6",
+                "6"
+            ],
+            [
+                "NPS",
+                "3",
+                "6",
+                "6"
+            ],
+            [
+                "PL",
+                "1",
+                "2",
+                "2"
+            ],
+            [
+                "A20",
+                "0",
+                "0",
+                "1"
+            ],
+            [
+                "BEP",
+                "2",
+                "1",
+                "1"
+            ],
+            [
+                "Totaal",
+                "51",
+                "51",
+                "51"
+            ]
+        ],
+        "table_text": "partij | 2020_(reëel) | 2020_(herberkend) | 2025<br>NDP | 16 | 14 | 18<br>VHP | 20 | 22 | 17<br>ABOP | 9 | 6 | 6<br>NPS | 3 | 6 | 6<br>PL | 1 | 2 | 2<br>A20 | 0 | 0 | 1<br>BEP | 2 | 1 | 1<br>Totaal | 51 | 51 | 51"
+    },
+    "20": {
+        "title": "Regering-De Wever",
+        "category": "politics | govermnment organization",
+        "type": "",
+        "url": "https://nl.wikipedia.org/wiki/Regering-De_Wever",
+        "date": "2025-02-03T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q131995381_20.csv",
+        "QID": "Q131995381",
+        "table": [
+            [
+                "functie_en_bevoegdheid_functie_en_bevoegdheid",
+                "minister_naam",
+                "partij_partij.1"
+            ],
+            [
+                "Minister Justitie, belast met Noordzee",
+                "Annelies Verlinden",
+                "cd&v"
+            ],
+            [
+                "Minister Binnenlandse Zaken en Veiligheid, belast met Beliris",
+                "Bernard Quintin",
+                "MR"
+            ],
+            [
+                "Minister Defensie, belast met Buitenlandse Handel",
+                "Theo Francken",
+                "N-VA"
+            ],
+            [
+                "Minister Klimaat, Mobiliteit en Ecologische Transitie",
+                "Jean-Luc Crucke",
+                "LE"
+            ],
+            [
+                "None",
+                "Vanessa Matz",
+                "LE"
+            ],
+            [
+                "Minister Consumentenbescherming, Sociale Fraudebestrijding, Personen met een handicap en Gelijke Kansen",
+                "Rob Beenders",
+                "Vooruit"
+            ],
+            [
+                "Minister Asiel en Migratie en Maatschappelijke Integratie, belast met het Grootstedenbeleid",
+                "Anneleen Van Bossuyt",
+                "N-VA"
+            ],
+            [
+                "Minister Energie",
+                "Mathieu Bihet",
+                "MR"
+            ],
+            [
+                "Minister Middenstand, Zelfstandigen en KMO's",
+                "Eléonore Simonet",
+                "MR"
+            ]
+        ],
+        "table_text": "functie_en_bevoegdheid_functie_en_bevoegdheid | minister_naam | partij_partij.1<br>Minister Justitie, belast met Noordzee | Annelies Verlinden | cd&v<br>Minister Binnenlandse Zaken en Veiligheid, belast met Beliris | Bernard Quintin | MR<br>Minister Defensie, belast met Buitenlandse Handel | Theo Francken | N-VA<br>Minister Klimaat, Mobiliteit en Ecologische Transitie | Jean-Luc Crucke | LE<br>None | Vanessa Matz | LE<br>Minister Consumentenbescherming, Sociale Fraudebestrijding, Personen met een handicap en Gelijke Kansen | Rob Beenders | Vooruit<br>Minister Asiel en Migratie en Maatschappelijke Integratie, belast met het Grootstedenbeleid | Anneleen Van Bossuyt | N-VA<br>Minister Energie | Mathieu Bihet | MR<br>Minister Middenstand, Zelfstandigen en KMO's | Eléonore Simonet | MR"
+    },
+    "21": {
+        "title": "Kabinet-Merz",
+        "category": "politics | govermnment organization",
+        "type": "",
+        "url": "https://nl.wikipedia.org/wiki/Kabinet-Merz",
+        "date": "2025-05-06T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q133849523_21.csv",
+        "QID": "Q133849523",
+        "table": [
+            [
+                "ambtsbekleder.2",
+                "functie(s)",
+                "ambtstermijn",
+                "partij(en)"
+            ],
+            [
+                "Friedrich Merz (1955)",
+                "Bondskanselier",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Lars Klingbeil (1978)",
+                "Vicekanselier",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Lars Klingbeil (1978)",
+                "Bondsminister van Financiën",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Alexander Dobrindt (1970)",
+                "Bondsminister van Binnenlandse Zaken",
+                "6 mei 2025",
+                "CSU"
+            ],
+            [
+                "Johann Wadephul (1963)",
+                "Bondsminister van Buitenlandse Zaken",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Stefanie Hubig (1968)",
+                "Bondsminister van Justitie en Consumenten- bescherming",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Katherina Reiche (1973)",
+                "Bondsminister van Economische Zaken en Energie",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Boris Pistorius (1960)",
+                "Bondsminister van Defensie",
+                "19 januari 2023",
+                "SPD"
+            ],
+            [
+                "Nina Warken (1973)",
+                "Bondsminister van Volksgezondheid",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Bärbel Bas (1968)",
+                "Bondsminister van Arbeid en Sociale Zaken",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Karin Prien (1965)",
+                "Bondsminister van Onderwijs, Familie, Senioren, Vrouwen en Jeugd",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Patrick Schnieder (1968)",
+                "Bondsminister van Verkeer",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Verena Hubertz (1987)",
+                "Bondsminister van Volkshuisvesting, Stedelijke Ontwikkeling en Woningbouw",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Alois Rainer (1965)",
+                "Bondsminister van Landbouw, Voedsel en Agrarische Zaken",
+                "6 mei 2025",
+                "CSU"
+            ],
+            [
+                "Carsten Schneider (1976)",
+                "Bondsminister van Milieu, Klimaat, Natuur en Kernveiligheid",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Reem Alabali- Radovan (1990)",
+                "Bondsminister voor Economische Betrekkingen en Ontwikkelingshulp",
+                "6 mei 2025",
+                "SPD"
+            ],
+            [
+                "Dorothee Bär (1978)",
+                "Bondsminister voor Onderzoek, Technologie en Ruimtevaart",
+                "6 mei 2025",
+                "CSU"
+            ],
+            [
+                "Karsten Wildberger (1969)",
+                "Bondsminister voor Digitalisering en Staatsmodernisering",
+                "6 mei 2025",
+                "O"
+            ],
+            [
+                "Thorsten Frei (1973)",
+                "Bondsminister zonder portefeuille",
+                "6 mei 2025",
+                "CDU"
+            ],
+            [
+                "Thorsten Frei (1973)",
+                "Chef des Bundeskanzleramts",
+                "6 mei 2025",
+                "CDU"
+            ]
+        ],
+        "table_text": "ambtsbekleder.2 | functie(s) | ambtstermijn | partij(en)<br>Friedrich Merz (1955) | Bondskanselier | 6 mei 2025 | CDU<br>Lars Klingbeil (1978) | Vicekanselier | 6 mei 2025 | SPD<br>Lars Klingbeil (1978) | Bondsminister van Financiën | 6 mei 2025 | SPD<br>Alexander Dobrindt (1970) | Bondsminister van Binnenlandse Zaken | 6 mei 2025 | CSU<br>Johann Wadephul (1963) | Bondsminister van Buitenlandse Zaken | 6 mei 2025 | CDU<br>Stefanie Hubig (1968) | Bondsminister van Justitie en Consumenten- bescherming | 6 mei 2025 | SPD<br>Katherina Reiche (1973) | Bondsminister van Economische Zaken en Energie | 6 mei 2025 | CDU<br>Boris Pistorius (1960) | Bondsminister van Defensie | 19 januari 2023 | SPD<br>Nina Warken (1973) | Bondsminister van Volksgezondheid | 6 mei 2025 | CDU<br>Bärbel Bas (1968) | Bondsminister van Arbeid en Sociale Zaken | 6 mei 2025 | SPD<br>Karin Prien (1965) | Bondsminister van Onderwijs, Familie, Senioren, Vrouwen en Jeugd | 6 mei 2025 | CDU<br>Patrick Schnieder (1968) | Bondsminister van Verkeer | 6 mei 2025 | CDU<br>Verena Hubertz (1987) | Bondsminister van Volkshuisvesting, Stedelijke Ontwikkeling en Woningbouw | 6 mei 2025 | SPD<br>Alois Rainer (1965) | Bondsminister van Landbouw, Voedsel en Agrarische Zaken | 6 mei 2025 | CSU<br>Carsten Schneider (1976) | Bondsminister van Milieu, Klimaat, Natuur en Kernveiligheid | 6 mei 2025 | SPD<br>Reem Alabali- Radovan (1990) | Bondsminister voor Economische Betrekkingen en Ontwikkelingshulp | 6 mei 2025 | SPD<br>Dorothee Bär (1978) | Bondsminister voor Onderzoek, Technologie en Ruimtevaart | 6 mei 2025 | CSU<br>Karsten Wildberger (1969) | Bondsminister voor Digitalisering en Staatsmodernisering | 6 mei 2025 | O<br>Thorsten Frei (1973) | Bondsminister zonder portefeuille | 6 mei 2025 | CDU<br>Thorsten Frei (1973) | Chef des Bundeskanzleramts | 6 mei 2025 | CDU"
+    },
+    "22": {
+        "title": "Kabinet-Stocker",
+        "category": "politics | government",
+        "type": "",
+        "url": "https://nl.wikipedia.org/wiki/Kabinet-Stocker",
+        "date": "2025-03-03T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q132797065_22.csv",
+        "QID": "Q132797065",
+        "table": [
+            [
+                "ambtsbekleder.2",
+                "functie(s)",
+                "ambtstermijn",
+                "partij(en)"
+            ],
+            [
+                "Christian Stocker (1960)",
+                "Bondskanselier",
+                "3 maart 2025",
+                "ÖVP"
+            ],
+            [
+                "Andreas Babler (1973)",
+                "Vicekanselier",
+                "3 maart 2025",
+                "SPÖ"
+            ],
+            [
+                "Andreas Babler (1973)",
+                "Minister voor Administratieve Zaken, Kunst, Cultuur en Sport",
+                "3 maart 2025",
+                "SPÖ"
+            ],
+            [
+                "Gerhard Karner (1967)",
+                "Minister van Binnenlandse Zaken",
+                "6 december 2021",
+                "ÖVP"
+            ],
+            [
+                "Beate Meinl- Reisinger (1978)",
+                "Minister van Buitenlandse Zaken",
+                "3 maart 2025",
+                "NEOS"
+            ],
+            [
+                "Markus Marterbauer (1965)",
+                "Minister van Financiën",
+                "3 maart 2025",
+                "O"
+            ],
+            [
+                "Anna Sporrer (1962)",
+                "Minister van Justitie",
+                "3 maart 2025",
+                "O"
+            ],
+            [
+                "Wolfgang Hattmannsdorfer (1979)",
+                "Minister van Economische Zaken",
+                "3 maart 2025",
+                "ÖVP"
+            ],
+            [
+                "Wolfgang Hattmannsdorfer (1979)",
+                "Minister van Arbeid",
+                "3 maart 2025",
+                "ÖVP"
+            ],
+            [
+                "Klaudia Tanner (1970)",
+                "Minister van Defensie",
+                "7 januari 2020",
+                "ÖVP"
+            ],
+            [
+                "Korinna Schumann (1964)",
+                "Minister van Volksgezondheid",
+                "3 maart 2025",
+                "SPÖ"
+            ],
+            [
+                "Korinna Schumann (1964)",
+                "Minister van Sociale Zaken",
+                "3 maart 2025",
+                "SPÖ"
+            ],
+            [
+                "Christoph Wiederkehr (1990)",
+                "Minister van Onderwijs en Wetenschap",
+                "3 maart 2025",
+                "NEOS"
+            ],
+            [
+                "Peter Hanke (1964)",
+                "Minister van Transport",
+                "3 maart 2025",
+                "SPÖ"
+            ],
+            [
+                "Peter Hanke (1964)",
+                "Minister van Milieu, Klimaat, Energie en Technologie",
+                "3 maart 2025",
+                "SPÖ"
+            ],
+            [
+                "Norbert Totschnig (1974)",
+                "Minister van Landbouw en Bosbouw",
+                "3 maart 2025",
+                "ÖVP"
+            ],
+            [
+                "Norbert Totschnig (1974)",
+                "Minister van Waterstaat",
+                "3 maart 2025",
+                "ÖVP"
+            ],
+            [
+                "Claudia Plakolm (1994)",
+                "Minister voor Europese Zaken, Integratie en Familie Zaken",
+                "3 maart 2025",
+                "ÖVP"
+            ],
+            [
+                "Eva-Maria Holzleitner (1993)",
+                "Minister voor Vrouwen en Gelijkheid",
+                "3 maart 2025",
+                "SPÖ"
+            ]
+        ],
+        "table_text": "ambtsbekleder.2 | functie(s) | ambtstermijn | partij(en)<br>Christian Stocker (1960) | Bondskanselier | 3 maart 2025 | ÖVP<br>Andreas Babler (1973) | Vicekanselier | 3 maart 2025 | SPÖ<br>Andreas Babler (1973) | Minister voor Administratieve Zaken, Kunst, Cultuur en Sport | 3 maart 2025 | SPÖ<br>Gerhard Karner (1967) | Minister van Binnenlandse Zaken | 6 december 2021 | ÖVP<br>Beate Meinl- Reisinger (1978) | Minister van Buitenlandse Zaken | 3 maart 2025 | NEOS<br>Markus Marterbauer (1965) | Minister van Financiën | 3 maart 2025 | O<br>Anna Sporrer (1962) | Minister van Justitie | 3 maart 2025 | O<br>Wolfgang Hattmannsdorfer (1979) | Minister van Economische Zaken | 3 maart 2025 | ÖVP<br>Wolfgang Hattmannsdorfer (1979) | Minister van Arbeid | 3 maart 2025 | ÖVP<br>Klaudia Tanner (1970) | Minister van Defensie | 7 januari 2020 | ÖVP<br>Korinna Schumann (1964) | Minister van Volksgezondheid | 3 maart 2025 | SPÖ<br>Korinna Schumann (1964) | Minister van Sociale Zaken | 3 maart 2025 | SPÖ<br>Christoph Wiederkehr (1990) | Minister van Onderwijs en Wetenschap | 3 maart 2025 | NEOS<br>Peter Hanke (1964) | Minister van Transport | 3 maart 2025 | SPÖ<br>Peter Hanke (1964) | Minister van Milieu, Klimaat, Energie en Technologie | 3 maart 2025 | SPÖ<br>Norbert Totschnig (1974) | Minister van Landbouw en Bosbouw | 3 maart 2025 | ÖVP<br>Norbert Totschnig (1974) | Minister van Waterstaat | 3 maart 2025 | ÖVP<br>Claudia Plakolm (1994) | Minister voor Europese Zaken, Integratie en Familie Zaken | 3 maart 2025 | ÖVP<br>Eva-Maria Holzleitner (1993) | Minister voor Vrouwen en Gelijkheid | 3 maart 2025 | SPÖ"
+    }
+}

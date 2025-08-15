@@ -1,0 +1,128 @@
+{
+    "9": {
+        "title": "Regeringen Merz",
+        "category": "politics | govermnment organization",
+        "type": "",
+        "url": "https://sv.wikipedia.org/wiki/Regeringen_Merz",
+        "date": "2025-05-06T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q133849523_9.csv",
+        "QID": "Q133849523",
+        "table": [
+            [
+                "titel",
+                "namn.1",
+                "tillträdde",
+                "parti"
+            ],
+            [
+                "Förbundskansler",
+                "Friedrich Merz",
+                "6 maj 2025",
+                "CDU"
+            ],
+            [
+                "Finansminister samt Vicekansler",
+                "Lars Klingbeil",
+                "6 maj 2025",
+                "SPD"
+            ],
+            [
+                "Inrikesminister",
+                "Alexander Dobrindt",
+                "6 maj 2025",
+                "CSU"
+            ],
+            [
+                "Näringslivs- och energiminister",
+                "Katherina Reiche",
+                "6 maj 2025",
+                "CDU"
+            ],
+            [
+                "Utrikesminister",
+                "Johann Wadephul",
+                "6 maj 2025",
+                "CDU"
+            ],
+            [
+                "Justitieminister",
+                "Stefanie Hubig",
+                "6 maj 2025",
+                "SPD"
+            ],
+            [
+                "Försvarsminister",
+                "Boris Pistorius",
+                "19 januari 2023",
+                "SPD"
+            ],
+            [
+                "Arbets- och socialminister",
+                "Bärbel Bas",
+                "6 maj 2025",
+                "SPD"
+            ],
+            [
+                "Jordbruks- och livsmedelsminister",
+                "Alois Rainer",
+                "6 maj 2025",
+                "CSU"
+            ],
+            [
+                "Utbildningsminister",
+                "Karin Prien",
+                "6 maj 2025",
+                "CDU"
+            ],
+            [
+                "Hälsominister",
+                "Nina Warken",
+                "6 maj 2025",
+                "CDU"
+            ],
+            [
+                "Transportminister",
+                "Patrick Schneider",
+                "6 maj 2025",
+                "CDU"
+            ],
+            [
+                "Miljöminister",
+                "Carsten Scnheider",
+                "6 maj 2025",
+                "SPD"
+            ],
+            [
+                "Digitaliseringsminister",
+                "Karsten Wildberger",
+                "6 maj 2025",
+                "Partilös"
+            ],
+            [
+                "Forskningsminister",
+                "Dorothee Bär",
+                "6 maj 2025",
+                "CSU"
+            ],
+            [
+                "Utvecklingsminister och minister för näringslivssamarbete",
+                "Reem Alabali-Radovan",
+                "6 maj 2025",
+                "SPD"
+            ],
+            [
+                "Minister för bostäder, stadsutveckling och byggande",
+                "Verena Hubertz",
+                "6 maj 2025",
+                "SPD"
+            ],
+            [
+                "Minister med särskilda uppgifter och chef för Förbundskanslerämbetet",
+                "Thorsten Frei",
+                "6 maj 2025",
+                "CDU"
+            ]
+        ],
+        "table_text": "titel | namn.1 | tillträdde | parti<br>Förbundskansler | Friedrich Merz | 6 maj 2025 | CDU<br>Finansminister samt Vicekansler | Lars Klingbeil | 6 maj 2025 | SPD<br>Inrikesminister | Alexander Dobrindt | 6 maj 2025 | CSU<br>Näringslivs- och energiminister | Katherina Reiche | 6 maj 2025 | CDU<br>Utrikesminister | Johann Wadephul | 6 maj 2025 | CDU<br>Justitieminister | Stefanie Hubig | 6 maj 2025 | SPD<br>Försvarsminister | Boris Pistorius | 19 januari 2023 | SPD<br>Arbets- och socialminister | Bärbel Bas | 6 maj 2025 | SPD<br>Jordbruks- och livsmedelsminister | Alois Rainer | 6 maj 2025 | CSU<br>Utbildningsminister | Karin Prien | 6 maj 2025 | CDU<br>Hälsominister | Nina Warken | 6 maj 2025 | CDU<br>Transportminister | Patrick Schneider | 6 maj 2025 | CDU<br>Miljöminister | Carsten Scnheider | 6 maj 2025 | SPD<br>Digitaliseringsminister | Karsten Wildberger | 6 maj 2025 | Partilös<br>Forskningsminister | Dorothee Bär | 6 maj 2025 | CSU<br>Utvecklingsminister och minister för näringslivssamarbete | Reem Alabali-Radovan | 6 maj 2025 | SPD<br>Minister för bostäder, stadsutveckling och byggande | Verena Hubertz | 6 maj 2025 | SPD<br>Minister med särskilda uppgifter och chef för Förbundskanslerämbetet | Thorsten Frei | 6 maj 2025 | CDU"
+    }
+}

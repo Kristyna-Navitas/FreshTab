@@ -1,0 +1,472 @@
+{
+    "bot_email": "your@bot.com",
+    "date": "2025-02-01T00:00:00Z",
+    "until_date": "2025-05-30T00:00:00Z",
+    "lang": "de",
+    "output_dir": "FT2-5_25_de_nocheck_nopeople",
+    "load_data": true,
+    "random_seed": 42,
+    "expected_labels": [
+        "superlative",
+        "aggregation",
+        "negation",
+        "comparative",
+        "unique",
+        "all",
+        "count",
+        "ordinal",
+        "none"
+    ],
+    "quick_mode": 5,
+    "no_people": true,
+    "num_pages": 1000,
+    "max_pages": 50,
+    "custom_distribution": {},
+    "min_rows": 5,
+    "max_rows": 50,
+    "min_columns": 3,
+    "max_columns": 10,
+    "min_entries": 20,
+    "table_max_char": 3000,
+    "choose_ratio": 0.75,
+    "nan_threshold": 0.25,
+    "max_text_length": 140,
+    "max_depth": 5,
+    "date_properties": [
+        "P580",
+        "P585",
+        "P577",
+        "P7588",
+        "P1191",
+        "P571",
+        "P729",
+        "P1619",
+        "P2031",
+        "P569"
+    ],
+    "same_for_categories": [
+        "business",
+        "performance",
+        "ceremony",
+        "award",
+        "award ceremony"
+    ],
+    "wikilist_limit": 10000,
+    "people_limit": 5000,
+    "people_categories": {
+        "sport": [
+            "athlete",
+            "player",
+            "coach"
+        ],
+        "culture": [
+            "artist",
+            "creator",
+            "performer",
+            "author"
+        ],
+        "politics": [
+            "politician",
+            "diplomat",
+            "military personnel"
+        ],
+        "default_category": "politics"
+    },
+    "earliest_date": "1925-01-01T00:00:00Z",
+    "min_timeframe_years": 10,
+    "excluded_csv_ids": null,
+    "categories": {
+        "culture": [
+            [
+                "Q2431196",
+                "P136",
+                "audiovisual work"
+            ],
+            [
+                "Q838948",
+                "P136",
+                "work of art"
+            ],
+            [
+                "Q7725310",
+                "P136",
+                "series of creative works"
+            ],
+            [
+                "Q1400264",
+                "P136",
+                "artist collective"
+            ],
+            [
+                "Q1318295",
+                "P136",
+                "narrative"
+            ],
+            [
+                "Q861911",
+                "P136",
+                "oration"
+            ],
+            [
+                "Q571",
+                "P17",
+                "book"
+            ],
+            [
+                "Q37038",
+                "P136",
+                "advertising"
+            ],
+            [
+                "Q11032",
+                "P17",
+                "newspaper"
+            ],
+            [
+                "Q1967459",
+                "",
+                "concours"
+            ],
+            [
+                "Q3152824",
+                "P17",
+                "institution"
+            ],
+            [
+                "Q15265344",
+                "P17",
+                "broadcaster"
+            ],
+            [
+                "Q47495113",
+                "P17",
+                "project"
+            ],
+            [
+                "Q5155040",
+                "P17",
+                "community project"
+            ],
+            [
+                "Q51938570",
+                "",
+                "entertainment software"
+            ],
+            [
+                "Q27968043",
+                "",
+                "festival"
+            ],
+            [
+                "Q115668308",
+                "P17",
+                "release"
+            ],
+            [
+                "Q2627975",
+                "P17",
+                "ceremony"
+            ],
+            [
+                "Q618779",
+                "P17",
+                "award"
+            ],
+            [
+                "Q35140",
+                "P17",
+                "performance"
+            ],
+            [
+                "Q4830453",
+                "P452",
+                "business"
+            ],
+            [
+                "Q4504495",
+                "P17",
+                "award ceremony"
+            ]
+        ],
+        "politics": [
+            [
+                "Q15238777",
+                "P17",
+                "legislative term"
+            ],
+            [
+                "Q40231",
+                "P17",
+                "public election"
+            ],
+            [
+                "Q28108",
+                "P17",
+                "political system"
+            ],
+            [
+                "Q2659904",
+                "P17",
+                "govermnment organization"
+            ],
+            [
+                "Q7188",
+                "P17",
+                "government"
+            ],
+            [
+                "Q865588",
+                "P17",
+                "comittee"
+            ],
+            [
+                "Q625994",
+                "P17",
+                "convention"
+            ],
+            [
+                "Q7210356",
+                "P17",
+                "organization"
+            ],
+            [
+                "Q189760",
+                "P17",
+                "voting"
+            ],
+            [
+                "Q2761147",
+                "",
+                "meeting"
+            ],
+            [
+                "Q175331",
+                "P17",
+                "demonstration"
+            ],
+            [
+                "Q22222786",
+                "P17",
+                "govenment program"
+            ],
+            [
+                "Q15911314",
+                "P17",
+                "association"
+            ]
+        ],
+        "sport": [
+            [
+                "Q13406554",
+                "P641",
+                "competition"
+            ],
+            [
+                "Q4438121",
+                "P641",
+                "organization"
+            ],
+            [
+                "Q16510064",
+                "P641",
+                "event"
+            ],
+            [
+                "Q15229207",
+                "P641",
+                "award"
+            ],
+            [
+                "Q15991290",
+                "P641",
+                "league"
+            ],
+            [
+                "Q988108",
+                "P17",
+                "club"
+            ],
+            [
+                "Q327245",
+                "P17",
+                "team"
+            ],
+            [
+                "Q2627975",
+                "P17",
+                "ceremony"
+            ],
+            [
+                "Q35140",
+                "P17",
+                "performance"
+            ],
+            [
+                "Q618779",
+                "P17",
+                "award"
+            ],
+            [
+                "Q4504495",
+                "P17",
+                "award ceremony"
+            ]
+        ],
+        "mix": [
+            [
+                "Q2221906",
+                "P17",
+                "geography"
+            ],
+            [
+                "Q5341295",
+                "P17",
+                "education"
+            ],
+            [
+                "Q3839081",
+                "P17",
+                "disaster"
+            ],
+            [
+                "Q7397",
+                "",
+                "software"
+            ],
+            [
+                "Q783794",
+                "P452",
+                "company"
+            ],
+            [
+                "Q163740",
+                "P17",
+                "nonprofit"
+            ],
+            [
+                "Q16917",
+                "P17",
+                "hospital"
+            ],
+            [
+                "Q1530022",
+                "P17",
+                "religious"
+            ],
+            [
+                "Q14208553",
+                "P17",
+                "invention"
+            ],
+            [
+                "Q317623",
+                "P17",
+                "standard"
+            ],
+            [
+                "Q33506",
+                "P17",
+                "museum"
+            ],
+            [
+                "Q12772819",
+                "P17",
+                "discovery"
+            ],
+            [
+                "Q16519632",
+                "P17",
+                "science organization"
+            ],
+            [
+                "Q63981612",
+                "P17",
+                "category"
+            ],
+            [
+                "Q10273457",
+                "",
+                "equipment"
+            ],
+            [
+                "Q7406919",
+                "",
+                "service"
+            ],
+            [
+                "Q994895",
+                "",
+                "technical system"
+            ],
+            [
+                "Q2342494",
+                "",
+                "collectible"
+            ],
+            [
+                "Q121182",
+                "",
+                "manufactured good"
+            ],
+            [
+                "Q1836700",
+                "",
+                "information system"
+            ],
+            [
+                "Q2897903",
+                "",
+                "goods and services"
+            ],
+            [
+                "Q241317",
+                "",
+                "computing platform"
+            ],
+            [
+                "Q115797408",
+                "",
+                "vehicles"
+            ],
+            [
+                "Q115920686",
+                "",
+                "video games"
+            ]
+        ]
+    },
+    "nan_values": [
+        "None",
+        "none",
+        "",
+        "nan",
+        "NaN",
+        "NAN",
+        "Nan",
+        "TBA",
+        "tba",
+        "Unknown",
+        "unknown",
+        "-",
+        "–",
+        "—",
+        " ",
+        "N/A",
+        "n/a",
+        "NA",
+        "na",
+        "null",
+        "Null",
+        "Missing",
+        "missing",
+        "#VALUE!",
+        "<NA>",
+        "<na>",
+        "No data",
+        "no data",
+        "Not applicable",
+        "not applicable",
+        "N/A",
+        "n/a"
+    ]
+}

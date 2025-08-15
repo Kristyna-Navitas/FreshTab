@@ -1,0 +1,180 @@
+{
+    "566": {
+        "title": "Wikipedia:Wikimedia CEE Spring 2025",
+        "category": "mix | software | web page | MediaWiki page | MediaWiki non-main namespace page | Wikimedia project page",
+        "type": "",
+        "url": "https://de.wikipedia.org/wiki/Wikipedia:Wikimedia_CEE_Spring_2025",
+        "date": "2025-03-21T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q131295075_566.csv",
+        "QID": "Q131295075",
+        "table": [
+            [
+                "#",
+                "teilnehmer(in)",
+                "neue_bzw._veränderte_artikel",
+                "anzahl_punkte"
+            ],
+            [
+                "1",
+                "H1story2Writer",
+                "None",
+                "190"
+            ],
+            [
+                "2",
+                "Loper12321",
+                "None",
+                "164"
+            ],
+            [
+                "3",
+                "1rhb",
+                "None",
+                "144"
+            ],
+            [
+                "4",
+                "Osenji",
+                "None",
+                "127"
+            ],
+            [
+                "5",
+                "DonPedro71",
+                "None",
+                "120"
+            ],
+            [
+                "6",
+                "Mogelzahn",
+                "None",
+                "96"
+            ],
+            [
+                "7",
+                "Lodewicus de Honsvels",
+                "None",
+                "57"
+            ],
+            [
+                "8",
+                "Mac1405",
+                "None",
+                "30"
+            ],
+            [
+                "9",
+                "Fabrice Dux",
+                "Prokop Brož (5), László Német (1), Jerzy Kołodziej (1)",
+                "7"
+            ],
+            [
+                "10",
+                "Bravehehart",
+                "Mur-Drau-Donau (5)",
+                "5"
+            ],
+            [
+                "11",
+                "Mudroslov",
+                "Živa zajednica (1), Zagreber Holding (1)",
+                "2"
+            ],
+            [
+                "12",
+                "Oesterreicher12",
+                "Alexei Witaljewitsch Subrizki (1)",
+                "1"
+            ],
+            [
+                "13",
+                "Koreanovsky",
+                "1100 Jahre kroatisches Königreich (1)",
+                "1"
+            ]
+        ],
+        "table_text": "# | teilnehmer(in) | neue_bzw._veränderte_artikel | anzahl_punkte<br>1 | H1story2Writer | None | 190<br>2 | Loper12321 | None | 164<br>3 | 1rhb | None | 144<br>4 | Osenji | None | 127<br>5 | DonPedro71 | None | 120<br>6 | Mogelzahn | None | 96<br>7 | Lodewicus de Honsvels | None | 57<br>8 | Mac1405 | None | 30<br>9 | Fabrice Dux | Prokop Brož (5), László Német (1), Jerzy Kołodziej (1) | 7<br>10 | Bravehehart | Mur-Drau-Donau (5) | 5<br>11 | Mudroslov | Živa zajednica (1), Zagreber Holding (1) | 2<br>12 | Oesterreicher12 | Alexei Witaljewitsch Subrizki (1) | 1<br>13 | Koreanovsky | 1100 Jahre kroatisches Königreich (1) | 1"
+    },
+    "567": {
+        "title": "Straßenbahn Lüttich",
+        "category": "mix | service",
+        "type": "",
+        "url": "https://de.wikipedia.org/wiki/Stra%C3%9Fenbahn_L%C3%BCttich",
+        "date": "2025-04-28T00:00:00+00:00T00:00:00Z",
+        "csv_id": "Q628289_567.csv",
+        "QID": "Q628289",
+        "table": [
+            [
+                "uhrzeit",
+                "montag–freitag_(schule)",
+                "montag–freitag_(ferien)",
+                "samstag",
+                "sonn-_und_feiertage"
+            ],
+            [
+                "05:00–06:00",
+                "15 min",
+                "15 min",
+                "15 min",
+                "15 min"
+            ],
+            [
+                "06:00–07:00",
+                "10 min",
+                "10 min",
+                "15 min",
+                "15 min"
+            ],
+            [
+                "07:00–09:00",
+                "4,5 min",
+                "7,5 min",
+                "10 min",
+                "10 min"
+            ],
+            [
+                "09:00–12:00",
+                "7,5 min (mittwochs 6 min zw. 12:00–13:30)",
+                "7,5 min",
+                "7,5 min",
+                "10 min"
+            ],
+            [
+                "12:00–15:30",
+                "7,5 min (mittwochs 6 min zw. 12:00–13:30)",
+                "7,5 min",
+                "6 min",
+                "10 min"
+            ],
+            [
+                "15:30–18:30",
+                "5 min",
+                "5 min",
+                "6 min",
+                "10 min"
+            ],
+            [
+                "18:30–22:00",
+                "10 min",
+                "10 min",
+                "10 min",
+                "10 min"
+            ],
+            [
+                "22:00–01:00",
+                "15 min",
+                "15 min",
+                "15 min",
+                "15 min"
+            ],
+            [
+                "01:00–05:00",
+                "kein Betrieb",
+                "kein Betrieb",
+                "kein Betrieb",
+                "kein Betrieb"
+            ]
+        ],
+        "table_text": "uhrzeit | montag–freitag_(schule) | montag–freitag_(ferien) | samstag | sonn-_und_feiertage<br>05:00–06:00 | 15 min | 15 min | 15 min | 15 min<br>06:00–07:00 | 10 min | 10 min | 15 min | 15 min<br>07:00–09:00 | 4,5 min | 7,5 min | 10 min | 10 min<br>09:00–12:00 | 7,5 min (mittwochs 6 min zw. 12:00–13:30) | 7,5 min | 7,5 min | 10 min<br>12:00–15:30 | 7,5 min (mittwochs 6 min zw. 12:00–13:30) | 7,5 min | 6 min | 10 min<br>15:30–18:30 | 5 min | 5 min | 6 min | 10 min<br>18:30–22:00 | 10 min | 10 min | 10 min | 10 min<br>22:00–01:00 | 15 min | 15 min | 15 min | 15 min<br>01:00–05:00 | kein Betrieb | kein Betrieb | kein Betrieb | kein Betrieb"
+    }
+}
