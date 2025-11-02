@@ -1,0 +1,733 @@
+{
+    "517": {
+        "title": "Tropical Storm Jerry",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Jerry_(2025)",
+        "date": "",
+        "csv_id": "Q136460085_517.csv",
+        "QID": "Q136460085",
+        "table": [
+            [
+                "storm_name",
+                "dates_active",
+                "storm_category_at_peak_intensity",
+                "max_1-min_wind_mph_(km/h)",
+                "min._press._(mbar)",
+                "areas_affected",
+                "damage__(usd)",
+                "deaths"
+            ],
+            [
+                "Andrea",
+                "June 23–24",
+                "Tropical storm",
+                "40 (65)",
+                "1014",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Barry",
+                "June 28–30",
+                "Tropical storm",
+                "45 (75)",
+                "1006",
+                "Northern Central America, Yucatán Peninsula, Eastern Mexico, Texas",
+                "$32.3 million",
+                "8"
+            ],
+            [
+                "Chantal",
+                "July 4–7",
+                "Tropical storm",
+                "60 (95)",
+                "1002",
+                "Southeastern United States, Mid-Atlantic United States",
+                "$500 million",
+                "6"
+            ],
+            [
+                "Dexter",
+                "August 3–6",
+                "Tropical storm",
+                "60 (95)",
+                "999",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Erin",
+                "August 11–22",
+                "Category 5 hurricane",
+                "160 (260)",
+                "915",
+                "None",
+                ">$1 million",
+                "12"
+            ],
+            [
+                "Fernand",
+                "August 23–28",
+                "Tropical storm",
+                "60 (95)",
+                "1000",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Gabrielle",
+                "September 17–25",
+                "Category 4 hurricane",
+                "140 (220)",
+                "948",
+                "East Coast of the United States, Bermuda, Azores, Iberian Peninsula",
+                ">$11.7 million",
+                "<NA>"
+            ],
+            [
+                "Humberto",
+                "September 24 – October 1",
+                "Category 5 hurricane",
+                "160 (260)",
+                "924",
+                "Bermuda, East Coast of the United States",
+                "Minimal",
+                "<NA>"
+            ],
+            [
+                "Imelda",
+                "September 27 – October 2",
+                "Category 2 hurricane",
+                "100 (155)",
+                "966",
+                "Leeward Islands, Greater Antilles, Lucayan Archipelago, Southeastern United States, Bermuda",
+                ">$10 million",
+                "5"
+            ],
+            [
+                "Jerry",
+                "October 7–11",
+                "Tropical storm",
+                "65 (100)",
+                "999",
+                "Lesser Antilles",
+                "Minimal",
+                "1"
+            ],
+            [
+                "Karen",
+                "October 10",
+                "Subtropical storm",
+                "45 (75)",
+                "998",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Lorenzo",
+                "October 13–15",
+                "Tropical storm",
+                "60 (95)",
+                "999",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Melissa",
+                "October 21–31",
+                "Category 5 hurricane",
+                "185 (295)",
+                "892",
+                "Windward Islands, Greater Antilles (particularly Jamaica, Hispaniola, and eastern Cuba), Lucayan Archipelago, Bermuda, Newfoundland Island",
+                ">$7.7 billion",
+                "56+"
+            ],
+            [
+                "Season aggregates",
+                "Season aggregates",
+                "Season aggregates",
+                "Season aggregates",
+                "Season aggregates",
+                "Season aggregates",
+                "Season aggregates",
+                "Season aggregates"
+            ],
+            [
+                "13 systems",
+                "June 23 – present",
+                "<NA>",
+                "185 (295)",
+                "892",
+                "<NA>",
+                ">$8.255 billion",
+                "88"
+            ]
+        ],
+        "table_text": "storm_name | dates_active | storm_category_at_peak_intensity | max_1-min_wind_mph_(km/h) | min._press._(mbar) | areas_affected | damage__(usd) | deaths<br>Andrea | June 23–24 | Tropical storm | 40 (65) | 1014 | <NA> | <NA> | <NA><br>Barry | June 28–30 | Tropical storm | 45 (75) | 1006 | Northern Central America, Yucatán Peninsula, Eastern Mexico, Texas | $32.3 million | 8<br>Chantal | July 4–7 | Tropical storm | 60 (95) | 1002 | Southeastern United States, Mid-Atlantic United States | $500 million | 6<br>Dexter | August 3–6 | Tropical storm | 60 (95) | 999 | <NA> | <NA> | <NA><br>Erin | August 11–22 | Category 5 hurricane | 160 (260) | 915 | None | >$1 million | 12<br>Fernand | August 23–28 | Tropical storm | 60 (95) | 1000 | <NA> | <NA> | <NA><br>Gabrielle | September 17–25 | Category 4 hurricane | 140 (220) | 948 | East Coast of the United States, Bermuda, Azores, Iberian Peninsula | >$11.7 million | <NA><br>Humberto | September 24 – October 1 | Category 5 hurricane | 160 (260) | 924 | Bermuda, East Coast of the United States | Minimal | <NA><br>Imelda | September 27 – October 2 | Category 2 hurricane | 100 (155) | 966 | Leeward Islands, Greater Antilles, Lucayan Archipelago, Southeastern United States, Bermuda | >$10 million | 5<br>Jerry | October 7–11 | Tropical storm | 65 (100) | 999 | Lesser Antilles | Minimal | 1<br>Karen | October 10 | Subtropical storm | 45 (75) | 998 | <NA> | <NA> | <NA><br>Lorenzo | October 13–15 | Tropical storm | 60 (95) | 999 | <NA> | <NA> | <NA><br>Melissa | October 21–31 | Category 5 hurricane | 185 (295) | 892 | Windward Islands, Greater Antilles (particularly Jamaica, Hispaniola, and eastern Cuba), Lucayan Archipelago, Bermuda, Newfoundland Island | >$7.7 billion | 56+<br>Season aggregates | Season aggregates | Season aggregates | Season aggregates | Season aggregates | Season aggregates | Season aggregates | Season aggregates<br>13 systems | June 23 – present | <NA> | 185 (295) | 892 | <NA> | >$8.255 billion | 88"
+    },
+    "518": {
+        "title": "Hurricane Melissa",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Hurricane_Melissa",
+        "date": "",
+        "csv_id": "Q136548986_518.csv",
+        "QID": "Q136548986",
+        "table": [
+            [
+                "most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_rank",
+                "most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_hurricane[nb_1]",
+                "most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_season",
+                "most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_landfall_pressure"
+            ],
+            [
+                "1",
+                "\"Labor Day\"",
+                "1935",
+                "892 mbar (hPa)"
+            ],
+            [
+                "1",
+                "Melissa",
+                "2025",
+                "892 mbar (hPa)"
+            ],
+            [
+                "3",
+                "Camille",
+                "1969",
+                "900 mbar (hPa)"
+            ],
+            [
+                "3",
+                "Gilbert",
+                "1988",
+                "900 mbar (hPa)"
+            ],
+            [
+                "5",
+                "Dean",
+                "2007",
+                "905 mbar (hPa)"
+            ],
+            [
+                "6",
+                "\"Cuba\"",
+                "1924",
+                "910 mbar (hPa)"
+            ],
+            [
+                "6",
+                "Dorian",
+                "2019",
+                "910 mbar (hPa)"
+            ],
+            [
+                "8",
+                "Janet",
+                "1955",
+                "914 mbar (hPa)"
+            ],
+            [
+                "8",
+                "Irma",
+                "2017",
+                "914 mbar (hPa)"
+            ],
+            [
+                "10",
+                "\"Cuba\"",
+                "1932",
+                "918 mbar (hPa)"
+            ],
+            [
+                "Sources: HURDAT,[26] AOML/HRD,[27] NHC",
+                "Sources: HURDAT,[26] AOML/HRD,[27] NHC",
+                "Sources: HURDAT,[26] AOML/HRD,[27] NHC",
+                "Sources: HURDAT,[26] AOML/HRD,[27] NHC"
+            ]
+        ],
+        "table_text": "most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_rank | most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_hurricane[nb_1] | most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_season | most_intense_landfalling_atlantic_hurricanes_intensity_is_measured_solely_by_central_pressure_landfall_pressure<br>1 | \"Labor Day\" | 1935 | 892 mbar (hPa)<br>1 | Melissa | 2025 | 892 mbar (hPa)<br>3 | Camille | 1969 | 900 mbar (hPa)<br>3 | Gilbert | 1988 | 900 mbar (hPa)<br>5 | Dean | 2007 | 905 mbar (hPa)<br>6 | \"Cuba\" | 1924 | 910 mbar (hPa)<br>6 | Dorian | 2019 | 910 mbar (hPa)<br>8 | Janet | 1955 | 914 mbar (hPa)<br>8 | Irma | 2017 | 914 mbar (hPa)<br>10 | \"Cuba\" | 1932 | 918 mbar (hPa)<br>Sources: HURDAT,[26] AOML/HRD,[27] NHC | Sources: HURDAT,[26] AOML/HRD,[27] NHC | Sources: HURDAT,[26] AOML/HRD,[27] NHC | Sources: HURDAT,[26] AOML/HRD,[27] NHC"
+    },
+    "519": {
+        "title": "ROG Xbox Ally",
+        "category": "mix | category",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/ROG_Xbox_Ally",
+        "date": "",
+        "csv_id": "Q134739802_519.csv",
+        "QID": "Q134739802",
+        "table": [
+            [
+                "properties",
+                "xbox_ally",
+                "xbox_ally_x"
+            ],
+            [
+                "Price",
+                "$599.99 USD/ €599",
+                "$999.99 USD/ €899"
+            ],
+            [
+                "Controls",
+                "None",
+                "None"
+            ],
+            [
+                "Processors",
+                "AMD Ryzen Z2 A",
+                "AMD Ryzen AI Z2 Extreme"
+            ],
+            [
+                "Memory",
+                "16GB LPDDR5-6400",
+                "24GB LPDDR5X-8000"
+            ],
+            [
+                "Storage",
+                "512GB M.2 2280 SSD",
+                "1TB M.2 2280 SSD"
+            ],
+            [
+                "Display",
+                "None",
+                "None"
+            ],
+            [
+                "IO Ports",
+                "None",
+                "None"
+            ],
+            [
+                "Network and Communication",
+                "Wi-Fi 6E (2 x 2) + Bluetooth 5.4",
+                "Wi-Fi 6E (2 x 2) + Bluetooth 5.4"
+            ],
+            [
+                "Dimensions",
+                "290.8*121.5*50.7mm, 670g",
+                "290.8*121.5*50.7mm, 715g"
+            ],
+            [
+                "Battery",
+                "60Wh",
+                "80Wh"
+            ]
+        ],
+        "table_text": "properties | xbox_ally | xbox_ally_x<br>Price | $599.99 USD/ €599 | $999.99 USD/ €899<br>Controls | None | None<br>Processors | AMD Ryzen Z2 A | AMD Ryzen AI Z2 Extreme<br>Memory | 16GB LPDDR5-6400 | 24GB LPDDR5X-8000<br>Storage | 512GB M.2 2280 SSD | 1TB M.2 2280 SSD<br>Display | None | None<br>IO Ports | None | None<br>Network and Communication | Wi-Fi 6E (2 x 2) + Bluetooth 5.4 | Wi-Fi 6E (2 x 2) + Bluetooth 5.4<br>Dimensions | 290.8*121.5*50.7mm, 670g | 290.8*121.5*50.7mm, 715g<br>Battery | 60Wh | 80Wh"
+    },
+    "520": {
+        "title": "ROG Xbox Ally X",
+        "category": "mix | category",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/ROG_Xbox_Ally_X",
+        "date": "",
+        "csv_id": "Q134739803_520.csv",
+        "QID": "Q134739803",
+        "table": [
+            [
+                "properties",
+                "xbox_ally",
+                "xbox_ally_x"
+            ],
+            [
+                "Price",
+                "$599.99 USD/ €599",
+                "$999.99 USD/ €899"
+            ],
+            [
+                "Controls",
+                "None",
+                "None"
+            ],
+            [
+                "Processors",
+                "AMD Ryzen Z2 A",
+                "AMD Ryzen AI Z2 Extreme"
+            ],
+            [
+                "Memory",
+                "16GB LPDDR5-6400",
+                "24GB LPDDR5X-8000"
+            ],
+            [
+                "Storage",
+                "512GB M.2 2280 SSD",
+                "1TB M.2 2280 SSD"
+            ],
+            [
+                "Display",
+                "None",
+                "None"
+            ],
+            [
+                "IO Ports",
+                "None",
+                "None"
+            ],
+            [
+                "Network and Communication",
+                "Wi-Fi 6E (2 x 2) + Bluetooth 5.4",
+                "Wi-Fi 6E (2 x 2) + Bluetooth 5.4"
+            ],
+            [
+                "Dimensions",
+                "290.8*121.5*50.7mm, 670g",
+                "290.8*121.5*50.7mm, 715g"
+            ],
+            [
+                "Battery",
+                "60Wh",
+                "80Wh"
+            ]
+        ],
+        "table_text": "properties | xbox_ally | xbox_ally_x<br>Price | $599.99 USD/ €599 | $999.99 USD/ €899<br>Controls | None | None<br>Processors | AMD Ryzen Z2 A | AMD Ryzen AI Z2 Extreme<br>Memory | 16GB LPDDR5-6400 | 24GB LPDDR5X-8000<br>Storage | 512GB M.2 2280 SSD | 1TB M.2 2280 SSD<br>Display | None | None<br>IO Ports | None | None<br>Network and Communication | Wi-Fi 6E (2 x 2) + Bluetooth 5.4 | Wi-Fi 6E (2 x 2) + Bluetooth 5.4<br>Dimensions | 290.8*121.5*50.7mm, 670g | 290.8*121.5*50.7mm, 715g<br>Battery | 60Wh | 80Wh"
+    },
+    "521": {
+        "title": "Silver Line",
+        "category": "mix | equipment | means of transport",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Silver_Line_(DART)",
+        "date": "",
+        "csv_id": "Q5175661_521.csv",
+        "QID": "Q5175661",
+        "table": [
+            [
+                "station",
+                "municipality",
+                "connections_and_notes"
+            ],
+            [
+                "DFW Airport Terminal B",
+                "DFW Airport",
+                "TEXRail  DART light rail: Orange Line (via walkway to Terminal A)  Dallas/Fort Worth International Airport"
+            ],
+            [
+                "DFW Airport North",
+                "Grapevine",
+                "TEXRail"
+            ],
+            [
+                "Cypress Waters",
+                "Dallas[a]",
+                "<NA>"
+            ],
+            [
+                "Downtown Carrollton",
+                "Carrollton",
+                "A-train (at Trinity Mills station via northbound Green Line)[b]  DART light rail: Green Line"
+            ],
+            [
+                "Addison",
+                "Addison",
+                "Addison Airport"
+            ],
+            [
+                "Knoll Trail",
+                "Dallas",
+                "Serves Prestonwood Town Center"
+            ],
+            [
+                "UT Dallas",
+                "Richardson",
+                "Serves University of Texas at Dallas"
+            ],
+            [
+                "CityLine/Bush",
+                "Richardson",
+                "DART light rail: Red Line, Orange Line (peak only)"
+            ],
+            [
+                "12th Street",
+                "Plano",
+                "DART light rail: Red Line, Orange Line (peak only)"
+            ],
+            [
+                "Shiloh Road",
+                "Plano",
+                "<NA>"
+            ]
+        ],
+        "table_text": "station | municipality | connections_and_notes<br>DFW Airport Terminal B | DFW Airport | TEXRail  DART light rail: Orange Line (via walkway to Terminal A)  Dallas/Fort Worth International Airport<br>DFW Airport North | Grapevine | TEXRail<br>Cypress Waters | Dallas[a] | <NA><br>Downtown Carrollton | Carrollton | A-train (at Trinity Mills station via northbound Green Line)[b]  DART light rail: Green Line<br>Addison | Addison | Addison Airport<br>Knoll Trail | Dallas | Serves Prestonwood Town Center<br>UT Dallas | Richardson | Serves University of Texas at Dallas<br>CityLine/Bush | Richardson | DART light rail: Red Line, Orange Line (peak only)<br>12th Street | Plano | DART light rail: Red Line, Orange Line (peak only)<br>Shiloh Road | Plano | <NA>"
+    },
+    "522": {
+        "title": "Patna Metro",
+        "category": "mix | service | transport service",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Patna_Metro",
+        "date": "",
+        "csv_id": "Q7145108_522.csv",
+        "QID": "Q7145108",
+        "table": [
+            [
+                "package",
+                "description",
+                "no._of_stations",
+                "contractor(s)"
+            ],
+            [
+                "PC-01",
+                "Malahi Pakri, Khemni Chak, Bhootnath, Zero Mile & New ISBT",
+                "5 (elevated)",
+                "NCC Limited"
+            ],
+            [
+                "PC-02",
+                "Construction of New ISBT Depot",
+                "Depot",
+                "Quality Buildcon"
+            ],
+            [
+                "PC-03",
+                "Akashvani, Gandhi Maidan, PMCH, Patna Science College, Moin-ul-Haq Stadium & Rajendra Nagar",
+                "6 (underground)",
+                "L&T Heavy Civil Infrastructure"
+            ],
+            [
+                "PC-04",
+                "Danapur, Saguna Mor, RPS Mor, Patliputra; and Mithapur, Ramkrishan Nagar & Jaganpura",
+                "7 (elevated)",
+                "YFC Projects – Montecarlo JV"
+            ],
+            [
+                "PC-05",
+                "Vikas Bhawan, Vidyut Bhawan & Patna Junction",
+                "3 (underground)",
+                "HCC Limited"
+            ],
+            [
+                "PC-06",
+                "Rukanpura, Raja Bazar & Patna Zoo",
+                "3 (underground)",
+                "HCC Limited"
+            ]
+        ],
+        "table_text": "package | description | no._of_stations | contractor(s)<br>PC-01 | Malahi Pakri, Khemni Chak, Bhootnath, Zero Mile & New ISBT | 5 (elevated) | NCC Limited<br>PC-02 | Construction of New ISBT Depot | Depot | Quality Buildcon<br>PC-03 | Akashvani, Gandhi Maidan, PMCH, Patna Science College, Moin-ul-Haq Stadium & Rajendra Nagar | 6 (underground) | L&T Heavy Civil Infrastructure<br>PC-04 | Danapur, Saguna Mor, RPS Mor, Patliputra; and Mithapur, Ramkrishan Nagar & Jaganpura | 7 (elevated) | YFC Projects – Montecarlo JV<br>PC-05 | Vikas Bhawan, Vidyut Bhawan & Patna Junction | 3 (underground) | HCC Limited<br>PC-06 | Rukanpura, Raja Bazar & Patna Zoo | 3 (underground) | HCC Limited"
+    },
+    "523": {
+        "title": "Patna Metro",
+        "category": "mix | service | transport service",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Patna_Metro",
+        "date": "",
+        "csv_id": "Q7145108_523.csv",
+        "QID": "Q7145108",
+        "table": [
+            [
+                "east-west_line_#_#",
+                "east-west_line_station_name_english",
+                "east-west_line_station_name_hindi",
+                "east-west_line_opening_opening",
+                "east-west_line_layout_layout"
+            ],
+            [
+                "1",
+                "Danapur Cantonment",
+                "दानापुर छावनी",
+                "2026",
+                "Elevated"
+            ],
+            [
+                "2",
+                "Saguna Mor",
+                "सगुना मोड़",
+                "2026",
+                "Elevated"
+            ],
+            [
+                "3",
+                "RPS Mor",
+                "आर पी एस मोड़",
+                "2026",
+                "Elevated"
+            ],
+            [
+                "4",
+                "Patliputra",
+                "पाटलिपुत्र",
+                "2026",
+                "Elevated"
+            ],
+            [
+                "5",
+                "Rukanpura",
+                "रुकनपुरा",
+                "2027",
+                "Underground"
+            ],
+            [
+                "6",
+                "Raja Bazar",
+                "राजा बाजार",
+                "2027",
+                "Underground"
+            ],
+            [
+                "7",
+                "Patna Zoo",
+                "चिड़ियाघर",
+                "2027",
+                "Underground"
+            ],
+            [
+                "8",
+                "Vikas Bhawan",
+                "विकास भवन",
+                "2027",
+                "Underground"
+            ],
+            [
+                "9",
+                "Vidyut Bhawan",
+                "विद्युत भवन",
+                "2026",
+                "Underground"
+            ],
+            [
+                "10",
+                "Patna Junction",
+                "पटना जंक्शन",
+                "2026",
+                "Underground"
+            ],
+            [
+                "11",
+                "Mithapur",
+                "मीठापुर",
+                "2026",
+                "Elevated"
+            ],
+            [
+                "12",
+                "Ramkrishan Nagar",
+                "रामकृष्ण नगर",
+                "2025",
+                "Elevated"
+            ],
+            [
+                "13",
+                "Jaganpura",
+                "जगनपुरा",
+                "2025",
+                "Elevated"
+            ],
+            [
+                "14",
+                "Khemnichak",
+                "खेमनीचक",
+                "2025",
+                "Elevated"
+            ]
+        ],
+        "table_text": "east-west_line_#_# | east-west_line_station_name_english | east-west_line_station_name_hindi | east-west_line_opening_opening | east-west_line_layout_layout<br>1 | Danapur Cantonment | दानापुर छावनी | 2026 | Elevated<br>2 | Saguna Mor | सगुना मोड़ | 2026 | Elevated<br>3 | RPS Mor | आर पी एस मोड़ | 2026 | Elevated<br>4 | Patliputra | पाटलिपुत्र | 2026 | Elevated<br>5 | Rukanpura | रुकनपुरा | 2027 | Underground<br>6 | Raja Bazar | राजा बाजार | 2027 | Underground<br>7 | Patna Zoo | चिड़ियाघर | 2027 | Underground<br>8 | Vikas Bhawan | विकास भवन | 2027 | Underground<br>9 | Vidyut Bhawan | विद्युत भवन | 2026 | Underground<br>10 | Patna Junction | पटना जंक्शन | 2026 | Underground<br>11 | Mithapur | मीठापुर | 2026 | Elevated<br>12 | Ramkrishan Nagar | रामकृष्ण नगर | 2025 | Elevated<br>13 | Jaganpura | जगनपुरा | 2025 | Elevated<br>14 | Khemnichak | खेमनीचक | 2025 | Elevated"
+    },
+    "524": {
+        "title": "Patna Metro",
+        "category": "mix | service | transport service",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Patna_Metro",
+        "date": "",
+        "csv_id": "Q7145108_524.csv",
+        "QID": "Q7145108",
+        "table": [
+            [
+                "north-south_line_#_#",
+                "north-south_line_station_name[57]_english",
+                "north-south_line_station_name[57]_hindi",
+                "north-south_line_opening_opening",
+                "north-south_line_layout_layout"
+            ],
+            [
+                "1",
+                "Patna Junction",
+                "पटना जंक्शन",
+                "2027",
+                "Underground"
+            ],
+            [
+                "2",
+                "Akashvani",
+                "आकाशवाणी",
+                "2025",
+                "Underground"
+            ],
+            [
+                "3",
+                "Gandhi Maidan",
+                "गांधी मैदान",
+                "2027",
+                "Underground"
+            ],
+            [
+                "4",
+                "PMCH",
+                "पी एम सी एच",
+                "2028",
+                "Underground"
+            ],
+            [
+                "5",
+                "Patna Science College",
+                "पटना विज्ञान महाविद्यालय",
+                "2028",
+                "Underground"
+            ],
+            [
+                "6",
+                "Moin-ul-Haq Stadium",
+                "मोइनुल हक स्टेडियम",
+                "2028",
+                "Underground"
+            ],
+            [
+                "7",
+                "Rajendra Nagar",
+                "राजेन्द्र नगर",
+                "2026",
+                "Underground"
+            ],
+            [
+                "8",
+                "Malahi Pakri",
+                "मलाही पकड़ी",
+                "2025",
+                "Elevated"
+            ],
+            [
+                "9",
+                "Khemnichak",
+                "खेमनीचक",
+                "2026",
+                "Elevated"
+            ],
+            [
+                "10",
+                "Bhootnath",
+                "भूतनाथ",
+                "2025",
+                "Elevated"
+            ],
+            [
+                "11",
+                "Zero Mile",
+                "जीरो मील",
+                "2025",
+                "Elevated"
+            ],
+            [
+                "12",
+                "New ISBT",
+                "आई एस बी टी",
+                "2025",
+                "Elevated"
+            ]
+        ],
+        "table_text": "north-south_line_#_# | north-south_line_station_name[57]_english | north-south_line_station_name[57]_hindi | north-south_line_opening_opening | north-south_line_layout_layout<br>1 | Patna Junction | पटना जंक्शन | 2027 | Underground<br>2 | Akashvani | आकाशवाणी | 2025 | Underground<br>3 | Gandhi Maidan | गांधी मैदान | 2027 | Underground<br>4 | PMCH | पी एम सी एच | 2028 | Underground<br>5 | Patna Science College | पटना विज्ञान महाविद्यालय | 2028 | Underground<br>6 | Moin-ul-Haq Stadium | मोइनुल हक स्टेडियम | 2028 | Underground<br>7 | Rajendra Nagar | राजेन्द्र नगर | 2026 | Underground<br>8 | Malahi Pakri | मलाही पकड़ी | 2025 | Elevated<br>9 | Khemnichak | खेमनीचक | 2026 | Elevated<br>10 | Bhootnath | भूतनाथ | 2025 | Elevated<br>11 | Zero Mile | जीरो मील | 2025 | Elevated<br>12 | New ISBT | आई एस बी टी | 2025 | Elevated"
+    }
+}

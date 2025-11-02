@@ -42,6 +42,8 @@ def table_from_data_entry(data: dict) -> pd.DataFrame:
 
 def get_delay(date: datetime) -> int:
     """Gets the time for which we were told not to query Wikidata."""
+    if isinstance(date, str):
+        return 1
     try:
         timeout = int((date - datetime.now()).total_seconds())
     except ValueError:
@@ -59,7 +61,6 @@ def query_wikidata(query: str, email: str) -> dict or None:
     wikidata_endpoint = "https://query.wikidata.org/sparql"
     headers = {'User-Agent': f'Tables_bot/0.0 ({email})'}
     params = {"format": "json", "query": query}
-
     try:
         response = requests.get(wikidata_endpoint, params=params, headers=headers)
         if response.status_code == 200:
@@ -91,18 +92,30 @@ def wiki_mod_date(cnfg, url: str) -> str:
         "rvdir": "newer",
         "format": "json"
     }
-    response = requests.get(f"https://{cnfg['lang']}.wikipedia.org/w/api.php", params=params)
-    data = response.json()
-    page = next(iter(data['query']['pages'].values()))
-    if "revisions" in page:
-        return page['revisions'][0]['timestamp']
+    headers = {'User-Agent': f'Tables_bot/0.0 ({cnfg["bot_email"]})'}
+    response = requests.get(f"https://{cnfg['lang']}.wikipedia.org/w/api.php", params=params, headers=headers)
+    try:
+        data = response.json()
+        page = next(iter(data['query']['pages'].values()))
+        if "revisions" in page:
+            return page['revisions'][0]['timestamp']
+    except (requests.exceptions.RequestException, json.JSONDecodeError, StopIteration, KeyError):
+        return ''
 
     return ''
 
 
-def download_page(url: str) -> str:
-    response = requests.get(url)
+def download_page(url: str, email: str) -> str:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/127.0.0.0 Safari/537.36"
+    }  # TODO hack, need to repair it
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
+        print("Page retrieved.")
         return response.content
     else:
-        raise Exception(f"Failed to retrieve page. Status code: {response.status_code}")
+        print(f"Failed to retrieve page. Status code: {response.status_code}. Page {url}")
+        return ''
+
