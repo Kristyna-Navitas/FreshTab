@@ -1,0 +1,56 @@
+{
+    "980": {
+        "title": "Wang Fuk Court fire",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire",
+        "date": "2025-11-26T12:27:56Z",
+        "csv_id": "Q137017220_980.csv",
+        "QID": "Q137017220",
+        "table": [
+            [
+                "block",
+                "block.1",
+                "deaths",
+                "chronology"
+            ],
+            [
+                "F",
+                "Wang Cheong House",
+                "70",
+                "Point of origin"
+            ],
+            [
+                "E",
+                "Wang Tai House",
+                "82",
+                "Second block ablaze"
+            ],
+            [
+                "B",
+                "Wang Tao House",
+                "2",
+                "TBD"
+            ],
+            [
+                "C",
+                "Wang Sun House",
+                "3",
+                "TBD"
+            ],
+            [
+                "G",
+                "Wang Shing House",
+                "1",
+                "TBD"
+            ],
+            [
+                "TBD",
+                "TBD",
+                "1",
+                "TBD"
+            ]
+        ],
+        "table_text": "block | block.1 | deaths | chronology<br>F | Wang Cheong House | 70 | Point of origin<br>E | Wang Tai House | 82 | Second block ablaze<br>B | Wang Tao House | 2 | TBD<br>C | Wang Sun House | 3 | TBD<br>G | Wang Shing House | 1 | TBD<br>TBD | TBD | 1 | TBD"
+    }
+}
