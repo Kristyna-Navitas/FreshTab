@@ -3,6 +3,12 @@ Creating new datasets for table-to-text task from Wikipedia pages.
 
 [INLG 2025 Proceedings](https://ufal.mff.cuni.cz/~odusek/inlg2025/inlg2025-main/pdf/2025.inlg-main.7.pdf)
 
+Newest version of the dataset available in [datasets/FreshTab.11.25.en](https://github.com/Kristyna-Navitas/FreshTab/tree/main/datasets/FreshTab.11.25.en). It contains:
+- 'new_pages.csv' - list of 499 new wikipedia pages (QID, fist creation date, domain) from **November 2025** (not comprehensive) - for getting whatever data from new pages you need!
+- 'culture/mix/people/politics/sport.jsonl' - jsonl files similar to LogicNLG format with all the extracted tables
+- 'filtered_tables.jsonl' -  jsonl files similar to LogicNLG format with only one table for a wikipedia pagesgit 
+- 'diverse.jsonl' -  jsonl files similar to LogicNLG format with 260 tables filtered for diversity
+- 'config.yaml/json' - metadata with the generation parameters
 
 ## Features
 - Automated Wikipedia table extraction, each month a new version
