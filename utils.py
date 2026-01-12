@@ -113,7 +113,7 @@ def download_page(url: str, email: str) -> str:
     }  # TODO hack, need to repair it
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
-        print("Page retrieved.")
+        # print("Page retrieved.")
         return response.content
     else:
         print(f"Failed to retrieve page. Status code: {response.status_code}. Page {url}")
