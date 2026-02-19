@@ -1,0 +1,2817 @@
+{
+    "99": {
+        "title": "2026 Ñuble and Bío-Bío wildfire",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Chilean_wildfires",
+        "date": "2026-01-18T17:58:50Z",
+        "csv_id": "Q137808654_99.csv",
+        "QID": "Q137808654",
+        "table": [
+            [
+                "name",
+                "area_burned",
+                "region",
+                "status"
+            ],
+            [
+                "Trinitarias",
+                "15,541 ha (38,400 acres)",
+                "Biobío",
+                "Active"
+            ],
+            [
+                "Rancho Chico",
+                "7,231 ha (17,870 acres)",
+                "Biobío",
+                "Active"
+            ],
+            [
+                "Perales Biobío",
+                "5,100 ha (13,000 acres)",
+                "Ñuble",
+                "Active"
+            ],
+            [
+                "Rucahue Sur",
+                "4,123 ha (10,190 acres)",
+                "Biobío",
+                "Active"
+            ],
+            [
+                "San Lorenzo",
+                "3,968 ha (9,810 acres)",
+                "Biobío",
+                "Active"
+            ],
+            [
+                "Alboyanco",
+                "1,945 ha (4,810 acres)",
+                "La Araucania",
+                "Active"
+            ],
+            [
+                "Monte Negro",
+                "1,500 ha (3,700 acres)",
+                "Ñuble",
+                "Active"
+            ],
+            [
+                "Codihue",
+                "856 ha (2,120 acres)",
+                "La Araucania",
+                "Active"
+            ],
+            [
+                "Bolilche",
+                "668.9 ha (1,653 acres)",
+                "La Araucania",
+                "Controlled"
+            ],
+            [
+                "El Cardal",
+                "666.9 ha (1,648 acres)",
+                "Ñuble",
+                "Controlled"
+            ],
+            [
+                "San Cruz Pan Grande",
+                "657 ha (1,620 acres)",
+                "La Araucania",
+                "Active"
+            ],
+            [
+                "Rahuil Bajo",
+                "500 ha (1,200 acres)",
+                "Ñuble",
+                "Active"
+            ]
+        ],
+        "table_text": "name | area_burned | region | status<br>Trinitarias | 15,541 ha (38,400 acres) | Biobío | Active<br>Rancho Chico | 7,231 ha (17,870 acres) | Biobío | Active<br>Perales Biobío | 5,100 ha (13,000 acres) | Ñuble | Active<br>Rucahue Sur | 4,123 ha (10,190 acres) | Biobío | Active<br>San Lorenzo | 3,968 ha (9,810 acres) | Biobío | Active<br>Alboyanco | 1,945 ha (4,810 acres) | La Araucania | Active<br>Monte Negro | 1,500 ha (3,700 acres) | Ñuble | Active<br>Codihue | 856 ha (2,120 acres) | La Araucania | Active<br>Bolilche | 668.9 ha (1,653 acres) | La Araucania | Controlled<br>El Cardal | 666.9 ha (1,648 acres) | Ñuble | Controlled<br>San Cruz Pan Grande | 657 ha (1,620 acres) | La Araucania | Active<br>Rahuil Bajo | 500 ha (1,200 acres) | Ñuble | Active"
+    },
+    "100": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_100.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar",
+                "15860",
+                "79.77"
+            ],
+            [
+                "Republican",
+                "Abdimalik Askar",
+                "3820",
+                "19.21"
+            ],
+            [
+                "Write-in",
+                "Write-in",
+                "203",
+                "1.02"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "19883",
+                "100.0"
+            ],
+            [
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar | 15860 | 79.77<br>Republican | Abdimalik Askar | 3820 | 19.21<br>Write-in | Write-in | 203 | 1.02<br>Total votes | Total votes | 19883 | 100.0<br>Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold"
+    },
+    "101": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_101.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar",
+                "65238",
+                "48.2"
+            ],
+            [
+                "Democratic (DFL)",
+                "Margaret Anderson Kelliher",
+                "41156",
+                "30.4"
+            ],
+            [
+                "Democratic (DFL)",
+                "Patricia Torres Ray",
+                "17629",
+                "13.0"
+            ],
+            [
+                "Democratic (DFL)",
+                "Jamal Abdulahi",
+                "4984",
+                "3.7"
+            ],
+            [
+                "Democratic (DFL)",
+                "Bobby Joe Champion",
+                "3831",
+                "2.8"
+            ],
+            [
+                "Democratic (DFL)",
+                "Frank Drake",
+                "2480",
+                "1.8"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "135318",
+                "100.0"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar | 65238 | 48.2<br>Democratic (DFL) | Margaret Anderson Kelliher | 41156 | 30.4<br>Democratic (DFL) | Patricia Torres Ray | 17629 | 13.0<br>Democratic (DFL) | Jamal Abdulahi | 4984 | 3.7<br>Democratic (DFL) | Bobby Joe Champion | 3831 | 2.8<br>Democratic (DFL) | Frank Drake | 2480 | 1.8<br>Total votes | Total votes | 135318 | 100.0"
+    },
+    "102": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_102.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar",
+                "267703",
+                "77.97"
+            ],
+            [
+                "Republican",
+                "Jennifer Zielinski",
+                "74440",
+                "21.68"
+            ],
+            [
+                "Write-in",
+                "Write-in",
+                "1215",
+                "0.35"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "343358",
+                "100.0"
+            ],
+            [
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar | 267703 | 77.97<br>Republican | Jennifer Zielinski | 74440 | 21.68<br>Write-in | Write-in | 1215 | 0.35<br>Total votes | Total votes | 343358 | 100.0<br>Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold"
+    },
+    "103": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_103.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar",
+                "92443",
+                "57.4"
+            ],
+            [
+                "Democratic (DFL)",
+                "Antone Melton-Meaux",
+                "63059",
+                "39.2"
+            ],
+            [
+                "Democratic (DFL)",
+                "John Mason",
+                "2497",
+                "1.6"
+            ],
+            [
+                "Democratic (DFL)",
+                "Daniel Patrick McCarthy",
+                "1792",
+                "1.1"
+            ],
+            [
+                "Democratic (DFL)",
+                "Les Lester",
+                "1147",
+                "0.7"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "160938",
+                "100.0"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar | 92443 | 57.4<br>Democratic (DFL) | Antone Melton-Meaux | 63059 | 39.2<br>Democratic (DFL) | John Mason | 2497 | 1.6<br>Democratic (DFL) | Daniel Patrick McCarthy | 1792 | 1.1<br>Democratic (DFL) | Les Lester | 1147 | 0.7<br>Total votes | Total votes | 160938 | 100.0"
+    },
+    "104": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_104.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar",
+                "255924",
+                "64.3"
+            ],
+            [
+                "Republican",
+                "Lacy Johnson",
+                "102878",
+                "25.8"
+            ],
+            [
+                "Legal Marijuana Now",
+                "Michael Moore",
+                "37979",
+                "9.5"
+            ],
+            [
+                "Green",
+                "Toya Woodland",
+                "34",
+                "0.0"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "398263",
+                "100.0"
+            ],
+            [
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar | 255924 | 64.3<br>Republican | Lacy Johnson | 102878 | 25.8<br>Legal Marijuana Now | Michael Moore | 37979 | 9.5<br>Green | Toya Woodland | 34 | 0.0<br>Total votes | Total votes | 398263 | 100.0<br>Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold"
+    },
+    "105": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_105.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar",
+                "57683",
+                "50.3"
+            ],
+            [
+                "Democratic (DFL)",
+                "Don Samuels",
+                "55217",
+                "48.2"
+            ],
+            [
+                "Democratic (DFL)",
+                "Nate Schluter",
+                "671",
+                "0.6"
+            ],
+            [
+                "Democratic (DFL)",
+                "AJ Kern",
+                "519",
+                "0.5"
+            ],
+            [
+                "Democratic (DFL)",
+                "Albert Ross",
+                "477",
+                "0.4"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "114567",
+                "100.0"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar | 57683 | 50.3<br>Democratic (DFL) | Don Samuels | 55217 | 48.2<br>Democratic (DFL) | Nate Schluter | 671 | 0.6<br>Democratic (DFL) | AJ Kern | 519 | 0.5<br>Democratic (DFL) | Albert Ross | 477 | 0.4<br>Total votes | Total votes | 114567 | 100.0"
+    },
+    "106": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_106.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar (incumbent)",
+                "214224",
+                "74.3"
+            ],
+            [
+                "Republican",
+                "Cicely Davis",
+                "70702",
+                "24.5"
+            ],
+            [
+                "Write-in",
+                "Write-in",
+                "3280",
+                "1.1"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "288206",
+                "100.0"
+            ],
+            [
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar (incumbent) | 214224 | 74.3<br>Republican | Cicely Davis | 70702 | 24.5<br>Write-in | Write-in | 3280 | 1.1<br>Total votes | Total votes | 288206 | 100.0<br>Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold"
+    },
+    "107": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_107.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar (incumbent)",
+                "67926",
+                "56.2"
+            ],
+            [
+                "Democratic (DFL)",
+                "Don Samuels",
+                "51839",
+                "42.9"
+            ],
+            [
+                "Democratic (DFL)",
+                "Nate Schluter",
+                "575",
+                "0.5"
+            ],
+            [
+                "Democratic (DFL)",
+                "Abena McKenzie",
+                "461",
+                "0.4"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "120801",
+                "100.0"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar (incumbent) | 67926 | 56.2<br>Democratic (DFL) | Don Samuels | 51839 | 42.9<br>Democratic (DFL) | Nate Schluter | 575 | 0.5<br>Democratic (DFL) | Abena McKenzie | 461 | 0.4<br>Total votes | Total votes | 120801 | 100.0"
+    },
+    "108": {
+        "title": "2026 Ilhan Omar spraying incident",
+        "category": "mix | disaster",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Ilhan_Omar_spraying_incident",
+        "date": "2026-01-28T16:29:13Z",
+        "csv_id": "Q137919423_108.csv",
+        "QID": "Q137919423",
+        "table": [
+            [
+                "party.1",
+                "candidate",
+                "votes",
+                "%"
+            ],
+            [
+                "Democratic (DFL)",
+                "Ilhan Omar (incumbent)",
+                "261066",
+                "74.4"
+            ],
+            [
+                "Republican",
+                "Dalia Al-Aqidi",
+                "86213",
+                "24.6"
+            ],
+            [
+                "Write-in",
+                "Write-in",
+                "3768",
+                "1.1"
+            ],
+            [
+                "Total votes",
+                "Total votes",
+                "351047",
+                "100.0"
+            ],
+            [
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold",
+                "Democratic (DFL) hold"
+            ]
+        ],
+        "table_text": "party.1 | candidate | votes | %<br>Democratic (DFL) | Ilhan Omar (incumbent) | 261066 | 74.4<br>Republican | Dalia Al-Aqidi | 86213 | 24.6<br>Write-in | Write-in | 3768 | 1.1<br>Total votes | Total votes | 351047 | 100.0<br>Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold | Democratic (DFL) hold"
+    },
+    "109": {
+        "title": "2026 Asian Men's Handball Championship",
+        "category": "mix | service | event | recurring event edition",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Asian_Men%27s_Handball_Championship",
+        "date": "2025-11-26T09:07:18Z",
+        "csv_id": "Q137324915_109.csv",
+        "QID": "Q137324915",
+        "table": [
+            [
+                "team_team",
+                "appearance(s)_total",
+                "appearance(s)_first",
+                "appearance(s)_last",
+                "appearance(s)_streak",
+                "appearance(s)_2024",
+                "previous_best_performance[a]_previous_best_performance[a]"
+            ],
+            [
+                "Australia",
+                "4th",
+                "2018",
+                "2022",
+                "1",
+                "<NA>",
+                "Eleventh place (2018)"
+            ],
+            [
+                "Bahrain",
+                "19th",
+                "1977",
+                "2024",
+                "13",
+                "3rd",
+                "Runners-up (2010, 2014, 2016, 2018, 2022)"
+            ],
+            [
+                "China",
+                "17th",
+                "1977",
+                "2024",
+                "2",
+                "10th",
+                "Runners-up (1979, 2000)"
+            ],
+            [
+                "Hong Kong",
+                "6th",
+                "1983",
+                "2024",
+                "4",
+                "13th",
+                "Eighth place (1983)"
+            ],
+            [
+                "India",
+                "6th",
+                "1979",
+                "2024",
+                "3",
+                "16th",
+                "Fifth place (1979)"
+            ],
+            [
+                "Iran",
+                "17th",
+                "1989",
+                "2024",
+                "14",
+                "6th",
+                "Third place (2014)"
+            ],
+            [
+                "Iraq",
+                "7th",
+                "1977",
+                "2024",
+                "4",
+                "8th",
+                "Fifth place (1977)"
+            ],
+            [
+                "Japan",
+                "21st",
+                "1977",
+                "2024",
+                "2",
+                "2nd",
+                "Champions (1977, 1979)"
+            ],
+            [
+                "Jordan",
+                "8th",
+                "1983",
+                "2022",
+                "1",
+                "<NA>",
+                "Seventh place (1983, 2006)"
+            ],
+            [
+                "Kuwait (H)",
+                "18th",
+                "1977",
+                "2024",
+                "4",
+                "4th",
+                "Champions (1995, 2002, 2004, 2006)"
+            ],
+            [
+                "Oman",
+                "7th",
+                "2004",
+                "2024",
+                "3",
+                "12th",
+                "Eighth place (2014, 2016, 2018)"
+            ],
+            [
+                "Qatar",
+                "18th",
+                "1983",
+                "2024",
+                "13",
+                "1st",
+                "Champions (2014, 2016, 2018, 2020, 2022, 2024)"
+            ],
+            [
+                "Saudi Arabia",
+                "17th",
+                "1977",
+                "2024",
+                "10",
+                "9th",
+                "Third place (2002, 2008, 2012, 2022)"
+            ],
+            [
+                "South Korea",
+                "19th",
+                "1977",
+                "2024",
+                "11",
+                "5th",
+                "Champions (1983, 1987, 1989, 1991, 1993, 2000, 2008, 2010, 2012)"
+            ],
+            [
+                "United Arab Emirates",
+                "15th",
+                "1977",
+                "2024",
+                "11",
+                "7th",
+                "Fourth place (2014)"
+            ]
+        ],
+        "table_text": "team_team | appearance(s)_total | appearance(s)_first | appearance(s)_last | appearance(s)_streak | appearance(s)_2024 | previous_best_performance[a]_previous_best_performance[a]<br>Australia | 4th | 2018 | 2022 | 1 | <NA> | Eleventh place (2018)<br>Bahrain | 19th | 1977 | 2024 | 13 | 3rd | Runners-up (2010, 2014, 2016, 2018, 2022)<br>China | 17th | 1977 | 2024 | 2 | 10th | Runners-up (1979, 2000)<br>Hong Kong | 6th | 1983 | 2024 | 4 | 13th | Eighth place (1983)<br>India | 6th | 1979 | 2024 | 3 | 16th | Fifth place (1979)<br>Iran | 17th | 1989 | 2024 | 14 | 6th | Third place (2014)<br>Iraq | 7th | 1977 | 2024 | 4 | 8th | Fifth place (1977)<br>Japan | 21st | 1977 | 2024 | 2 | 2nd | Champions (1977, 1979)<br>Jordan | 8th | 1983 | 2022 | 1 | <NA> | Seventh place (1983, 2006)<br>Kuwait (H) | 18th | 1977 | 2024 | 4 | 4th | Champions (1995, 2002, 2004, 2006)<br>Oman | 7th | 2004 | 2024 | 3 | 12th | Eighth place (2014, 2016, 2018)<br>Qatar | 18th | 1983 | 2024 | 13 | 1st | Champions (2014, 2016, 2018, 2020, 2022, 2024)<br>Saudi Arabia | 17th | 1977 | 2024 | 10 | 9th | Third place (2002, 2008, 2012, 2022)<br>South Korea | 19th | 1977 | 2024 | 11 | 5th | Champions (1983, 1987, 1989, 1991, 1993, 2000, 2008, 2010, 2012)<br>United Arab Emirates | 15th | 1977 | 2024 | 11 | 7th | Fourth place (2014)"
+    },
+    "110": {
+        "title": "2026 Asian Men's Handball Championship",
+        "category": "mix | service | event | recurring event edition",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Asian_Men%27s_Handball_Championship",
+        "date": "2025-11-26T09:07:18Z",
+        "csv_id": "Q137324915_110.csv",
+        "QID": "Q137324915",
+        "table": [
+            [
+                "schedule_round",
+                "schedule_matchday",
+                "schedule_date"
+            ],
+            [
+                "Preliminary round",
+                "Matchday 1",
+                "15–16 January 2026"
+            ],
+            [
+                "Preliminary round",
+                "Matchday 2",
+                "17–18 January 2026"
+            ],
+            [
+                "Preliminary round",
+                "Matchday 3",
+                "19–20 January 2026"
+            ],
+            [
+                "Main round and Ranking groups",
+                "Matchday 4",
+                "22 January 2026"
+            ],
+            [
+                "Main round and Ranking groups",
+                "Matchday 5",
+                "23 January 2026"
+            ],
+            [
+                "Main round and Ranking groups",
+                "Matchday 6",
+                "25 January 2026"
+            ],
+            [
+                "Ranking games",
+                "All games",
+                "27 January 2026"
+            ],
+            [
+                "Knockout stage",
+                "Semi-finals",
+                "27 January 2026"
+            ],
+            [
+                "Knockout stage",
+                "Final",
+                "29 January 2026"
+            ]
+        ],
+        "table_text": "schedule_round | schedule_matchday | schedule_date<br>Preliminary round | Matchday 1 | 15–16 January 2026<br>Preliminary round | Matchday 2 | 17–18 January 2026<br>Preliminary round | Matchday 3 | 19–20 January 2026<br>Main round and Ranking groups | Matchday 4 | 22 January 2026<br>Main round and Ranking groups | Matchday 5 | 23 January 2026<br>Main round and Ranking groups | Matchday 6 | 25 January 2026<br>Ranking games | All games | 27 January 2026<br>Knockout stage | Semi-finals | 27 January 2026<br>Knockout stage | Final | 29 January 2026"
+    },
+    "111": {
+        "title": "2026 Asian Men's Handball Championship",
+        "category": "mix | service | event | recurring event edition",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Asian_Men%27s_Handball_Championship",
+        "date": "2025-11-26T09:07:18Z",
+        "csv_id": "Q137324915_111.csv",
+        "QID": "Q137324915",
+        "table": [
+            [
+                "rank",
+                "name",
+                "goals",
+                "shots",
+                "%"
+            ],
+            [
+                "1",
+                "Saif Al-Adwani",
+                "54",
+                "87",
+                "62"
+            ],
+            [
+                "2",
+                "Ahmad Madadi",
+                "44",
+                "58",
+                "76"
+            ],
+            [
+                "3",
+                "Khaled Abu Hasan",
+                "43",
+                "65",
+                "66"
+            ],
+            [
+                "3",
+                "Jasim Khamis",
+                "43",
+                "57",
+                "75"
+            ],
+            [
+                "5",
+                "Kim Jin-young",
+                "40",
+                "59",
+                "68"
+            ],
+            [
+                "5",
+                "Mojtaba Al-Salem",
+                "40",
+                "75",
+                "63"
+            ],
+            [
+                "7",
+                "Baderaldeen Hammoodi",
+                "39",
+                "49",
+                "80"
+            ],
+            [
+                "7",
+                "Mohamed Habib Naser",
+                "39",
+                "66",
+                "59"
+            ],
+            [
+                "9",
+                "Ghassen Al-Moulidi",
+                "38",
+                "77",
+                "49"
+            ],
+            [
+                "10",
+                "Timothy Anderson",
+                "36",
+                "66",
+                "55"
+            ],
+            [
+                "10",
+                "Lee Siu Chung",
+                "36",
+                "59",
+                "61"
+            ]
+        ],
+        "table_text": "rank | name | goals | shots | %<br>1 | Saif Al-Adwani | 54 | 87 | 62<br>2 | Ahmad Madadi | 44 | 58 | 76<br>3 | Khaled Abu Hasan | 43 | 65 | 66<br>3 | Jasim Khamis | 43 | 57 | 75<br>5 | Kim Jin-young | 40 | 59 | 68<br>5 | Mojtaba Al-Salem | 40 | 75 | 63<br>7 | Baderaldeen Hammoodi | 39 | 49 | 80<br>7 | Mohamed Habib Naser | 39 | 66 | 59<br>9 | Ghassen Al-Moulidi | 38 | 77 | 49<br>10 | Timothy Anderson | 36 | 66 | 55<br>10 | Lee Siu Chung | 36 | 59 | 61"
+    },
+    "112": {
+        "title": "2026 Asian Men's Handball Championship",
+        "category": "mix | service | event | recurring event edition",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_Asian_Men%27s_Handball_Championship",
+        "date": "2025-11-26T09:07:18Z",
+        "csv_id": "Q137324915_112.csv",
+        "QID": "Q137324915",
+        "table": [
+            [
+                "rank",
+                "name",
+                "%",
+                "saves",
+                "shots"
+            ],
+            [
+                "1",
+                "Omidreza Robat",
+                "56",
+                "35",
+                "63"
+            ],
+            [
+                "2",
+                "Mohammad Buyabes",
+                "50",
+                "12",
+                "24"
+            ],
+            [
+                "3",
+                "Mohammad Siavoshi",
+                "43",
+                "41",
+                "95"
+            ],
+            [
+                "4",
+                "Saeid Barkhordari",
+                "41",
+                "32",
+                "79"
+            ],
+            [
+                "5",
+                "Hesham Isa",
+                "37",
+                "32",
+                "86"
+            ],
+            [
+                "6",
+                "Hasan Safar",
+                "36",
+                "71",
+                "196"
+            ],
+            [
+                "7",
+                "Zhao Kai",
+                "34",
+                "38",
+                "112"
+            ],
+            [
+                "7",
+                "Mohammad Al-Taher",
+                "34",
+                "43",
+                "127"
+            ],
+            [
+                "7",
+                "Ali Al-Saffar",
+                "34",
+                "27",
+                "80"
+            ],
+            [
+                "7",
+                "Hassan Al-Turaik",
+                "34",
+                "37",
+                "110"
+            ]
+        ],
+        "table_text": "rank | name | % | saves | shots<br>1 | Omidreza Robat | 56 | 35 | 63<br>2 | Mohammad Buyabes | 50 | 12 | 24<br>3 | Mohammad Siavoshi | 43 | 41 | 95<br>4 | Saeid Barkhordari | 41 | 32 | 79<br>5 | Hesham Isa | 37 | 32 | 86<br>6 | Hasan Safar | 36 | 71 | 196<br>7 | Zhao Kai | 34 | 38 | 112<br>7 | Mohammad Al-Taher | 34 | 43 | 127<br>7 | Ali Al-Saffar | 34 | 27 | 80<br>7 | Hassan Al-Turaik | 34 | 37 | 110"
+    },
+    "113": {
+        "title": "2026 New Brunswick Tankard",
+        "category": "mix | service | event | recurring event edition",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_New_Brunswick_Tankard",
+        "date": "2026-01-19T06:54:36Z",
+        "csv_id": "Q138023918_113.csv",
+        "QID": "Q138023918",
+        "table": [
+            [
+                "skip",
+                "third",
+                "second",
+                "lead",
+                "alternate",
+                "coach",
+                "club"
+            ],
+            [
+                "Ryan Cain",
+                "Chris McCann",
+                "Trevor Crouse",
+                "Mike Flannery Jr.",
+                "<NA>",
+                "<NA>",
+                "Capital WC, Fredericton"
+            ],
+            [
+                "Travis Colter",
+                "Jack Smeltzer",
+                "Alex Peasley",
+                "Michael Donovan",
+                "Mitchell Small",
+                "<NA>",
+                "Curl Moncton, Moncton"
+            ],
+            [
+                "James Grattan",
+                "Joel Krats",
+                "Andy McCann",
+                "Noah Riggs",
+                "<NA>",
+                "Dean Grattan",
+                "Gage G&CC, Oromocto"
+            ],
+            [
+                "Rajan Dalrymple (Fourth)",
+                "Brody Hanson (Skip)",
+                "Drew Grattan",
+                "Shannon Fenelon",
+                "<NA>",
+                "<NA>",
+                "Capital WC, Fredericton"
+            ],
+            [
+                "Trevor Hanson",
+                "Adam MacDonald",
+                "Scott Archibald",
+                "Joel Graham",
+                "Steve Christie",
+                "<NA>",
+                "Gage G&CC, Oromocto"
+            ],
+            [
+                "Mark Harris",
+                "Brandon Harris",
+                "Jayme Shannon",
+                "Dan Mersereau",
+                "Jamie Bennett",
+                "<NA>",
+                "Gladstone CC, Fredericton Junction"
+            ],
+            [
+                "Michael Hughes",
+                "Xander King",
+                "Sam Worden",
+                "Matt Hughes",
+                "<NA>",
+                "<NA>",
+                "Carleton CC, Carleton"
+            ],
+            [
+                "Jeremy Mallais (Fourth)",
+                "Scott Jones (Skip)",
+                "Brian King",
+                "Jared Bezanson",
+                "Matt Stanley",
+                "<NA>",
+                "Curl Moncton, Moncton"
+            ],
+            [
+                "Austen Matheson",
+                "Ron-Allen Elsinga",
+                "Dakari Rouselle",
+                "James Watson",
+                "<NA>",
+                "Colin Matheson",
+                "Woodstock G&CC, Woodstock"
+            ],
+            [
+                "Matt Munro",
+                "Chris Cogswell",
+                "Adam Bowering",
+                "Kelly Harris",
+                "Chris Jenkins",
+                "<NA>",
+                "Gage G&CC, Oromocto"
+            ],
+            [
+                "Grant Odishaw",
+                "Marc LeCocq",
+                "Sam Forestell",
+                "Vance LeCocq",
+                "<NA>",
+                "<NA>",
+                "Curl Moncton, Moncton"
+            ],
+            [
+                "Colten Steele",
+                "Rene Comeau",
+                "Alex Robichaud",
+                "Cameron Sallaj",
+                "<NA>",
+                "<NA>",
+                "Capital WC, Fredericton"
+            ],
+            [
+                "Jamie Stewart",
+                "Sean Beland",
+                "Aden Kavanaugh",
+                "James Carr",
+                "Luke Robichaud",
+                "Gary Wilson",
+                "Capital WC, Fredericton"
+            ],
+            [
+                "Jason Vaughan",
+                "Spencer Mawhinney",
+                "Josh Vaughan",
+                "Paul Nason",
+                "Peter Case",
+                "<NA>",
+                "Thistle-St. Andrews CC, Saint John"
+            ]
+        ],
+        "table_text": "skip | third | second | lead | alternate | coach | club<br>Ryan Cain | Chris McCann | Trevor Crouse | Mike Flannery Jr. | <NA> | <NA> | Capital WC, Fredericton<br>Travis Colter | Jack Smeltzer | Alex Peasley | Michael Donovan | Mitchell Small | <NA> | Curl Moncton, Moncton<br>James Grattan | Joel Krats | Andy McCann | Noah Riggs | <NA> | Dean Grattan | Gage G&CC, Oromocto<br>Rajan Dalrymple (Fourth) | Brody Hanson (Skip) | Drew Grattan | Shannon Fenelon | <NA> | <NA> | Capital WC, Fredericton<br>Trevor Hanson | Adam MacDonald | Scott Archibald | Joel Graham | Steve Christie | <NA> | Gage G&CC, Oromocto<br>Mark Harris | Brandon Harris | Jayme Shannon | Dan Mersereau | Jamie Bennett | <NA> | Gladstone CC, Fredericton Junction<br>Michael Hughes | Xander King | Sam Worden | Matt Hughes | <NA> | <NA> | Carleton CC, Carleton<br>Jeremy Mallais (Fourth) | Scott Jones (Skip) | Brian King | Jared Bezanson | Matt Stanley | <NA> | Curl Moncton, Moncton<br>Austen Matheson | Ron-Allen Elsinga | Dakari Rouselle | James Watson | <NA> | Colin Matheson | Woodstock G&CC, Woodstock<br>Matt Munro | Chris Cogswell | Adam Bowering | Kelly Harris | Chris Jenkins | <NA> | Gage G&CC, Oromocto<br>Grant Odishaw | Marc LeCocq | Sam Forestell | Vance LeCocq | <NA> | <NA> | Curl Moncton, Moncton<br>Colten Steele | Rene Comeau | Alex Robichaud | Cameron Sallaj | <NA> | <NA> | Capital WC, Fredericton<br>Jamie Stewart | Sean Beland | Aden Kavanaugh | James Carr | Luke Robichaud | Gary Wilson | Capital WC, Fredericton<br>Jason Vaughan | Spencer Mawhinney | Josh Vaughan | Paul Nason | Peter Case | <NA> | Thistle-St. Andrews CC, Saint John"
+    },
+    "114": {
+        "title": "2026 European Speed Skating Championships – Men's 5000 metres",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Men%27s_5000_metres",
+        "date": "2026-01-11T02:04:00Z",
+        "csv_id": "Q137758187_114.csv",
+        "QID": "Q137758187",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "name",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "5",
+                "i",
+                "Vladimir Semirunniy",
+                "Poland",
+                "6:11.13",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "6",
+                "o",
+                "Riccardo Lorello",
+                "Italy",
+                "6:14.49",
+                "3.36"
+            ],
+            [
+                "<NA>",
+                "6",
+                "i",
+                "Davide Ghiotto",
+                "Italy",
+                "6:17.00",
+                "5.87"
+            ],
+            [
+                "4.0",
+                "4",
+                "i",
+                "Kars Jansman",
+                "Netherlands",
+                "6:21.39",
+                "10.26"
+            ],
+            [
+                "5.0",
+                "7",
+                "o",
+                "Bart Swings",
+                "Belgium",
+                "6:22.43",
+                "11.3"
+            ],
+            [
+                "6.0",
+                "8",
+                "i",
+                "Alexander Farthofer",
+                "Austria",
+                "6:23.46",
+                "12.33"
+            ],
+            [
+                "7.0",
+                "7",
+                "i",
+                "Michele Malfatti",
+                "Italy",
+                "6:24.11",
+                "12.98"
+            ],
+            [
+                "8.0",
+                "2",
+                "o",
+                "Wisse Slendebroek",
+                "Netherlands",
+                "6:26.08",
+                "14.95"
+            ],
+            [
+                "9.0",
+                "2",
+                "i",
+                "Luca Matteo Stibenz",
+                "Germany",
+                "6:27.53",
+                "16.4"
+            ],
+            [
+                "10.0",
+                "3",
+                "o",
+                "Giovanni Trebouta",
+                "France",
+                "6:27.89",
+                "16.76"
+            ],
+            [
+                "11.0",
+                "1",
+                "i",
+                "Jasper Krommenhoek",
+                "Netherlands",
+                "6:28.56",
+                "17.43"
+            ],
+            [
+                "12.0",
+                "8",
+                "o",
+                "Sigurd Henriksen",
+                "Norway",
+                "6:31.97",
+                "20.84"
+            ],
+            [
+                "13.0",
+                "1",
+                "o",
+                "Tom Rudolph",
+                "Germany",
+                "6:44.74",
+                "33.61"
+            ],
+            [
+                "14.0",
+                "3",
+                "i",
+                "Lukáš Steklý",
+                "Slovakia",
+                "6:46.85",
+                "35.72"
+            ],
+            [
+                "15.0",
+                "5",
+                "o",
+                "Sigurd Holbø Dyrset",
+                "Norway",
+                "6:50.56",
+                "39.43"
+            ],
+            [
+                "16.0",
+                "4",
+                "o",
+                "Tadeáš Procházka",
+                "Czech Republic",
+                "6:53.36",
+                "42.23"
+            ]
+        ],
+        "table_text": "rank | pair | lane | name | country | time | diff<br><NA> | 5 | i | Vladimir Semirunniy | Poland | 6:11.13 | <NA><br><NA> | 6 | o | Riccardo Lorello | Italy | 6:14.49 | 3.36<br><NA> | 6 | i | Davide Ghiotto | Italy | 6:17.00 | 5.87<br>4.0 | 4 | i | Kars Jansman | Netherlands | 6:21.39 | 10.26<br>5.0 | 7 | o | Bart Swings | Belgium | 6:22.43 | 11.3<br>6.0 | 8 | i | Alexander Farthofer | Austria | 6:23.46 | 12.33<br>7.0 | 7 | i | Michele Malfatti | Italy | 6:24.11 | 12.98<br>8.0 | 2 | o | Wisse Slendebroek | Netherlands | 6:26.08 | 14.95<br>9.0 | 2 | i | Luca Matteo Stibenz | Germany | 6:27.53 | 16.4<br>10.0 | 3 | o | Giovanni Trebouta | France | 6:27.89 | 16.76<br>11.0 | 1 | i | Jasper Krommenhoek | Netherlands | 6:28.56 | 17.43<br>12.0 | 8 | o | Sigurd Henriksen | Norway | 6:31.97 | 20.84<br>13.0 | 1 | o | Tom Rudolph | Germany | 6:44.74 | 33.61<br>14.0 | 3 | i | Lukáš Steklý | Slovakia | 6:46.85 | 35.72<br>15.0 | 5 | o | Sigurd Holbø Dyrset | Norway | 6:50.56 | 39.43<br>16.0 | 4 | o | Tadeáš Procházka | Czech Republic | 6:53.36 | 42.23"
+    },
+    "115": {
+        "title": "2026 European Speed Skating Championships – Men's team sprint",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Men%27s_team_sprint",
+        "date": "2026-01-10T15:12:20Z",
+        "csv_id": "Q137758193_115.csv",
+        "QID": "Q137758193",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "2",
+                "s",
+                "Poland Piotr Michalski Marek Kania Szymon Wojtakowski",
+                "1:20.22",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "3",
+                "s",
+                "Netherlands Stefan Westenbroek Kayo Vos Merijn Scheperkamp",
+                "1:20.24",
+                "0.02"
+            ],
+            [
+                "<NA>",
+                "3",
+                "c",
+                "Norway Siver Brattgjerd Henrik Fagerli Rukke Bjørn Magnussen",
+                "1:20.31",
+                "0.09"
+            ],
+            [
+                "4.0",
+                "1",
+                "s",
+                "Germany Maximilian Strübe Moritz Klein Stefan Emele",
+                "1:21.90",
+                "1.68"
+            ],
+            [
+                "5.0",
+                "2",
+                "c",
+                "Hungary Botond Bejczi Konrád Nagy Bálint Bödei",
+                "1:22.92",
+                "2.7"
+            ],
+            [
+                "6.0",
+                "1",
+                "c",
+                "Finland Tuukka Suomalainen Juuso Lehtonen Alvar Mihonen",
+                "1:24.35",
+                "4.13"
+            ]
+        ],
+        "table_text": "rank | pair | lane | country | time | diff<br><NA> | 2 | s | Poland Piotr Michalski Marek Kania Szymon Wojtakowski | 1:20.22 | <NA><br><NA> | 3 | s | Netherlands Stefan Westenbroek Kayo Vos Merijn Scheperkamp | 1:20.24 | 0.02<br><NA> | 3 | c | Norway Siver Brattgjerd Henrik Fagerli Rukke Bjørn Magnussen | 1:20.31 | 0.09<br>4.0 | 1 | s | Germany Maximilian Strübe Moritz Klein Stefan Emele | 1:21.90 | 1.68<br>5.0 | 2 | c | Hungary Botond Bejczi Konrád Nagy Bálint Bödei | 1:22.92 | 2.7<br>6.0 | 1 | c | Finland Tuukka Suomalainen Juuso Lehtonen Alvar Mihonen | 1:24.35 | 4.13"
+    },
+    "116": {
+        "title": "2026 European Speed Skating Championships – Women's 500 metres",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Women%27s_500_metres",
+        "date": "2026-01-11T01:38:51Z",
+        "csv_id": "Q137758208_116.csv",
+        "QID": "Q137758208",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "name",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "8",
+                "o",
+                "Kaja Ziomek-Nogal",
+                "Poland",
+                "37.79",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "8",
+                "i",
+                "Andżelika Wójcik",
+                "Poland",
+                "38.27",
+                "0.48"
+            ],
+            [
+                "<NA>",
+                "5",
+                "o",
+                "Isabel Grevelt",
+                "Netherlands",
+                "38.37",
+                "0.58"
+            ],
+            [
+                "4.0",
+                "7",
+                "o",
+                "Serena Pergher",
+                "Italy",
+                "38.54",
+                "0.75"
+            ],
+            [
+                "5.0",
+                "6",
+                "o",
+                "Martyna Baran",
+                "Poland",
+                "38.55",
+                "0.76"
+            ],
+            [
+                "6.0",
+                "6",
+                "i",
+                "Anna Boersma",
+                "Netherlands",
+                "38.57",
+                "0.78"
+            ],
+            [
+                "7.0",
+                "3",
+                "o",
+                "Sofia Thorup",
+                "Denmark",
+                "38.63",
+                "0.84"
+            ],
+            [
+                "8.0",
+                "5",
+                "i",
+                "Julie Nistad Samsonsen",
+                "Norway",
+                "39.17",
+                "1.38"
+            ],
+            [
+                "9.0",
+                "4",
+                "i",
+                "Fran Vanhoutte",
+                "Belgium",
+                "39.19",
+                "1.4"
+            ],
+            [
+                "10.0",
+                "4",
+                "o",
+                "Maybritt Vigl",
+                "Italy",
+                "39.46",
+                "1.67"
+            ],
+            [
+                "11.0",
+                "3",
+                "i",
+                "Anna Ostlender",
+                "Germany",
+                "39.54",
+                "1.75"
+            ],
+            [
+                "12.0",
+                "2",
+                "i",
+                "Hanna Biró",
+                "Hungary",
+                "40.05",
+                "2.26"
+            ],
+            [
+                "13.0",
+                "2",
+                "o",
+                "Katja Franzen",
+                "Germany",
+                "40.22",
+                "2.43"
+            ],
+            [
+                "14.0",
+                "1",
+                "i",
+                "Luisa María González",
+                "Spain",
+                "40.66",
+                "2.87"
+            ],
+            [
+                "15.0",
+                "7",
+                "i",
+                "Angel Daleman",
+                "Netherlands",
+                "1:12.37",
+                "34.58"
+            ]
+        ],
+        "table_text": "rank | pair | lane | name | country | time | diff<br><NA> | 8 | o | Kaja Ziomek-Nogal | Poland | 37.79 | <NA><br><NA> | 8 | i | Andżelika Wójcik | Poland | 38.27 | 0.48<br><NA> | 5 | o | Isabel Grevelt | Netherlands | 38.37 | 0.58<br>4.0 | 7 | o | Serena Pergher | Italy | 38.54 | 0.75<br>5.0 | 6 | o | Martyna Baran | Poland | 38.55 | 0.76<br>6.0 | 6 | i | Anna Boersma | Netherlands | 38.57 | 0.78<br>7.0 | 3 | o | Sofia Thorup | Denmark | 38.63 | 0.84<br>8.0 | 5 | i | Julie Nistad Samsonsen | Norway | 39.17 | 1.38<br>9.0 | 4 | i | Fran Vanhoutte | Belgium | 39.19 | 1.4<br>10.0 | 4 | o | Maybritt Vigl | Italy | 39.46 | 1.67<br>11.0 | 3 | i | Anna Ostlender | Germany | 39.54 | 1.75<br>12.0 | 2 | i | Hanna Biró | Hungary | 40.05 | 2.26<br>13.0 | 2 | o | Katja Franzen | Germany | 40.22 | 2.43<br>14.0 | 1 | i | Luisa María González | Spain | 40.66 | 2.87<br>15.0 | 7 | i | Angel Daleman | Netherlands | 1:12.37 | 34.58"
+    },
+    "117": {
+        "title": "2026 European Speed Skating Championships – Women's 1500 metres",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Women%27s_1500_metres",
+        "date": "2026-01-11T02:33:56Z",
+        "csv_id": "Q137758429_117.csv",
+        "QID": "Q137758429",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "name",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "6",
+                "i",
+                "Ragne Wiklund",
+                "Norway",
+                "1:56.24",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "6",
+                "o",
+                "Nikola Zdráhalová",
+                "Czech Republic",
+                "1:56.53",
+                "+0.29"
+            ],
+            [
+                "<NA>",
+                "2",
+                "i",
+                "Chloé Hoogendoorn",
+                "Netherlands",
+                "1:57.64",
+                "+1.40"
+            ],
+            [
+                "4.0",
+                "5",
+                "i",
+                "Meike Veen",
+                "Netherlands",
+                "1:57.84",
+                "+1.60"
+            ],
+            [
+                "5.0",
+                "7",
+                "o",
+                "Natalia Czerwonka",
+                "Poland",
+                "1:58.49",
+                "+2.25"
+            ],
+            [
+                "6.0",
+                "2",
+                "o",
+                "Isabel Grevelt",
+                "Netherlands",
+                "1:59.20",
+                "+2.96"
+            ],
+            [
+                "7.0",
+                "7",
+                "i",
+                "Francesca Lollobrigida",
+                "Italy",
+                "1:59.63",
+                "+3.39"
+            ],
+            [
+                "8.0",
+                "3",
+                "i",
+                "Aurora Grinden Løvås",
+                "Norway",
+                "2:00.27",
+                "+4.03"
+            ],
+            [
+                "9.0",
+                "4",
+                "i",
+                "Natalia Jabrzyk",
+                "Poland",
+                "2:00.93",
+                "+4.69"
+            ],
+            [
+                "10.0",
+                "4",
+                "o",
+                "Emily Tormen",
+                "Italy",
+                "2:00.96",
+                "+4.72"
+            ],
+            [
+                "11.0",
+                "8",
+                "o",
+                "Zofia Braun",
+                "Poland",
+                "2:01.15",
+                "+4.91"
+            ],
+            [
+                "12.0",
+                "5",
+                "o",
+                "Isabel Kraus",
+                "Germany",
+                "2:02.91",
+                "+6.67"
+            ],
+            [
+                "13.0",
+                "1",
+                "o",
+                "Marlen Ehseluns",
+                "Germany",
+                "2:05.38",
+                "+9.14"
+            ],
+            [
+                "14.0",
+                "1",
+                "i",
+                "Lucie Korvasová",
+                "Czech Republic",
+                "2:07.48",
+                "+11.24"
+            ],
+            [
+                "15.0",
+                "3",
+                "o",
+                "Abigél Mercs",
+                "Hungary",
+                "2:09.56",
+                "+13.32"
+            ],
+            [
+                "16.0",
+                "8",
+                "i",
+                "Isabelle van Elst",
+                "Belgium",
+                "Did not finish",
+                "Did not finish"
+            ]
+        ],
+        "table_text": "rank | pair | lane | name | country | time | diff<br><NA> | 6 | i | Ragne Wiklund | Norway | 1:56.24 | <NA><br><NA> | 6 | o | Nikola Zdráhalová | Czech Republic | 1:56.53 | +0.29<br><NA> | 2 | i | Chloé Hoogendoorn | Netherlands | 1:57.64 | +1.40<br>4.0 | 5 | i | Meike Veen | Netherlands | 1:57.84 | +1.60<br>5.0 | 7 | o | Natalia Czerwonka | Poland | 1:58.49 | +2.25<br>6.0 | 2 | o | Isabel Grevelt | Netherlands | 1:59.20 | +2.96<br>7.0 | 7 | i | Francesca Lollobrigida | Italy | 1:59.63 | +3.39<br>8.0 | 3 | i | Aurora Grinden Løvås | Norway | 2:00.27 | +4.03<br>9.0 | 4 | i | Natalia Jabrzyk | Poland | 2:00.93 | +4.69<br>10.0 | 4 | o | Emily Tormen | Italy | 2:00.96 | +4.72<br>11.0 | 8 | o | Zofia Braun | Poland | 2:01.15 | +4.91<br>12.0 | 5 | o | Isabel Kraus | Germany | 2:02.91 | +6.67<br>13.0 | 1 | o | Marlen Ehseluns | Germany | 2:05.38 | +9.14<br>14.0 | 1 | i | Lucie Korvasová | Czech Republic | 2:07.48 | +11.24<br>15.0 | 3 | o | Abigél Mercs | Hungary | 2:09.56 | +13.32<br>16.0 | 8 | i | Isabelle van Elst | Belgium | Did not finish | Did not finish"
+    },
+    "118": {
+        "title": "2026 European Speed Skating Championships – Men's 500 metres",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Men%27s_500_metres",
+        "date": "2026-01-12T02:16:53Z",
+        "csv_id": "Q137767798_118.csv",
+        "QID": "Q137767798",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "name",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "9",
+                "o",
+                "Damian Zurek",
+                "Poland",
+                "34.52",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "8",
+                "o",
+                "Marek Kania",
+                "Poland",
+                "34.82",
+                "+0.30"
+            ],
+            [
+                "<NA>",
+                "9",
+                "i",
+                "Bjørn Magnussen",
+                "Norway",
+                "35.12",
+                "+0.60"
+            ],
+            [
+                "4.0",
+                "7",
+                "i",
+                "Merijn Scheperkamp",
+                "Netherlands",
+                "35.246",
+                "+0.72"
+            ],
+            [
+                "5.0",
+                "10",
+                "o",
+                "Marten Liiv",
+                "Estonia",
+                "35.249",
+                "+0.72"
+            ],
+            [
+                "6.0",
+                "7",
+                "o",
+                "Nil Llop",
+                "Spain",
+                "35.32",
+                "+0.80"
+            ],
+            [
+                "7.0",
+                "5",
+                "i",
+                "Jeffrey Rosanelli",
+                "Italy",
+                "35.45",
+                "+0.93"
+            ],
+            [
+                "8.0",
+                "1",
+                "o",
+                "Tim Prins",
+                "Netherlands",
+                "35.49",
+                "+0.97"
+            ],
+            [
+                "9.0",
+                "8",
+                "i",
+                "Piotr Michalski",
+                "Poland",
+                "35.53",
+                "+1.01"
+            ],
+            [
+                "10.0",
+                "6",
+                "o",
+                "Henrik Fagerli Rukke",
+                "Norway",
+                "35.60",
+                "+1.08"
+            ],
+            [
+                "11.0",
+                "6",
+                "i",
+                "Siver Brattgjerd",
+                "Norway",
+                "35.66",
+                "+1.14"
+            ],
+            [
+                "12.0",
+                "5",
+                "o",
+                "David Bosa",
+                "Italy",
+                "35.81",
+                "+1.29"
+            ],
+            [
+                "13.0",
+                "2",
+                "i",
+                "Maximilian Strübe",
+                "Germany",
+                "35.92",
+                "+1.40"
+            ],
+            [
+                "14.0",
+                "3",
+                "o",
+                "Daniel Milagros",
+                "Spain",
+                "36.02",
+                "+1.50"
+            ],
+            [
+                "15.0",
+                "2",
+                "o",
+                "Oliver Grob",
+                "Switzerland",
+                "36.15",
+                "+1.63"
+            ],
+            [
+                "16.0",
+                "3",
+                "i",
+                "Kai in 't Veld",
+                "Greece",
+                "36.18",
+                "+1.66"
+            ],
+            [
+                "17.0",
+                "4",
+                "o",
+                "Ignaz Gschwentner",
+                "Austria",
+                "36.50",
+                "+1.98"
+            ],
+            [
+                "18.0",
+                "4",
+                "i",
+                "Tuukka Suomalainen",
+                "Finland",
+                "36.78",
+                "+2.26"
+            ],
+            [
+                "19.0",
+                "1",
+                "i",
+                "Lukács Soma",
+                "Hungary",
+                "36.82",
+                "+2.30"
+            ],
+            [
+                "20.0",
+                "10",
+                "i",
+                "Stefan Westenbroek",
+                "Netherlands",
+                "Did not finish",
+                "Did not finish"
+            ]
+        ],
+        "table_text": "rank | pair | lane | name | country | time | diff<br><NA> | 9 | o | Damian Zurek | Poland | 34.52 | <NA><br><NA> | 8 | o | Marek Kania | Poland | 34.82 | +0.30<br><NA> | 9 | i | Bjørn Magnussen | Norway | 35.12 | +0.60<br>4.0 | 7 | i | Merijn Scheperkamp | Netherlands | 35.246 | +0.72<br>5.0 | 10 | o | Marten Liiv | Estonia | 35.249 | +0.72<br>6.0 | 7 | o | Nil Llop | Spain | 35.32 | +0.80<br>7.0 | 5 | i | Jeffrey Rosanelli | Italy | 35.45 | +0.93<br>8.0 | 1 | o | Tim Prins | Netherlands | 35.49 | +0.97<br>9.0 | 8 | i | Piotr Michalski | Poland | 35.53 | +1.01<br>10.0 | 6 | o | Henrik Fagerli Rukke | Norway | 35.60 | +1.08<br>11.0 | 6 | i | Siver Brattgjerd | Norway | 35.66 | +1.14<br>12.0 | 5 | o | David Bosa | Italy | 35.81 | +1.29<br>13.0 | 2 | i | Maximilian Strübe | Germany | 35.92 | +1.40<br>14.0 | 3 | o | Daniel Milagros | Spain | 36.02 | +1.50<br>15.0 | 2 | o | Oliver Grob | Switzerland | 36.15 | +1.63<br>16.0 | 3 | i | Kai in 't Veld | Greece | 36.18 | +1.66<br>17.0 | 4 | o | Ignaz Gschwentner | Austria | 36.50 | +1.98<br>18.0 | 4 | i | Tuukka Suomalainen | Finland | 36.78 | +2.26<br>19.0 | 1 | i | Lukács Soma | Hungary | 36.82 | +2.30<br>20.0 | 10 | i | Stefan Westenbroek | Netherlands | Did not finish | Did not finish"
+    },
+    "119": {
+        "title": "2026 European Speed Skating Championships – Men's 1500 metres",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Men%27s_1500_metres",
+        "date": "2026-01-11T19:05:04Z",
+        "csv_id": "Q137767800_119.csv",
+        "QID": "Q137767800",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "name",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "10",
+                "o",
+                "Peder Kongshaug",
+                "Norway",
+                "1:46.08",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "5",
+                "i",
+                "Vladimir Semirunnyi",
+                "Poland",
+                "1:46.50",
+                "+0.42"
+            ],
+            [
+                "<NA>",
+                "9",
+                "o",
+                "Tim Prins",
+                "Netherlands",
+                "1:46.61",
+                "+0.53"
+            ],
+            [
+                "4.0",
+                "9",
+                "i",
+                "Gabriel Odor",
+                "Austria",
+                "1:46.82",
+                "+0.74"
+            ],
+            [
+                "5.0",
+                "4",
+                "o",
+                "Louis Hollaar",
+                "Netherlands",
+                "1:47.09",
+                "+1.01"
+            ],
+            [
+                "6.0",
+                "7",
+                "o",
+                "Valentin Thiebault",
+                "France",
+                "1:47.33",
+                "+1.25"
+            ],
+            [
+                "7.0",
+                "6",
+                "o",
+                "Alexander Farthofer",
+                "Austria",
+                "1:47.35",
+                "+1.27"
+            ],
+            [
+                "8.0",
+                "8",
+                "i",
+                "Daniele Di Stefano",
+                "Italy",
+                "1:47.51",
+                "+1.43"
+            ],
+            [
+                "9.0",
+                "7",
+                "i",
+                "Finn Elias Haneberg",
+                "Norway",
+                "1:47.59",
+                "+1.51"
+            ],
+            [
+                "10.0",
+                "10",
+                "i",
+                "Wesly Dijs",
+                "Netherlands",
+                "1:47.69",
+                "+1.61"
+            ],
+            [
+                "11.0",
+                "8",
+                "o",
+                "Didrik Eng Strand",
+                "Norway",
+                "1:47.71",
+                "+1.63"
+            ],
+            [
+                "12.0",
+                "3",
+                "i",
+                "Stefan Emele",
+                "Germany",
+                "1:47.90",
+                "+1.82"
+            ],
+            [
+                "13.0",
+                "5",
+                "o",
+                "Mathias Vosté",
+                "Belgium",
+                "1:48.58",
+                "+2.50"
+            ],
+            [
+                "14.0",
+                "1",
+                "i",
+                "Francesco Betti",
+                "Italy",
+                "1:48.69",
+                "+2.61"
+            ],
+            [
+                "15.0",
+                "6",
+                "i",
+                "Szymon Wojtakowski",
+                "Poland",
+                "1:49.25",
+                "+3.17"
+            ],
+            [
+                "16.0",
+                "2",
+                "o",
+                "Kai in 't Veld",
+                "Greece",
+                "1:49.32",
+                "+3.24"
+            ],
+            [
+                "17.0",
+                "4",
+                "i",
+                "Tom Rudolph",
+                "Germany",
+                "1:49.85",
+                "+3.77"
+            ],
+            [
+                "18.0",
+                "1",
+                "o",
+                "Luca Matteo Stibenz",
+                "Germany",
+                "1:50.51",
+                "+4.43"
+            ],
+            [
+                "19.0",
+                "3",
+                "o",
+                "Tadeáš Procházka",
+                "Czech Republic",
+                "1:54.02",
+                "+7.94"
+            ],
+            [
+                "<NA>",
+                "2",
+                "i",
+                "Bálint Bödei",
+                "Hungary",
+                "Disqualified",
+                "Disqualified"
+            ]
+        ],
+        "table_text": "rank | pair | lane | name | country | time | diff<br><NA> | 10 | o | Peder Kongshaug | Norway | 1:46.08 | <NA><br><NA> | 5 | i | Vladimir Semirunnyi | Poland | 1:46.50 | +0.42<br><NA> | 9 | o | Tim Prins | Netherlands | 1:46.61 | +0.53<br>4.0 | 9 | i | Gabriel Odor | Austria | 1:46.82 | +0.74<br>5.0 | 4 | o | Louis Hollaar | Netherlands | 1:47.09 | +1.01<br>6.0 | 7 | o | Valentin Thiebault | France | 1:47.33 | +1.25<br>7.0 | 6 | o | Alexander Farthofer | Austria | 1:47.35 | +1.27<br>8.0 | 8 | i | Daniele Di Stefano | Italy | 1:47.51 | +1.43<br>9.0 | 7 | i | Finn Elias Haneberg | Norway | 1:47.59 | +1.51<br>10.0 | 10 | i | Wesly Dijs | Netherlands | 1:47.69 | +1.61<br>11.0 | 8 | o | Didrik Eng Strand | Norway | 1:47.71 | +1.63<br>12.0 | 3 | i | Stefan Emele | Germany | 1:47.90 | +1.82<br>13.0 | 5 | o | Mathias Vosté | Belgium | 1:48.58 | +2.50<br>14.0 | 1 | i | Francesco Betti | Italy | 1:48.69 | +2.61<br>15.0 | 6 | i | Szymon Wojtakowski | Poland | 1:49.25 | +3.17<br>16.0 | 2 | o | Kai in 't Veld | Greece | 1:49.32 | +3.24<br>17.0 | 4 | i | Tom Rudolph | Germany | 1:49.85 | +3.77<br>18.0 | 1 | o | Luca Matteo Stibenz | Germany | 1:50.51 | +4.43<br>19.0 | 3 | o | Tadeáš Procházka | Czech Republic | 1:54.02 | +7.94<br><NA> | 2 | i | Bálint Bödei | Hungary | Disqualified | Disqualified"
+    },
+    "120": {
+        "title": "2026 European Speed Skating Championships – Women's 1000 metres",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Women%27s_1000_metres",
+        "date": "2026-01-12T01:40:07Z",
+        "csv_id": "Q137767807_120.csv",
+        "QID": "Q137767807",
+        "table": [
+            [
+                "rank",
+                "pair",
+                "lane",
+                "name",
+                "country",
+                "time",
+                "diff"
+            ],
+            [
+                "<NA>",
+                "8",
+                "o",
+                "Nikola Zdráhalova",
+                "Czech Republic",
+                "1:16.06",
+                "<NA>"
+            ],
+            [
+                "<NA>",
+                "5",
+                "o",
+                "Chloé Hoogendoorn",
+                "Netherlands",
+                "1:16.34",
+                "0.28"
+            ],
+            [
+                "<NA>",
+                "1",
+                "i",
+                "Isabel Grevelt",
+                "Netherlands",
+                "1:16.37",
+                "0.31"
+            ],
+            [
+                "4.0",
+                "4",
+                "o",
+                "Naomi Verkerk",
+                "Netherlands",
+                "1:16.41",
+                "0.35"
+            ],
+            [
+                "5.0",
+                "6",
+                "i",
+                "Isabelle van Elst",
+                "Belgium",
+                "1:16.84",
+                "0.78"
+            ],
+            [
+                "6.0",
+                "7",
+                "o",
+                "Sofia Thorup",
+                "Denmark",
+                "1:16.99",
+                "0.93"
+            ],
+            [
+                "7.0",
+                "7",
+                "i",
+                "Natalia Czerwonka",
+                "Poland",
+                "1:17.46",
+                "1.4"
+            ],
+            [
+                "8.0",
+                "6",
+                "o",
+                "Karolina Bosiek",
+                "Poland",
+                "1:17.96",
+                "1.9"
+            ],
+            [
+                "9.0",
+                "5",
+                "i",
+                "Anna Ostlender",
+                "Germany",
+                "1:18.21",
+                "2.15"
+            ],
+            [
+                "10.0",
+                "3",
+                "o",
+                "Julie Nistad Samsonsen",
+                "Norway",
+                "1:18.60",
+                "2.54"
+            ],
+            [
+                "11.0",
+                "8",
+                "i",
+                "Iga Wojtasik",
+                "Poland",
+                "1:18.78",
+                "2.72"
+            ],
+            [
+                "12.0",
+                "3",
+                "i",
+                "Maybritt Vigl",
+                "Italy",
+                "1:19.35",
+                "3.29"
+            ],
+            [
+                "13.0",
+                "2",
+                "o",
+                "Josephine Helmerl",
+                "Germany",
+                "1:20.07",
+                "4.01"
+            ],
+            [
+                "14.0",
+                "2",
+                "i",
+                "Katja Franzen",
+                "Germany",
+                "1:20.32",
+                "4.26"
+            ],
+            [
+                "15.0",
+                "4",
+                "i",
+                "Serena Pergher",
+                "Italy",
+                "1:20.61",
+                "4.55"
+            ]
+        ],
+        "table_text": "rank | pair | lane | name | country | time | diff<br><NA> | 8 | o | Nikola Zdráhalova | Czech Republic | 1:16.06 | <NA><br><NA> | 5 | o | Chloé Hoogendoorn | Netherlands | 1:16.34 | 0.28<br><NA> | 1 | i | Isabel Grevelt | Netherlands | 1:16.37 | 0.31<br>4.0 | 4 | o | Naomi Verkerk | Netherlands | 1:16.41 | 0.35<br>5.0 | 6 | i | Isabelle van Elst | Belgium | 1:16.84 | 0.78<br>6.0 | 7 | o | Sofia Thorup | Denmark | 1:16.99 | 0.93<br>7.0 | 7 | i | Natalia Czerwonka | Poland | 1:17.46 | 1.4<br>8.0 | 6 | o | Karolina Bosiek | Poland | 1:17.96 | 1.9<br>9.0 | 5 | i | Anna Ostlender | Germany | 1:18.21 | 2.15<br>10.0 | 3 | o | Julie Nistad Samsonsen | Norway | 1:18.60 | 2.54<br>11.0 | 8 | i | Iga Wojtasik | Poland | 1:18.78 | 2.72<br>12.0 | 3 | i | Maybritt Vigl | Italy | 1:19.35 | 3.29<br>13.0 | 2 | o | Josephine Helmerl | Germany | 1:20.07 | 4.01<br>14.0 | 2 | i | Katja Franzen | Germany | 1:20.32 | 4.26<br>15.0 | 4 | i | Serena Pergher | Italy | 1:20.61 | 4.55"
+    },
+    "121": {
+        "title": "2026 European Speed Skating Championships – Women's mass start",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Women%27s_mass_start",
+        "date": "2026-01-12T03:19:15Z",
+        "csv_id": "Q137774377_121.csv",
+        "QID": "Q137774377",
+        "table": [
+            [
+                "rank",
+                "name",
+                "country",
+                "points",
+                "time"
+            ],
+            [
+                "<NA>",
+                "Sofia Thorup",
+                "Denmark",
+                "60",
+                "8:39.72"
+            ],
+            [
+                "<NA>",
+                "Francesca Lollobrigida",
+                "Italy",
+                "41",
+                "8:39.73"
+            ],
+            [
+                "<NA>",
+                "Fran Vanhoutte",
+                "Belgium",
+                "20",
+                "8:40.02"
+            ],
+            [
+                "4.0",
+                "Hanna Mazur",
+                "Poland",
+                "10",
+                "8:40.18"
+            ],
+            [
+                "5.0",
+                "Kim Talsma",
+                "Netherlands",
+                "6",
+                "8:41.34"
+            ],
+            [
+                "6.0",
+                "Ashley Völker",
+                "Germany",
+                "3",
+                "8:41.81"
+            ],
+            [
+                "7.0",
+                "Aurora Grinden Løvås",
+                "Norway",
+                "3",
+                "8:49.12"
+            ],
+            [
+                "8.0",
+                "Lucie Korvasová",
+                "Czech Republic",
+                "3",
+                "9:02.14"
+            ],
+            [
+                "9.0",
+                "Natalia Jabrzyk",
+                "Poland",
+                "3",
+                "9:14.44"
+            ],
+            [
+                "10.0",
+                "Gemma Cooper",
+                "Great Britain",
+                "3",
+                "9:16.64"
+            ],
+            [
+                "11.0",
+                "Anna Molnar",
+                "Austria",
+                "2",
+                "8:52.41"
+            ],
+            [
+                "12.0",
+                "Abigél Mercs",
+                "Hungary",
+                "2",
+                "8:59.17"
+            ],
+            [
+                "13.0",
+                "Zuzana Kuršová",
+                "Czech Republic",
+                "1",
+                "8:57.97"
+            ],
+            [
+                "14.0",
+                "Julia Nizan",
+                "France",
+                "0",
+                "8:41.96"
+            ],
+            [
+                "15.0",
+                "Emily Tormen",
+                "Italy",
+                "0",
+                "8:42.00"
+            ],
+            [
+                "16.0",
+                "Sanne in 't Hof",
+                "Netherlands",
+                "0",
+                "8:46.52"
+            ],
+            [
+                "17.0",
+                "Melissa Schaefer",
+                "Germany",
+                "0",
+                "8:59.55"
+            ]
+        ],
+        "table_text": "rank | name | country | points | time<br><NA> | Sofia Thorup | Denmark | 60 | 8:39.72<br><NA> | Francesca Lollobrigida | Italy | 41 | 8:39.73<br><NA> | Fran Vanhoutte | Belgium | 20 | 8:40.02<br>4.0 | Hanna Mazur | Poland | 10 | 8:40.18<br>5.0 | Kim Talsma | Netherlands | 6 | 8:41.34<br>6.0 | Ashley Völker | Germany | 3 | 8:41.81<br>7.0 | Aurora Grinden Løvås | Norway | 3 | 8:49.12<br>8.0 | Lucie Korvasová | Czech Republic | 3 | 9:02.14<br>9.0 | Natalia Jabrzyk | Poland | 3 | 9:14.44<br>10.0 | Gemma Cooper | Great Britain | 3 | 9:16.64<br>11.0 | Anna Molnar | Austria | 2 | 8:52.41<br>12.0 | Abigél Mercs | Hungary | 2 | 8:59.17<br>13.0 | Zuzana Kuršová | Czech Republic | 1 | 8:57.97<br>14.0 | Julia Nizan | France | 0 | 8:41.96<br>15.0 | Emily Tormen | Italy | 0 | 8:42.00<br>16.0 | Sanne in 't Hof | Netherlands | 0 | 8:46.52<br>17.0 | Melissa Schaefer | Germany | 0 | 8:59.55"
+    },
+    "122": {
+        "title": "2026 European Speed Skating Championships – Men's mass start",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2026_European_Speed_Skating_Championships_%E2%80%93_Men%27s_mass_start",
+        "date": "2026-01-12T02:48:32Z",
+        "csv_id": "Q137774382_122.csv",
+        "QID": "Q137774382",
+        "table": [
+            [
+                "rank",
+                "name",
+                "country",
+                "points",
+                "time"
+            ],
+            [
+                "<NA>",
+                "Bart Swings",
+                "Belgium",
+                "60",
+                "7:44.63"
+            ],
+            [
+                "<NA>",
+                "Bart Hoolwerf",
+                "Netherlands",
+                "41",
+                "7:44.79"
+            ],
+            [
+                "<NA>",
+                "Andrea Giovannini",
+                "Italy",
+                "22",
+                "7:45.00"
+            ],
+            [
+                "4.0",
+                "Valentin Thiebault",
+                "France",
+                "10",
+                "7:45.42"
+            ],
+            [
+                "5.0",
+                "Gabriel Odor",
+                "Austria",
+                "6",
+                "7:45.49"
+            ],
+            [
+                "6.0",
+                "Luca Matteo Stibenz",
+                "Germany",
+                "4",
+                "7:58.33"
+            ],
+            [
+                "7.0",
+                "Mathieu Belloir",
+                "France",
+                "3",
+                "7:45.75"
+            ],
+            [
+                "8.0",
+                "Riccardo Lorello",
+                "Italy",
+                "3",
+                "7:50.57"
+            ],
+            [
+                "9.0",
+                "Tom Rudolph",
+                "Germany",
+                "3",
+                "8:04.03"
+            ],
+            [
+                "10.0",
+                "Botond Bejczi",
+                "Hungary",
+                "3",
+                "8:08.55"
+            ],
+            [
+                "11.0",
+                "Louis Hollaar",
+                "Netherlands",
+                "2",
+                "8:02.66"
+            ],
+            [
+                "12.0",
+                "Indra Médard",
+                "Belgium",
+                "0",
+                "7:46.91"
+            ],
+            [
+                "13.0",
+                "Mateusz Śliwka",
+                "Poland",
+                "0",
+                "7:47.61"
+            ],
+            [
+                "14.0",
+                "Marcin Bachanek",
+                "Poland",
+                "0",
+                "7:47.64"
+            ],
+            [
+                "15.0",
+                "Didrik Eng Strand",
+                "Norway",
+                "0",
+                "7:48.99"
+            ],
+            [
+                "16.0",
+                "Sigurd Holbø Dyrset",
+                "Norway",
+                "0",
+                "7:49.19"
+            ],
+            [
+                "17.0",
+                "Alexander Farthofer",
+                "Austria",
+                "0",
+                "7:51.41"
+            ],
+            [
+                "18.0",
+                "Tadeáš Procházka",
+                "Czech Republic",
+                "0",
+                "7:59.39"
+            ],
+            [
+                "19.0",
+                "Lukáš Steklý",
+                "Slovakia",
+                "0",
+                "8:02.11"
+            ],
+            [
+                "20.0",
+                "Konrád Nagy",
+                "Hungary",
+                "0",
+                "8:04.22"
+            ]
+        ],
+        "table_text": "rank | name | country | points | time<br><NA> | Bart Swings | Belgium | 60 | 7:44.63<br><NA> | Bart Hoolwerf | Netherlands | 41 | 7:44.79<br><NA> | Andrea Giovannini | Italy | 22 | 7:45.00<br>4.0 | Valentin Thiebault | France | 10 | 7:45.42<br>5.0 | Gabriel Odor | Austria | 6 | 7:45.49<br>6.0 | Luca Matteo Stibenz | Germany | 4 | 7:58.33<br>7.0 | Mathieu Belloir | France | 3 | 7:45.75<br>8.0 | Riccardo Lorello | Italy | 3 | 7:50.57<br>9.0 | Tom Rudolph | Germany | 3 | 8:04.03<br>10.0 | Botond Bejczi | Hungary | 3 | 8:08.55<br>11.0 | Louis Hollaar | Netherlands | 2 | 8:02.66<br>12.0 | Indra Médard | Belgium | 0 | 7:46.91<br>13.0 | Mateusz Śliwka | Poland | 0 | 7:47.61<br>14.0 | Marcin Bachanek | Poland | 0 | 7:47.64<br>15.0 | Didrik Eng Strand | Norway | 0 | 7:48.99<br>16.0 | Sigurd Holbø Dyrset | Norway | 0 | 7:49.19<br>17.0 | Alexander Farthofer | Austria | 0 | 7:51.41<br>18.0 | Tadeáš Procházka | Czech Republic | 0 | 7:59.39<br>19.0 | Lukáš Steklý | Slovakia | 0 | 8:02.11<br>20.0 | Konrád Nagy | Hungary | 0 | 8:04.22"
+    },
+    "123": {
+        "title": "FIS Ski Flying World Championships 2026 – Team",
+        "category": "mix | goods and services | service | event | competition | sports competition | sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/FIS_Ski_Flying_World_Championships_2026_%E2%80%93_Team",
+        "date": "2026-01-22T16:45:15Z",
+        "csv_id": "Q138027731_123.csv",
+        "QID": "Q138027731",
+        "table": [
+            [
+                "rank_rank",
+                "bib_bib",
+                "country_country",
+                "round_1_distance_(m)",
+                "round_1_points",
+                "round_1_rank",
+                "final_round_distance_(m)",
+                "final_round_points",
+                "final_round_rank",
+                "total_points"
+            ],
+            [
+                "<NA>",
+                "8",
+                "Japan Ryōyū Kobayashi Tomofumi Naito Naoki Nakamura Ren Nikaidō",
+                "223.0 216.0 222.5 212.5",
+                "775.4 200.5 187.4 196.1 191.4",
+                "1",
+                "209.0 222.0 224.0 229.0",
+                "794.2 190.7 187.9 209.8 205.8",
+                "1",
+                "1569.6"
+            ],
+            [
+                "<NA>",
+                "10",
+                "Austria Stephan Embacher Stefan Kraft Manuel Fettner Jan Hörl",
+                "233.5 220.0 209.5 204.0",
+                "771.5 209.4 197.8 181.8 182.5",
+                "2",
+                "217.5 223.0 214.0 216.0",
+                "788.5 203.6 197.5 191.6 195.8",
+                "2",
+                "1560.0"
+            ],
+            [
+                "<NA>",
+                "6",
+                "Norway Johann André Forfang Kristoffer Eriksen Sundal Benjamin Oestvold Marius Lindvik",
+                "215.5 189.0 224.0 216.0",
+                "747.9 192.5 160.3 193.4 201.7",
+                "3",
+                "202.5 197.5 202.0 230.0",
+                "735.8 186.6 157.4 178.8 213.0",
+                "3",
+                "1483.7"
+            ],
+            [
+                "4.0",
+                "3",
+                "Germany Pius Paschke Felix Hoffmann Karl Geiger Philipp Raimund",
+                "206.0 197.5 217.5 195.0",
+                "705.4 179.8 167.3 187.7 170.6",
+                "4",
+                "190.0 206.5 200.0 214.5",
+                "701.4 168.3 168.6 177.6 186.9",
+                "5",
+                "1406.8"
+            ],
+            [
+                "5.0",
+                "3",
+                "Finland Niko Kytösaho Jarkko Maatta Eetu Nousiainen Antti Aalto",
+                "219.0 184.0 172.0 206.5",
+                "666.3 194.6 155.4 133.2 183.1",
+                "5",
+                "153.0 207.0 174.0 216.5",
+                "625.0 115.2 172.9 144.0 192.9",
+                "6",
+                "1291.3"
+            ],
+            [
+                "6.0",
+                "9",
+                "Slovenia Timi Zajc Rok Oblak Anže Lanišek Domen Prevc",
+                "216.0 195.5 217.5 DNS",
+                "544.0 192.3 162.2 189.5 0.0",
+                "8",
+                "197.0 180.0 215.5 228.5",
+                "710.6 168.2 139.0 193.8 209.6",
+                "4",
+                "1254.6"
+            ],
+            [
+                "6.0",
+                "4",
+                "Switzerland Simon Amman Sandro Hauswirth Felix Trunz Gregor Deschwanden",
+                "192.5 185.0 204.5 179.5",
+                "639.1 160.1 158.6 174.2 146.2",
+                "6",
+                "160.5 211.5 188.5 186.0",
+                "615.5 120.9 180.8 162.2 151.6",
+                "7",
+                "1254.6"
+            ],
+            [
+                "8.0",
+                "5",
+                "Poland Aleksander Zniszczoł Dawid Kubacki Kamil Stoch Piotr Żyła",
+                "175.0 170.0 181.0 204.0",
+                "585.7 135.1 138.0 140.6 172.0",
+                "7",
+                "138.0 164.5 180.0 204.0",
+                "520.5 92.2 113.7 141.6 173.0",
+                "8",
+                "1106.2"
+            ],
+            [
+                "9.0",
+                "2",
+                "United States Erik Belshaw Jason Colby Decker Dean Tate Frantz",
+                "167.0 158.0 121.0 189.0",
+                "464.4 126.0 111.5 69.1 157.8",
+                "9",
+                "Did not advance",
+                "Did not advance",
+                "Did not advance",
+                "464.4"
+            ],
+            [
+                "10.0",
+                "1",
+                "Kazakhstan Nikita Devyatkin Sabirzhan Muminov Nurshat Tursunzhanov Svyatoslav Nazarenko",
+                "117.0 144.5 109.5 115.0",
+                "274.8 64.8 96.0 47.2 66.8",
+                "10",
+                "Did not advance",
+                "Did not advance",
+                "Did not advance",
+                "274.8"
+            ]
+        ],
+        "table_text": "rank_rank | bib_bib | country_country | round_1_distance_(m) | round_1_points | round_1_rank | final_round_distance_(m) | final_round_points | final_round_rank | total_points<br><NA> | 8 | Japan Ryōyū Kobayashi Tomofumi Naito Naoki Nakamura Ren Nikaidō | 223.0 216.0 222.5 212.5 | 775.4 200.5 187.4 196.1 191.4 | 1 | 209.0 222.0 224.0 229.0 | 794.2 190.7 187.9 209.8 205.8 | 1 | 1569.6<br><NA> | 10 | Austria Stephan Embacher Stefan Kraft Manuel Fettner Jan Hörl | 233.5 220.0 209.5 204.0 | 771.5 209.4 197.8 181.8 182.5 | 2 | 217.5 223.0 214.0 216.0 | 788.5 203.6 197.5 191.6 195.8 | 2 | 1560.0<br><NA> | 6 | Norway Johann André Forfang Kristoffer Eriksen Sundal Benjamin Oestvold Marius Lindvik | 215.5 189.0 224.0 216.0 | 747.9 192.5 160.3 193.4 201.7 | 3 | 202.5 197.5 202.0 230.0 | 735.8 186.6 157.4 178.8 213.0 | 3 | 1483.7<br>4.0 | 3 | Germany Pius Paschke Felix Hoffmann Karl Geiger Philipp Raimund | 206.0 197.5 217.5 195.0 | 705.4 179.8 167.3 187.7 170.6 | 4 | 190.0 206.5 200.0 214.5 | 701.4 168.3 168.6 177.6 186.9 | 5 | 1406.8<br>5.0 | 3 | Finland Niko Kytösaho Jarkko Maatta Eetu Nousiainen Antti Aalto | 219.0 184.0 172.0 206.5 | 666.3 194.6 155.4 133.2 183.1 | 5 | 153.0 207.0 174.0 216.5 | 625.0 115.2 172.9 144.0 192.9 | 6 | 1291.3<br>6.0 | 9 | Slovenia Timi Zajc Rok Oblak Anže Lanišek Domen Prevc | 216.0 195.5 217.5 DNS | 544.0 192.3 162.2 189.5 0.0 | 8 | 197.0 180.0 215.5 228.5 | 710.6 168.2 139.0 193.8 209.6 | 4 | 1254.6<br>6.0 | 4 | Switzerland Simon Amman Sandro Hauswirth Felix Trunz Gregor Deschwanden | 192.5 185.0 204.5 179.5 | 639.1 160.1 158.6 174.2 146.2 | 6 | 160.5 211.5 188.5 186.0 | 615.5 120.9 180.8 162.2 151.6 | 7 | 1254.6<br>8.0 | 5 | Poland Aleksander Zniszczoł Dawid Kubacki Kamil Stoch Piotr Żyła | 175.0 170.0 181.0 204.0 | 585.7 135.1 138.0 140.6 172.0 | 7 | 138.0 164.5 180.0 204.0 | 520.5 92.2 113.7 141.6 173.0 | 8 | 1106.2<br>9.0 | 2 | United States Erik Belshaw Jason Colby Decker Dean Tate Frantz | 167.0 158.0 121.0 189.0 | 464.4 126.0 111.5 69.1 157.8 | 9 | Did not advance | Did not advance | Did not advance | 464.4<br>10.0 | 1 | Kazakhstan Nikita Devyatkin Sabirzhan Muminov Nurshat Tursunzhanov Svyatoslav Nazarenko | 117.0 144.5 109.5 115.0 | 274.8 64.8 96.0 47.2 66.8 | 10 | Did not advance | Did not advance | Did not advance | 274.8"
+    },
+    "124": {
+        "title": "La grazia",
+        "category": "mix | goods and services | goods | intangible good | audiovisual work | film",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/La_grazia",
+        "date": "2024-12-04T13:04:18Z",
+        "csv_id": "Q134542577_124.csv",
+        "QID": "Q134542577",
+        "table": [
+            [
+                "award",
+                "date_of_ceremony",
+                "category",
+                "recipient(s)",
+                "result"
+            ],
+            [
+                "Venice Film Festival",
+                "September 6, 2025",
+                "Golden Lion",
+                "Paolo Sorrentino",
+                "Nominated"
+            ],
+            [
+                "Venice Film Festival",
+                "September 6, 2025",
+                "Brian Award",
+                "Paolo Sorrentino",
+                "Won"
+            ],
+            [
+                "Venice Film Festival",
+                "September 6, 2025",
+                "Volpi Cup for Best Actor",
+                "Toni Servillo",
+                "Won"
+            ],
+            [
+                "Chicago International Film Festival",
+                "October 24, 2025",
+                "Gold Hugo",
+                "La grazia",
+                "Nominated"
+            ],
+            [
+                "Chicago International Film Festival",
+                "October 24, 2025",
+                "Best Screenplay",
+                "Paolo Sorrentino",
+                "Won"
+            ],
+            [
+                "European Film Awards",
+                "January 17, 2026",
+                "Best Screenwriter",
+                "Paolo Sorrentino",
+                "Nominated"
+            ],
+            [
+                "European Film Awards",
+                "January 17, 2026",
+                "Best Actor",
+                "Toni Servillo",
+                "Nominated"
+            ]
+        ],
+        "table_text": "award | date_of_ceremony | category | recipient(s) | result<br>Venice Film Festival | September 6, 2025 | Golden Lion | Paolo Sorrentino | Nominated<br>Venice Film Festival | September 6, 2025 | Brian Award | Paolo Sorrentino | Won<br>Venice Film Festival | September 6, 2025 | Volpi Cup for Best Actor | Toni Servillo | Won<br>Chicago International Film Festival | October 24, 2025 | Gold Hugo | La grazia | Nominated<br>Chicago International Film Festival | October 24, 2025 | Best Screenplay | Paolo Sorrentino | Won<br>European Film Awards | January 17, 2026 | Best Screenwriter | Paolo Sorrentino | Nominated<br>European Film Awards | January 17, 2026 | Best Actor | Toni Servillo | Nominated"
+    },
+    "125": {
+        "title": "Can This Love Be Translated?",
+        "category": "mix | goods and services | goods | intangible good | audiovisual work | television program",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Can_This_Love_Be_Translated%3F",
+        "date": "2024-03-10T07:15:43Z",
+        "csv_id": "Q125121395_125.csv",
+        "QID": "Q125121395",
+        "table": [
+            [
+                "can_this_love_be_translated?_netflix_weekly_global_rank_week",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_date",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_global_rank_[a]",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_hours_viewed",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_views",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_1st_rank_[b]",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_top_10_[b]",
+                "can_this_love_be_translated?_netflix_weekly_global_rank_ref."
+            ],
+            [
+                "1",
+                "January 12, 2026—January 18, 2026",
+                "2",
+                "53.200.000",
+                "4.000.000",
+                "4",
+                "36",
+                "<NA>"
+            ],
+            [
+                "2",
+                "January 19, 2026—January 25, 2026",
+                "1",
+                "118.000.000",
+                "9.000.000",
+                "15",
+                "60",
+                "<NA>"
+            ],
+            [
+                "3",
+                "January 26, 2026—February 1, 2026",
+                "1",
+                "56.600.000",
+                "4.300.000",
+                "3",
+                "43",
+                "<NA>"
+            ],
+            [
+                "4",
+                "February 2, 2026—February 4, 2026",
+                "3",
+                "31.600.000",
+                "2.400.000",
+                "2",
+                "27",
+                "<NA>"
+            ],
+            [
+                "Runtime",
+                "Runtime",
+                "13:11 hours",
+                "13:11 hours",
+                "13:11 hours",
+                "13:11 hours",
+                "13:11 hours",
+                "13:11 hours"
+            ],
+            [
+                "Cumulative viewing time",
+                "Cumulative viewing time",
+                "259,400,000 hours",
+                "259,400,000 hours",
+                "259,400,000 hours",
+                "259,400,000 hours",
+                "259,400,000 hours",
+                "259,400,000 hours"
+            ],
+            [
+                "Cumulative views",
+                "Cumulative views",
+                "19,700,000 views",
+                "19,700,000 views",
+                "19,700,000 views",
+                "19,700,000 views",
+                "19,700,000 views",
+                "19,700,000 views"
+            ]
+        ],
+        "table_text": "can_this_love_be_translated?_netflix_weekly_global_rank_week | can_this_love_be_translated?_netflix_weekly_global_rank_date | can_this_love_be_translated?_netflix_weekly_global_rank_global_rank_[a] | can_this_love_be_translated?_netflix_weekly_global_rank_hours_viewed | can_this_love_be_translated?_netflix_weekly_global_rank_views | can_this_love_be_translated?_netflix_weekly_global_rank_1st_rank_[b] | can_this_love_be_translated?_netflix_weekly_global_rank_top_10_[b] | can_this_love_be_translated?_netflix_weekly_global_rank_ref.<br>1 | January 12, 2026—January 18, 2026 | 2 | 53.200.000 | 4.000.000 | 4 | 36 | <NA><br>2 | January 19, 2026—January 25, 2026 | 1 | 118.000.000 | 9.000.000 | 15 | 60 | <NA><br>3 | January 26, 2026—February 1, 2026 | 1 | 56.600.000 | 4.300.000 | 3 | 43 | <NA><br>4 | February 2, 2026—February 4, 2026 | 3 | 31.600.000 | 2.400.000 | 2 | 27 | <NA><br>Runtime | Runtime | 13:11 hours | 13:11 hours | 13:11 hours | 13:11 hours | 13:11 hours | 13:11 hours<br>Cumulative viewing time | Cumulative viewing time | 259,400,000 hours | 259,400,000 hours | 259,400,000 hours | 259,400,000 hours | 259,400,000 hours | 259,400,000 hours<br>Cumulative views | Cumulative views | 19,700,000 views | 19,700,000 views | 19,700,000 views | 19,700,000 views | 19,700,000 views | 19,700,000 views"
+    }
+}
