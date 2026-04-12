@@ -1,0 +1,29 @@
+code_code#station_name_english#station_name_chinese#travel_time_to_previous_station_(s)_travel_time_to_previous_station_(s)#stop_time_at_station_(s)_stop_time_at_station_(s)#date_opened_date_opened#districts_districts#city_city
+R02#Xiangshan#象山#71#—N/a#2013-11-24#Xinyi#Taipei
+R03#Taipei 101/World Trade Center#台北101/世貿#93#30#2013-11-24#Xinyi#Taipei
+R04#Xinyi Anhe#信義安和#81#30#2013-11-24#Daan#Taipei
+R05#Daan#大安#81#30#2013-11-24#Daan#Taipei
+R06#Daan Park#大安森林公園#70#30#2013-11-24#Daan#Taipei
+R07#Dongmen#東門#65#35#2013-11-24#Zhongzheng, Daan#Taipei
+R08#Chiang Kai-shek Memorial Hall#中正紀念堂#165#35#1998-12-24#Zhongzheng#Taipei
+R09#NTU Hospital#台大醫院#83#25#1998-12-24#Zhongzheng#Taipei
+R10#Taipei Main Station#台北車站#63#45#1997-12-25#Zhongzheng#Taipei
+R11#Zhongshan#中山#65#30#1997-03-28#Datong, Zhongshan#Taipei
+R12#Shuanglian#雙連#58#25#1997-03-28#Datong, Zhongshan#Taipei
+R13#Minquan West Road#民權西路#57#35#1997-03-28#Datong, Zhongshan#Taipei
+R14#Yuanshan#圓山#90#25#1997-03-28#Datong, Zhongshan#Taipei
+R15#Jiantan#劍潭#109#25#1997-03-28#Shilin#Taipei
+R16#Shilin#士林#92#25#1997-03-28#Shilin#Taipei
+R17#Zhishan#芝山#91#25#1997-03-28#Shilin#Taipei
+R18#Mingde#明德#76#25#1997-03-28#Beitou#Taipei
+R19#Shipai#石牌#61#25#1997-03-28#Beitou#Taipei
+R20#Qilian#唭哩岸#100#25#1997-03-28#Beitou#Taipei
+R21#Qiyan#奇岩#73#25#1997-03-28#Beitou#Taipei
+R22#Beitou#北投#91#25#1997-03-28#Beitou#Taipei
+R22A#Xinbeitou#新北投#157#—N/a#1997-03-28#Beitou#Taipei
+R23#Fuxinggang#復興崗#145[a]#25#1997-03-28#Beitou#Taipei
+R24#Zhongyi#忠義#109#25#1997-03-28#Beitou#Taipei
+R25#Guandu#關渡#78#25#1997-03-28#Beitou#Taipei
+R26#Zhuwei#竹圍#145#25#1997-03-28#Tamsui#New Taipei
+R27#Hongshulin#紅樹林#136#25#1997-03-28#Tamsui#New Taipei
+R28#Tamsui#淡水#175#—N/a#1997-03-28#Tamsui#New Taipei

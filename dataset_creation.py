@@ -358,6 +358,7 @@ def process_entities(cnfg: dict, entities: dict, all_quids_found: set, subcatego
     """Process entities and extract tables."""
     random.shuffle(list(entities.keys()))  # to not take just the first ones
     extracted_tables = {}
+    all_wikipages = []
     for ent, (url, subcat, enty_type) in entities.items():
         if ent in all_quids_found or subcategories[subcat] > cnfg['max_pages']:
             continue
@@ -366,6 +367,10 @@ def process_entities(cnfg: dict, entities: dict, all_quids_found: set, subcatego
         if not details or not details.get('all_dates_after', True):
             # a new release of already released thing, we do not want that
             continue
+        if 'date' not in details:
+            continue
+        if cnfg['date'] <= details['date'] <= cnfg['until_date']:
+            all_wikipages += [[ent, details['date'], subcat]]
 
         tables = retrieve_tables(cnfg, url=url)
         for formatted, text in tables:
@@ -384,6 +389,9 @@ def process_entities(cnfg: dict, entities: dict, all_quids_found: set, subcatego
                 pass
         #else:
         #    print(ent, 'no details')
+    with open(f'datasets/{config["output_dir"]}/new_pages.csv', "a", encoding="utf-8") as f:
+        for page in all_wikipages:
+            f.write(f'{",".join(page)}\n')
     logger.info(
         f'Updated to {len(extracted_tables)} tables for category {cat_name} from {len(entities)} wikipages.')
 
@@ -427,9 +435,13 @@ def query_no_start_date_recursively(cnfg, limit: int, category: str, start_date:
     LIMIT {limit}
     """
     if category == 'people':
-        result = query_wikidata(people_query, cnfg['bot_email'])['results']['bindings']
+        person = query_wikidata(people_query, cnfg['bot_email'])
+        if person:
+            result = person['results']['bindings']
     elif category == 'mix | wikilists':
-        result = query_wikidata(wikilist_query, cnfg['bot_email'])['results']['bindings']
+        wikilist = query_wikidata(wikilist_query, cnfg['bot_email'])
+        if wikilist:
+            result = wikilist['results']['bindings']
     else:
         logger.warning("Wrong category for no date entities")
         return {}
@@ -459,6 +471,7 @@ def get_no_start_entities(cnfg, limit: int, index: int, category: str) -> (dict,
     date_threshold = datetime.fromisoformat(cnfg['date'].replace("Z", "+00:00"))
 
     new_pages = {}  # just like filtering of the entities that really have creation after specified date
+    all_wikipages = []
     for entity_id, url in entities.items():
         if len(new_pages) >= cnfg['max_pages']:  # we have enough pages with tables
             break
@@ -473,6 +486,10 @@ def get_no_start_entities(cnfg, limit: int, index: int, category: str) -> (dict,
             continue
         if 'all_dates_after' in details and details['all_dates_after'] is False:
             continue  # a new release of already released thing, we do not want that
+        if 'date' not in details:
+            continue
+        if cnfg['date'] <= details['date'] <= cnfg['until_date']:
+            all_wikipages += [[entity_id, details['date'], category]]
 
         cat = category
         if category == "people":
@@ -494,6 +511,9 @@ def get_no_start_entities(cnfg, limit: int, index: int, category: str) -> (dict,
             except TypeError as e:
                 print(e)
                 pass
+    with open(f'datasets/{config["output_dir"]}/new_pages.csv', "a", encoding="utf-8") as f:
+        for page in all_wikipages:
+            f.write(f'{",".join(page)}\n')
     logger.info(f'Found {len(entities)} entities for category {category}')
 
     return new_pages, index
@@ -597,7 +617,10 @@ def filter_tables(dataset: dict, cnfg) -> [dict, Counter]:
         for table_key in group:
             if table_key not in dataset:
                 continue
-            table_df = table_from_data_entry(dataset[str(table_key)]['table'])
+            data = dataset.get(str(table_key))
+            if not data:
+                continue
+            table_df = table_from_data_entry(data['table'])
             if table_df.empty:
                 continue
             # Calculate table quality score

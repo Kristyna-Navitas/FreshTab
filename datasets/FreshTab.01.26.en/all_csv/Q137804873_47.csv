@@ -1,0 +1,25 @@
+route#origin#destination#via
+1#Thiruvottriyur#Thiruvanmiyur#Theradi, Tollgate, Kasimedu, Royapuram, Beach Station, Broadway, M.G.R Central, P.OR.R Sons, L.I.C, Royapettah, Mylapore, Mandaveli, Adyar
+1C#Ennore#Thiruvanmiyur#None
+1D#Ennore#Thiruvanmiyur#None
+2A#Anna Square#Kaviarasu Kannadasan Nagar#Triplicane, P.OR.R Sons, M.G.R Central, Thirupalli, Basin Bridge, M.K.B Nagar, Sidco
+2B#Kaviarasu Kannadasan Nagar#Kaviarasu Kannadasan Nagar#None
+3#Thiyagaraya Nagar#Thiruvanmiyur#Saidapet, Little Mount, Guindy Race Course, Velachery, Tharamani, S.R.P Tools
+4#Ennore#Broadway#V.O.C. Nagar, Thalankuppam, Ernavoor Kuppam, Ondikuppam, Kasimedu, Royapuram, Beach Station
+4M#Minjur#Broadway#Nandiambakkam, Athipattu Pudhu Nagar, V.O.C. Nagar, Thalankuppam, Ernavoor Kuppam, Ondikuppam, Kasimedu, Royapuram, Beach Station
+5B#Thiyagaraya Nagar#Mylapore#Saidapet, Little Mount, Anna University, Madhya Kailash, Adyar, Mandaveli
+5C#Broadway#Tharamani#M.G.R Central, P.OR.R Sons, L.I.C, Royapettah, Music Academy, Alwarpet, Adyar Gate, Kotturpuram, Madhya Kailash, Tidel Park
+5E#Besant Nagar#Vadapalani#None
+5G#Thiyagaraya Nagar#Kannagi Nagar S.C.B#Saidapet, Little Mount, Velachery, Tharamani, Kandanchavadi, Perungudi
+5S#Saidapet#Kannagi Nagar S.C.B#Little Mount, Velachery, Tharamani, Kandanchavadi, Perungudi
+6#Island Grounds#Thiruvanmiyur#Parrys Corner, Secretariat, Marina Beach, Q.M.C, Santhome, Foreshore Estate, Besant Nagar, Indira Nagar
+6D#Tollgate#Thiruvanmiyur#Tondiarpet, Royapuram, Beach Station, Secretariat, Marina Beach, Q.M.C, Santhome, Foreshore Estate, Besant Nagar, Indira Nagar
+7E#Broadway#Ambathur I.E#M.G.R Central, Periyamedu, Vepery, Purasaivakkam, Kellys, Chinthamani, Roundana, Thirumangalam, Collector Nagar, Vaavin
+7F#Broadway#Anna Nagar West#M.G.R Central, Periyamedu, Vepery, Purasaivakkam, Kellys, Chinthamani, Roundana, Thirumangalam
+7H#Broadway#J.J Nagar East#M.G.R Central, Periyamedu, Vepery, Purasaivakkam, Kellys, Chinthamani, Roundana, Thirumangalam, Collector Nagar
+7K#Broadway#Padi Kuppam#M.G.R Central, Periyamedu, Vepery, Purasaivakkam, Kellys, Chinthamani, Roundana, Thirumangalam
+7M#Broadway#J.J Nagar West#M.G.R Central, Periyamedu, Vepery, Purasaivakkam, Kellys, Chinthamani, Roundana, Thirumangalam, Collector Nagar, Vaavin
+8B#Broadway#Thiru. Vi. Ka Nagar#Beach Station, Thambu Chetty, Vallalar Nagar, Basin Bridge, Pulianthope, Otteri, Jamaliya, Perambur, Venus
+9M#A.G.S Colony#Thiyagaraya Nagar#Guindy, Little Mount, Saidapet, C.I.T Nagar
+10A#West Saidapet#Tollgate#Mettupalayam, Thiyagaraya Nagar, Valluvar Kottam, Sterling Road, D.P.I, Egmore, M.G.R Central, Broadway, Beach Station, Royapuram, Kasimedu
+10E#Ekkattuthangal#Broadway#Mettupalayam, Thiyagaraya Nagar, Valluvar Kottam, Sterling Road, D.P.I, Egmore, M.G.R Central

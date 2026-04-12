@@ -1,0 +1,3521 @@
+{
+    "99": {
+        "title": "cycling at the 2025 SEA Games",
+        "category": "sport | competition | recurring sporting event",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Cycling_at_the_2025_SEA_Games",
+        "date": "2025-12-16T12:33:08Z",
+        "csv_id": "Q136752983_99.csv",
+        "QID": "Q136752983",
+        "table": [
+            [
+                "rank",
+                "nation",
+                "gold",
+                "silver",
+                "bronze",
+                "total"
+            ],
+            [
+                "1",
+                "Thailand*",
+                "10",
+                "7",
+                "3",
+                "20"
+            ],
+            [
+                "2",
+                "Malaysia",
+                "4",
+                "4",
+                "1",
+                "9"
+            ],
+            [
+                "3",
+                "Indonesia",
+                "3",
+                "4",
+                "4",
+                "11"
+            ],
+            [
+                "4",
+                "Laos",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "4",
+                "Singapore",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "6",
+                "Philippines",
+                "0",
+                "0",
+                "5",
+                "5"
+            ],
+            [
+                "7",
+                "Vietnam",
+                "0",
+                "0",
+                "2",
+                "2"
+            ],
+            [
+                "Totals (7 entries)",
+                "Totals (7 entries)",
+                "17",
+                "17",
+                "15",
+                "49"
+            ]
+        ],
+        "table_text": "rank | nation | gold | silver | bronze | total<br>1 | Thailand* | 10 | 7 | 3 | 20<br>2 | Malaysia | 4 | 4 | 1 | 9<br>3 | Indonesia | 3 | 4 | 4 | 11<br>4 | Laos | 0 | 1 | 0 | 1<br>4 | Singapore | 0 | 1 | 0 | 1<br>6 | Philippines | 0 | 0 | 5 | 5<br>7 | Vietnam | 0 | 0 | 2 | 2<br>Totals (7 entries) | Totals (7 entries) | 17 | 17 | 15 | 49"
+    },
+    "100": {
+        "title": "MLS Cup 2025",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/MLS_Cup_2025",
+        "date": "2024-11-25T02:51:18Z",
+        "csv_id": "Q132816720_100.csv",
+        "QID": "Q132816720",
+        "table": [
+            [
+                "inter_miami_cf",
+                "inter_miami_cf.1",
+                "inter_miami_cf.2",
+                "inter_miami_cf.3"
+            ],
+            [
+                "None",
+                "None",
+                "None",
+                "None"
+            ],
+            [
+                "Pos",
+                "Teamvte",
+                "Pld",
+                "Pts"
+            ],
+            [
+                "1",
+                "Philadelphia Union",
+                "34",
+                "66"
+            ],
+            [
+                "2",
+                "FC Cincinnati",
+                "34",
+                "65"
+            ],
+            [
+                "3",
+                "Inter Miami CF",
+                "34",
+                "65"
+            ],
+            [
+                "4",
+                "Charlotte FC",
+                "34",
+                "59"
+            ],
+            [
+                "5",
+                "New York City FC",
+                "34",
+                "56"
+            ],
+            [
+                "6",
+                "Nashville SC",
+                "34",
+                "54"
+            ],
+            [
+                "7",
+                "Columbus Crew",
+                "34",
+                "54"
+            ],
+            [
+                "8",
+                "Chicago Fire FC",
+                "34",
+                "53"
+            ],
+            [
+                "9",
+                "Orlando City SC",
+                "34",
+                "53"
+            ],
+            [
+                "Pos",
+                "Teamvte",
+                "Pld",
+                "Pts"
+            ],
+            [
+                "1",
+                "San Diego FC",
+                "34",
+                "63"
+            ],
+            [
+                "2",
+                "Vancouver Whitecaps FC",
+                "34",
+                "63"
+            ],
+            [
+                "3",
+                "Los Angeles FC",
+                "34",
+                "60"
+            ],
+            [
+                "4",
+                "Minnesota United FC",
+                "34",
+                "58"
+            ],
+            [
+                "5",
+                "Seattle Sounders FC",
+                "34",
+                "55"
+            ],
+            [
+                "6",
+                "Austin FC",
+                "34",
+                "47"
+            ],
+            [
+                "7",
+                "FC Dallas",
+                "34",
+                "44"
+            ],
+            [
+                "8",
+                "Portland Timbers",
+                "34",
+                "44"
+            ],
+            [
+                "9",
+                "Real Salt Lake",
+                "34",
+                "41"
+            ],
+            [
+                "Opponent (Games)",
+                "1st leg",
+                "2nd leg",
+                "3rd leg"
+            ],
+            [
+                "Nashville SC (2–1)",
+                "3–1 (H)",
+                "1–2 (A)",
+                "4–0 (H)"
+            ],
+            [
+                "Opponent",
+                "Score",
+                "Score",
+                "Score"
+            ],
+            [
+                "FC Cincinnati",
+                "4–0 (A)",
+                "4–0 (A)",
+                "4–0 (A)"
+            ],
+            [
+                "New York City FC",
+                "5–1 (H)",
+                "5–1 (H)",
+                "5–1 (H)"
+            ]
+        ],
+        "table_text": "inter_miami_cf | inter_miami_cf.1 | inter_miami_cf.2 | inter_miami_cf.3<br>None | None | None | None<br>Pos | Teamvte | Pld | Pts<br>1 | Philadelphia Union | 34 | 66<br>2 | FC Cincinnati | 34 | 65<br>3 | Inter Miami CF | 34 | 65<br>4 | Charlotte FC | 34 | 59<br>5 | New York City FC | 34 | 56<br>6 | Nashville SC | 34 | 54<br>7 | Columbus Crew | 34 | 54<br>8 | Chicago Fire FC | 34 | 53<br>9 | Orlando City SC | 34 | 53<br>Pos | Teamvte | Pld | Pts<br>1 | San Diego FC | 34 | 63<br>2 | Vancouver Whitecaps FC | 34 | 63<br>3 | Los Angeles FC | 34 | 60<br>4 | Minnesota United FC | 34 | 58<br>5 | Seattle Sounders FC | 34 | 55<br>6 | Austin FC | 34 | 47<br>7 | FC Dallas | 34 | 44<br>8 | Portland Timbers | 34 | 44<br>9 | Real Salt Lake | 34 | 41<br>Opponent (Games) | 1st leg | 2nd leg | 3rd leg<br>Nashville SC (2–1) | 3–1 (H) | 1–2 (A) | 4–0 (H)<br>Opponent | Score | Score | Score<br>FC Cincinnati | 4–0 (A) | 4–0 (A) | 4–0 (A)<br>New York City FC | 5–1 (H) | 5–1 (H) | 5–1 (H)"
+    },
+    "101": {
+        "title": "MLS Cup 2025",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/MLS_Cup_2025",
+        "date": "2024-11-25T02:51:18Z",
+        "csv_id": "Q132816720_101.csv",
+        "QID": "Q132816720",
+        "table": [
+            [
+                "pos",
+                "teamvte",
+                "pts"
+            ],
+            [
+                "1",
+                "Philadelphia Union",
+                "66"
+            ],
+            [
+                "2",
+                "FC Cincinnati",
+                "65"
+            ],
+            [
+                "3",
+                "Inter Miami CF",
+                "65"
+            ],
+            [
+                "4",
+                "Charlotte FC",
+                "59"
+            ],
+            [
+                "5",
+                "New York City FC",
+                "56"
+            ],
+            [
+                "6",
+                "Nashville SC",
+                "54"
+            ],
+            [
+                "7",
+                "Columbus Crew",
+                "54"
+            ],
+            [
+                "8",
+                "Chicago Fire FC",
+                "53"
+            ],
+            [
+                "9",
+                "Orlando City SC",
+                "53"
+            ]
+        ],
+        "table_text": "pos | teamvte | pts<br>1 | Philadelphia Union | 66<br>2 | FC Cincinnati | 65<br>3 | Inter Miami CF | 65<br>4 | Charlotte FC | 59<br>5 | New York City FC | 56<br>6 | Nashville SC | 54<br>7 | Columbus Crew | 54<br>8 | Chicago Fire FC | 53<br>9 | Orlando City SC | 53"
+    },
+    "102": {
+        "title": "MLS Cup 2025",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/MLS_Cup_2025",
+        "date": "2024-11-25T02:51:18Z",
+        "csv_id": "Q132816720_102.csv",
+        "QID": "Q132816720",
+        "table": [
+            [
+                "pos",
+                "teamvte",
+                "pts"
+            ],
+            [
+                "1",
+                "San Diego FC",
+                "63"
+            ],
+            [
+                "2",
+                "Vancouver Whitecaps FC",
+                "63"
+            ],
+            [
+                "3",
+                "Los Angeles FC",
+                "60"
+            ],
+            [
+                "4",
+                "Minnesota United FC",
+                "58"
+            ],
+            [
+                "5",
+                "Seattle Sounders FC",
+                "55"
+            ],
+            [
+                "6",
+                "Austin FC",
+                "47"
+            ],
+            [
+                "7",
+                "FC Dallas",
+                "44"
+            ],
+            [
+                "8",
+                "Portland Timbers",
+                "44"
+            ],
+            [
+                "9",
+                "Real Salt Lake",
+                "41"
+            ]
+        ],
+        "table_text": "pos | teamvte | pts<br>1 | San Diego FC | 63<br>2 | Vancouver Whitecaps FC | 63<br>3 | Los Angeles FC | 60<br>4 | Minnesota United FC | 58<br>5 | Seattle Sounders FC | 55<br>6 | Austin FC | 47<br>7 | FC Dallas | 44<br>8 | Portland Timbers | 44<br>9 | Real Salt Lake | 41"
+    },
+    "103": {
+        "title": "2025 Nepal Premier League final",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Nepal_Premier_League_final",
+        "date": "2025-12-19T08:03:43Z",
+        "csv_id": "Q137662144_103.csv",
+        "QID": "Q137662144",
+        "table": [
+            [
+                "sudurpaschim_royals_innings_player",
+                "sudurpaschim_royals_innings_status",
+                "sudurpaschim_royals_innings_runs",
+                "sudurpaschim_royals_innings_balls",
+                "sudurpaschim_royals_innings_4s",
+                "sudurpaschim_royals_innings_6s",
+                "sudurpaschim_royals_innings_strike_rate"
+            ],
+            [
+                "Ishan Pandey",
+                "c Subasingha b Malla",
+                "33",
+                "51",
+                "1",
+                "0",
+                "64.71"
+            ],
+            [
+                "Binod Bhandari",
+                "c Adhikari b Trumpelmann",
+                "0",
+                "2",
+                "0",
+                "0",
+                "0.00"
+            ],
+            [
+                "Sheldon Jackson",
+                "lbw b Trumpelmann",
+                "1",
+                "3",
+                "0",
+                "0",
+                "33.33"
+            ],
+            [
+                "Aarif Sheikh",
+                "lbw b Malla",
+                "6",
+                "6",
+                "1",
+                "0",
+                "100.00"
+            ],
+            [
+                "Dipendra Singh Airee",
+                "c Trumpelmann b Paudel",
+                "13",
+                "20",
+                "0",
+                "1",
+                "65.00"
+            ],
+            [
+                "Deepak Bohara",
+                "c Jora b Paudel",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0.00"
+            ],
+            [
+                "Puneet Mehra",
+                "lbw b Paudel",
+                "0",
+                "1",
+                "0",
+                "0",
+                "0.00"
+            ],
+            [
+                "Harmeet Singh",
+                "c Short b Malla",
+                "10",
+                "11",
+                "0",
+                "1",
+                "90.91"
+            ],
+            [
+                "Scott Kuggeleijn",
+                "c Jora b Bhandari",
+                "10",
+                "8",
+                "0",
+                "1",
+                "125.00"
+            ],
+            [
+                "Hemant Dhami",
+                "not out",
+                "7",
+                "9",
+                "0",
+                "1",
+                "77.78"
+            ],
+            [
+                "Abinash Bohara",
+                "c Short b Trumpelmann",
+                "1",
+                "3",
+                "0",
+                "0",
+                "33.33"
+            ],
+            [
+                "Extras 4 (lb 1, w 3) Total 85 (19.1 overs)",
+                "Extras 4 (lb 1, w 3) Total 85 (19.1 overs)",
+                "Extras 4 (lb 1, w 3) Total 85 (19.1 overs)",
+                "Extras 4 (lb 1, w 3) Total 85 (19.1 overs)",
+                "2",
+                "4",
+                "4.43 RR"
+            ]
+        ],
+        "table_text": "sudurpaschim_royals_innings_player | sudurpaschim_royals_innings_status | sudurpaschim_royals_innings_runs | sudurpaschim_royals_innings_balls | sudurpaschim_royals_innings_4s | sudurpaschim_royals_innings_6s | sudurpaschim_royals_innings_strike_rate<br>Ishan Pandey | c Subasingha b Malla | 33 | 51 | 1 | 0 | 64.71<br>Binod Bhandari | c Adhikari b Trumpelmann | 0 | 2 | 0 | 0 | 0.00<br>Sheldon Jackson | lbw b Trumpelmann | 1 | 3 | 0 | 0 | 33.33<br>Aarif Sheikh | lbw b Malla | 6 | 6 | 1 | 0 | 100.00<br>Dipendra Singh Airee | c Trumpelmann b Paudel | 13 | 20 | 0 | 1 | 65.00<br>Deepak Bohara | c Jora b Paudel | 0 | 1 | 0 | 0 | 0.00<br>Puneet Mehra | lbw b Paudel | 0 | 1 | 0 | 0 | 0.00<br>Harmeet Singh | c Short b Malla | 10 | 11 | 0 | 1 | 90.91<br>Scott Kuggeleijn | c Jora b Bhandari | 10 | 8 | 0 | 1 | 125.00<br>Hemant Dhami | not out | 7 | 9 | 0 | 1 | 77.78<br>Abinash Bohara | c Short b Trumpelmann | 1 | 3 | 0 | 0 | 33.33<br>Extras 4 (lb 1, w 3) Total 85 (19.1 overs) | Extras 4 (lb 1, w 3) Total 85 (19.1 overs) | Extras 4 (lb 1, w 3) Total 85 (19.1 overs) | Extras 4 (lb 1, w 3) Total 85 (19.1 overs) | 2 | 4 | 4.43 RR"
+    },
+    "104": {
+        "title": "2025 Nepal Premier League final",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Nepal_Premier_League_final",
+        "date": "2025-12-19T08:03:43Z",
+        "csv_id": "Q137662144_104.csv",
+        "QID": "Q137662144",
+        "table": [
+            [
+                "lumbini_lions_bowling_bowler",
+                "lumbini_lions_bowling_overs",
+                "lumbini_lions_bowling_runs",
+                "lumbini_lions_bowling_wickets",
+                "lumbini_lions_bowling_econ",
+                "lumbini_lions_bowling_wides"
+            ],
+            [
+                "Ruben Trumpelmann",
+                "2.1",
+                "3",
+                "3",
+                "1.38",
+                "1"
+            ],
+            [
+                "Sher Malla",
+                "4.0",
+                "18",
+                "3",
+                "4.5",
+                "1"
+            ],
+            [
+                "Abhishek Gautam",
+                "3.0",
+                "15",
+                "0",
+                "5.0",
+                "0"
+            ],
+            [
+                "Rohit Paudel",
+                "4.0",
+                "12",
+                "3",
+                "3.0",
+                "1"
+            ],
+            [
+                "Tilak Bhandari",
+                "4.0",
+                "26",
+                "1",
+                "6.5",
+                "0"
+            ],
+            [
+                "Movin Subasingha",
+                "2.0",
+                "10",
+                "0",
+                "5.0",
+                "0"
+            ]
+        ],
+        "table_text": "lumbini_lions_bowling_bowler | lumbini_lions_bowling_overs | lumbini_lions_bowling_runs | lumbini_lions_bowling_wickets | lumbini_lions_bowling_econ | lumbini_lions_bowling_wides<br>Ruben Trumpelmann | 2.1 | 3 | 3 | 1.38 | 1<br>Sher Malla | 4.0 | 18 | 3 | 4.5 | 1<br>Abhishek Gautam | 3.0 | 15 | 0 | 5.0 | 0<br>Rohit Paudel | 4.0 | 12 | 3 | 3.0 | 1<br>Tilak Bhandari | 4.0 | 26 | 1 | 6.5 | 0<br>Movin Subasingha | 2.0 | 10 | 0 | 5.0 | 0"
+    },
+    "105": {
+        "title": "2025 Nepal Premier League final",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Nepal_Premier_League_final",
+        "date": "2025-12-19T08:03:43Z",
+        "csv_id": "Q137662144_105.csv",
+        "QID": "Q137662144",
+        "table": [
+            [
+                "lumbini_lions_innings_player",
+                "lumbini_lions_innings_status",
+                "lumbini_lions_innings_runs",
+                "lumbini_lions_innings_balls",
+                "lumbini_lions_innings_4s",
+                "lumbini_lions_innings_6s",
+                "lumbini_lions_innings_strike_rate"
+            ],
+            [
+                "Dinesh Adhikari",
+                "c Kuggeleijn b Dhami",
+                "42",
+                "13",
+                "1",
+                "5",
+                "323.07"
+            ],
+            [
+                "D'Arcy Short",
+                "b Dhami",
+                "14",
+                "13",
+                "3",
+                "0",
+                "107.69"
+            ],
+            [
+                "Niroshan Dickwella",
+                "not out",
+                "11",
+                "12",
+                "1",
+                "0",
+                "91.66"
+            ],
+            [
+                "Rohit Paudel",
+                "c Airee b A Bohara",
+                "16",
+                "12",
+                "2",
+                "1",
+                "133.33"
+            ],
+            [
+                "Sundeep Jora",
+                "c A Bohara b Airee",
+                "0",
+                "3",
+                "0",
+                "0",
+                "0.00"
+            ],
+            [
+                "Dilip Nath",
+                "not out",
+                "1",
+                "1",
+                "0",
+                "0",
+                "100.00"
+            ],
+            [
+                "Extras 2 (lb 1, w 1) Total 86/4 (9 overs)",
+                "Extras 2 (lb 1, w 1) Total 86/4 (9 overs)",
+                "Extras 2 (lb 1, w 1) Total 86/4 (9 overs)",
+                "Extras 2 (lb 1, w 1) Total 86/4 (9 overs)",
+                "7",
+                "6",
+                "9.55 RR"
+            ]
+        ],
+        "table_text": "lumbini_lions_innings_player | lumbini_lions_innings_status | lumbini_lions_innings_runs | lumbini_lions_innings_balls | lumbini_lions_innings_4s | lumbini_lions_innings_6s | lumbini_lions_innings_strike_rate<br>Dinesh Adhikari | c Kuggeleijn b Dhami | 42 | 13 | 1 | 5 | 323.07<br>D'Arcy Short | b Dhami | 14 | 13 | 3 | 0 | 107.69<br>Niroshan Dickwella | not out | 11 | 12 | 1 | 0 | 91.66<br>Rohit Paudel | c Airee b A Bohara | 16 | 12 | 2 | 1 | 133.33<br>Sundeep Jora | c A Bohara b Airee | 0 | 3 | 0 | 0 | 0.00<br>Dilip Nath | not out | 1 | 1 | 0 | 0 | 100.00<br>Extras 2 (lb 1, w 1) Total 86/4 (9 overs) | Extras 2 (lb 1, w 1) Total 86/4 (9 overs) | Extras 2 (lb 1, w 1) Total 86/4 (9 overs) | Extras 2 (lb 1, w 1) Total 86/4 (9 overs) | 7 | 6 | 9.55 RR"
+    },
+    "106": {
+        "title": "2025 Nepal Premier League final",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Nepal_Premier_League_final",
+        "date": "2025-12-19T08:03:43Z",
+        "csv_id": "Q137662144_106.csv",
+        "QID": "Q137662144",
+        "table": [
+            [
+                "sudurpaschim_royals_bowling_bowler",
+                "sudurpaschim_royals_bowling_overs",
+                "sudurpaschim_royals_bowling_runs",
+                "sudurpaschim_royals_bowling_wickets",
+                "sudurpaschim_royals_bowling_econ"
+            ],
+            [
+                "Dipendra Singh Airee",
+                "2",
+                "29",
+                "1",
+                "14.5"
+            ],
+            [
+                "Scott Kuggeleijn",
+                "2",
+                "22",
+                "0",
+                "11.0"
+            ],
+            [
+                "Harmeet Singh",
+                "2",
+                "13",
+                "0",
+                "6.5"
+            ],
+            [
+                "Hemant Dhami",
+                "1",
+                "9",
+                "2",
+                "9.0"
+            ],
+            [
+                "Ishan Pandey",
+                "1",
+                "11",
+                "0",
+                "11.0"
+            ],
+            [
+                "Abinash Bohara",
+                "1",
+                "1",
+                "1",
+                "1.0"
+            ]
+        ],
+        "table_text": "sudurpaschim_royals_bowling_bowler | sudurpaschim_royals_bowling_overs | sudurpaschim_royals_bowling_runs | sudurpaschim_royals_bowling_wickets | sudurpaschim_royals_bowling_econ<br>Dipendra Singh Airee | 2 | 29 | 1 | 14.5<br>Scott Kuggeleijn | 2 | 22 | 0 | 11.0<br>Harmeet Singh | 2 | 13 | 0 | 6.5<br>Hemant Dhami | 1 | 9 | 2 | 9.0<br>Ishan Pandey | 1 | 11 | 0 | 11.0<br>Abinash Bohara | 1 | 1 | 1 | 1.0"
+    },
+    "107": {
+        "title": "2025 NCAA Division II Football Championship Game",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_II_Football_Championship_Game",
+        "date": "2025-12-21T04:12:47Z",
+        "csv_id": "Q137691168_107.csv",
+        "QID": "Q137691168",
+        "table": [
+            [
+                "scoring_summary",
+                "unnamed:_1",
+                "unnamed:_2",
+                "unnamed:_3",
+                "unnamed:_4",
+                "unnamed:_5",
+                "unnamed:_6",
+                "unnamed:_7",
+                "unnamed:_8"
+            ],
+            [
+                "None",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Quarter",
+                "Time",
+                "Drive",
+                "Drive",
+                "Drive",
+                "Team",
+                "Scoring information",
+                "Score",
+                "Score"
+            ],
+            [
+                "Quarter",
+                "Time",
+                "Plays",
+                "Yards",
+                "TOP",
+                "Team",
+                "Scoring information",
+                "Harding",
+                "Ferris"
+            ],
+            [
+                "1",
+                "6:39",
+                "7",
+                "70",
+                "<NA>",
+                "Ferris State",
+                "Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good",
+                "0",
+                "7"
+            ],
+            [
+                "1",
+                "4:32",
+                "5",
+                "67",
+                "<NA>",
+                "Ferris State",
+                "Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good",
+                "0",
+                "14"
+            ],
+            [
+                "2",
+                "14:21",
+                "12",
+                "65",
+                "<NA>",
+                "Harding",
+                "Andrew Miller 9-yard touchdown run, Magnus Lepak kick good",
+                "7",
+                "14"
+            ],
+            [
+                "2",
+                "2:08",
+                "13",
+                "95",
+                "<NA>",
+                "Ferris State",
+                "Cam Underwood 23-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good",
+                "7",
+                "21"
+            ],
+            [
+                "2",
+                "0:46",
+                "6",
+                "71",
+                "<NA>",
+                "Harding",
+                "Christian Franklin 15-yard touchdown reception from Cole Keylon, Magnus Lepak kick good",
+                "14",
+                "21"
+            ],
+            [
+                "3",
+                "14:21",
+                "2",
+                "75",
+                "<NA>",
+                "Ferris State",
+                "Chase Carter 64-yard touchdown run, Eddie Jewett kick good",
+                "14",
+                "28"
+            ],
+            [
+                "3",
+                "14:09",
+                "1",
+                "90",
+                "<NA>",
+                "Harding",
+                "Kickoff returned 90 yards for touchdown by G'Kyson Wright, Magnus Lepak kick good",
+                "21",
+                "28"
+            ],
+            [
+                "3",
+                "13:13",
+                "3",
+                "75",
+                "<NA>",
+                "Ferris State",
+                "Wyatt Bower 3-yard touchdown run, Eddie Jewett kick good",
+                "21",
+                "35"
+            ],
+            [
+                "3",
+                "6:14",
+                "5",
+                "60",
+                "<NA>",
+                "Ferris State",
+                "Carson Gulker 14-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good",
+                "21",
+                "42"
+            ],
+            [
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "21",
+                "42"
+            ]
+        ],
+        "table_text": "scoring_summary | unnamed:_1 | unnamed:_2 | unnamed:_3 | unnamed:_4 | unnamed:_5 | unnamed:_6 | unnamed:_7 | unnamed:_8<br>None | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA><br>Quarter | Time | Drive | Drive | Drive | Team | Scoring information | Score | Score<br>Quarter | Time | Plays | Yards | TOP | Team | Scoring information | Harding | Ferris<br>1 | 6:39 | 7 | 70 | <NA> | Ferris State | Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good | 0 | 7<br>1 | 4:32 | 5 | 67 | <NA> | Ferris State | Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good | 0 | 14<br>2 | 14:21 | 12 | 65 | <NA> | Harding | Andrew Miller 9-yard touchdown run, Magnus Lepak kick good | 7 | 14<br>2 | 2:08 | 13 | 95 | <NA> | Ferris State | Cam Underwood 23-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good | 7 | 21<br>2 | 0:46 | 6 | 71 | <NA> | Harding | Christian Franklin 15-yard touchdown reception from Cole Keylon, Magnus Lepak kick good | 14 | 21<br>3 | 14:21 | 2 | 75 | <NA> | Ferris State | Chase Carter 64-yard touchdown run, Eddie Jewett kick good | 14 | 28<br>3 | 14:09 | 1 | 90 | <NA> | Harding | Kickoff returned 90 yards for touchdown by G'Kyson Wright, Magnus Lepak kick good | 21 | 28<br>3 | 13:13 | 3 | 75 | <NA> | Ferris State | Wyatt Bower 3-yard touchdown run, Eddie Jewett kick good | 21 | 35<br>3 | 6:14 | 5 | 60 | <NA> | Ferris State | Carson Gulker 14-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good | 21 | 42<br>\"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | 21 | 42"
+    },
+    "108": {
+        "title": "2025 NCAA Division II Football Championship Game",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_II_Football_Championship_Game",
+        "date": "2025-12-21T04:12:47Z",
+        "csv_id": "Q137691168_108.csv",
+        "QID": "Q137691168",
+        "table": [
+            [
+                "quarter_quarter",
+                "time_time",
+                "drive_plays",
+                "drive_yards",
+                "team_team",
+                "scoring_information_scoring_information",
+                "score_harding",
+                "score_ferris"
+            ],
+            [
+                "1",
+                "6:39",
+                "7",
+                "70",
+                "Ferris State",
+                "Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good",
+                "0",
+                "7"
+            ],
+            [
+                "1",
+                "4:32",
+                "5",
+                "67",
+                "Ferris State",
+                "Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good",
+                "0",
+                "14"
+            ],
+            [
+                "2",
+                "14:21",
+                "12",
+                "65",
+                "Harding",
+                "Andrew Miller 9-yard touchdown run, Magnus Lepak kick good",
+                "7",
+                "14"
+            ],
+            [
+                "2",
+                "2:08",
+                "13",
+                "95",
+                "Ferris State",
+                "Cam Underwood 23-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good",
+                "7",
+                "21"
+            ],
+            [
+                "2",
+                "0:46",
+                "6",
+                "71",
+                "Harding",
+                "Christian Franklin 15-yard touchdown reception from Cole Keylon, Magnus Lepak kick good",
+                "14",
+                "21"
+            ],
+            [
+                "3",
+                "14:21",
+                "2",
+                "75",
+                "Ferris State",
+                "Chase Carter 64-yard touchdown run, Eddie Jewett kick good",
+                "14",
+                "28"
+            ],
+            [
+                "3",
+                "14:09",
+                "1",
+                "90",
+                "Harding",
+                "Kickoff returned 90 yards for touchdown by G'Kyson Wright, Magnus Lepak kick good",
+                "21",
+                "28"
+            ],
+            [
+                "3",
+                "13:13",
+                "3",
+                "75",
+                "Ferris State",
+                "Wyatt Bower 3-yard touchdown run, Eddie Jewett kick good",
+                "21",
+                "35"
+            ],
+            [
+                "3",
+                "6:14",
+                "5",
+                "60",
+                "Ferris State",
+                "Carson Gulker 14-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good",
+                "21",
+                "42"
+            ],
+            [
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "21",
+                "42"
+            ]
+        ],
+        "table_text": "quarter_quarter | time_time | drive_plays | drive_yards | team_team | scoring_information_scoring_information | score_harding | score_ferris<br>1 | 6:39 | 7 | 70 | Ferris State | Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good | 0 | 7<br>1 | 4:32 | 5 | 67 | Ferris State | Wyatt Bower 4-yard touchdown run, Eddie Jewett kick good | 0 | 14<br>2 | 14:21 | 12 | 65 | Harding | Andrew Miller 9-yard touchdown run, Magnus Lepak kick good | 7 | 14<br>2 | 2:08 | 13 | 95 | Ferris State | Cam Underwood 23-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good | 7 | 21<br>2 | 0:46 | 6 | 71 | Harding | Christian Franklin 15-yard touchdown reception from Cole Keylon, Magnus Lepak kick good | 14 | 21<br>3 | 14:21 | 2 | 75 | Ferris State | Chase Carter 64-yard touchdown run, Eddie Jewett kick good | 14 | 28<br>3 | 14:09 | 1 | 90 | Harding | Kickoff returned 90 yards for touchdown by G'Kyson Wright, Magnus Lepak kick good | 21 | 28<br>3 | 13:13 | 3 | 75 | Ferris State | Wyatt Bower 3-yard touchdown run, Eddie Jewett kick good | 21 | 35<br>3 | 6:14 | 5 | 60 | Ferris State | Carson Gulker 14-yard touchdown reception from Wyatt Bower, Eddie Jewett kick good | 21 | 42<br>\"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | 21 | 42"
+    },
+    "109": {
+        "title": "2025 NCAA Division II Football Championship Game",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_II_Football_Championship_Game",
+        "date": "2025-12-21T04:12:47Z",
+        "csv_id": "Q137691168_109.csv",
+        "QID": "Q137691168",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Harding",
+                "Passing",
+                "Cole Keylon",
+                "3/5, 80 yards, 1 TD"
+            ],
+            [
+                "Harding",
+                "Rushing",
+                "Andrew Miller",
+                "22 rushes, 70 yards, 1 TD"
+            ],
+            [
+                "Harding",
+                "Receiving",
+                "Christian Franklin",
+                "2 receptions, 38 yards, 1 TD"
+            ],
+            [
+                "Ferris State",
+                "Passing",
+                "Wyatt Bower",
+                "10/16, 177 yards, 2 TD"
+            ],
+            [
+                "Ferris State",
+                "Rushing",
+                "Chase Carter",
+                "7 rushes, 111 yards, 1 TD"
+            ],
+            [
+                "Ferris State",
+                "Receiving",
+                "Cam Underwood",
+                "4 receptions, 50 yards, 1 TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Harding | Passing | Cole Keylon | 3/5, 80 yards, 1 TD<br>Harding | Rushing | Andrew Miller | 22 rushes, 70 yards, 1 TD<br>Harding | Receiving | Christian Franklin | 2 receptions, 38 yards, 1 TD<br>Ferris State | Passing | Wyatt Bower | 10/16, 177 yards, 2 TD<br>Ferris State | Rushing | Chase Carter | 7 rushes, 111 yards, 1 TD<br>Ferris State | Receiving | Cam Underwood | 4 receptions, 50 yards, 1 TD"
+    },
+    "110": {
+        "title": "2025 NCAA Division I men's soccer championship game",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_I_men%27s_soccer_championship_game",
+        "date": "2025-07-06T23:31:02Z",
+        "csv_id": "Q137440090_110.csv",
+        "QID": "Q137440090",
+        "table": [
+            [
+                "washington_(big_ten)",
+                "washington_(big_ten).1",
+                "round",
+                "nc_state_(acc)",
+                "nc_state_(acc).1"
+            ],
+            [
+                "Opponent",
+                "Result",
+                "NCAA Tournament",
+                "Opponent",
+                "Result"
+            ],
+            [
+                "Oregon State (WCC)",
+                "3–2 (a.e.t.) (A)",
+                "First round",
+                "Bye",
+                "—N/a"
+            ],
+            [
+                "(5) SMU (ACC)",
+                "1–0 (A)",
+                "Second round",
+                "Marshall (SBC)",
+                "2–0 (H)"
+            ],
+            [
+                "(12) Stanford (ACC)",
+                "1–0 (A)",
+                "Third round (Sweet 16)",
+                "UNCG (SoCon)",
+                "2–0 (H)"
+            ],
+            [
+                "(4) Maryland (Big Ten)",
+                "3–1 (A)",
+                "Quarterfinals (Elite 8)",
+                "(7) Georgetown (Big East)",
+                "3–2 (A)"
+            ],
+            [
+                "(16) Furman (SoCon)",
+                "3–1 (N)",
+                "College Cup (Final 4)",
+                "Saint Louis (A-10)",
+                "2–1 (N)"
+            ]
+        ],
+        "table_text": "washington_(big_ten) | washington_(big_ten).1 | round | nc_state_(acc) | nc_state_(acc).1<br>Opponent | Result | NCAA Tournament | Opponent | Result<br>Oregon State (WCC) | 3–2 (a.e.t.) (A) | First round | Bye | —N/a<br>(5) SMU (ACC) | 1–0 (A) | Second round | Marshall (SBC) | 2–0 (H)<br>(12) Stanford (ACC) | 1–0 (A) | Third round (Sweet 16) | UNCG (SoCon) | 2–0 (H)<br>(4) Maryland (Big Ten) | 3–1 (A) | Quarterfinals (Elite 8) | (7) Georgetown (Big East) | 3–2 (A)<br>(16) Furman (SoCon) | 3–1 (N) | College Cup (Final 4) | Saint Louis (A-10) | 2–1 (N)"
+    },
+    "111": {
+        "title": "2025 MAC Football Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_MAC_Football_Championship_Game",
+        "date": "2024-11-26T22:45:29Z",
+        "csv_id": "Q136929844_111.csv",
+        "QID": "Q136929844",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Miami (OH)",
+                "Passing",
+                "Henry Hesson",
+                "7/20, 107 yards, 1 TD"
+            ],
+            [
+                "Miami (OH)",
+                "Rushing",
+                "Jordan Brunson",
+                "14 carries, 59 yards, 1 TD"
+            ],
+            [
+                "Miami (OH)",
+                "Receiving",
+                "Kam Perry",
+                "7 receptions, 101 yards"
+            ],
+            [
+                "Western Michigan",
+                "Passing",
+                "Broc Lowry",
+                "8/13, 111 yards"
+            ],
+            [
+                "Western Michigan",
+                "Rushing",
+                "Jalen Buckley",
+                "19 carries, 193 yards, 2 TD"
+            ],
+            [
+                "Western Michigan",
+                "Receiving",
+                "Michael Brescia",
+                "2 receptions, 47 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Miami (OH) | Passing | Henry Hesson | 7/20, 107 yards, 1 TD<br>Miami (OH) | Rushing | Jordan Brunson | 14 carries, 59 yards, 1 TD<br>Miami (OH) | Receiving | Kam Perry | 7 receptions, 101 yards<br>Western Michigan | Passing | Broc Lowry | 8/13, 111 yards<br>Western Michigan | Rushing | Jalen Buckley | 19 carries, 193 yards, 2 TD<br>Western Michigan | Receiving | Michael Brescia | 2 receptions, 47 yards"
+    },
+    "112": {
+        "title": "2025 Conference USA Football Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Conference_USA_Football_Championship_Game",
+        "date": "2025-11-30T14:59:08Z",
+        "csv_id": "Q137393276_112.csv",
+        "QID": "Q137393276",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Kennesaw State",
+                "Passing",
+                "Amari Odom",
+                "26/32, 246 yards, TD"
+            ],
+            [
+                "Kennesaw State",
+                "Rushing",
+                "Coleman Bennett",
+                "17 carries, 82 yards, TD"
+            ],
+            [
+                "Kennesaw State",
+                "Receiving",
+                "Christian Moss",
+                "5 receptions, 75 yards"
+            ],
+            [
+                "Jacksonville State",
+                "Passing",
+                "Caden Creel",
+                "12/21, 96 yards, INT"
+            ],
+            [
+                "Jacksonville State",
+                "Rushing",
+                "Caden Creel",
+                "18 carries, 112 yards, TD"
+            ],
+            [
+                "Jacksonville State",
+                "Receiving",
+                "Deondre Johnson",
+                "4 receptions, 59 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Kennesaw State | Passing | Amari Odom | 26/32, 246 yards, TD<br>Kennesaw State | Rushing | Coleman Bennett | 17 carries, 82 yards, TD<br>Kennesaw State | Receiving | Christian Moss | 5 receptions, 75 yards<br>Jacksonville State | Passing | Caden Creel | 12/21, 96 yards, INT<br>Jacksonville State | Rushing | Caden Creel | 18 carries, 112 yards, TD<br>Jacksonville State | Receiving | Deondre Johnson | 4 receptions, 59 yards"
+    },
+    "113": {
+        "title": "2025 Mountain West Conference Football Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Mountain_West_Conference_Football_Championship_Game",
+        "date": "2025-12-01T19:01:56Z",
+        "csv_id": "Q137399908_113.csv",
+        "QID": "Q137399908",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "UNLV",
+                "Passing",
+                "Anthony Colandrea",
+                "18/38, 225 yards, 1 TD"
+            ],
+            [
+                "UNLV",
+                "Rushing",
+                "Anthony Colandrea",
+                "12 carries, 66 yards, 1 TD"
+            ],
+            [
+                "UNLV",
+                "Receiving",
+                "JoJo Earle",
+                "2 receptions, 45 yards"
+            ],
+            [
+                "Boise State",
+                "Passing",
+                "Maddux Madsen",
+                "17/31, 289 yards, 3 TD"
+            ],
+            [
+                "Boise State",
+                "Rushing",
+                "Dylan Riley",
+                "21 carries, 75 yards"
+            ],
+            [
+                "Boise State",
+                "Receiving",
+                "Chase Penry",
+                "3 receptions, 96 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>UNLV | Passing | Anthony Colandrea | 18/38, 225 yards, 1 TD<br>UNLV | Rushing | Anthony Colandrea | 12 carries, 66 yards, 1 TD<br>UNLV | Receiving | JoJo Earle | 2 receptions, 45 yards<br>Boise State | Passing | Maddux Madsen | 17/31, 289 yards, 3 TD<br>Boise State | Rushing | Dylan Riley | 21 carries, 75 yards<br>Boise State | Receiving | Chase Penry | 3 receptions, 96 yards"
+    },
+    "114": {
+        "title": "2025 Gasparilla Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Gasparilla_Bowl",
+        "date": "2025-07-05T23:11:50Z",
+        "csv_id": "Q135427950_114.csv",
+        "QID": "Q135427950",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Memphis",
+                "Passing",
+                "Brendon Lewis",
+                "14/25, 106 yards, TD, INT"
+            ],
+            [
+                "Memphis",
+                "Rushing",
+                "Jamari Hawkins",
+                "9 carries, 65 yards"
+            ],
+            [
+                "Memphis",
+                "Receiving",
+                "Khyair Spain",
+                "4 receptions, 32 yards, TD"
+            ],
+            [
+                "NC State",
+                "Passing",
+                "CJ Bailey",
+                "14/25, 221 yards, 2 TD"
+            ],
+            [
+                "NC State",
+                "Rushing",
+                "Jayden Scott",
+                "19 carries, 108 yards"
+            ],
+            [
+                "NC State",
+                "Receiving",
+                "Wesley Grimes",
+                "3 receptions, 48 yards, TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Memphis | Passing | Brendon Lewis | 14/25, 106 yards, TD, INT<br>Memphis | Rushing | Jamari Hawkins | 9 carries, 65 yards<br>Memphis | Receiving | Khyair Spain | 4 receptions, 32 yards, TD<br>NC State | Passing | CJ Bailey | 14/25, 221 yards, 2 TD<br>NC State | Rushing | Jayden Scott | 19 carries, 108 yards<br>NC State | Receiving | Wesley Grimes | 3 receptions, 48 yards, TD"
+    },
+    "115": {
+        "title": "2025 Big Ten Football Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Big_Ten_Football_Championship_Game",
+        "date": "2024-11-28T00:17:57Z",
+        "csv_id": "Q137253762_115.csv",
+        "QID": "Q137253762",
+        "table": [
+            [
+                "scoring_summary",
+                "unnamed:_1",
+                "unnamed:_2",
+                "unnamed:_3",
+                "unnamed:_4",
+                "unnamed:_5",
+                "unnamed:_6",
+                "unnamed:_7",
+                "unnamed:_8"
+            ],
+            [
+                "None",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>",
+                "<NA>"
+            ],
+            [
+                "Quarter",
+                "Time",
+                "Drive",
+                "Drive",
+                "Drive",
+                "Team",
+                "Scoring information",
+                "Score",
+                "Score"
+            ],
+            [
+                "Quarter",
+                "Time",
+                "Plays",
+                "Yards",
+                "TOP",
+                "Team",
+                "Scoring information",
+                "IU",
+                "OSU"
+            ],
+            [
+                "1st",
+                "6:51",
+                "6",
+                "12",
+                "2:06",
+                "IU",
+                "29-yard field goal by Nico Radicic",
+                "3",
+                "0"
+            ],
+            [
+                "1st",
+                "0:46",
+                "3",
+                "25",
+                "0:55",
+                "OSU",
+                "Carnell Tate 9-yard touchdown reception from Julian Sayin, Jayden Fielding kick good",
+                "3",
+                "7"
+            ],
+            [
+                "2nd",
+                "10:08",
+                "6",
+                "67",
+                "3:23",
+                "OSU",
+                "30-yard field goal by Jayden Fielding",
+                "3",
+                "10"
+            ],
+            [
+                "2nd",
+                "2:47",
+                "14",
+                "61",
+                "7:21",
+                "IU",
+                "32-yard field goal by Nico Radicic",
+                "6",
+                "10"
+            ],
+            [
+                "3rd",
+                "8:02",
+                "7",
+                "88",
+                "3:30",
+                "IU",
+                "Elijah Sarratt 17-yard touchdown reception from Fernando Mendoza, Nico Radicic kick good",
+                "13",
+                "10"
+            ],
+            [
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "13",
+                "10"
+            ]
+        ],
+        "table_text": "scoring_summary | unnamed:_1 | unnamed:_2 | unnamed:_3 | unnamed:_4 | unnamed:_5 | unnamed:_6 | unnamed:_7 | unnamed:_8<br>None | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA> | <NA><br>Quarter | Time | Drive | Drive | Drive | Team | Scoring information | Score | Score<br>Quarter | Time | Plays | Yards | TOP | Team | Scoring information | IU | OSU<br>1st | 6:51 | 6 | 12 | 2:06 | IU | 29-yard field goal by Nico Radicic | 3 | 0<br>1st | 0:46 | 3 | 25 | 0:55 | OSU | Carnell Tate 9-yard touchdown reception from Julian Sayin, Jayden Fielding kick good | 3 | 7<br>2nd | 10:08 | 6 | 67 | 3:23 | OSU | 30-yard field goal by Jayden Fielding | 3 | 10<br>2nd | 2:47 | 14 | 61 | 7:21 | IU | 32-yard field goal by Nico Radicic | 6 | 10<br>3rd | 8:02 | 7 | 88 | 3:30 | IU | Elijah Sarratt 17-yard touchdown reception from Fernando Mendoza, Nico Radicic kick good | 13 | 10<br>\"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | 13 | 10"
+    },
+    "116": {
+        "title": "2025 Big Ten Football Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Big_Ten_Football_Championship_Game",
+        "date": "2024-11-28T00:17:57Z",
+        "csv_id": "Q137253762_116.csv",
+        "QID": "Q137253762",
+        "table": [
+            [
+                "quarter_quarter",
+                "time_time",
+                "drive_plays",
+                "drive_yards",
+                "drive_top",
+                "team_team",
+                "scoring_information_scoring_information",
+                "score_iu",
+                "score_osu"
+            ],
+            [
+                "1st",
+                "6:51",
+                "6",
+                "12",
+                "2:06",
+                "IU",
+                "29-yard field goal by Nico Radicic",
+                "3",
+                "0"
+            ],
+            [
+                "1st",
+                "0:46",
+                "3",
+                "25",
+                "0:55",
+                "OSU",
+                "Carnell Tate 9-yard touchdown reception from Julian Sayin, Jayden Fielding kick good",
+                "3",
+                "7"
+            ],
+            [
+                "2nd",
+                "10:08",
+                "6",
+                "67",
+                "3:23",
+                "OSU",
+                "30-yard field goal by Jayden Fielding",
+                "3",
+                "10"
+            ],
+            [
+                "2nd",
+                "2:47",
+                "14",
+                "61",
+                "7:21",
+                "IU",
+                "32-yard field goal by Nico Radicic",
+                "6",
+                "10"
+            ],
+            [
+                "3rd",
+                "8:02",
+                "7",
+                "88",
+                "3:30",
+                "IU",
+                "Elijah Sarratt 17-yard touchdown reception from Fernando Mendoza, Nico Radicic kick good",
+                "13",
+                "10"
+            ],
+            [
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "\"TOP\" = time of possession. For other American football terms, see Glossary of American football.",
+                "13",
+                "10"
+            ]
+        ],
+        "table_text": "quarter_quarter | time_time | drive_plays | drive_yards | drive_top | team_team | scoring_information_scoring_information | score_iu | score_osu<br>1st | 6:51 | 6 | 12 | 2:06 | IU | 29-yard field goal by Nico Radicic | 3 | 0<br>1st | 0:46 | 3 | 25 | 0:55 | OSU | Carnell Tate 9-yard touchdown reception from Julian Sayin, Jayden Fielding kick good | 3 | 7<br>2nd | 10:08 | 6 | 67 | 3:23 | OSU | 30-yard field goal by Jayden Fielding | 3 | 10<br>2nd | 2:47 | 14 | 61 | 7:21 | IU | 32-yard field goal by Nico Radicic | 6 | 10<br>3rd | 8:02 | 7 | 88 | 3:30 | IU | Elijah Sarratt 17-yard touchdown reception from Fernando Mendoza, Nico Radicic kick good | 13 | 10<br>\"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | \"TOP\" = time of possession. For other American football terms, see Glossary of American football. | 13 | 10"
+    },
+    "117": {
+        "title": "2025 Big Ten Football Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Big_Ten_Football_Championship_Game",
+        "date": "2024-11-28T00:17:57Z",
+        "csv_id": "Q137253762_117.csv",
+        "QID": "Q137253762",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Indiana",
+                "Passing",
+                "Fernando Mendoza",
+                "15/23, 222 yards, TD, INT"
+            ],
+            [
+                "Indiana",
+                "Rushing",
+                "Kaelon Black",
+                "16 carries, 69 yards"
+            ],
+            [
+                "Indiana",
+                "Receiving",
+                "Charlie Becker",
+                "6 receptions, 126 yards"
+            ],
+            [
+                "Ohio State",
+                "Passing",
+                "Julian Sayin",
+                "21/29, 258 yards, TD, INT"
+            ],
+            [
+                "Ohio State",
+                "Rushing",
+                "Bo Jackson",
+                "17 carries, 83 yards"
+            ],
+            [
+                "Ohio State",
+                "Receiving",
+                "Jeremiah Smith",
+                "8 receptions, 144 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Indiana | Passing | Fernando Mendoza | 15/23, 222 yards, TD, INT<br>Indiana | Rushing | Kaelon Black | 16 carries, 69 yards<br>Indiana | Receiving | Charlie Becker | 6 receptions, 126 yards<br>Ohio State | Passing | Julian Sayin | 21/29, 258 yards, TD, INT<br>Ohio State | Rushing | Bo Jackson | 17 carries, 83 yards<br>Ohio State | Receiving | Jeremiah Smith | 8 receptions, 144 yards"
+    },
+    "118": {
+        "title": "2025 ACC Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_ACC_Championship_Game",
+        "date": "2024-12-08T18:23:13Z",
+        "csv_id": "Q137253795_118.csv",
+        "QID": "Q137253795",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Duke",
+                "Passing",
+                "Darian Mensah",
+                "19–25, 196 yards, 2 TD, INT"
+            ],
+            [
+                "Duke",
+                "Rushing",
+                "Nate Sheppard",
+                "21 carries, 97 yards, TD"
+            ],
+            [
+                "Duke",
+                "Receiving",
+                "Cooper Barkate",
+                "5 receptions, 91 yards"
+            ],
+            [
+                "Virginia",
+                "Passing",
+                "Chandler Morris",
+                "21–40, 216 yards, 2 TD, 2 INT"
+            ],
+            [
+                "Virginia",
+                "Rushing",
+                "Harrison Waylee",
+                "11 carries, 66 yards"
+            ],
+            [
+                "Virginia",
+                "Receiving",
+                "Cam Ross",
+                "5 receptions, 59 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Duke | Passing | Darian Mensah | 19–25, 196 yards, 2 TD, INT<br>Duke | Rushing | Nate Sheppard | 21 carries, 97 yards, TD<br>Duke | Receiving | Cooper Barkate | 5 receptions, 91 yards<br>Virginia | Passing | Chandler Morris | 21–40, 216 yards, 2 TD, 2 INT<br>Virginia | Rushing | Harrison Waylee | 11 carries, 66 yards<br>Virginia | Receiving | Cam Ross | 5 receptions, 59 yards"
+    },
+    "119": {
+        "title": "2025 LA Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_LA_Bowl",
+        "date": "2025-06-26T02:13:30Z",
+        "csv_id": "Q135268374_119.csv",
+        "QID": "Q135268374",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Boise State",
+                "Passing",
+                "Max Cutforth",
+                "15-27, 302 yards, TD, 3 INT's"
+            ],
+            [
+                "Boise State",
+                "Rushing",
+                "Dylan Riley",
+                "10 carries, 34 yards"
+            ],
+            [
+                "Boise State",
+                "Receiving",
+                "Chris Marshall",
+                "5 receptions, 97 yards"
+            ],
+            [
+                "Washington",
+                "Passing",
+                "Demond Williams Jr.",
+                "15-24, 214 yards, 4 TD's"
+            ],
+            [
+                "Washington",
+                "Rushing",
+                "Jonah Coleman",
+                "12 carries, 96 yards, TD"
+            ],
+            [
+                "Washington",
+                "Receiving",
+                "Denzel Boston",
+                "6 receptions, 125 yards, TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Boise State | Passing | Max Cutforth | 15-27, 302 yards, TD, 3 INT's<br>Boise State | Rushing | Dylan Riley | 10 carries, 34 yards<br>Boise State | Receiving | Chris Marshall | 5 receptions, 97 yards<br>Washington | Passing | Demond Williams Jr. | 15-24, 214 yards, 4 TD's<br>Washington | Rushing | Jonah Coleman | 12 carries, 96 yards, TD<br>Washington | Receiving | Denzel Boston | 6 receptions, 125 yards, TD"
+    },
+    "120": {
+        "title": "2025 Salute to Veterans Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Salute_to_Veterans_Bowl",
+        "date": "2025-06-26T02:19:33Z",
+        "csv_id": "Q135268375_120.csv",
+        "QID": "Q135268375",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Troy",
+                "Passing",
+                "Tucker Kilcrease",
+                "12/23, 116 yards, 2 INT"
+            ],
+            [
+                "Troy",
+                "Rushing",
+                "Dennis Palmer",
+                "8 carries, 37 yards"
+            ],
+            [
+                "Troy",
+                "Receiving",
+                "Rara Thomas",
+                "5 receptions, 52 yards"
+            ],
+            [
+                "Jacksonville State",
+                "Passing",
+                "Caden Creel",
+                "14/20, 173 yards, TD"
+            ],
+            [
+                "Jacksonville State",
+                "Rushing",
+                "Khristian Lando",
+                "11 carries, 44 yards"
+            ],
+            [
+                "Jacksonville State",
+                "Receiving",
+                "Deondre Johnson",
+                "6 receptions, 101 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Troy | Passing | Tucker Kilcrease | 12/23, 116 yards, 2 INT<br>Troy | Rushing | Dennis Palmer | 8 carries, 37 yards<br>Troy | Receiving | Rara Thomas | 5 receptions, 52 yards<br>Jacksonville State | Passing | Caden Creel | 14/20, 173 yards, TD<br>Jacksonville State | Rushing | Khristian Lando | 11 carries, 44 yards<br>Jacksonville State | Receiving | Deondre Johnson | 6 receptions, 101 yards"
+    },
+    "121": {
+        "title": "2025 Cure Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Cure_Bowl",
+        "date": "2025-06-26T13:47:05Z",
+        "csv_id": "Q135268474_121.csv",
+        "QID": "Q135268474",
+        "table": [
+            [
+                "statistics",
+                "odu",
+                "usf"
+            ],
+            [
+                "First downs",
+                "21",
+                "19"
+            ],
+            [
+                "Total yards",
+                "382",
+                "333"
+            ],
+            [
+                "Rushing yards",
+                "255",
+                "52"
+            ],
+            [
+                "Passing yards",
+                "127",
+                "281"
+            ],
+            [
+                "Passing: Comp–Att–Int",
+                "11–26–0",
+                "27–41–4"
+            ],
+            [
+                "Turnovers",
+                "1",
+                "5"
+            ],
+            [
+                "Time of possession",
+                "31:07",
+                "28:53"
+            ]
+        ],
+        "table_text": "statistics | odu | usf<br>First downs | 21 | 19<br>Total yards | 382 | 333<br>Rushing yards | 255 | 52<br>Passing yards | 127 | 281<br>Passing: Comp–Att–Int | 11–26–0 | 27–41–4<br>Turnovers | 1 | 5<br>Time of possession | 31:07 | 28:53"
+    },
+    "122": {
+        "title": "2025 Cure Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Cure_Bowl",
+        "date": "2025-06-26T13:47:05Z",
+        "csv_id": "Q135268474_122.csv",
+        "QID": "Q135268474",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Old Dominion",
+                "Passing",
+                "Quinn Henicle",
+                "11/25, 127 yards"
+            ],
+            [
+                "Old Dominion",
+                "Rushing",
+                "Quinn Henicle",
+                "24 carries, 107 yards, 2 TD"
+            ],
+            [
+                "Old Dominion",
+                "Receiving",
+                "Na'eem Abdur-Raheem Gladding",
+                "5 catches, 60 yards"
+            ],
+            [
+                "South Florida",
+                "Passing",
+                "Gaston Moore",
+                "20/28, 236 yards, TD, 2 INT"
+            ],
+            [
+                "South Florida",
+                "Rushing",
+                "Alvon Isaac",
+                "7 carries, 41 yards"
+            ],
+            [
+                "South Florida",
+                "Receiving",
+                "Christian Neptune",
+                "10 catches, 102 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Old Dominion | Passing | Quinn Henicle | 11/25, 127 yards<br>Old Dominion | Rushing | Quinn Henicle | 24 carries, 107 yards, 2 TD<br>Old Dominion | Receiving | Na'eem Abdur-Raheem Gladding | 5 catches, 60 yards<br>South Florida | Passing | Gaston Moore | 20/28, 236 yards, TD, 2 INT<br>South Florida | Rushing | Alvon Isaac | 7 carries, 41 yards<br>South Florida | Receiving | Christian Neptune | 10 catches, 102 yards"
+    },
+    "123": {
+        "title": "2025 Myrtle Beach Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Myrtle_Beach_Bowl",
+        "date": "2025-06-26T14:54:15Z",
+        "csv_id": "Q135268504_123.csv",
+        "QID": "Q135268504",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Kennesaw State",
+                "Passing",
+                "Amari Odom",
+                "18/35, 349 yards, 1 TD, 2 INT"
+            ],
+            [
+                "Kennesaw State",
+                "Rushing",
+                "Chase Belcher",
+                "16 carries, 148 yards"
+            ],
+            [
+                "Kennesaw State",
+                "Receiving",
+                "Javon Rogers",
+                "3 receptions, 111 yards, 1 TD"
+            ],
+            [
+                "Western Michigan",
+                "Passing",
+                "Broc Lowry",
+                "12/19, 120 yards, 2 TD, 1 INT"
+            ],
+            [
+                "Western Michigan",
+                "Rushing",
+                "Jalen Buckley",
+                "8 carries, 174 yards, 1 TD"
+            ],
+            [
+                "Western Michigan",
+                "Receiving",
+                "Blake Bosma",
+                "5 receptions, 44 yards, 1 TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Kennesaw State | Passing | Amari Odom | 18/35, 349 yards, 1 TD, 2 INT<br>Kennesaw State | Rushing | Chase Belcher | 16 carries, 148 yards<br>Kennesaw State | Receiving | Javon Rogers | 3 receptions, 111 yards, 1 TD<br>Western Michigan | Passing | Broc Lowry | 12/19, 120 yards, 2 TD, 1 INT<br>Western Michigan | Rushing | Jalen Buckley | 8 carries, 174 yards, 1 TD<br>Western Michigan | Receiving | Blake Bosma | 5 receptions, 44 yards, 1 TD"
+    },
+    "124": {
+        "title": "2025 Boca Raton Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Boca_Raton_Bowl",
+        "date": "2025-06-26T18:49:52Z",
+        "csv_id": "Q135268585_124.csv",
+        "QID": "Q135268585",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Toledo",
+                "Passing",
+                "Kalieb Osborne",
+                "17–28, 167 yards, TD"
+            ],
+            [
+                "Toledo",
+                "Rushing",
+                "Kalieb Osborne",
+                "18 carries, 77 yards"
+            ],
+            [
+                "Toledo",
+                "Receiving",
+                "Junior Vandeross III",
+                "7 receptions, 61 yards"
+            ],
+            [
+                "Louisville",
+                "Passing",
+                "Miller Moss",
+                "16–24, 153 yards, 2 TD"
+            ],
+            [
+                "Louisville",
+                "Rushing",
+                "Keyjuan Brown",
+                "15 carries, 112 yards"
+            ],
+            [
+                "Louisville",
+                "Receiving",
+                "Caullin Lacy",
+                "6 receptions, 88 yards"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Toledo | Passing | Kalieb Osborne | 17–28, 167 yards, TD<br>Toledo | Rushing | Kalieb Osborne | 18 carries, 77 yards<br>Toledo | Receiving | Junior Vandeross III | 7 receptions, 61 yards<br>Louisville | Passing | Miller Moss | 16–24, 153 yards, 2 TD<br>Louisville | Rushing | Keyjuan Brown | 15 carries, 112 yards<br>Louisville | Receiving | Caullin Lacy | 6 receptions, 88 yards"
+    },
+    "125": {
+        "title": "2025 SEC Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_SEC_Championship_Game",
+        "date": "2025-11-29T04:10:38Z",
+        "csv_id": "Q137384308_125.csv",
+        "QID": "Q137384308",
+        "table": [
+            [
+                "statistics",
+                "uga",
+                "ala"
+            ],
+            [
+                "First downs",
+                "16",
+                "11"
+            ],
+            [
+                "Plays–yards",
+                "67–297",
+                "55–209"
+            ],
+            [
+                "Rushes–yards",
+                "41–141",
+                "16–(-3)"
+            ],
+            [
+                "Passing yards",
+                "156",
+                "212"
+            ],
+            [
+                "Passing: comp–att–int",
+                "20–26–0",
+                "19–39–1"
+            ],
+            [
+                "Turnovers",
+                "0",
+                "1"
+            ],
+            [
+                "Time of possession",
+                "36:52",
+                "23:08"
+            ]
+        ],
+        "table_text": "statistics | uga | ala<br>First downs | 16 | 11<br>Plays–yards | 67–297 | 55–209<br>Rushes–yards | 41–141 | 16–(-3)<br>Passing yards | 156 | 212<br>Passing: comp–att–int | 20–26–0 | 19–39–1<br>Turnovers | 0 | 1<br>Time of possession | 36:52 | 23:08"
+    },
+    "126": {
+        "title": "2025 SEC Championship Game",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_SEC_Championship_Game",
+        "date": "2025-11-29T04:10:38Z",
+        "csv_id": "Q137384308_126.csv",
+        "QID": "Q137384308",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Georgia",
+                "Passing",
+                "Gunner Stockton",
+                "20/26, 156 yards, 3 TD"
+            ],
+            [
+                "Georgia",
+                "Rushing",
+                "Nate Frazier",
+                "13 carries, 52 yards, 1 TD"
+            ],
+            [
+                "Georgia",
+                "Receiving",
+                "Zachariah Branch",
+                "5 receptions, 53 yards, 1 TD"
+            ],
+            [
+                "Alabama",
+                "Passing",
+                "Ty Simpson",
+                "19/39, 212 yards, 1 TD, 1 INT"
+            ],
+            [
+                "Alabama",
+                "Rushing",
+                "Daniel Hill",
+                "4 carries, 11 yards"
+            ],
+            [
+                "Alabama",
+                "Receiving",
+                "Germie Bernard",
+                "6 receptions, 62 yards, 1 TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Georgia | Passing | Gunner Stockton | 20/26, 156 yards, 3 TD<br>Georgia | Rushing | Nate Frazier | 13 carries, 52 yards, 1 TD<br>Georgia | Receiving | Zachariah Branch | 5 receptions, 53 yards, 1 TD<br>Alabama | Passing | Ty Simpson | 19/39, 212 yards, 1 TD, 1 INT<br>Alabama | Rushing | Daniel Hill | 4 carries, 11 yards<br>Alabama | Receiving | Germie Bernard | 6 receptions, 62 yards, 1 TD"
+    },
+    "127": {
+        "title": "2025 68 Ventures Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_68_Ventures_Bowl",
+        "date": "2025-06-26T13:50:23Z",
+        "csv_id": "Q135268475_127.csv",
+        "QID": "Q135268475",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Louisiana",
+                "Passing",
+                "Lunch Winfield",
+                "21/36, 231 yards, 1 TD, 1 INT"
+            ],
+            [
+                "Louisiana",
+                "Rushing",
+                "Lunch Winfield",
+                "14 carries, 40 yards"
+            ],
+            [
+                "Louisiana",
+                "Receiving",
+                "Caden Jensen",
+                "4 receptions, 72 yards"
+            ],
+            [
+                "Delaware",
+                "Passing",
+                "Nick Minicucci",
+                "19/30, 176 yards, 1 TD, 0 INT"
+            ],
+            [
+                "Delaware",
+                "Rushing",
+                "Jo Silver",
+                "14 carries, 116 yards, 1 TD"
+            ],
+            [
+                "Delaware",
+                "Receiving",
+                "Sean Wilson",
+                "8 receptions, 81 yards, 1 TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Louisiana | Passing | Lunch Winfield | 21/36, 231 yards, 1 TD, 1 INT<br>Louisiana | Rushing | Lunch Winfield | 14 carries, 40 yards<br>Louisiana | Receiving | Caden Jensen | 4 receptions, 72 yards<br>Delaware | Passing | Nick Minicucci | 19/30, 176 yards, 1 TD, 0 INT<br>Delaware | Rushing | Jo Silver | 14 carries, 116 yards, 1 TD<br>Delaware | Receiving | Sean Wilson | 8 receptions, 81 yards, 1 TD"
+    },
+    "128": {
+        "title": "2025 Famous Idaho Potato Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Famous_Idaho_Potato_Bowl",
+        "date": "2025-06-26T18:25:52Z",
+        "csv_id": "Q135268569_128.csv",
+        "QID": "Q135268569",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Washington State",
+                "Passing",
+                "Zevi Eckhaus",
+                "26/44, 334 yards, 3 TD, 3 INT"
+            ],
+            [
+                "Washington State",
+                "Rushing",
+                "Maxwell Woods",
+                "9 carries, 117 yards"
+            ],
+            [
+                "Washington State",
+                "Receiving",
+                "Joshua Meredith",
+                "8 receptions, 84 yards"
+            ],
+            [
+                "Utah State",
+                "Passing",
+                "Bryson Barnes",
+                "9/21, 116 yards, 1 INT"
+            ],
+            [
+                "Utah State",
+                "Rushing",
+                "Javen Jacobs",
+                "3 carries, 24 yards"
+            ],
+            [
+                "Utah State",
+                "Receiving",
+                "Brady Boyd",
+                "4 receptions, 99 yards, 1 TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Washington State | Passing | Zevi Eckhaus | 26/44, 334 yards, 3 TD, 3 INT<br>Washington State | Rushing | Maxwell Woods | 9 carries, 117 yards<br>Washington State | Receiving | Joshua Meredith | 8 receptions, 84 yards<br>Utah State | Passing | Bryson Barnes | 9/21, 116 yards, 1 INT<br>Utah State | Rushing | Javen Jacobs | 3 carries, 24 yards<br>Utah State | Receiving | Brady Boyd | 4 receptions, 99 yards, 1 TD"
+    },
+    "129": {
+        "title": "2025 Xbox Bowl",
+        "category": "sport | competition | sports match",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Xbox_Bowl",
+        "date": "2025-12-04T21:41:56Z",
+        "csv_id": "Q137382179_129.csv",
+        "QID": "Q137382179",
+        "table": [
+            [
+                "team",
+                "category",
+                "player",
+                "statistics"
+            ],
+            [
+                "Missouri State",
+                "Passing",
+                "Jacob Clark",
+                "25/35, 349 yards, 4 TD"
+            ],
+            [
+                "Missouri State",
+                "Rushing",
+                "Shomari Lawrence",
+                "16 carries, 57 yards"
+            ],
+            [
+                "Missouri State",
+                "Receiving",
+                "Dash Luke",
+                "7 receptions, 169 yards, 2 TD"
+            ],
+            [
+                "Arkansas State",
+                "Passing",
+                "Jaylen Raynor",
+                "17/31, 288 yards, 3 TD"
+            ],
+            [
+                "Arkansas State",
+                "Rushing",
+                "Kenyon Clay",
+                "11 carries, 53 yards"
+            ],
+            [
+                "Arkansas State",
+                "Receiving",
+                "Corey Rucker",
+                "6 receptions, 166 yards, 1 TD"
+            ]
+        ],
+        "table_text": "team | category | player | statistics<br>Missouri State | Passing | Jacob Clark | 25/35, 349 yards, 4 TD<br>Missouri State | Rushing | Shomari Lawrence | 16 carries, 57 yards<br>Missouri State | Receiving | Dash Luke | 7 receptions, 169 yards, 2 TD<br>Arkansas State | Passing | Jaylen Raynor | 17/31, 288 yards, 3 TD<br>Arkansas State | Rushing | Kenyon Clay | 11 carries, 53 yards<br>Arkansas State | Receiving | Corey Rucker | 6 receptions, 166 yards, 1 TD"
+    },
+    "130": {
+        "title": "2025 São Paulo ePrix",
+        "category": "sport | competition | sporting event | race",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_S%C3%A3o_Paulo_ePrix",
+        "date": "2025-06-10T21:01:28Z",
+        "csv_id": "Q137178586_130.csv",
+        "QID": "Q137178586",
+        "table": [
+            [
+                "pos.",
+                "no.",
+                "driver",
+                "team",
+                "a",
+                "b",
+                "qf",
+                "sf",
+                "f",
+                "grid"
+            ],
+            [
+                "1",
+                "94",
+                "Pascal Wehrlein",
+                "Porsche",
+                "—N/a",
+                "1:12.363",
+                "1:09.882",
+                "1:09.804",
+                "1:09.812",
+                "4[c]"
+            ],
+            [
+                "2",
+                "27",
+                "Jake Dennis",
+                "Andretti",
+                "1:12.410",
+                "—N/a",
+                "1:10.218",
+                "1:10.039",
+                "1:10.114",
+                "1"
+            ],
+            [
+                "3",
+                "33",
+                "Dan Ticktum",
+                "Cupra Kiro-Porsche",
+                "—N/a",
+                "1.12.535",
+                "1:10.137",
+                "1:09.878",
+                "—N/a",
+                "2"
+            ],
+            [
+                "4",
+                "48",
+                "Edoardo Mortara",
+                "Mahindra",
+                "1:12.352",
+                "—N/a",
+                "1:10.291",
+                "1:10.068",
+                "—N/a",
+                "3"
+            ],
+            [
+                "5",
+                "21",
+                "Nyck de Vries",
+                "Mahindra",
+                "—N/a",
+                "1:12.390",
+                "1:10.250",
+                "—N/a",
+                "—N/a",
+                "5"
+            ],
+            [
+                "6",
+                "13",
+                "António Félix da Costa",
+                "Jaguar",
+                "1:12.140",
+                "—N/a",
+                "1:10.330",
+                "—N/a",
+                "—N/a",
+                "6"
+            ],
+            [
+                "7",
+                "23",
+                "Norman Nato",
+                "Nissan",
+                "—N/a",
+                "1:12.308",
+                "1:10.436",
+                "—N/a",
+                "—N/a",
+                "7"
+            ],
+            [
+                "8",
+                "25",
+                "Jean-Éric Vergne",
+                "Citroën",
+                "1:12.204",
+                "—N/a",
+                "1:10.810",
+                "—N/a",
+                "—N/a",
+                "8"
+            ],
+            [
+                "9",
+                "9",
+                "Mitch Evans",
+                "Jaguar",
+                "—N/a",
+                "1:12.589",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "9"
+            ],
+            [
+                "10",
+                "1",
+                "Oliver Rowland",
+                "Nissan",
+                "1:12.469",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "13[d]"
+            ],
+            [
+                "11",
+                "16",
+                "Sébastien Buemi",
+                "Envision-Jaguar",
+                "—N/a",
+                "1:12.716",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "10"
+            ],
+            [
+                "12",
+                "51",
+                "Nico Müller",
+                "Porsche",
+                "1:12.491",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "11"
+            ],
+            [
+                "13",
+                "77",
+                "Taylor Barnard",
+                "DS Penske",
+                "—N/a",
+                "1:12.725",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "12"
+            ],
+            [
+                "14",
+                "3",
+                "Pepe Martí",
+                "Cupra Kiro-Porsche",
+                "1:12.765",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "14"
+            ],
+            [
+                "15",
+                "37",
+                "Nick Cassidy",
+                "Citroën",
+                "—N/a",
+                "1:12.783",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "15"
+            ],
+            [
+                "16",
+                "7",
+                "Maximilian Günther",
+                "DS Penske",
+                "1:12.788",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "16"
+            ],
+            [
+                "17",
+                "28",
+                "Felipe Drugovich",
+                "Andretti",
+                "—N/a",
+                "1:21.680",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "17"
+            ],
+            [
+                "18",
+                "14",
+                "Joel Eriksson",
+                "Envision-Jaguar",
+                "1:12.823",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "18"
+            ],
+            [
+                "19",
+                "11",
+                "Lucas di Grassi",
+                "Lola Yamaha ABT",
+                "—N/a",
+                "1:24.979",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "20[e]"
+            ],
+            [
+                "20",
+                "22",
+                "Zane Maloney",
+                "Lola Yamaha ABT",
+                "1:17.326",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "—N/a",
+                "19"
+            ],
+            [
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:"
+            ]
+        ],
+        "table_text": "pos. | no. | driver | team | a | b | qf | sf | f | grid<br>1 | 94 | Pascal Wehrlein | Porsche | —N/a | 1:12.363 | 1:09.882 | 1:09.804 | 1:09.812 | 4[c]<br>2 | 27 | Jake Dennis | Andretti | 1:12.410 | —N/a | 1:10.218 | 1:10.039 | 1:10.114 | 1<br>3 | 33 | Dan Ticktum | Cupra Kiro-Porsche | —N/a | 1.12.535 | 1:10.137 | 1:09.878 | —N/a | 2<br>4 | 48 | Edoardo Mortara | Mahindra | 1:12.352 | —N/a | 1:10.291 | 1:10.068 | —N/a | 3<br>5 | 21 | Nyck de Vries | Mahindra | —N/a | 1:12.390 | 1:10.250 | —N/a | —N/a | 5<br>6 | 13 | António Félix da Costa | Jaguar | 1:12.140 | —N/a | 1:10.330 | —N/a | —N/a | 6<br>7 | 23 | Norman Nato | Nissan | —N/a | 1:12.308 | 1:10.436 | —N/a | —N/a | 7<br>8 | 25 | Jean-Éric Vergne | Citroën | 1:12.204 | —N/a | 1:10.810 | —N/a | —N/a | 8<br>9 | 9 | Mitch Evans | Jaguar | —N/a | 1:12.589 | —N/a | —N/a | —N/a | 9<br>10 | 1 | Oliver Rowland | Nissan | 1:12.469 | —N/a | —N/a | —N/a | —N/a | 13[d]<br>11 | 16 | Sébastien Buemi | Envision-Jaguar | —N/a | 1:12.716 | —N/a | —N/a | —N/a | 10<br>12 | 51 | Nico Müller | Porsche | 1:12.491 | —N/a | —N/a | —N/a | —N/a | 11<br>13 | 77 | Taylor Barnard | DS Penske | —N/a | 1:12.725 | —N/a | —N/a | —N/a | 12<br>14 | 3 | Pepe Martí | Cupra Kiro-Porsche | 1:12.765 | —N/a | —N/a | —N/a | —N/a | 14<br>15 | 37 | Nick Cassidy | Citroën | —N/a | 1:12.783 | —N/a | —N/a | —N/a | 15<br>16 | 7 | Maximilian Günther | DS Penske | 1:12.788 | —N/a | —N/a | —N/a | —N/a | 16<br>17 | 28 | Felipe Drugovich | Andretti | —N/a | 1:21.680 | —N/a | —N/a | —N/a | 17<br>18 | 14 | Joel Eriksson | Envision-Jaguar | 1:12.823 | —N/a | —N/a | —N/a | —N/a | 18<br>19 | 11 | Lucas di Grassi | Lola Yamaha ABT | —N/a | 1:24.979 | —N/a | —N/a | —N/a | 20[e]<br>20 | 22 | Zane Maloney | Lola Yamaha ABT | 1:17.326 | —N/a | —N/a | —N/a | —N/a | 19<br>Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source:"
+    },
+    "131": {
+        "title": "2025 São Paulo ePrix",
+        "category": "sport | competition | sporting event | race",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_S%C3%A3o_Paulo_ePrix",
+        "date": "2025-06-10T21:01:28Z",
+        "csv_id": "Q137178586_131.csv",
+        "QID": "Q137178586",
+        "table": [
+            [
+                "pos.",
+                "no.",
+                "driver",
+                "team",
+                "laps",
+                "time/retired",
+                "grid",
+                "points"
+            ],
+            [
+                "1",
+                "27",
+                "Jake Dennis",
+                "Andretti-Porsche",
+                "30",
+                "59:23.013",
+                "1",
+                "25"
+            ],
+            [
+                "2",
+                "1",
+                "Oliver Rowland",
+                "Nissan",
+                "30",
+                "+1:349",
+                "13",
+                "18+12"
+            ],
+            [
+                "3",
+                "37",
+                "Nick Cassidy",
+                "Citroën",
+                "30",
+                "+1.876",
+                "17",
+                "15"
+            ],
+            [
+                "4",
+                "94",
+                "Pascal Wehrlein",
+                "Porsche",
+                "30",
+                "+2.449",
+                "4",
+                "12+31"
+            ],
+            [
+                "5",
+                "51",
+                "Nico Müller",
+                "Porsche",
+                "30",
+                "+3.775",
+                "11",
+                "10"
+            ],
+            [
+                "6",
+                "7",
+                "Maximilian Günther",
+                "DS Penske",
+                "30",
+                "+4.436",
+                "16",
+                "8"
+            ],
+            [
+                "7",
+                "14",
+                "Joel Eriksson",
+                "Envision-Jaguar",
+                "30",
+                "+4.832",
+                "18",
+                "6"
+            ],
+            [
+                "8",
+                "16",
+                "Sébastien Buemi",
+                "Envision-Jaguar",
+                "30",
+                "+5.289",
+                "10",
+                "4"
+            ],
+            [
+                "9",
+                "21",
+                "Nyck de Vries",
+                "Mahindra",
+                "30",
+                "+5.370",
+                "5",
+                "2"
+            ],
+            [
+                "10",
+                "22",
+                "Zane Maloney",
+                "Lola Yamaha ABT",
+                "30",
+                "+6.095",
+                "19",
+                "1"
+            ],
+            [
+                "11",
+                "13",
+                "António Félix da Costa",
+                "Jaguar",
+                "30",
+                "+6.581",
+                "6",
+                "<NA>"
+            ],
+            [
+                "12",
+                "28",
+                "Felipe Drugovich",
+                "Andretti-Porsche",
+                "30",
+                "+8.1873",
+                "17",
+                "<NA>"
+            ],
+            [
+                "13",
+                "77",
+                "Taylor Barnard",
+                "DS Penske",
+                "29",
+                "+1 lap",
+                "12",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "3",
+                "Pepe Martí",
+                "Cupra Kiro-Porsche",
+                "27",
+                "Collision",
+                "14",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "25",
+                "Jean-Éric Vergne",
+                "Citroën",
+                "27",
+                "Collision damage",
+                "8",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "9",
+                "Mitch Evans",
+                "Jaguar",
+                "26",
+                "Spun out",
+                "9",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "48",
+                "Edoardo Mortara",
+                "Mahindra",
+                "22",
+                "Collision damage",
+                "3",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "11",
+                "Lucas di Grassi",
+                "Lola Yamaha ABT",
+                "22",
+                "Collision",
+                "20",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "23",
+                "Norman Nato",
+                "Nissan",
+                "17",
+                "Collision damage",
+                "7",
+                "<NA>"
+            ],
+            [
+                "DNF",
+                "33",
+                "Dan Ticktum",
+                "Cupra Kiro-Porsche",
+                "16",
+                "Collision damage",
+                "2",
+                "<NA>"
+            ],
+            [
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:"
+            ]
+        ],
+        "table_text": "pos. | no. | driver | team | laps | time/retired | grid | points<br>1 | 27 | Jake Dennis | Andretti-Porsche | 30 | 59:23.013 | 1 | 25<br>2 | 1 | Oliver Rowland | Nissan | 30 | +1:349 | 13 | 18+12<br>3 | 37 | Nick Cassidy | Citroën | 30 | +1.876 | 17 | 15<br>4 | 94 | Pascal Wehrlein | Porsche | 30 | +2.449 | 4 | 12+31<br>5 | 51 | Nico Müller | Porsche | 30 | +3.775 | 11 | 10<br>6 | 7 | Maximilian Günther | DS Penske | 30 | +4.436 | 16 | 8<br>7 | 14 | Joel Eriksson | Envision-Jaguar | 30 | +4.832 | 18 | 6<br>8 | 16 | Sébastien Buemi | Envision-Jaguar | 30 | +5.289 | 10 | 4<br>9 | 21 | Nyck de Vries | Mahindra | 30 | +5.370 | 5 | 2<br>10 | 22 | Zane Maloney | Lola Yamaha ABT | 30 | +6.095 | 19 | 1<br>11 | 13 | António Félix da Costa | Jaguar | 30 | +6.581 | 6 | <NA><br>12 | 28 | Felipe Drugovich | Andretti-Porsche | 30 | +8.1873 | 17 | <NA><br>13 | 77 | Taylor Barnard | DS Penske | 29 | +1 lap | 12 | <NA><br>DNF | 3 | Pepe Martí | Cupra Kiro-Porsche | 27 | Collision | 14 | <NA><br>DNF | 25 | Jean-Éric Vergne | Citroën | 27 | Collision damage | 8 | <NA><br>DNF | 9 | Mitch Evans | Jaguar | 26 | Spun out | 9 | <NA><br>DNF | 48 | Edoardo Mortara | Mahindra | 22 | Collision damage | 3 | <NA><br>DNF | 11 | Lucas di Grassi | Lola Yamaha ABT | 22 | Collision | 20 | <NA><br>DNF | 23 | Norman Nato | Nissan | 17 | Collision damage | 7 | <NA><br>DNF | 33 | Dan Ticktum | Cupra Kiro-Porsche | 16 | Collision damage | 2 | <NA><br>Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source:"
+    },
+    "132": {
+        "title": "2025 Abu Dhabi Grand Prix",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Abu_Dhabi_Grand_Prix",
+        "date": "2024-08-29T06:28:34Z",
+        "csv_id": "Q135425887_132.csv",
+        "QID": "Q135425887",
+        "table": [
+            [
+                "norris_would_win_if:_lando_norris",
+                "norris_would_win_if:_max_verstappen",
+                "norris_would_win_if:_oscar_piastri"
+            ],
+            [
+                "3rd or better",
+                "Any place",
+                "Any place"
+            ],
+            [
+                "4th or 5th",
+                "2nd or lower",
+                "Any place"
+            ],
+            [
+                "6th or 7th",
+                "2nd or lower",
+                "2nd or lower"
+            ],
+            [
+                "8th",
+                "3rd or lower",
+                "2nd or lower"
+            ],
+            [
+                "9th or lower",
+                "4th or lower",
+                "3rd or lower"
+            ],
+            [
+                "Verstappen would win if:",
+                "Verstappen would win if:",
+                "Verstappen would win if:"
+            ],
+            [
+                "Max Verstappen",
+                "Lando Norris",
+                "Oscar Piastri"
+            ],
+            [
+                "1st",
+                "4th or lower",
+                "Any place"
+            ],
+            [
+                "2nd",
+                "8th or lower",
+                "Any place"
+            ],
+            [
+                "3rd",
+                "9th or lower",
+                "2nd or lower"
+            ],
+            [
+                "Piastri would win if:",
+                "Piastri would win if:",
+                "Piastri would win if:"
+            ],
+            [
+                "Oscar Piastri",
+                "Lando Norris",
+                "Max Verstappen"
+            ],
+            [
+                "1st",
+                "6th or lower",
+                "Any place"
+            ],
+            [
+                "2nd",
+                "10th or lower",
+                "4th or lower"
+            ]
+        ],
+        "table_text": "norris_would_win_if:_lando_norris | norris_would_win_if:_max_verstappen | norris_would_win_if:_oscar_piastri<br>3rd or better | Any place | Any place<br>4th or 5th | 2nd or lower | Any place<br>6th or 7th | 2nd or lower | 2nd or lower<br>8th | 3rd or lower | 2nd or lower<br>9th or lower | 4th or lower | 3rd or lower<br>Verstappen would win if: | Verstappen would win if: | Verstappen would win if:<br>Max Verstappen | Lando Norris | Oscar Piastri<br>1st | 4th or lower | Any place<br>2nd | 8th or lower | Any place<br>3rd | 9th or lower | 2nd or lower<br>Piastri would win if: | Piastri would win if: | Piastri would win if:<br>Oscar Piastri | Lando Norris | Max Verstappen<br>1st | 6th or lower | Any place<br>2nd | 10th or lower | 4th or lower"
+    },
+    "133": {
+        "title": "2025 Abu Dhabi Grand Prix",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Abu_Dhabi_Grand_Prix",
+        "date": "2024-08-29T06:28:34Z",
+        "csv_id": "Q135425887_133.csv",
+        "QID": "Q135425887",
+        "table": [
+            [
+                "pos._pos.",
+                "no._no.",
+                "driver_driver",
+                "constructor_constructor",
+                "qualifying_times_q1",
+                "qualifying_times_q2",
+                "qualifying_times_q3",
+                "final_grid_final_grid"
+            ],
+            [
+                "1",
+                "1",
+                "Max Verstappen",
+                "Red Bull Racing-Honda RBPT",
+                "1:22.877",
+                "1:22.752",
+                "1:22.207",
+                "1"
+            ],
+            [
+                "2",
+                "4",
+                "Lando Norris",
+                "McLaren-Mercedes",
+                "1:23.178",
+                "1:22.804",
+                "1:22.408",
+                "2"
+            ],
+            [
+                "3",
+                "81",
+                "Oscar Piastri",
+                "McLaren-Mercedes",
+                "1:22.605",
+                "1:23.021",
+                "1:22.437",
+                "3"
+            ],
+            [
+                "4",
+                "63",
+                "George Russell",
+                "Mercedes",
+                "1:23.247",
+                "1:22.730",
+                "1:22.645",
+                "4"
+            ],
+            [
+                "5",
+                "16",
+                "Charles Leclerc",
+                "Ferrari",
+                "1:23.163",
+                "1:22.948",
+                "1:22.730",
+                "5"
+            ],
+            [
+                "6",
+                "14",
+                "Fernando Alonso",
+                "Aston Martin Aramco-Mercedes",
+                "1:23.071",
+                "1:22.861",
+                "1:22.902",
+                "6"
+            ],
+            [
+                "7",
+                "5",
+                "Gabriel Bortoleto",
+                "Kick Sauber-Ferrari",
+                "1:23.374",
+                "1:22.874",
+                "1:22.904",
+                "7"
+            ],
+            [
+                "8",
+                "31",
+                "Esteban Ocon",
+                "Haas-Ferrari",
+                "1:23.334",
+                "1:23.023",
+                "1:22.913",
+                "8"
+            ],
+            [
+                "9",
+                "6",
+                "Isack Hadjar",
+                "Racing Bulls-Honda RBPT",
+                "1:23.373",
+                "1:22.997",
+                "1:23.072",
+                "9"
+            ],
+            [
+                "10",
+                "22",
+                "Yuki Tsunoda",
+                "Red Bull Racing-Honda RBPT",
+                "1:23.386",
+                "1:23.034",
+                "No time",
+                "10"
+            ],
+            [
+                "11",
+                "87",
+                "Oliver Bearman",
+                "Haas-Ferrari",
+                "1:23.254",
+                "1:23.041",
+                "<NA>",
+                "11"
+            ],
+            [
+                "12",
+                "55",
+                "Carlos Sainz Jr.",
+                "Williams-Mercedes",
+                "1:23.187",
+                "1:23.042",
+                "<NA>",
+                "12"
+            ],
+            [
+                "13",
+                "30",
+                "Liam Lawson",
+                "Racing Bulls-Honda RBPT",
+                "1:23.265",
+                "1:23.077",
+                "<NA>",
+                "13"
+            ],
+            [
+                "14",
+                "12",
+                "Kimi Antonelli",
+                "Mercedes",
+                "1:22.894",
+                "1:23.080",
+                "<NA>",
+                "14"
+            ],
+            [
+                "15",
+                "18",
+                "Lance Stroll",
+                "Aston Martin Aramco-Mercedes",
+                "1:23.316",
+                "1:23.097",
+                "<NA>",
+                "15"
+            ],
+            [
+                "16",
+                "44",
+                "Lewis Hamilton",
+                "Ferrari",
+                "1:23.394",
+                "<NA>",
+                "<NA>",
+                "16"
+            ],
+            [
+                "17",
+                "23",
+                "Alexander Albon",
+                "Williams-Mercedes",
+                "1:23.416",
+                "<NA>",
+                "<NA>",
+                "17"
+            ],
+            [
+                "18",
+                "27",
+                "Nico Hülkenberg",
+                "Kick Sauber-Ferrari",
+                "1:23.450",
+                "<NA>",
+                "<NA>",
+                "18"
+            ],
+            [
+                "19",
+                "10",
+                "Pierre Gasly",
+                "Alpine-Renault",
+                "1:23.468",
+                "<NA>",
+                "<NA>",
+                "19"
+            ],
+            [
+                "20",
+                "43",
+                "Franco Colapinto",
+                "Alpine-Renault",
+                "1:23.890",
+                "<NA>",
+                "<NA>",
+                "20"
+            ],
+            [
+                "107% time: 1:28.387",
+                "107% time: 1:28.387",
+                "107% time: 1:28.387",
+                "107% time: 1:28.387",
+                "107% time: 1:28.387",
+                "107% time: 1:28.387",
+                "107% time: 1:28.387",
+                "107% time: 1:28.387"
+            ],
+            [
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:"
+            ]
+        ],
+        "table_text": "pos._pos. | no._no. | driver_driver | constructor_constructor | qualifying_times_q1 | qualifying_times_q2 | qualifying_times_q3 | final_grid_final_grid<br>1 | 1 | Max Verstappen | Red Bull Racing-Honda RBPT | 1:22.877 | 1:22.752 | 1:22.207 | 1<br>2 | 4 | Lando Norris | McLaren-Mercedes | 1:23.178 | 1:22.804 | 1:22.408 | 2<br>3 | 81 | Oscar Piastri | McLaren-Mercedes | 1:22.605 | 1:23.021 | 1:22.437 | 3<br>4 | 63 | George Russell | Mercedes | 1:23.247 | 1:22.730 | 1:22.645 | 4<br>5 | 16 | Charles Leclerc | Ferrari | 1:23.163 | 1:22.948 | 1:22.730 | 5<br>6 | 14 | Fernando Alonso | Aston Martin Aramco-Mercedes | 1:23.071 | 1:22.861 | 1:22.902 | 6<br>7 | 5 | Gabriel Bortoleto | Kick Sauber-Ferrari | 1:23.374 | 1:22.874 | 1:22.904 | 7<br>8 | 31 | Esteban Ocon | Haas-Ferrari | 1:23.334 | 1:23.023 | 1:22.913 | 8<br>9 | 6 | Isack Hadjar | Racing Bulls-Honda RBPT | 1:23.373 | 1:22.997 | 1:23.072 | 9<br>10 | 22 | Yuki Tsunoda | Red Bull Racing-Honda RBPT | 1:23.386 | 1:23.034 | No time | 10<br>11 | 87 | Oliver Bearman | Haas-Ferrari | 1:23.254 | 1:23.041 | <NA> | 11<br>12 | 55 | Carlos Sainz Jr. | Williams-Mercedes | 1:23.187 | 1:23.042 | <NA> | 12<br>13 | 30 | Liam Lawson | Racing Bulls-Honda RBPT | 1:23.265 | 1:23.077 | <NA> | 13<br>14 | 12 | Kimi Antonelli | Mercedes | 1:22.894 | 1:23.080 | <NA> | 14<br>15 | 18 | Lance Stroll | Aston Martin Aramco-Mercedes | 1:23.316 | 1:23.097 | <NA> | 15<br>16 | 44 | Lewis Hamilton | Ferrari | 1:23.394 | <NA> | <NA> | 16<br>17 | 23 | Alexander Albon | Williams-Mercedes | 1:23.416 | <NA> | <NA> | 17<br>18 | 27 | Nico Hülkenberg | Kick Sauber-Ferrari | 1:23.450 | <NA> | <NA> | 18<br>19 | 10 | Pierre Gasly | Alpine-Renault | 1:23.468 | <NA> | <NA> | 19<br>20 | 43 | Franco Colapinto | Alpine-Renault | 1:23.890 | <NA> | <NA> | 20<br>107% time: 1:28.387 | 107% time: 1:28.387 | 107% time: 1:28.387 | 107% time: 1:28.387 | 107% time: 1:28.387 | 107% time: 1:28.387 | 107% time: 1:28.387 | 107% time: 1:28.387<br>Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source:"
+    },
+    "134": {
+        "title": "2025 Abu Dhabi Grand Prix",
+        "category": "sport | competition | competition stage",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/2025_Abu_Dhabi_Grand_Prix",
+        "date": "2024-08-29T06:28:34Z",
+        "csv_id": "Q135425887_134.csv",
+        "QID": "Q135425887",
+        "table": [
+            [
+                "pos.",
+                "no.",
+                "driver",
+                "constructor",
+                "laps",
+                "time/retired",
+                "grid",
+                "points"
+            ],
+            [
+                "1",
+                "1",
+                "Max Verstappen",
+                "Red Bull Racing-Honda RBPT",
+                "58",
+                "1:26:07.469",
+                "1",
+                "25"
+            ],
+            [
+                "2",
+                "81",
+                "Oscar Piastri",
+                "McLaren-Mercedes",
+                "58",
+                "+12.594",
+                "3",
+                "18"
+            ],
+            [
+                "3",
+                "4",
+                "Lando Norris",
+                "McLaren-Mercedes",
+                "58",
+                "+16.572",
+                "2",
+                "15"
+            ],
+            [
+                "4",
+                "16",
+                "Charles Leclerc",
+                "Ferrari",
+                "58",
+                "+23.279",
+                "5",
+                "12"
+            ],
+            [
+                "5",
+                "63",
+                "George Russell",
+                "Mercedes",
+                "58",
+                "+48.563",
+                "4",
+                "10"
+            ],
+            [
+                "6",
+                "14",
+                "Fernando Alonso",
+                "Aston Martin Aramco-Mercedes",
+                "58",
+                "+1:07.562",
+                "6",
+                "8"
+            ],
+            [
+                "7",
+                "31",
+                "Esteban Ocon",
+                "Haas-Ferrari",
+                "58",
+                "+1:09.876",
+                "8",
+                "6"
+            ],
+            [
+                "8",
+                "44",
+                "Lewis Hamilton",
+                "Ferrari",
+                "58",
+                "+1:12.670",
+                "16",
+                "4"
+            ],
+            [
+                "9",
+                "27",
+                "Nico Hülkenberg",
+                "Kick Sauber-Ferrari",
+                "58",
+                "+1:19.014",
+                "18",
+                "2"
+            ],
+            [
+                "10",
+                "18",
+                "Lance Stroll",
+                "Aston Martin Aramco-Mercedes",
+                "58",
+                "+1:19.5231",
+                "15",
+                "1"
+            ],
+            [
+                "11",
+                "5",
+                "Gabriel Bortoleto",
+                "Kick Sauber-Ferrari",
+                "58",
+                "+1:21.043",
+                "7",
+                "<NA>"
+            ],
+            [
+                "12",
+                "87",
+                "Oliver Bearman",
+                "Haas-Ferrari",
+                "58",
+                "+1:21.1662",
+                "11",
+                "<NA>"
+            ],
+            [
+                "13",
+                "55",
+                "Carlos Sainz Jr.",
+                "Williams-Mercedes",
+                "58",
+                "+1:22.158",
+                "12",
+                "<NA>"
+            ],
+            [
+                "14",
+                "22",
+                "Yuki Tsunoda",
+                "Red Bull Racing-Honda RBPT",
+                "58",
+                "+1:23.794",
+                "10",
+                "<NA>"
+            ],
+            [
+                "15",
+                "12",
+                "Kimi Antonelli",
+                "Mercedes",
+                "58",
+                "+1:24.399",
+                "14",
+                "<NA>"
+            ],
+            [
+                "16",
+                "23",
+                "Alexander Albon",
+                "Williams-Mercedes",
+                "58",
+                "+1:30.3273",
+                "17",
+                "<NA>"
+            ],
+            [
+                "17",
+                "6",
+                "Isack Hadjar",
+                "Racing Bulls-Honda RBPT",
+                "57",
+                "+1 lap",
+                "9",
+                "<NA>"
+            ],
+            [
+                "18",
+                "30",
+                "Liam Lawson",
+                "Racing Bulls-Honda RBPT",
+                "57",
+                "+1 lap",
+                "13",
+                "<NA>"
+            ],
+            [
+                "19",
+                "10",
+                "Pierre Gasly",
+                "Alpine-Renault",
+                "57",
+                "+1 lap4",
+                "19",
+                "<NA>"
+            ],
+            [
+                "20",
+                "43",
+                "Franco Colapinto",
+                "Alpine-Renault",
+                "57",
+                "+1 lap",
+                "20",
+                "<NA>"
+            ],
+            [
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:",
+                "Source:"
+            ]
+        ],
+        "table_text": "pos. | no. | driver | constructor | laps | time/retired | grid | points<br>1 | 1 | Max Verstappen | Red Bull Racing-Honda RBPT | 58 | 1:26:07.469 | 1 | 25<br>2 | 81 | Oscar Piastri | McLaren-Mercedes | 58 | +12.594 | 3 | 18<br>3 | 4 | Lando Norris | McLaren-Mercedes | 58 | +16.572 | 2 | 15<br>4 | 16 | Charles Leclerc | Ferrari | 58 | +23.279 | 5 | 12<br>5 | 63 | George Russell | Mercedes | 58 | +48.563 | 4 | 10<br>6 | 14 | Fernando Alonso | Aston Martin Aramco-Mercedes | 58 | +1:07.562 | 6 | 8<br>7 | 31 | Esteban Ocon | Haas-Ferrari | 58 | +1:09.876 | 8 | 6<br>8 | 44 | Lewis Hamilton | Ferrari | 58 | +1:12.670 | 16 | 4<br>9 | 27 | Nico Hülkenberg | Kick Sauber-Ferrari | 58 | +1:19.014 | 18 | 2<br>10 | 18 | Lance Stroll | Aston Martin Aramco-Mercedes | 58 | +1:19.5231 | 15 | 1<br>11 | 5 | Gabriel Bortoleto | Kick Sauber-Ferrari | 58 | +1:21.043 | 7 | <NA><br>12 | 87 | Oliver Bearman | Haas-Ferrari | 58 | +1:21.1662 | 11 | <NA><br>13 | 55 | Carlos Sainz Jr. | Williams-Mercedes | 58 | +1:22.158 | 12 | <NA><br>14 | 22 | Yuki Tsunoda | Red Bull Racing-Honda RBPT | 58 | +1:23.794 | 10 | <NA><br>15 | 12 | Kimi Antonelli | Mercedes | 58 | +1:24.399 | 14 | <NA><br>16 | 23 | Alexander Albon | Williams-Mercedes | 58 | +1:30.3273 | 17 | <NA><br>17 | 6 | Isack Hadjar | Racing Bulls-Honda RBPT | 57 | +1 lap | 9 | <NA><br>18 | 30 | Liam Lawson | Racing Bulls-Honda RBPT | 57 | +1 lap | 13 | <NA><br>19 | 10 | Pierre Gasly | Alpine-Renault | 57 | +1 lap4 | 19 | <NA><br>20 | 43 | Franco Colapinto | Alpine-Renault | 57 | +1 lap | 20 | <NA><br>Source: | Source: | Source: | Source: | Source: | Source: | Source: | Source:"
+    },
+    "135": {
+        "title": "Internacional de Bogotá",
+        "category": "sport | organization",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Internacional_de_Bogot%C3%A1",
+        "date": "2025-12-10T20:50:31Z",
+        "csv_id": "Q137324985_135.csv",
+        "QID": "Q137324985",
+        "table": [
+            [
+                "no.",
+                "pos.",
+                "nation",
+                "player"
+            ],
+            [
+                "1",
+                "GK",
+                "COL",
+                "Eduar Esteban"
+            ],
+            [
+                "2",
+                "DF",
+                "VEN",
+                "Carlos Vivas (on loan from Deportivo Táchira)"
+            ],
+            [
+                "4",
+                "DF",
+                "COL",
+                "Mateo Rodas"
+            ],
+            [
+                "5",
+                "DF",
+                "ESP",
+                "José Masllorens"
+            ],
+            [
+                "6",
+                "MF",
+                "COL",
+                "Deyson Copete"
+            ],
+            [
+                "7",
+                "FW",
+                "COL",
+                "Joider Micolta (on loan from América de Cali)"
+            ],
+            [
+                "8",
+                "MF",
+                "ARG",
+                "Manuel Mónaco (on loan from Sarmiento de Junín)"
+            ],
+            [
+                "9",
+                "FW",
+                "COL",
+                "Juan David Valencia (on loan from Itagüí Leones)"
+            ],
+            [
+                "10",
+                "MF",
+                "COL",
+                "Samir Mayo"
+            ],
+            [
+                "11",
+                "MF",
+                "URU",
+                "Franco González (on loan from Peñarol)"
+            ],
+            [
+                "13",
+                "FW",
+                "COL",
+                "Joao Abonía"
+            ],
+            [
+                "14",
+                "MF",
+                "COL",
+                "Jean Colorado (on loan from Inter Palmira)"
+            ],
+            [
+                "15",
+                "MF",
+                "COL",
+                "Dannovi Quiñones"
+            ],
+            [
+                "16",
+                "DF",
+                "COL",
+                "Brayan Montaño"
+            ]
+        ],
+        "table_text": "no. | pos. | nation | player<br>1 | GK | COL | Eduar Esteban<br>2 | DF | VEN | Carlos Vivas (on loan from Deportivo Táchira)<br>4 | DF | COL | Mateo Rodas<br>5 | DF | ESP | José Masllorens<br>6 | MF | COL | Deyson Copete<br>7 | FW | COL | Joider Micolta (on loan from América de Cali)<br>8 | MF | ARG | Manuel Mónaco (on loan from Sarmiento de Junín)<br>9 | FW | COL | Juan David Valencia (on loan from Itagüí Leones)<br>10 | MF | COL | Samir Mayo<br>11 | MF | URU | Franco González (on loan from Peñarol)<br>13 | FW | COL | Joao Abonía<br>14 | MF | COL | Jean Colorado (on loan from Inter Palmira)<br>15 | MF | COL | Dannovi Quiñones<br>16 | DF | COL | Brayan Montaño"
+    },
+    "136": {
+        "title": "Internacional de Bogotá",
+        "category": "sport | organization",
+        "type": "",
+        "url": "https://en.wikipedia.org/wiki/Internacional_de_Bogot%C3%A1",
+        "date": "2025-12-10T20:50:31Z",
+        "csv_id": "Q137324985_136.csv",
+        "QID": "Q137324985",
+        "table": [
+            [
+                "no.",
+                "pos.",
+                "nation",
+                "player"
+            ],
+            [
+                "17",
+                "MF",
+                "COL",
+                "Fabián Chaverra"
+            ],
+            [
+                "18",
+                "FW",
+                "VEN",
+                "Jovanny Bolívar (on loan from Albacete)"
+            ],
+            [
+                "20",
+                "DF",
+                "COL",
+                "Miguel Amaya"
+            ],
+            [
+                "21",
+                "MF",
+                "COL",
+                "Camilo Paternina"
+            ],
+            [
+                "22",
+                "FW",
+                "COL",
+                "Dairo Peña (on loan from Gimnasia y Esgrima de Chivilcoy)"
+            ],
+            [
+                "23",
+                "MF",
+                "COL",
+                "Juan Castilla (on loan from Deportivo Pasto)"
+            ],
+            [
+                "24",
+                "DF",
+                "COL",
+                "Eduard Banguero"
+            ],
+            [
+                "25",
+                "MF",
+                "COL",
+                "Santiago López"
+            ],
+            [
+                "26",
+                "DF",
+                "COL",
+                "Yulián Gómez"
+            ],
+            [
+                "28",
+                "MF",
+                "COL",
+                "Luis Mosquera (on loan from Necaxa)"
+            ],
+            [
+                "30",
+                "FW",
+                "COL",
+                "Kevin Parra (on loan from Atlético Nacional)"
+            ],
+            [
+                "32",
+                "GK",
+                "COL",
+                "Yimmy Gómez"
+            ],
+            [
+                "39",
+                "MF",
+                "COL",
+                "Brandon Quiñónez"
+            ]
+        ],
+        "table_text": "no. | pos. | nation | player<br>17 | MF | COL | Fabián Chaverra<br>18 | FW | VEN | Jovanny Bolívar (on loan from Albacete)<br>20 | DF | COL | Miguel Amaya<br>21 | MF | COL | Camilo Paternina<br>22 | FW | COL | Dairo Peña (on loan from Gimnasia y Esgrima de Chivilcoy)<br>23 | MF | COL | Juan Castilla (on loan from Deportivo Pasto)<br>24 | DF | COL | Eduard Banguero<br>25 | MF | COL | Santiago López<br>26 | DF | COL | Yulián Gómez<br>28 | MF | COL | Luis Mosquera (on loan from Necaxa)<br>30 | FW | COL | Kevin Parra (on loan from Atlético Nacional)<br>32 | GK | COL | Yimmy Gómez<br>39 | MF | COL | Brandon Quiñónez"
+    }
+}
